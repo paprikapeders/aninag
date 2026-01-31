@@ -30,7 +30,7 @@ RUN chown -R www-data:www-data /var/www \
     && chmod -R 775 storage bootstrap/cache
 
 # Nginx config
-COPY docker/nginx/default.conf /etc/nginx/conf.d/default.conf
+# COPY docker/nginx/default.conf /etc/nginx/conf.d/default.conf
 
 # Expose Render port
 EXPOSE 10000

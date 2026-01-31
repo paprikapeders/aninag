@@ -1,0 +1,13 @@
+# Aninag - Art Sales Agent Platform
+# Robots.txt for SEO optimization
+
+User-agent: *
+Allow: /
+Allow: /catalog
+Allow: /artwork/
+
+# Disallow admin areas (when added)
+# Disallow: /admin
+
+# Sitemap location
+Sitemap: https://yourdomain.com/sitemap.xml

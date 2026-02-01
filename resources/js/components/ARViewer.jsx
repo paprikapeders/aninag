@@ -1,9 +1,11 @@
 import { useState, useRef, useEffect } from 'react';
-import { X, RotateCw, ZoomIn, ZoomOut, Move, Camera } from 'lucide-react';
+import { X, RotateCw, ZoomIn, ZoomOut, Move, Camera, Upload, Image as ImageIcon } from 'lucide-react';
 import { FallbackImage } from './ui/FallbackImage';
 
 export function ARViewer({ artwork, isOpen, onClose }) {
   const [stream, setStream] = useState(null);
+  const [mode, setMode] = useState('camera'); // 'camera' or 'upload'
+  const [uploadedImage, setUploadedImage] = useState(null);
   const [artworkPosition, setArtworkPosition] = useState({ x: 50, y: 50 });
   const [artworkScale, setArtworkScale] = useState(0.4);
   const [artworkRotation, setArtworkRotation] = useState(0);
@@ -13,16 +15,23 @@ export function ARViewer({ artwork, isOpen, onClose }) {
   const [isLoading, setIsLoading] = useState(true);
   const videoRef = useRef(null);
   const containerRef = useRef(null);
+  const fileInputRef = useRef(null);
 
   useEffect(() => {
     if (isOpen) {
-      startCamera();
+      if (mode === 'camera') {
+        startCamera();
+      } else {
+        setIsLoading(false);
+      }
     } else {
       stopCamera();
+      setUploadedImage(null);
+      setMode('camera');
     }
 
     return () => stopCamera();
-  }, [isOpen]);
+  }, [isOpen, mode]);
 
   const startCamera = async () => {
     setIsLoading(true);
@@ -65,6 +74,26 @@ export function ARViewer({ artwork, isOpen, onClose }) {
       stream.getTracks().forEach(track => track.stop());
       setStream(null);
     }
+  };
+
+  const handleImageUpload = (e) => {
+    const file = e.target.files?.[0];
+    if (file && file.type.startsWith('image/')) {
+      const reader = new FileReader();
+      reader.onload = (event) => {
+        setUploadedImage(event.target.result);
+        setIsLoading(false);
+      };
+      reader.readAsDataURL(file);
+    }
+  };
+
+  const switchMode = (newMode) => {
+    stopCamera();
+    setUploadedImage(null);
+    setIsLoading(true);
+    setMode(newMode);
+    resetPosition();
   };
 
   const handleMouseDown = (e) => {
@@ -154,17 +183,110 @@ export function ARViewer({ artwork, isOpen, onClose }) {
         onTouchMove={handleTouchMove}
         onTouchEnd={handleMouseUp}
       >
+        {/* Top Control Bar */}
+        <div className="absolute top-0 left-0 right-0 z-20 p-4 bg-gradient-to-b from-black/50 to-transparent">
+          <div className="flex items-center justify-between">
+            <div className="flex gap-2">
+              {/* Mode Toggle Buttons */}
+              <button
+                onClick={() => switchMode('camera')}
+                className={`flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium transition-all ${
+                  mode === 'camera'
+                    ? 'bg-white text-gray-900 shadow-lg'
+                    : 'bg-black/30 text-white hover:bg-black/50 backdrop-blur-sm'
+                }`}
+                title="Live Camera"
+              >
+                <Camera className="h-4 w-4" />
+                <span className="hidden sm:inline">Camera</span>
+              </button>
+              <button
+                onClick={() => switchMode('upload')}
+                className={`flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium transition-all ${
+                  mode === 'upload'
+                    ? 'bg-white text-gray-900 shadow-lg'
+                    : 'bg-black/30 text-white hover:bg-black/50 backdrop-blur-sm'
+                }`}
+                title="Upload Photo"
+              >
+                <ImageIcon className="h-4 w-4" />
+                <span className="hidden sm:inline">Upload</span>
+              </button>
+              {/* Change Photo Button - Only show when in upload mode with an image */}
+              {mode === 'upload' && uploadedImage && (
+                <button
+                  onClick={() => fileInputRef.current?.click()}
+                  className="flex items-center gap-2 px-4 py-2 rounded-full text-sm font-medium bg-black/30 text-white hover:bg-black/50 backdrop-blur-sm transition-all"
+                  title="Change Photo"
+                >
+                  <Upload className="h-4 w-4" />
+                  <span className="hidden sm:inline">Change</span>
+                </button>
+              )}
+            </div>
+          </div>
+        </div>
+
         {/* Video Background */}
-        <video
-          ref={videoRef}
-          autoPlay
-          playsInline
-          muted
-          className="absolute inset-0 w-full h-full object-cover"
-        />
+        {mode === 'camera' && (
+          <video
+            ref={videoRef}
+            autoPlay
+            playsInline
+            muted
+            className="absolute inset-0 w-full h-full object-cover"
+          />
+        )}
+
+        {/* Uploaded Image Background */}
+        {mode === 'upload' && uploadedImage && (
+          <img
+            src={uploadedImage}
+            alt="Your room"
+            className="absolute inset-0 w-full h-full object-contain bg-black"
+          />
+        )}
+
+        {/* Upload Prompt */}
+        {mode === 'upload' && !uploadedImage && !isLoading && (
+          <div className="absolute inset-0 flex items-center justify-center bg-black/90 backdrop-blur-sm">
+            <div className="text-center text-white space-y-6 max-w-md px-6">
+              <div className="w-20 h-20 mx-auto bg-[#0A7A7A]/20 rounded-full flex items-center justify-center">
+                <ImageIcon className="w-10 h-10 text-[#0A7A7A]" />
+              </div>
+              <div className="space-y-2">
+                <p className="text-xl font-medium">Upload Your Room Photo</p>
+                <p className="text-sm text-white/70">
+                  Choose a photo of your wall where you'd like to see the artwork
+                </p>
+              </div>
+              <input
+                ref={fileInputRef}
+                type="file"
+                accept="image/*"
+                onChange={handleImageUpload}
+                className="hidden"
+              />
+              <button
+                onClick={() => fileInputRef.current?.click()}
+                className="px-8 py-4 bg-[#0A7A7A] hover:bg-[#086060] rounded-lg transition-all font-medium flex items-center gap-3 mx-auto"
+              >
+                <Upload size={20} />
+                Choose Photo
+              </button>
+              <button
+                onClick={() => switchMode('camera')}
+                className="text-sm text-white/60 hover:text-white transition-colors flex items-center gap-2 mx-auto"
+              >
+                <Camera size={16} />
+                Use Camera Instead
+              </button>
+            </div>
+          </div>
+        )}
 
         {/* Loading State */}
-        {isLoading && !cameraError && (
+        {isLoading && !cameraError && mode === 'camera' && (
           <div className="absolute inset-0 flex items-center justify-center bg-black/80 backdrop-blur-sm">
             <div className="text-center text-white space-y-4">
               <Camera className="w-16 h-16 mx-auto animate-pulse" />
@@ -192,8 +314,8 @@ export function ARViewer({ artwork, isOpen, onClose }) {
           </div>
         )}
 
-        {/* Artwork Overlay - Only show when camera is ready */}
-        {!isLoading && !cameraError && (
+        {/* Artwork Overlay - Only show when camera is ready OR image is uploaded */}
+        {((!isLoading && !cameraError && mode === 'camera') || (mode === 'upload' && uploadedImage)) && (
           <div
             className="absolute cursor-move touch-none transition-transform active:scale-105"
             style={{
@@ -236,7 +358,7 @@ export function ARViewer({ artwork, isOpen, onClose }) {
         )}
 
         {/* Instructions Overlay - Only show when ready */}
-        {!isLoading && !cameraError && (
+        {((!isLoading && !cameraError && mode === 'camera') || (mode === 'upload' && uploadedImage)) && (
           <div className="absolute top-24 left-0 right-0 text-center px-4 pointer-events-none animate-fade-in">
             <div className="inline-block bg-black/70 text-white px-6 py-3 rounded-full text-sm backdrop-blur-md shadow-lg">
               <p className="font-medium">Drag to move • Use controls to adjust</p>

@@ -68,18 +68,6 @@ export function FAQ() {
             </div>
           ))}
         </div>
-
-        {/* Still have questions CTA */}
-        <div className="text-center mt-8 sm:mt-12">
-          <p className="text-sm sm:text-base text-muted-foreground mb-3 sm:mb-4">Still have questions?</p>
-          <button
-            data-contact-button
-            className="inline-flex items-center gap-2 px-5 sm:px-6 py-2.5 sm:py-3 border-2 border-[#0A7A7A] text-[#0A7A7A] rounded-lg hover:bg-[#0A7A7A] hover:text-white transition-all font-medium text-sm sm:text-base"
-          >
-            Contact Us
-            <MessageCircle size={16} className="sm:w-[18px] sm:h-[18px]" />
-          </button>
-        </div>
       </div>
     </section>
   );

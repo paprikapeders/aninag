@@ -5,7 +5,7 @@ export function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="border-t border-border bg-surface mt-12 sm:mt-16 lg:mt-20">
+    <footer className="border-t border-border bg-surface mt-12 sm:mt-16 lg:mt-20 pb-20 lg:pb-0">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Main Footer Content */}
         <div className="py-8 sm:py-12 lg:py-16 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 sm:gap-10 lg:gap-12">
@@ -69,14 +69,14 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="#contact" className="text-sm text-muted-foreground hover:text-[#0A7A7A] transition-colors">
+                <Link href="/#how-it-works" className="text-sm text-muted-foreground hover:text-[#0A7A7A] transition-colors">
                   How It Works
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#contact" className="text-sm text-muted-foreground hover:text-[#0A7A7A] transition-colors">
+                <Link href="/#galleries" className="text-sm text-muted-foreground hover:text-[#0A7A7A] transition-colors">
                   For Galleries
-                </a>
+                </Link>
               </li>
             </ul>
           </div>

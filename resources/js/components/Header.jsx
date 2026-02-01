@@ -30,25 +30,6 @@ export function Header({ currentPath = '/' }) {
     });
   };
 
-  const smoothScroll = (e, targetId) => {
-    e.preventDefault();
-    const element = document.getElementById(targetId);
-    if (element) {
-      const offset = 80; // Account for sticky header
-      const elementPosition = element.getBoundingClientRect().top;
-      const offsetPosition = elementPosition + window.pageYOffset - offset;
-
-      window.scrollTo({
-        top: offsetPosition,
-        behavior: 'smooth'
-      });
-      setMobileMenuOpen(false); // Close mobile menu after click
-    }
-  };
-
-  // Check if we're on the home page
-  const isHomePage = currentPath === '/';
-
   return (
     <>
       <header className="border-b border-border bg-white/95 backdrop-blur-md supports-[backdrop-filter]:bg-white/90 sticky top-0 z-50 shadow-sm">
@@ -62,77 +43,36 @@ export function Header({ currentPath = '/' }) {
 
             {/* Desktop Navigation */}
             <nav className="hidden md:flex items-center space-x-8">
-              {isHomePage ? (
-                <>
-                  <a
-                    href="#home"
-                    onClick={(e) => smoothScroll(e, 'home')}
-                    className="text-sm font-medium transition-all hover:text-[#0A7A7A] text-foreground/70 cursor-pointer"
-                  >
-                    Home
-                  </a>
-                  <a
-                    href="#ar-preview"
-                    onClick={(e) => smoothScroll(e, 'ar-preview')}
-                    className="text-sm font-medium transition-all hover:text-[#0A7A7A] text-foreground/70 cursor-pointer"
-                  >
-                    AR Preview
-                  </a>
-                  <a
-                    href="#how-it-works"
-                    onClick={(e) => smoothScroll(e, 'how-it-works')}
-                    className="text-sm font-medium transition-all hover:text-[#0A7A7A] text-foreground/70 cursor-pointer"
-                  >
-                    How It Works
-                  </a>
-                  <a
-                    href="#galleries"
-                    onClick={(e) => smoothScroll(e, 'galleries')}
-                    className="text-sm font-medium transition-all hover:text-[#0A7A7A] text-foreground/70 cursor-pointer"
-                  >
-                    Galleries
-                  </a>
-                  <Link
-                    href="/catalog"
-                    className="text-sm font-medium transition-all hover:text-[#0A7A7A] text-foreground/70"
-                  >
-                    Collection
-                  </Link>
-                </>
-              ) : (
-                <>
-                  <Link
-                    href="/"
-                    className={`text-sm font-medium transition-all hover:text-[#0A7A7A] relative ${
-                      currentPath === "/"
-                        ? "text-[#0A7A7A] after:absolute after:bottom-[-8px] after:left-0 after:right-0 after:h-0.5 after:bg-[#0A7A7A]"
-                        : "text-foreground/70"
-                    }`}
-                  >
-                    Home
-                  </Link>
-                  <Link
-                    href="/catalog"
-                    className={`text-sm font-medium transition-all hover:text-[#0A7A7A] relative ${
-                      currentPath === "/catalog"
-                        ? "text-[#0A7A7A] after:absolute after:bottom-[-8px] after:left-0 after:right-0 after:h-0.5 after:bg-[#0A7A7A]"
-                        : "text-foreground/70"
-                    }`}
-                  >
-                    Collection
-                  </Link>
-                  <Link
-                    href="/about"
-                    className={`text-sm font-medium transition-all hover:text-[#0A7A7A] relative ${
-                      currentPath === "/about"
-                        ? "text-[#0A7A7A] after:absolute after:bottom-[-8px] after:left-0 after:right-0 after:h-0.5 after:bg-[#0A7A7A]"
-                        : "text-foreground/70"
-                    }`}
-                  >
-                    About
-                  </Link>
-                </>
-              )}
+              <Link
+                href="/"
+                className={`text-sm font-medium transition-all hover:text-[#0A7A7A] relative ${
+                  currentPath === "/"
+                    ? "text-[#0A7A7A] after:absolute after:bottom-[-8px] after:left-0 after:right-0 after:h-0.5 after:bg-[#0A7A7A]"
+                    : "text-foreground/70"
+                }`}
+              >
+                Home
+              </Link>
+              <Link
+                href="/catalog"
+                className={`text-sm font-medium transition-all hover:text-[#0A7A7A] relative ${
+                  currentPath === "/catalog"
+                    ? "text-[#0A7A7A] after:absolute after:bottom-[-8px] after:left-0 after:right-0 after:h-0.5 after:bg-[#0A7A7A]"
+                    : "text-foreground/70"
+                }`}
+              >
+                Collection
+              </Link>
+              <Link
+                href="/about"
+                className={`text-sm font-medium transition-all hover:text-[#0A7A7A] relative ${
+                  currentPath === "/about"
+                    ? "text-[#0A7A7A] after:absolute after:bottom-[-8px] after:left-0 after:right-0 after:h-0.5 after:bg-[#0A7A7A]"
+                    : "text-foreground/70"
+                }`}
+              >
+                About
+              </Link>
             </nav>
 
             {/* CTA Button */}
@@ -165,69 +105,27 @@ export function Header({ currentPath = '/' }) {
           {/* Mobile Menu */}
           {mobileMenuOpen && (
             <div className="md:hidden border-t border-border py-4 space-y-2 animate-in slide-in-from-top-2">
-              {isHomePage ? (
-                <>
-                  <a
-                    href="#home"
-                    onClick={(e) => smoothScroll(e, 'home')}
-                    className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted cursor-pointer"
-                  >
-                    Home
-                  </a>
-                  <a
-                    href="#ar-preview"
-                    onClick={(e) => smoothScroll(e, 'ar-preview')}
-                    className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted cursor-pointer"
-                  >
-                    AR Preview
-                  </a>
-                  <a
-                    href="#how-it-works"
-                    onClick={(e) => smoothScroll(e, 'how-it-works')}
-                    className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted cursor-pointer"
-                  >
-                    How It Works
-                  </a>
-                  <a
-                    href="#galleries"
-                    onClick={(e) => smoothScroll(e, 'galleries')}
-                    className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted cursor-pointer"
-                  >
-                    Galleries
-                  </a>
-                  <Link
-                    href="/catalog"
-                    className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Collection
-                  </Link>
-                </>
-              ) : (
-                <>
-                  <Link
-                    href="/"
-                    className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Home
-                  </Link>
-                  <Link
-                    href="/catalog"
-                    className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Collection
-                  </Link>
-                  <Link
-                    href="/about"
-                    className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    About
-                  </Link>
-                </>
-              )}
+              <Link
+                href="/"
+                className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Home
+              </Link>
+              <Link
+                href="/catalog"
+                className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Collection
+              </Link>
+              <Link
+                href="/about"
+                className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                About
+              </Link>
               <button
                 onClick={() => {
                   setMobileMenuOpen(false);

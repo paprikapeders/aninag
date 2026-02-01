@@ -35,6 +35,17 @@ export default function Home({ featuredArtworks }) {
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #F9F8F6 0%, #FDFCFB 100%)' }}>
       <Head title="Aninag - Filipino Art Marketplace with AR Preview" />
+      
+      {/* Demo Banner */}
+      <div className="bg-gradient-to-r from-[#0A7A7A] to-[#086060] text-white py-2 px-4 text-center">
+        <p className="text-xs sm:text-sm font-medium">
+          <span className="inline-flex items-center gap-2">
+            <Sparkles className="w-3 h-3 sm:w-4 sm:h-4" />
+            Demo preview — sample artworks for pilot partners
+          </span>
+        </p>
+      </div>
+      
       <Header currentPath="/" />
 
       {/* Enhanced Hero Section with Value Proposition */}

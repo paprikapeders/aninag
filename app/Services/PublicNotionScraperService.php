@@ -18,7 +18,7 @@ use Illuminate\Support\Str;
 class PublicNotionScraperService
 {
     private string $notionPageUrl;
-    private string $galleryName = 'Art Circle Gallery';
+    private string $galleryName = 'Art Gallery';
 
     public function __construct()
     {
@@ -65,9 +65,9 @@ class PublicNotionScraperService
             $gallery = Gallery::firstOrCreate(
                 ['name' => $this->galleryName],
                 [
-                    'description' => 'Art Circle Gallery - Contemporary art from talented artists',
+                    'description' => 'Art Gallery - Contemporary art from talented artists',
                     'location' => 'Philippines',
-                    'contact_email' => 'info@artcirclegallery.com',
+                    'contact_email' => 'info@artgallery.com',
                 ]
             );
 

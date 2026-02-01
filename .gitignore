@@ -31,3 +31,8 @@ Thumbs.db
 /.vscode
 /docker/nginx/*.conf
 /documentation
+NGROK_SETUP.md
+VISUAL_ENHANCEMENTS.md
+.env.ngrok.example
+start-ngrok.bat
+

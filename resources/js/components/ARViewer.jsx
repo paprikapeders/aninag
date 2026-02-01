@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from 'react';
 import { X, RotateCw, ZoomIn, ZoomOut, Move, Camera } from 'lucide-react';
+import { FallbackImage } from './ui/FallbackImage';
 
 export function ARViewer({ artwork, isOpen, onClose }) {
   const [stream, setStream] = useState(null);
@@ -206,8 +207,9 @@ export function ARViewer({ artwork, isOpen, onClose }) {
           >
             {/* Artwork Image with Shadow */}
             <div className="relative">
-              <img
+              <FallbackImage
                 src={artwork.primary_image_url || artwork.image_url}
+                fallback="/images/placeholder.svg"
                 alt={artwork.title}
                 className="pointer-events-none shadow-2xl max-w-[70vw] max-h-[70vh] object-contain"
                 style={{

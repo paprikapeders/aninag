@@ -1,0 +1,26 @@
+<svg width="400" height="533" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with subtle gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f9fafb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f3f4f6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="400" height="533" fill="url(#bg-gradient)"/>
+  
+  <!-- Image icon -->
+  <g transform="translate(200, 240)">
+    <rect x="-35" y="-25" width="70" height="50" rx="4" fill="#d1d5db" opacity="0.5"/>
+    <circle cx="-15" cy="-10" r="6" fill="#9ca3af"/>
+    <path d="M -25 5 L -5 -10 L 15 5 L 25 0 L 25 15 L -25 15 Z" fill="#9ca3af"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="50%" y="320" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="16" fill="#6b7280" font-weight="500">
+    Image Not Available
+  </text>
+  <text x="50%" y="345" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#9ca3af">
+    Aninag Gallery
+  </text>
+</svg>

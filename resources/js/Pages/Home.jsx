@@ -4,8 +4,16 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { Header } from "@/components/Header";
+import { Footer } from "@/components/Footer";
+import { ScrollToTop } from "@/components/ScrollToTop";
 import { ArtworkCard } from "@/components/ArtworkCard";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import { TrustBar } from "@/components/TrustBar";
+import { ARShowcase } from "@/components/ARShowcase";
+import { HowItWorks } from "@/components/HowItWorks";
+import { Testimonials } from "@/components/Testimonials";
+import { GalleryPartners } from "@/components/GalleryPartners";
+import { FAQ } from "@/components/FAQ";
+import { ChevronLeft, ChevronRight, Sparkles, Camera, CheckCircle2 } from "lucide-react";
 
 export default function Home({ featuredArtworks }) {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -25,35 +33,70 @@ export default function Home({ featuredArtworks }) {
   };
 
   return (
-    <div className="min-h-screen bg-background">
-      <Head title="Aninag - Discover Curated Contemporary Art" />
+    <div className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #F9F8F6 0%, #FDFCFB 100%)' }}>
+      <Head title="Aninag - Filipino Art Marketplace with AR Preview" />
       <Header currentPath="/" />
 
-      {/* Hero Section with Carousel */}
-      <section className="relative h-[80vh] bg-muted">
+      {/* Enhanced Hero Section with Value Proposition */}
+      <section id="home" className="relative h-[60vh] sm:h-[70vh] lg:h-[80vh] bg-muted">
         <Slider ref={sliderRef} {...settings} className="h-full">
           {featuredArtworks.slice(0, 4).map((artwork) => (
-            <div key={artwork.id} className="relative h-[80vh]">
+            <div key={artwork.id} className="relative h-[60vh] sm:h-[70vh] lg:h-[80vh]">
               <div
                 className="absolute inset-0 bg-cover bg-center"
                 style={{ backgroundImage: `url(${artwork.primary_image_url || artwork.image_url})` }}
               >
-                <div className="absolute inset-0 bg-gradient-to-r from-black/60 to-black/20" />
+                <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/70" />
               </div>
-              <div className="relative h-full container mx-auto px-6 lg:px-8 flex items-center">
-                <div className="max-w-2xl space-y-6 text-white">
-                  <h1 className="text-5xl lg:text-6xl font-medium tracking-tight">
-                    Discover Curated Contemporary Art
+              <div className="relative h-full container mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-center text-center">
+                <div className="max-w-4xl space-y-4 sm:space-y-6 text-white">
+                  {/* USP Badge */}
+                  <div className="inline-flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 bg-white/10 backdrop-blur-md border border-white/20 rounded-full text-xs sm:text-sm mb-3 sm:mb-6 animate-fade-in">
+                    <Camera size={14} className="sm:w-4 sm:h-4" />
+                    <span>See art in your space with AR • Direct gallery connection</span>
+                  </div>
+                  
+                  <h1 className="text-3xl sm:text-4xl lg:text-6xl xl:text-7xl font-light tracking-tight leading-tight">
+                    Discover Filipino Art.<br />
+                    <span className="italic text-[#0A7A7A]">Visualize It in Your Space.</span>
                   </h1>
-                  <p className="text-xl text-white/90">
-                    {artwork.title} by {artwork.artist_name}
+                  
+                  <p className="text-base sm:text-lg lg:text-xl xl:text-2xl text-white/90 max-w-3xl mx-auto leading-relaxed px-4">
+                    The only Philippine art platform with <strong>AR preview technology</strong>.<br className="hidden sm:block" />
+                    Connect directly with galleries. Skip the guesswork.
                   </p>
-                  <Link
-                    href="/catalog"
-                    className="inline-block px-8 py-4 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#096565] transition-colors"
-                  >
-                    View Collection
-                  </Link>
+
+                  {/* Social Proof */}
+                  <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-6 mb-4 sm:mb-10 text-white/80 text-xs sm:text-sm">
+                    <div className="flex items-center gap-1.5 sm:gap-2">
+                      <CheckCircle2 size={14} className="sm:w-[18px] sm:h-[18px] text-[#0A7A7A]" />
+                      <span>500+ Curated Artworks</span>
+                    </div>
+                    <div className="flex items-center gap-1.5 sm:gap-2">
+                      <CheckCircle2 size={14} className="sm:w-[18px] sm:h-[18px] text-[#0A7A7A]" />
+                      <span>Verified Galleries</span>
+                    </div>
+                    <div className="flex items-center gap-1.5 sm:gap-2">
+                      <CheckCircle2 size={14} className="sm:w-[18px] sm:h-[18px] text-[#0A7A7A]" />
+                      <span>AR Room Preview</span>
+                    </div>
+                  </div>
+
+                  <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 pt-2 sm:pt-4 justify-center">
+                    <Link
+                      href="/catalog"
+                      className="inline-flex items-center justify-center gap-2 px-6 sm:px-8 py-3 sm:py-4 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#086060] transition-all hover:shadow-lg hover:scale-105 text-sm sm:text-base lg:text-lg font-medium"
+                    >
+                      <span>View AR-Enabled Collection</span>
+                    </Link>
+                    <Link
+                      href={`/artwork/${artwork.id}`}
+                      className="inline-flex items-center justify-center gap-2 px-6 sm:px-8 py-3 sm:py-4 bg-white/10 backdrop-blur-md border-2 border-white/30 text-white rounded-lg hover:bg-white/20 transition-all text-sm sm:text-base lg:text-lg font-medium"
+                    >
+                      <Camera size={18} className="sm:w-5 sm:h-5" />
+                      <span>See This Artwork</span>
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>
@@ -63,19 +106,21 @@ export default function Home({ featuredArtworks }) {
         {/* Custom Navigation Arrows */}
         <button
           onClick={() => sliderRef.current?.slickPrev()}
-          className="absolute left-6 top-1/2 -translate-y-1/2 z-10 p-3 bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white rounded-full transition-colors"
+          className="absolute left-2 sm:left-6 top-1/2 -translate-y-1/2 z-10 p-2 sm:p-3 bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white rounded-full transition-colors"
+          aria-label="Previous slide"
         >
-          <ChevronLeft className="w-6 h-6" />
+          <ChevronLeft className="w-5 h-5 sm:w-6 sm:h-6" />
         </button>
         <button
           onClick={() => sliderRef.current?.slickNext()}
-          className="absolute right-6 top-1/2 -translate-y-1/2 z-10 p-3 bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white rounded-full transition-colors"
+          className="absolute right-2 sm:right-6 top-1/2 -translate-y-1/2 z-10 p-2 sm:p-3 bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white rounded-full transition-colors"
+          aria-label="Next slide"
         >
-          <ChevronRight className="w-6 h-6" />
+          <ChevronRight className="w-5 h-5 sm:w-6 sm:h-6" />
         </button>
 
         {/* Dots Indicator */}
-        <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex space-x-2 z-10">
+        <div className="absolute bottom-4 sm:bottom-8 left-1/2 -translate-x-1/2 flex space-x-2 z-10">
           {featuredArtworks.slice(0, 4).map((_, index) => (
             <button
               key={index}
@@ -90,17 +135,35 @@ export default function Home({ featuredArtworks }) {
         </div>
       </section>
 
+      {/* Trust Signals */}
+      <div id="trust">
+        <TrustBar />
+      </div>
+
+      {/* AR Feature Showcase - Your #1 Differentiator */}
+      <div id="ar-preview">
+        <ARShowcase />
+      </div>
+
+      {/* How It Works */}
+      <div id="how-it-works">
+        <HowItWorks />
+      </div>
+
       {/* Featured Artworks */}
-      <section className="py-20 container mx-auto px-6 lg:px-8">
-        <div className="text-center space-y-4 mb-16">
-          <h2 className="text-4xl tracking-tight">Featured Artworks</h2>
-          <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
+      <section id="collection" className="py-12 sm:py-16 lg:py-20 container mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="text-center space-y-3 sm:space-y-4 mb-12 sm:mb-16">
+          <div className="inline-block">
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-light tracking-tight bg-gradient-to-r from-foreground to-foreground/70 bg-clip-text text-transparent">Featured Artworks</h2>
+            <div className="h-1 w-20 sm:w-24 bg-gradient-to-r from-[#0A7A7A] to-[#D87456] mx-auto mt-3 sm:mt-4 rounded-full" />
+          </div>
+          <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto px-4">
             Explore our carefully selected collection of contemporary art from
             emerging and established artists
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 mb-8 sm:mb-12">
           {featuredArtworks.slice(0, 3).map((artwork) => (
             <ArtworkCard key={artwork.id} artwork={artwork} />
           ))}
@@ -116,29 +179,48 @@ export default function Home({ featuredArtworks }) {
         </div>
       </section>
 
+      {/* Gallery Partners */}
+      <div id="galleries">
+        <GalleryPartners />
+      </div>
+
+      {/* Testimonials */}
+      <div id="testimonials">
+        <Testimonials />
+      </div>
+
       {/* About Section */}
-      <section className="py-20 bg-muted/30">
-        <div className="container mx-auto px-6 lg:px-8">
-          <div className="max-w-3xl mx-auto text-center space-y-6">
-            <h2 className="text-4xl tracking-tight">Your Art Advisor</h2>
-            <p className="text-lg text-muted-foreground leading-relaxed">
+      <section className="py-12 sm:py-16 lg:py-20 relative overflow-hidden" style={{ background: 'linear-gradient(135deg, #FBF9F7 0%, #F5F3F0 100%)' }}>
+        {/* Decorative elements for depth */}
+        <div className="absolute top-0 right-0 w-64 h-64 sm:w-96 sm:h-96 bg-[#0A7A7A]/5 rounded-full blur-3xl" />
+        <div className="absolute bottom-0 left-0 w-64 h-64 sm:w-96 sm:h-96 bg-[#D87456]/5 rounded-full blur-3xl" />
+        
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+          <div className="max-w-3xl mx-auto text-center space-y-4 sm:space-y-6 bg-white/60 backdrop-blur-sm rounded-xl sm:rounded-2xl p-8 sm:p-12 shadow-lg">
+            <h2 className="text-3xl sm:text-4xl font-light tracking-tight">Your Art Advisor</h2>
+            <p className="text-base sm:text-lg text-muted-foreground leading-relaxed">
               Aninag bridges collectors with exceptional contemporary art.
               We work closely with established galleries to bring you a
               curated selection of museum-quality pieces. Our art advisors
               are here to guide you through the acquisition process.
             </p>
+            <Link
+              href="/about"
+              className="inline-block px-6 sm:px-8 py-3 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#086060] hover:shadow-xl transition-all mt-4 sm:mt-6 hover:-translate-y-1 text-sm sm:text-base"
+            >
+              Learn More About Us
+            </Link>
           </div>
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="py-12 border-t border-border">
-        <div className="container mx-auto px-6 lg:px-8">
-          <div className="text-center text-muted-foreground">
-            <p>© 2026 Aninag. All rights reserved.</p>
-          </div>
-        </div>
-      </footer>
+      {/* FAQ */}
+      <div id="faq">
+        <FAQ />
+      </div>
+
+      <Footer />
+      <ScrollToTop />
     </div>
   );
 }

@@ -5,6 +5,7 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\CatalogController;
 use App\Http\Controllers\LeadController;
 use App\Http\Controllers\SitemapController;
+use App\Http\Controllers\AboutController;
 
 /**
  * Aninag Public Routes
@@ -13,6 +14,9 @@ use App\Http\Controllers\SitemapController;
 
 // Home page - featured artworks
 Route::get('/', [HomeController::class, 'index'])->name('home');
+
+// About page
+Route::get('/about', [AboutController::class, 'index'])->name('about');
 
 // Catalog - browse all artworks
 Route::get('/catalog', [CatalogController::class, 'index'])->name('catalog');

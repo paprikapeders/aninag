@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { X, ZoomIn } from "lucide-react";
+import { FallbackImage } from "./ui/FallbackImage";
 
 export function ImageZoom({ src, alt }) {
   const [isZoomed, setIsZoomed] = useState(false);
@@ -21,8 +22,9 @@ export function ImageZoom({ src, alt }) {
         onClick={() => setIsZoomed(true)}
         onMouseMove={handleMouseMove}
       >
-        <img
+        <FallbackImage
           src={src}
+          fallback="/images/placeholder.svg"
           alt={alt}
           className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
         />
@@ -50,8 +52,9 @@ export function ImageZoom({ src, alt }) {
             className="relative max-w-7xl max-h-full overflow-hidden cursor-zoom-out"
             onMouseMove={handleMouseMove}
           >
-            <img
+            <FallbackImage
               src={src}
+              fallback="/images/placeholder.svg"
               alt={alt}
               className="max-w-full max-h-[90vh] object-contain"
               style={{

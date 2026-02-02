@@ -3,11 +3,19 @@
  * Senior SEO Specialist Implementation
  * 
  * This module provides comprehensive tracking for all user interactions
- * with proper conversion goal measurement
+ * with proper conversion goal measurement including device and browser information
  */
 
 // Check if gtag is available
 const isGtagAvailable = () => typeof window !== 'undefined' && typeof window.gtag === 'function';
+
+// Get device information from window (set in app.blade.php)
+const getDeviceInfo = () => {
+  if (typeof window === 'undefined' || !window.deviceInfo) {
+    return {};
+  }
+  return window.deviceInfo;
+};
 
 /**
  * Core Analytics Functions
@@ -17,10 +25,16 @@ const isGtagAvailable = () => typeof window !== 'undefined' && typeof window.gta
 export const trackPageView = (url, title) => {
   if (!isGtagAvailable()) return;
   
+  const deviceInfo = getDeviceInfo();
+  
   window.gtag('event', 'page_view', {
     page_title: title,
     page_location: url,
     page_path: window.location.pathname,
+    device_type: deviceInfo.device_type,
+    browser: deviceInfo.browser,
+    operating_system: deviceInfo.operating_system,
+    screen_resolution: deviceInfo.screen_resolution,
   });
 };
 
@@ -28,8 +42,13 @@ export const trackPageView = (url, title) => {
 export const trackEvent = (eventName, parameters = {}) => {
   if (!isGtagAvailable()) return;
   
+  const deviceInfo = getDeviceInfo();
+  
   window.gtag('event', eventName, {
     ...parameters,
+    device_type: deviceInfo.device_type,
+    browser: deviceInfo.browser,
+    operating_system: deviceInfo.operating_system,
     timestamp: new Date().toISOString(),
   });
 };
@@ -44,6 +63,7 @@ export const trackArtworkReservation = (artworkData) => {
   if (!isGtagAvailable()) return;
   
   const gaId = window.GA_MEASUREMENT_ID || 'G-XXXXXXXXXX';
+  const deviceInfo = getDeviceInfo();
   
   window.gtag('event', 'conversion', {
     send_to: `${gaId}/artwork_reserve`,
@@ -55,6 +75,9 @@ export const trackArtworkReservation = (artworkData) => {
     artwork_title: artworkData.title,
     artwork_artist: artworkData.artist_name,
     gallery_name: artworkData.gallery?.name || 'Unknown',
+    device_type: deviceInfo.device_type,
+    browser: deviceInfo.browser,
+    operating_system: deviceInfo.operating_system,
   });
   
   // Also track as standard event
@@ -64,6 +87,9 @@ export const trackArtworkReservation = (artworkData) => {
     artwork_price: artworkData.price,
     artist: artworkData.artist_name,
     gallery: artworkData.gallery?.name,
+    device_type: deviceInfo.device_type,
+    browser: deviceInfo.browser,
+    operating_system: deviceInfo.operating_system,
   });
 };
 
@@ -72,22 +98,31 @@ export const trackContactSubmission = (formData) => {
   if (!isGtagAvailable()) return;
   
   const gaId = window.GA_MEASUREMENT_ID || 'G-XXXXXXXXXX';
+  const deviceInfo = getDeviceInfo();
   
   window.gtag('event', 'conversion', {
     send_to: `${gaId}/contact_submit`,
     event_category: 'Conversion',
     event_label: 'Contact Form Submission',
+    device_type: deviceInfo.device_type,
+    browser: deviceInfo.browser,
+    operating_system: deviceInfo.operating_system,
   });
   
   window.gtag('event', 'generate_lead', {
     lead_type: 'contact_form',
     inquiry_type: formData.inquiry_type || 'general',
+    device_type: deviceInfo.device_type,
+    browser: deviceInfo.browser,
+    operating_system: deviceInfo.operating_system,
   });
 };
 
 // GOAL 3: AR Viewer Usage (High Intent Signal)
 export const trackARViewerOpen = (artworkData) => {
   if (!isGtagAvailable()) return;
+  
+  const deviceInfo = getDeviceInfo();
   
   window.gtag('event', 'ar_viewer_open', {
     event_category: 'Engagement',
@@ -96,6 +131,9 @@ export const trackARViewerOpen = (artworkData) => {
     artwork_title: artworkData.title,
     artwork_price: artworkData.price,
     engagement_level: 'high',
+    device_type: deviceInfo.device_type,
+    browser: deviceInfo.browser,
+    operating_system: deviceInfo.operating_system,
   });
 };
 

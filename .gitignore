@@ -40,3 +40,7 @@ ANALYTICS_CONFIG.md
 GOOGLE_ANALYTICS_SETUP.md
 SEO_SLUGS_IMPLEMENTATION.md
 /assets
+SCRAPER_INTEGRATION.md
+copy-scraped-images.bat
+scrapper/
+sync-artworks.bat

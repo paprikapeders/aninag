@@ -9,210 +9,158 @@ use App\Models\Artwork;
 use App\Models\ArtworkImage;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\File;
 
 /**
  * Aninag Database Seeder
- * Seeds demo data for galleries, artists, and artworks
+ * Seeds data from scraped JSON file for online gallery catalog
  */
 class DatabaseSeeder extends Seeder
 {
     use WithoutModelEvents;
 
     /**
-     * Seed the Aninag application's database.
+     * Seed the Aninag application's database from JSON file
      */
     public function run(): void
     {
-        // Create Gallery
+        // Create Main Gallery
         $gallery = Gallery::create([
-            'name' => 'Artisan Contemporary Gallery',
-            'description' => 'A premier gallery showcasing exceptional contemporary art from emerging and established artists.',
+            'name' => 'Art Circle Gallery',
+            'description' => 'Premier online gallery featuring curated contemporary artworks from talented Filipino and international artists. Discover unique pieces for collectors and art enthusiasts.',
             'location' => 'Metro Manila, Philippines',
-            'contact_email' => 'info@artisangallery.ph',
+            'contact_email' => 'gallery@artcirclegallery.com',
         ]);
 
-        // Create Artists
-        $artists = [
-            [
-                'name' => 'Maria Santos',
-                'bio' => 'Maria Santos is a contemporary Filipino artist known for her vibrant abstract compositions that explore themes of identity and cultural heritage. Her work has been exhibited internationally and is held in private collections across Asia.',
-            ],
-            [
-                'name' => 'Juan dela Cruz',
-                'bio' => 'Juan dela Cruz creates powerful mixed-media works that examine the intersection of tradition and modernity in Philippine society. His artistic practice spans painting, sculpture, and installation.',
-            ],
-            [
-                'name' => 'Sofia Reyes',
-                'bio' => 'Sofia Reyes is celebrated for her minimalist approach to contemporary art. Her geometric abstractions have garnered critical acclaim for their subtle use of color and form.',
-            ],
-            [
-                'name' => 'Carlos Mendoza',
-                'bio' => 'Carlos Mendoza works primarily in oil on canvas, creating contemplative landscapes that blur the boundaries between representation and abstraction. His works evoke a sense of place and memory.',
-            ],
-            [
-                'name' => 'Ana Villanueva',
-                'bio' => 'Ana Villanueva\'s sculptural works explore materiality and space. Working with bronze, wood, and mixed media, she creates pieces that challenge traditional notions of form and structure.',
-            ],
-            [
-                'name' => 'Ricardo Torres',
-                'bio' => 'Ricardo Torres is a multimedia artist whose practice encompasses painting, digital art, and photography. His work investigates contemporary urban life and its impact on human connection.',
-            ],
-        ];
-
-        foreach ($artists as $artistData) {
-            Artist::create($artistData);
+        // Load JSON data from scraped file
+        $jsonPath = base_path('scrapper/artcirclegallery_dump/artworks.json');
+        
+        if (!File::exists($jsonPath)) {
+            $this->command->error("❌ JSON file not found at: {$jsonPath}");
+            return;
         }
 
-        // Create Artworks with verified Unsplash images
-        $artworks = [
-            [
-                'artist_id' => 1,
-                'artwork_code' => 'MS-2024-001',
-                'title' => 'Confluence of Dreams',
-                'medium' => 'Oil on Canvas',
-                'size' => '120 x 150 cm',
-                'year' => '2024',
-                'price' => 85000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 1,
-                'artwork_code' => 'MS-2023-042',
-                'title' => 'Urban Rhythms',
-                'medium' => 'Acrylic on Canvas',
-                'size' => '100 x 100 cm',
-                'year' => '2023',
-                'price' => 62000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1536924940095-d2dd2a0e5d60?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 2,
-                'artwork_code' => 'JDC-2024-015',
-                'title' => 'Heritage Fragments',
-                'medium' => 'Mixed Media on Wood',
-                'size' => '90 x 120 cm',
-                'year' => '2024',
-                'price' => 95000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1577720643272-265f5f7a40f2?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 2,
-                'artwork_code' => 'JDC-2023-088',
-                'title' => 'Ancestral Echoes',
-                'medium' => 'Oil and Collage on Canvas',
-                'size' => '130 x 100 cm',
-                'year' => '2023',
-                'price' => 78000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1578926078716-ceb43274e6e1?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 3,
-                'artwork_code' => 'SR-2024-007',
-                'title' => 'Geometric Meditation No. 3',
-                'medium' => 'Acrylic on Linen',
-                'size' => '80 x 80 cm',
-                'year' => '2024',
-                'price' => 55000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1549887534-1541e9326642?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 3,
-                'artwork_code' => 'SR-2024-012',
-                'title' => 'Chromatic Balance',
-                'medium' => 'Acrylic on Canvas',
-                'size' => '100 x 100 cm',
-                'year' => '2024',
-                'price' => 68000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1561214115-f2f134cc4912?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 4,
-                'artwork_code' => 'CM-2023-034',
-                'title' => 'Twilight Memory',
-                'medium' => 'Oil on Canvas',
-                'size' => '110 x 140 cm',
-                'year' => '2023',
-                'price' => 92000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1547891654-e66ed7ebb968?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 4,
-                'artwork_code' => 'CM-2024-008',
-                'title' => 'Coastal Impression',
-                'medium' => 'Oil on Canvas',
-                'size' => '90 x 120 cm',
-                'year' => '2024',
-                'price' => 72000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1579541814924-49fef17c5be5?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 5,
-                'artwork_code' => 'AV-2024-003',
-                'title' => 'Emergence',
-                'medium' => 'Bronze',
-                'size' => '45 x 30 x 60 cm',
-                'year' => '2024',
-                'price' => 125000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1582561833249-7d14b7a0dac1?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 5,
-                'artwork_code' => 'AV-2023-021',
-                'title' => 'Interconnected',
-                'medium' => 'Wood and Metal',
-                'size' => '70 x 40 x 50 cm',
-                'year' => '2023',
-                'price' => 88000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1557672172-298e090bd0f1?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 6,
-                'artwork_code' => 'RT-2024-019',
-                'title' => 'Digital Solitude',
-                'medium' => 'Mixed Media',
-                'size' => '100 x 150 cm',
-                'year' => '2024',
-                'price' => 82000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=800&auto=format&fit=crop',
-            ],
-            [
-                'artist_id' => 6,
-                'artwork_code' => 'RT-2023-067',
-                'title' => 'Urban Connections',
-                'medium' => 'Photography and Paint',
-                'size' => '80 x 120 cm',
-                'year' => '2023',
-                'price' => 58000,
-                'primary_image_url' => 'https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&auto=format&fit=crop',
-            ],
-        ];
+        $jsonContent = File::get($jsonPath);
+        $data = json_decode($jsonContent, true);
+
+        if (!isset($data['artworks'])) {
+            $this->command->error('❌ Invalid JSON structure - missing artworks array');
+            return;
+        }
+
+        $artworks = $data['artworks'];
+        $artistsCache = [];
+        $createdArtworks = 0;
+        $createdArtists = 0;
+        $createdImages = 0;
+        $skippedArtworks = 0;
+
+        $this->command->info('📦 Processing ' . count($artworks) . ' artworks from JSON...');
 
         foreach ($artworks as $artworkData) {
-            $artworkData['gallery_id'] = $gallery->id;
-            $artworkData['currency'] = 'PHP';
-            $artworkData['status'] = 'available';
-            $artworkData['visibility'] = 'public';
+            // Skip artworks without essential data
+            if (empty($artworkData['title']) || $artworkData['title'] === 'Description') {
+                $skippedArtworks++;
+                continue;
+            }
 
-            $artwork = Artwork::create($artworkData);
+            // Get or create artist
+            $artistName = $artworkData['artist'] ?? 'Unknown Artist';
+            
+            if (!isset($artistsCache[$artistName])) {
+                $artist = Artist::firstOrCreate(
+                    ['name' => $artistName],
+                    ['bio' => "Contemporary artist featured in Art Circle Gallery."]
+                );
+                $artistsCache[$artistName] = $artist;
+                
+                if ($artist->wasRecentlyCreated) {
+                    $createdArtists++;
+                }
+            } else {
+                $artist = $artistsCache[$artistName];
+            }
 
-            // Add additional images for some artworks
-            if (in_array($artwork->id, [1, 3, 5, 7, 9])) {
-                ArtworkImage::create([
-                    'artwork_id' => $artwork->id,
-                    'image_url' => 'https://images.unsplash.com/photo-1578926078716-ceb43274e6e1?w=800&auto=format&fit=crop',
-                    'sort_order' => 1,
+            // Prepare artwork data
+            $inventoryCode = $artworkData['inventory_code'] ?? 'N/A';
+            $title = $artworkData['title'];
+            $medium = $artworkData['medium'] ?? 'Mixed Media';
+            $dimensions = $artworkData['dimensions'] ?? 'Dimensions not specified';
+            $year = $artworkData['year'] ?? date('Y');
+            
+            // Handle price - use gallery_price if available
+            $price = null;
+            if (!empty($artworkData['gallery_price'])) {
+                $price = floatval($artworkData['gallery_price']);
+            } elseif (!empty($artworkData['price'])) {
+                $price = floatval($artworkData['price']);
+            }
+
+            // Map status from JSON to database enum
+            $status = 'available';
+            if (!empty($artworkData['status'])) {
+                $statusLower = strtolower($artworkData['status']);
+                if (in_array($statusLower, ['available', 'reserved', 'sold'])) {
+                    $status = $statusLower;
+                }
+            }
+
+            // Get primary image URL
+            $primaryImageUrl = null;
+            if (!empty($artworkData['images']) && isset($artworkData['images'][0]['url'])) {
+                $primaryImageUrl = $artworkData['images'][0]['url'];
+            }
+
+            // Create artwork
+            try {
+                $artwork = Artwork::create([
+                    'gallery_id' => $gallery->id,
+                    'artist_id' => $artist->id,
+                    'artwork_code' => $inventoryCode,
+                    'title' => $title,
+                    'medium' => $medium,
+                    'size' => $dimensions,
+                    'year' => $year,
+                    'price' => $price,
+                    'currency' => 'PHP',
+                    'status' => $status,
+                    'visibility' => 'public',
+                    'primary_image_url' => $primaryImageUrl,
                 ]);
-                ArtworkImage::create([
-                    'artwork_id' => $artwork->id,
-                    'image_url' => 'https://images.unsplash.com/photo-1577720643272-265f5f7a40f2?w=800&auto=format&fit=crop',
-                    'sort_order' => 2,
-                ]);
+
+                $createdArtworks++;
+
+                // Add additional images
+                if (!empty($artworkData['images']) && count($artworkData['images']) > 1) {
+                    foreach (array_slice($artworkData['images'], 1) as $index => $image) {
+                        ArtworkImage::create([
+                            'artwork_id' => $artwork->id,
+                            'image_url' => $image['url'],
+                            'sort_order' => $index + 1,
+                        ]);
+                        $createdImages++;
+                    }
+                }
+
+            } catch (\Exception $e) {
+                $this->command->warn("⚠️  Skipped artwork '{$title}': " . $e->getMessage());
+                $skippedArtworks++;
             }
         }
 
-        $this->command->info('✓ Aninag demo data seeded successfully!');
-        $this->command->info('  - 1 Gallery created');
-        $this->command->info('  - 6 Artists created');
-        $this->command->info('  - 12 Artworks created');
+        // Summary
+        $this->command->newLine();
+        $this->command->info('✅ Gallery catalog seeded successfully!');
+        $this->command->info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+        $this->command->info("📍 Gallery: {$gallery->name}");
+        $this->command->info("👥 Artists: {$createdArtists} created");
+        $this->command->info("🖼️  Artworks: {$createdArtworks} created");
+        $this->command->info("📸 Additional Images: {$createdImages} created");
+        
+        if ($skippedArtworks > 0) {
+            $this->command->warn("⚠️  Skipped: {$skippedArtworks} artworks (missing essential data)");
+        }
+        
+        $this->command->info('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
     }
 }

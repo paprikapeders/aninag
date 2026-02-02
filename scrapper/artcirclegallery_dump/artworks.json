@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "extracted_at": "2026-02-03T01:53:25.541825",
+    "total_artworks": 9,
+    "total_images": 6,
+    "views_scraped": [
+      "all",
+      "available",
+      "reserved",
+      "sold",
+      "maintenance",
+      "reshoot",
+      "no_location",
+      "no_gp",
+      "sold_table"
+    ]
+  },
+  "artworks": [
+    {
+      "notion_id": "4ecfd28948aa4ddc85adcd518622ad5f",
+      "inventory_code": "20320",
+      "title": "Description",
+      "artist": null,
+      "series": null,
+      "description": null,
+      "provenance": null,
+      "medium": null,
+      "material": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "net_price": null,
+      "pre_selling_price": null,
+      "status": "Available",
+      "category": "Available",
+      "location": null,
+      "movement_subjects": null,
+      "agent": null,
+      "reserved_by": null,
+      "for_reshoot": false,
+      "tags": [],
+      "page_url": "https://artcirclegallery.notion.site/20320-4ecfd28948aa4ddc85adcd518622ad5f?pvs=25",
+      "images": [],
+      "image_files": [],
+      "extracted_at": "2026-02-03T01:50:40.987225",
+      "updated_at": "2026-02-03T01:50:40.987225",
+      "hash": "172d85a283593dcd173c408629bd6a47"
+    },
+    {
+      "notion_id": "130d95dda45b41e69feb223a3ef8e9fa",
+      "inventory_code": "27528",
+      "title": "Untitled",
+      "artist": "Jess Santos",
+      "series": null,
+      "description": null,
+      "provenance": null,
+      "medium": "oil on canvas",
+      "material": null,
+      "dimensions": "24 x 36 in.",
+      "year": null,
+      "price": null,
+      "gallery_price": 175000.0,
+      "net_price": null,
+      "pre_selling_price": null,
+      "status": "Available",
+      "category": "Available",
+      "location": null,
+      "movement_subjects": null,
+      "agent": null,
+      "reserved_by": null,
+      "for_reshoot": false,
+      "tags": [],
+      "page_url": "https://artcirclegallery.notion.site/27528-130d95dda45b41e69feb223a3ef8e9fa?pvs=25",
+      "images": [],
+      "image_files": [],
+      "extracted_at": "2026-02-03T01:50:41.011635",
+      "updated_at": "2026-02-03T01:50:41.011635",
+      "hash": "0d0551b22c4de94130ee6c331473cca9"
+    },
+    {
+      "notion_id": "be75e03859284d6ebbcea02f1e38604b",
+      "inventory_code": "26736",
+      "title": "Untitled",
+      "artist": "Roderick Sta. Ana",
+      "series": null,
+      "description": null,
+      "provenance": null,
+      "medium": "Acrylic on canvas",
+      "material": null,
+      "dimensions": "48 x 60 in.",
+      "year": null,
+      "price": null,
+      "gallery_price": 260000.0,
+      "net_price": null,
+      "pre_selling_price": null,
+      "status": "Available",
+      "category": "Available",
+      "location": null,
+      "movement_subjects": null,
+      "agent": null,
+      "reserved_by": null,
+      "for_reshoot": false,
+      "tags": [],
+      "page_url": "https://artcirclegallery.notion.site/26736-be75e03859284d6ebbcea02f1e38604b?pvs=25",
+      "images": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe9be63b4-40c5-43fa-8adf-131001b26b3f%2F26736.jpg?table=block&id=ef2f07ca-495f-4575-b44e-65cb02f27680&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Roderick_Sta_Ana__Untitled__26736__1.jpg"
+        }
+      ],
+      "image_files": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe9be63b4-40c5-43fa-8adf-131001b26b3f%2F26736.jpg?table=block&id=ef2f07ca-495f-4575-b44e-65cb02f27680&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Roderick_Sta_Ana__Untitled__26736__1.jpg",
+          "filepath": "./artcirclegallery_dump\\images\\Roderick_Sta_Ana\\Roderick_Sta_Ana__Untitled__26736__1.jpg",
+          "index": 1
+        }
+      ],
+      "extracted_at": "2026-02-03T01:50:41.016057",
+      "updated_at": "2026-02-03T01:50:41.016057",
+      "hash": "c17d6128d370ddf30e9b6a04f22480db"
+    },
+    {
+      "notion_id": "7336fecdf4a24fa4a85aa54fd600caff",
+      "inventory_code": "19712",
+      "title": "Fish Vendor",
+      "artist": "Glen Cagandahan",
+      "series": null,
+      "description": null,
+      "provenance": null,
+      "medium": "Epoxy clay on wood",
+      "material": null,
+      "dimensions": "16 x 14 x 8 in.",
+      "year": null,
+      "price": null,
+      "gallery_price": 170000.0,
+      "net_price": null,
+      "pre_selling_price": null,
+      "status": "Available",
+      "category": "Available",
+      "location": null,
+      "movement_subjects": null,
+      "agent": null,
+      "reserved_by": null,
+      "for_reshoot": false,
+      "tags": [],
+      "page_url": "https://artcirclegallery.notion.site/19712-7336fecdf4a24fa4a85aa54fd600caff?pvs=25",
+      "images": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff86cfb3e-da3d-4ee6-8c48-5dcfbd8b0963%2F20748416_1357576667643961_7740354545361362587_o.jpg?table=block&id=719d3295-b651-4fc5-84fd-d095fd225a2c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Glen_Cagandahan__Fish_Vendor__19712__1.jpg"
+        }
+      ],
+      "image_files": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff86cfb3e-da3d-4ee6-8c48-5dcfbd8b0963%2F20748416_1357576667643961_7740354545361362587_o.jpg?table=block&id=719d3295-b651-4fc5-84fd-d095fd225a2c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Glen_Cagandahan__Fish_Vendor__19712__1.jpg",
+          "filepath": "./artcirclegallery_dump\\images\\Glen_Cagandahan\\Glen_Cagandahan__Fish_Vendor__19712__1.jpg",
+          "index": 1
+        }
+      ],
+      "extracted_at": "2026-02-03T01:50:41.024841",
+      "updated_at": "2026-02-03T01:50:41.024841",
+      "hash": "a3aaaeb4abd5eda4d18d4b8b2d98c07b"
+    },
+    {
+      "notion_id": "4dc3ab4911f74661b6ab348b06f4efb6",
+      "inventory_code": "IA 113",
+      "title": "Metal Scapes Series",
+      "artist": "Ivan Acuña",
+      "series": null,
+      "description": null,
+      "provenance": null,
+      "medium": "Mixed media on canvas",
+      "material": null,
+      "dimensions": "12 x 12 in.",
+      "year": null,
+      "price": null,
+      "gallery_price": 32000.0,
+      "net_price": null,
+      "pre_selling_price": null,
+      "status": "Available",
+      "category": "Available",
+      "location": null,
+      "movement_subjects": null,
+      "agent": null,
+      "reserved_by": null,
+      "for_reshoot": false,
+      "tags": [],
+      "page_url": "https://artcirclegallery.notion.site/IA-113-4dc3ab4911f74661b6ab348b06f4efb6?pvs=25",
+      "images": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7c45c934-e2da-4231-8f64-5113953a51c7%2FIA_113.jpg?table=block&id=9ccd15e0-2694-46f2-b755-5033f9f07064&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Ivan_Acuña__Metal_Scapes_Series__IA_113__1.jpg"
+        }
+      ],
+      "image_files": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7c45c934-e2da-4231-8f64-5113953a51c7%2FIA_113.jpg?table=block&id=9ccd15e0-2694-46f2-b755-5033f9f07064&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Ivan_Acuña__Metal_Scapes_Series__IA_113__1.jpg",
+          "filepath": "./artcirclegallery_dump\\images\\Ivan_Acuña\\Ivan_Acuña__Metal_Scapes_Series__IA_113__1.jpg",
+          "index": 1
+        }
+      ],
+      "extracted_at": "2026-02-03T01:50:41.026425",
+      "updated_at": "2026-02-03T01:50:41.026425",
+      "hash": "a124c8e9cfe2bd36b408346d344744d0"
+    },
+    {
+      "notion_id": "3032a8cbe25447469a23ffd8cc2af593",
+      "inventory_code": "IA 131",
+      "title": "Metal Scapes Series",
+      "artist": "Ivan Acuña",
+      "series": null,
+      "description": null,
+      "provenance": null,
+      "medium": "Mixed media on canvas",
+      "material": null,
+      "dimensions": "12 x 12 in.",
+      "year": null,
+      "price": null,
+      "gallery_price": 32000.0,
+      "net_price": null,
+      "pre_selling_price": null,
+      "status": "Available",
+      "category": "Available",
+      "location": null,
+      "movement_subjects": null,
+      "agent": null,
+      "reserved_by": null,
+      "for_reshoot": false,
+      "tags": [],
+      "page_url": "https://artcirclegallery.notion.site/IA-131-3032a8cbe25447469a23ffd8cc2af593?pvs=25",
+      "images": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb1f67975-4985-47bd-8ebe-3b6b86358c56%2FIA_131.jpg?table=block&id=afe973a6-4c4a-43c5-8c78-b27bca02921e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Ivan_Acuña__Metal_Scapes_Series__IA_131__1.jpg"
+        }
+      ],
+      "image_files": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb1f67975-4985-47bd-8ebe-3b6b86358c56%2FIA_131.jpg?table=block&id=afe973a6-4c4a-43c5-8c78-b27bca02921e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Ivan_Acuña__Metal_Scapes_Series__IA_131__1.jpg",
+          "filepath": "./artcirclegallery_dump\\images\\Ivan_Acuña\\Ivan_Acuña__Metal_Scapes_Series__IA_131__1.jpg",
+          "index": 1
+        }
+      ],
+      "extracted_at": "2026-02-03T01:50:41.029484",
+      "updated_at": "2026-02-03T01:50:41.029484",
+      "hash": "a124c8e9cfe2bd36b408346d344744d0"
+    },
+    {
+      "notion_id": "bcc865c2b8b8444ca637f01513e113f6",
+      "inventory_code": "JV 006",
+      "title": "A Place of Splendid Things",
+      "artist": "Julius Villarete",
+      "series": null,
+      "description": null,
+      "provenance": null,
+      "medium": "Acrylic on canvas",
+      "material": null,
+      "dimensions": "36 x 72 in.",
+      "year": null,
+      "price": null,
+      "gallery_price": 260000.0,
+      "net_price": null,
+      "pre_selling_price": null,
+      "status": "Available",
+      "category": "Available",
+      "location": null,
+      "movement_subjects": null,
+      "agent": null,
+      "reserved_by": null,
+      "for_reshoot": false,
+      "tags": [],
+      "page_url": "https://artcirclegallery.notion.site/JV-006-bcc865c2b8b8444ca637f01513e113f6?pvs=25",
+      "images": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6dd25503-9b4a-49e2-a046-ac946782b3da%2FIMG_1608.jpg?table=block&id=8c213b0b-3626-4bfc-827c-3fde8c9114a8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Julius_Villarete__A_Place_of_Splendid_Things__JV_006__1.jpg"
+        }
+      ],
+      "image_files": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6dd25503-9b4a-49e2-a046-ac946782b3da%2FIMG_1608.jpg?table=block&id=8c213b0b-3626-4bfc-827c-3fde8c9114a8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Julius_Villarete__A_Place_of_Splendid_Things__JV_006__1.jpg",
+          "filepath": "./artcirclegallery_dump\\images\\Julius_Villarete\\Julius_Villarete__A_Place_of_Splendid_Things__JV_006__1.jpg",
+          "index": 1
+        }
+      ],
+      "extracted_at": "2026-02-03T01:50:41.034505",
+      "updated_at": "2026-02-03T01:50:41.034505",
+      "hash": "c17d6128d370ddf30e9b6a04f22480db"
+    },
+    {
+      "notion_id": "cc8818026f5545c39f77c2a755b3a80e",
+      "inventory_code": "21657",
+      "title": "Velvets Bloom",
+      "artist": "Julius Villarete",
+      "series": null,
+      "description": null,
+      "provenance": null,
+      "medium": "Oil on canvas",
+      "material": null,
+      "dimensions": "36 x 24 in.",
+      "year": null,
+      "price": null,
+      "gallery_price": 87000.0,
+      "net_price": null,
+      "pre_selling_price": null,
+      "status": "Available",
+      "category": "Available",
+      "location": null,
+      "movement_subjects": null,
+      "agent": null,
+      "reserved_by": null,
+      "for_reshoot": false,
+      "tags": [],
+      "page_url": "https://artcirclegallery.notion.site/21657-cc8818026f5545c39f77c2a755b3a80e?pvs=25",
+      "images": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdd72d63d-463a-443d-b47b-37315bba8676%2F21657_24_x_36.jpg?table=block&id=44ba0da0-bc34-41be-8787-f4aba676fe66&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Julius_Villarete__Velvets_Bloom__21657__1.jpg"
+        }
+      ],
+      "image_files": [
+        {
+          "url": "https://artcirclegallery.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdd72d63d-463a-443d-b47b-37315bba8676%2F21657_24_x_36.jpg?table=block&id=44ba0da0-bc34-41be-8787-f4aba676fe66&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=2000&userId=&cache=v2",
+          "filename": "Julius_Villarete__Velvets_Bloom__21657__1.jpg",
+          "filepath": "./artcirclegallery_dump\\images\\Julius_Villarete\\Julius_Villarete__Velvets_Bloom__21657__1.jpg",
+          "index": 1
+        }
+      ],
+      "extracted_at": "2026-02-03T01:50:41.037056",
+      "updated_at": "2026-02-03T01:50:41.037056",
+      "hash": "a2e594744cca514fd8bb532c9444842e"
+    },
+    {
+      "notion_id": "f8666ae830ad411fa2c3278ea99e4c84",
+      "inventory_code": "27287",
+      "title": "Exist to be Happy, Not to Impress",
+      "artist": "Carlos Isagani Punzalan",
+      "series": null,
+      "description": null,
+      "provenance": null,
+      "medium": "Oil on canvas",
+      "material": null,
+      "dimensions": "48 x 36 in.",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "net_price": null,
+      "pre_selling_price": null,
+      "status": "Available",
+      "category": "Available",
+      "location": null,
+      "movement_subjects": null,
+      "agent": null,
+      "reserved_by": null,
+      "for_reshoot": false,
+      "tags": [],
+      "page_url": "https://artcirclegallery.notion.site/27287-f8666ae830ad411fa2c3278ea99e4c84?pvs=25",
+      "images": [],
+      "image_files": [],
+      "extracted_at": "2026-02-03T01:50:41.038094",
+      "updated_at": "2026-02-03T01:50:41.038094",
+      "hash": "a2e594744cca514fd8bb532c9444842e"
+    }
+  ]
+}

@@ -42,5 +42,7 @@ SEO_SLUGS_IMPLEMENTATION.md
 /assets
 SCRAPER_INTEGRATION.md
 copy-scraped-images.bat
-scrapper/
+scrapper/*
+!scrapper/artcirclegallery_dump/
+!scrapper/artcirclegallery_dump/artworks.json
 sync-artworks.bat

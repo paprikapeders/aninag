@@ -43,8 +43,10 @@ export const trackEvent = (eventName, parameters = {}) => {
 export const trackArtworkReservation = (artworkData) => {
   if (!isGtagAvailable()) return;
   
+  const gaId = window.GA_MEASUREMENT_ID || 'G-XXXXXXXXXX';
+  
   window.gtag('event', 'conversion', {
-    send_to: 'G-XXXXXXXXXX/artwork_reserve',
+    send_to: `${gaId}/artwork_reserve`,
     event_category: 'Conversion',
     event_label: 'Reserve Artwork',
     value: artworkData.price || 0,
@@ -69,8 +71,10 @@ export const trackArtworkReservation = (artworkData) => {
 export const trackContactSubmission = (formData) => {
   if (!isGtagAvailable()) return;
   
+  const gaId = window.GA_MEASUREMENT_ID || 'G-XXXXXXXXXX';
+  
   window.gtag('event', 'conversion', {
-    send_to: 'G-XXXXXXXXXX/contact_submit',
+    send_to: `${gaId}/contact_submit`,
     event_category: 'Conversion',
     event_label: 'Contact Form Submission',
   });
@@ -119,8 +123,10 @@ export const trackARImageUpload = () => {
 export const trackGalleryInquiry = (galleryData) => {
   if (!isGtagAvailable()) return;
   
+  const gaId = window.GA_MEASUREMENT_ID || 'G-XXXXXXXXXX';
+  
   window.gtag('event', 'conversion', {
-    send_to: 'G-XXXXXXXXXX/gallery_inquiry',
+    send_to: `${gaId}/gallery_inquiry`,
     event_category: 'Conversion',
     event_label: 'Gallery Inquiry',
     gallery_name: galleryData.name,

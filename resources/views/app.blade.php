@@ -11,25 +11,31 @@
         
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website">
-        <meta property="og:title" content="@yield('title', 'Aninag - Discover Curated Contemporary Art')">
+        <meta property="og:title" content="@yield('title', 'Aninag - Where Light Meets Artistry')">
         <meta property="og:description" content="Your trusted art advisor connecting collectors with exceptional contemporary artworks.">
         <meta property="og:image" content="{{ asset('images/og-image.jpg') }}">
         
         <!-- Twitter -->
         <meta property="twitter:card" content="summary_large_image">
-        <meta property="twitter:title" content="@yield('title', 'Aninag - Discover Curated Contemporary Art')">
+        <meta property="twitter:title" content="@yield('title', 'Aninag - Where Light Meets Artistry')">
         <meta property="twitter:description" content="Your trusted art advisor connecting collectors with exceptional contemporary artworks.">
         
-        <!-- Favicon -->
+        <!-- Favicons -->
         <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="apple-touch-icon" sizes="192x192" href="/apple-touch-icon.png">
+        <link rel="manifest" href="/site.webmanifest">
 
         <!-- Google Analytics 4 -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+        @if(config('services.google_analytics.id'))
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{ config('services.google_analytics.id') }}"></script>
         <script>
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-XXXXXXXXXX', {
+            window.GA_MEASUREMENT_ID = '{{ config('services.google_analytics.id') }}';
+            gtag('config', window.GA_MEASUREMENT_ID, {
                 'send_page_view': true,
                 'cookie_flags': 'SameSite=None;Secure'
             });
@@ -41,6 +47,7 @@
                 'page_path': window.location.pathname
             });
         </script>
+        @endif
 
         <title inertia>{{ config('app.name', 'Aninag') }}</title>
 

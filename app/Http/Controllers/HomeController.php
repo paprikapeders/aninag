@@ -27,6 +27,7 @@ class HomeController extends Controller
                 ->map(function ($artwork) {
                     return [
                         'id' => $artwork->id,
+                        'slug' => $artwork->slug,
                         'title' => $artwork->title,
                         'artist_name' => $artwork->artist->name,
                         'medium' => $artwork->medium,

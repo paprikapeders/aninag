@@ -5,7 +5,7 @@ import { FallbackImage } from './ui/FallbackImage';
 export function ArtworkCard({ artwork }) {
   return (
     <Link
-      href={`/artwork/${artwork.id}`}
+      href={`/artwork/${artwork.slug || artwork.id}`}
       className="group block bg-card rounded-lg overflow-hidden transition-all duration-300 border border-border hover:border-[#0A7A7A]/30 shadow-sm hover:shadow-xl hover:-translate-y-1"
     >
       <div className="aspect-[3/4] overflow-hidden bg-muted relative">

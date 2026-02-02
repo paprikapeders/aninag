@@ -99,7 +99,7 @@ export default function Home({ featuredArtworks }) {
                       <span>View AR-Enabled Collection</span>
                     </Link>
                     <Link
-                      href={`/artwork/${artwork.id}`}
+                      href={`/artwork/${artwork.slug || artwork.id}`}
                       className="inline-flex items-center justify-center gap-2 px-6 sm:px-8 py-3 sm:py-4 bg-white/10 backdrop-blur-md border-2 border-white/30 text-white rounded-lg hover:bg-white/20 transition-all text-sm sm:text-base lg:text-lg font-medium"
                     >
                       <Camera size={18} className="sm:w-5 sm:h-5" />

@@ -29,6 +29,7 @@ class CatalogController extends Controller
                 ->map(function ($artwork) {
                     return [
                         'id' => $artwork->id,
+                        'slug' => $artwork->slug,
                         'title' => $artwork->title,
                         'artist_name' => $artwork->artist->name,
                         'medium' => $artwork->medium,
@@ -96,6 +97,7 @@ class CatalogController extends Controller
             
             return [
                 'id' => $artwork->id,
+                'slug' => $artwork->slug,
                 'artwork_code' => $artwork->artwork_code,
                 'title' => $artwork->title,
                 'artist_id' => $artwork->artist->id,

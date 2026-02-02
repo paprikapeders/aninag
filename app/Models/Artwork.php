@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Support\Str;
 
 /**
  * Aninag Artwork Model
@@ -21,6 +22,7 @@ class Artwork extends Model
         'artist_id',
         'artwork_code',
         'title',
+        'slug',
         'medium',
         'size',
         'year',
@@ -34,6 +36,53 @@ class Artwork extends Model
     protected $casts = [
         'price' => 'decimal:2',
     ];
+
+    /**
+     * Boot the model.
+     */
+    protected static function boot()
+    {
+        parent::boot();
+
+        // Automatically generate slug on creation
+        static::creating(function ($artwork) {
+            if (empty($artwork->slug)) {
+                $artwork->slug = $artwork->generateUniqueSlug();
+            }
+        });
+
+        // Update slug when title changes
+        static::updating(function ($artwork) {
+            if ($artwork->isDirty('title') && empty($artwork->slug)) {
+                $artwork->slug = $artwork->generateUniqueSlug();
+            }
+        });
+    }
+
+    /**
+     * Generate a unique slug for the artwork
+     */
+    public function generateUniqueSlug(): string
+    {
+        $slug = Str::slug($this->title . ' ' . $this->artist->name);
+        $originalSlug = $slug;
+        $count = 1;
+
+        while (static::where('slug', $slug)->where('id', '!=', $this->id)->exists()) {
+            $slug = $originalSlug . '-' . $count;
+            $count++;
+        }
+
+        return $slug;
+    }
+
+    /**
+     * Get the route key for the model.
+     */
+    public function getRouteKeyName(): string
+    {
+        return 'slug';
+    }
 
     /**
      * Scope to get only public and available artworks

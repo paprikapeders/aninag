@@ -396,7 +396,7 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
             {similarArtworks.map((similar) => (
               <Link
                 key={similar.id}
-                href={`/artwork/${similar.id}`}
+                href={`/artwork/${similar.slug || similar.id}`}
                 onClick={() => trackArtworkClick(similar, 'similar_artworks')}
                 className="group block space-y-4"
               >

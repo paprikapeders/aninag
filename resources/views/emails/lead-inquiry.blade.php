@@ -139,6 +139,21 @@
                 @if(!empty($inquiry['artist_name']))
                 <div class="artwork-artist">by {{ $inquiry['artist_name'] }}</div>
                 @endif
+                @if(!empty($inquiry['artwork_code']))
+                <div style="color: #666; font-size: 13px; margin-top: 8px;">
+                    <strong>Code:</strong> {{ $inquiry['artwork_code'] }}
+                </div>
+                @endif
+                @if(!empty($inquiry['price']))
+                <div style="color: #0A7A7A; font-size: 15px; font-weight: 600; margin-top: 8px;">
+                    {{ $inquiry['currency'] ?? 'PHP' }} {{ number_format($inquiry['price'], 2) }}
+                </div>
+                @endif
+                @if(!empty($inquiry['intent']))
+                <div style="color: #666; font-size: 13px; margin-top: 8px;">
+                    <strong>Intent:</strong> {{ $inquiry['intent'] }}
+                </div>
+                @endif
             </div>
         </div>
         @endif

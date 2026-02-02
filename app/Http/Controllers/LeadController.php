@@ -55,17 +55,22 @@ class LeadController extends Controller
             'source' => 'web',
         ]);
 
-        // Send notification email to gallery
+        // Send notification email to inquiry email
         try {
-            Mail::to(config('mail.from.address'))->send(
+            $inquiryEmail = env('INQUIRY_EMAIL', config('mail.from.address'));
+            Mail::to($inquiryEmail)->send(
                 new LeadInquiryReceived([
-                    'type' => $request->intent,
+                    'type' => 'Reserve - ' . ucfirst($request->intent),
                     'artwork_title' => $artwork->title,
                     'artist_name' => $artwork->artist->name,
+                    'artwork_code' => $artwork->artwork_code,
+                    'price' => $artwork->price,
+                    'currency' => $artwork->currency,
                     'name' => $request->buyer_name,
                     'email' => $request->buyer_email,
                     'phone' => $request->buyer_phone,
                     'message' => $request->message,
+                    'intent' => ucfirst($request->intent),
                 ], session()->get('viewed_artworks', []))
             );
         } catch (\Exception $e) {
@@ -80,13 +85,14 @@ class LeadController extends Controller
      */
     public function confirmation(Request $request, Lead $lead = null): Response
     {
-        // Handle direct POST from new frontend
+        // Handle direct POST from new frontend (Contact Form)
         if ($request->isMethod('post')) {
             $inquiry = $request->only(['type', 'artwork_title', 'artist_name', 'name', 'email', 'phone', 'message']);
             
-            // Send notification email to gallery
+            // Send notification email to inquiry email
             try {
-                Mail::to(config('mail.from.address'))->send(
+                $inquiryEmail = env('INQUIRY_EMAIL', config('mail.from.address'));
+                Mail::to($inquiryEmail)->send(
                     new LeadInquiryReceived($inquiry, session()->get('viewed_artworks', []))
                 );
             } catch (\Exception $e) {

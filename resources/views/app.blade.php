@@ -23,6 +23,25 @@
         <!-- Favicon -->
         <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 
+        <!-- Google Analytics 4 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-XXXXXXXXXX', {
+                'send_page_view': true,
+                'cookie_flags': 'SameSite=None;Secure'
+            });
+
+            // Enhanced measurement tracking
+            gtag('event', 'page_view', {
+                'page_title': document.title,
+                'page_location': window.location.href,
+                'page_path': window.location.pathname
+            });
+        </script>
+
         <title inertia>{{ config('app.name', 'Aninag') }}</title>
 
         <!-- Fonts -->

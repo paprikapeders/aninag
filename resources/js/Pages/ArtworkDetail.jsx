@@ -13,6 +13,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { ChevronLeft, ChevronRight, Eye, TrendingUp, Award, Home, Camera, Shield, Heart, CheckCircle2, MessageCircle } from "lucide-react";
+import { trackArtworkReservation, trackARViewerOpen, trackArtworkClick } from "@/utils/analytics";
 
 export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
   const [inquiryType, setInquiryType] = useState(null);
@@ -23,6 +24,18 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
     phone: "",
     message: "",
   });
+
+  // Track AR viewer open
+  const handleAROpen = () => {
+    setShowAR(true);
+    trackARViewerOpen(artwork);
+  };
+
+  // Track reserve button click
+  const handleReserveClick = () => {
+    setInquiryType("reservation");
+    trackArtworkReservation(artwork);
+  };
 
   if (!artwork) {
     return (
@@ -126,7 +139,7 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
             
             {/* AR View Button */}
             <button
-              onClick={() => setShowAR(true)}
+              onClick={() => handleAROpen()}
               className="w-full py-3 sm:py-3.5 px-4 sm:px-6 bg-gradient-to-r from-purple-600 to-blue-600 text-white rounded-lg hover:from-purple-700 hover:to-blue-700 active:scale-[0.98] transition-all duration-200 flex items-center justify-center gap-2 font-medium shadow-lg hover:shadow-xl text-sm sm:text-base"
             >
               <Camera size={18} className="sm:w-5 sm:h-5" />
@@ -263,7 +276,7 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
                   {artwork.status && (artwork.status.toLowerCase() === "available" || artwork.status.toLowerCase() === "reserved") && (
                     <div className="border-t border-border pt-4 mt-4">
                       <button
-                        onClick={() => handleOpenDialog("reserve")}
+                        onClick={() => { handleOpenDialog("reserve"); handleReserveClick(); }}
                         className="group relative w-full px-4 sm:px-6 py-3.5 sm:py-4 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#086060] transition-all duration-200 overflow-hidden text-sm sm:text-base font-medium"
                       >
                         <div className="relative z-10 flex items-center justify-center gap-2">
@@ -384,6 +397,7 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
               <Link
                 key={similar.id}
                 href={`/artwork/${similar.id}`}
+                onClick={() => trackArtworkClick(similar, 'similar_artworks')}
                 className="group block space-y-4"
               >
                 <div className="aspect-[4/5] bg-muted rounded-lg overflow-hidden">
@@ -437,3 +451,5 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
     </div>
   );
 }
+
+

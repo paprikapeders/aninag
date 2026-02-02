@@ -4,6 +4,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/u
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
+import { trackContactSubmission, trackNavigation, trackCTAClick } from '@/utils/analytics';
 
 export function Header({ currentPath = '/' }) {
   const [isContactOpen, setIsContactOpen] = useState(false);
@@ -17,6 +18,7 @@ export function Header({ currentPath = '/' }) {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    trackContactSubmission(formData); // Track contact form submission
     router.visit('/confirmation', {
       method: 'post',
       data: {
@@ -225,3 +227,5 @@ export function Header({ currentPath = '/' }) {
     </>
   );
 }
+
+

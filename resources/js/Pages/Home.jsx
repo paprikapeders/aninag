@@ -68,13 +68,11 @@ export default function Home({ featuredArtworks }) {
                   </div>
                   
                   <h1 className="text-3xl sm:text-4xl lg:text-6xl xl:text-7xl font-light tracking-tight leading-tight">
-                    Discover Filipino Art.<br />
-                    <span className="italic text-[#0A7A7A]">Visualize It in Your Space.</span>
+                    Where Light Meets Artistry
                   </h1>
                   
                   <p className="text-base sm:text-lg lg:text-xl xl:text-2xl text-white/90 max-w-3xl mx-auto leading-relaxed px-4">
-                    The only Philippine art platform with <strong>AR preview technology</strong>.<br className="hidden sm:block" />
-                    Connect directly with galleries. Skip the guesswork.
+                    Discover Philippine art—curated, contextualized, and viewed in your space.
                   </p>
 
                   {/* Social Proof */}
@@ -235,3 +233,5 @@ export default function Home({ featuredArtworks }) {
     </div>
   );
 }
+
+

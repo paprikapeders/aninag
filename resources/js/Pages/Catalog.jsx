@@ -171,3 +171,5 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
     </div>
   );
 }
+
+

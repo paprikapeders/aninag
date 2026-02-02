@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { X, RotateCw, ZoomIn, ZoomOut, Move, Camera, Upload, Image as ImageIcon } from 'lucide-react';
 import { FallbackImage } from './ui/FallbackImage';
+import { trackARModeSwitch, trackARImageUpload } from '@/utils/analytics';
 
 export function ARViewer({ artwork, isOpen, onClose }) {
   const [stream, setStream] = useState(null);
@@ -83,6 +84,7 @@ export function ARViewer({ artwork, isOpen, onClose }) {
       reader.onload = (event) => {
         setUploadedImage(event.target.result);
         setIsLoading(false);
+        trackARImageUpload(); // Track image upload
       };
       reader.readAsDataURL(file);
     }
@@ -94,6 +96,7 @@ export function ARViewer({ artwork, isOpen, onClose }) {
     setIsLoading(true);
     setMode(newMode);
     resetPosition();
+    trackARModeSwitch(newMode); // Track mode switch
   };
 
   const handleMouseDown = (e) => {
@@ -444,3 +447,5 @@ export function ARViewer({ artwork, isOpen, onClose }) {
     </div>
   );
 }
+
+

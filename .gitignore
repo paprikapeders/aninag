@@ -36,3 +36,5 @@ VISUAL_ENHANCEMENTS.md
 .env.ngrok.example
 start-ngrok.bat
 FEATURES.md
+ANALYTICS_CONFIG.md
+GOOGLE_ANALYTICS_SETUP.md

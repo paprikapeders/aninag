@@ -1,0 +1,533 @@
+{
+  "artist_id": "catamponganeberle000000000000000",
+  "artist_name": "CATAMPONGAN, Eberle",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T17:20:32.458531",
+  "artworks": [
+    {
+      "notion_id": "a4fa548c4b264b44ad113e011f9c603a",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Caravana",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": 100000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc5e74c0f-ae22-472f-ad35-17c46965cbad%2F11936_24_x_36.jpg?table=block&id=ae5b7e9a-ef85-4c44-a1b9-d171aa9fe9be&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc5e74c0f-ae22-472f-ad35-17c46965cbad%2F11936_24_x_36.jpg?table=block&id=ae5b7e9a-ef85-4c44-a1b9-d171aa9fe9be&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/11936-a4fa548c4b264b44ad113e011f9c603a?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.458531"
+    },
+    {
+      "notion_id": "8389a108be134c8aa3651f7b3bc3b4ed",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Fiesta",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": 625000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbd34b802-10c6-4eb5-8156-b2ca2a508948%2F452579251_2319369708406112_5399249234858139401_n.jpg?table=block&id=1a0f2e95-dfa7-4034-ad37-8f9aa0c702ab&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbd34b802-10c6-4eb5-8156-b2ca2a508948%2F452579251_2319369708406112_5399249234858139401_n.jpg?table=block&id=1a0f2e95-dfa7-4034-ad37-8f9aa0c702ab&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28282-8389a108be134c8aa3651f7b3bc3b4ed?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.458531"
+    },
+    {
+      "notion_id": "23c66042549d4c0fb1575d3aa552f420",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Kasalan sa Barrio",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F403a910c-ad74-4769-94f3-8e6898aceb85%2FCS_27097_36_in_x_48_in_Kasalan_sa_Barrio_(c.2023)_Acrylic__on_Canvas.jpg?table=block&id=d20c888f-afe2-446b-81eb-94ff7e99f64c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F403a910c-ad74-4769-94f3-8e6898aceb85%2FCS_27097_36_in_x_48_in_Kasalan_sa_Barrio_(c.2023)_Acrylic__on_Canvas.jpg?table=block&id=d20c888f-afe2-446b-81eb-94ff7e99f64c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27097-23c66042549d4c0fb1575d3aa552f420?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.459544"
+    },
+    {
+      "notion_id": "22c9f8c22a828030afa4fd8d2d3eac14",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Flowers and Laughter",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": 625000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A66c6cd35-f350-43b6-b218-66013bb909da%3A52586400_2011331442255387_5317257692421554176_n.jpg?table=block&id=22c9f8c2-2a82-8061-8490-db221633ddfa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A66c6cd35-f350-43b6-b218-66013bb909da%3A52586400_2011331442255387_5317257692421554176_n.jpg?table=block&id=22c9f8c2-2a82-8061-8490-db221633ddfa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21988-22c9f8c22a828030afa4fd8d2d3eac14?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.459544"
+    },
+    {
+      "notion_id": "22a9f8c22a828057b817d2a4381d60f3",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Banca al Barrio",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aad41d561-c520-4a5e-98cd-c3862df3990e%3AWhatsApp_Image_2025-07-08_at_13.35.28_4a2d6ee2.jpg?table=block&id=22a9f8c2-2a82-80f8-8312-ebc2c1eecdf9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aad41d561-c520-4a5e-98cd-c3862df3990e%3AWhatsApp_Image_2025-07-08_at_13.35.28_4a2d6ee2.jpg?table=block&id=22a9f8c2-2a82-80f8-8312-ebc2c1eecdf9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29024-22a9f8c22a828057b817d2a4381d60f3?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.460053"
+    },
+    {
+      "notion_id": "2039f8c22a828040a01cc5d542c943ca",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Plaza Mayor",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 162000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aa75af289-d543-483f-b623-192e3cb94316%3AWhatsApp_Image_2025-05-30_at_10.17.53_24278090.jpg?table=block&id=1e1b1dba-1cb7-4b0b-8dca-58a22478a899&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aa75af289-d543-483f-b623-192e3cb94316%3AWhatsApp_Image_2025-05-30_at_10.17.53_24278090.jpg?table=block&id=1e1b1dba-1cb7-4b0b-8dca-58a22478a899&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28954-2039f8c22a828040a01cc5d542c943ca?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.460053"
+    },
+    {
+      "notion_id": "2039f8c22a8280a2adcfd9000b80d2db",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Pasaje Escolta",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 162000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A78dc5f4f-8087-43e7-bc67-ff0d1645bd8a%3AWhatsApp_Image_2025-05-30_at_09.59.18_1718bba9.jpg?table=block&id=a0c72d5e-3a02-46cb-b74f-737824f4d963&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A78dc5f4f-8087-43e7-bc67-ff0d1645bd8a%3AWhatsApp_Image_2025-05-30_at_09.59.18_1718bba9.jpg?table=block&id=a0c72d5e-3a02-46cb-b74f-737824f4d963&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28953-2039f8c22a8280a2adcfd9000b80d2db?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.460732"
+    },
+    {
+      "notion_id": "1de9f8c22a8280d8b7ffe195fe7514b8",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Puente del Río Chico",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A5baee8dd-ab78-4874-b751-ef90e9a13e7a%3A28897.jpg?table=block&id=159c090c-3992-4a2c-adf4-3d951576a162&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A5baee8dd-ab78-4874-b751-ef90e9a13e7a%3A28897.jpg?table=block&id=159c090c-3992-4a2c-adf4-3d951576a162&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28897-1de9f8c22a8280d8b7ffe195fe7514b8?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.460732"
+    },
+    {
+      "notion_id": "1b99f8c22a82801a8022fb62122185ec",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "The Old Tea House",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 72 in",
+      "year": null,
+      "price": 470000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A49f5e36d-b6a3-4983-a902-7a054e889eed%3A491939028_1093993482763646_7295282449073299394_n.jpg?table=block&id=1c49f8c2-2a82-805f-8024-c45220e28f3c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A49f5e36d-b6a3-4983-a902-7a054e889eed%3A491939028_1093993482763646_7295282449073299394_n.jpg?table=block&id=1c49f8c2-2a82-805f-8024-c45220e28f3c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28820-1b99f8c22a82801a8022fb62122185ec?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.460732"
+    },
+    {
+      "notion_id": "baad8f6b0cee4675bbcc45f70b4cc61a",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Palengke",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": 60000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbdc732e3-a5e2-4b34-9d9e-223078fd93bf%2FIMG_4146.jpeg?table=block&id=d3f5a476-b06d-4d92-a555-bca010d5820d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbdc732e3-a5e2-4b34-9d9e-223078fd93bf%2FIMG_4146.jpeg?table=block&id=d3f5a476-b06d-4d92-a555-bca010d5820d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28622-baad8f6b0cee4675bbcc45f70b4cc61a?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.461409"
+    },
+    {
+      "notion_id": "f2bc193d57124c8f8ad3318fe3362927",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Callejón del Domingo",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 162000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Af10379bc-a3fa-4fc3-9ad6-487631f1cc34%3AIMG_5967.jpeg?table=block&id=1d69f8c2-2a82-806d-b444-c9c3c2ba0438&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Af10379bc-a3fa-4fc3-9ad6-487631f1cc34%3AIMG_5967.jpeg?table=block&id=1d69f8c2-2a82-806d-b444-c9c3c2ba0438&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28449-f2bc193d57124c8f8ad3318fe3362927?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.461409"
+    },
+    {
+      "notion_id": "cf297164ac1e4936a55be148ebca2aee",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Sunday Morning in Baras Rizal Church",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1e0ad661-704e-40ac-bb3c-d7c2be189e64%2F72293cd9-1561-4971-908e-2b81602c389b.jpg?table=block&id=0b51c544-957e-4568-a7ec-be4e83170748&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1e0ad661-704e-40ac-bb3c-d7c2be189e64%2F72293cd9-1561-4971-908e-2b81602c389b.jpg?table=block&id=0b51c544-957e-4568-a7ec-be4e83170748&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28330-cf297164ac1e4936a55be148ebca2aee?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.462100"
+    },
+    {
+      "notion_id": "218ed7b5d1034448b846b8d1587db70f",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Paseo De Domingo (Saint Agustine Church)",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 40 in",
+      "year": null,
+      "price": 162000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F8785c091-3713-4619-a751-da8204d8d36a%2F143c1e35-0967-46af-853d-ecb04a3e6e91.jpg?table=block&id=aa23e5f5-a125-46f3-b132-1442e27b2d93&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F8785c091-3713-4619-a751-da8204d8d36a%2F143c1e35-0967-46af-853d-ecb04a3e6e91.jpg?table=block&id=aa23e5f5-a125-46f3-b132-1442e27b2d93&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28329-218ed7b5d1034448b846b8d1587db70f?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.462100"
+    },
+    {
+      "notion_id": "9049609b85fc4b2c803d100571379039",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Auto Repair Shop",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff34e5738-ced5-4e0c-9822-8daf4442dfa9%2FIMG_1238.jpg?table=block&id=12cd6385-4bd9-494e-b4a9-04bf1b14d324&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff34e5738-ced5-4e0c-9822-8daf4442dfa9%2FIMG_1238.jpg?table=block&id=12cd6385-4bd9-494e-b4a9-04bf1b14d324&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27808-9049609b85fc4b2c803d100571379039?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.462100"
+    },
+    {
+      "notion_id": "f9e0d549e71346079ff351958e7586d7",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Pauwi Galing Bendición",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 162000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fad285b8d-7e44-4c24-b946-6896b5e0b1cd%2F16163.jpg?table=block&id=104ea911-89a5-4113-b10f-b9d5c254c110&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fad285b8d-7e44-4c24-b946-6896b5e0b1cd%2F16163.jpg?table=block&id=104ea911-89a5-4113-b10f-b9d5c254c110&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/12163-f9e0d549e71346079ff351958e7586d7?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.462761"
+    },
+    {
+      "notion_id": "17ad7b3a00d149138dcd6f5d4cefe342",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Dayo",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc79546ff-3ea3-43d3-80ea-eb30656d43a4%2F12662.jpg?table=block&id=8f88bb97-d687-4a80-b807-afcb416c4304&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc79546ff-3ea3-43d3-80ea-eb30656d43a4%2F12662.jpg?table=block&id=8f88bb97-d687-4a80-b807-afcb416c4304&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/12162-17ad7b3a00d149138dcd6f5d4cefe342?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.462761"
+    },
+    {
+      "notion_id": "d984b4f25dd643338a0083e4a6026057",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Ang Daan ng Krus — Senakulo",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": 625000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F944397bb-151a-405e-839b-8b537845adfd%2F48_x_60.jpg?table=block&id=f6ca27c9-7735-4f74-8856-53cb30679e72&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F944397bb-151a-405e-839b-8b537845adfd%2F48_x_60.jpg?table=block&id=f6ca27c9-7735-4f74-8856-53cb30679e72&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26877-d984b4f25dd643338a0083e4a6026057?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.463481"
+    },
+    {
+      "notion_id": "e7106a3cef2a4730b9d49aaa16f3c22b",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "De Kalidad",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F699ff217-6264-417c-aca8-b0b4e5c02958%2FCS_2718036_in_x_48_in_De_kalidad_(c.2023)_Acrylic_on_Canvas_(1).jpg?table=block&id=e40ecfff-e068-429c-b488-d1988f4e338a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F699ff217-6264-417c-aca8-b0b4e5c02958%2FCS_2718036_in_x_48_in_De_kalidad_(c.2023)_Acrylic_on_Canvas_(1).jpg?table=block&id=e40ecfff-e068-429c-b488-d1988f4e338a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27180-e7106a3cef2a4730b9d49aaa16f3c22b?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.463481"
+    },
+    {
+      "notion_id": "9d4f8ff47b4041179ef14284b1aefd30",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Bustling Market",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": 60000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa00c7588-ade5-41e6-98ff-3cd051b74230%2F24538.jpg?table=block&id=b4e351b7-a369-4a5d-bba6-b7c3b565cfec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa00c7588-ade5-41e6-98ff-3cd051b74230%2F24538.jpg?table=block&id=b4e351b7-a369-4a5d-bba6-b7c3b565cfec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24538-9d4f8ff47b4041179ef14284b1aefd30?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.464012"
+    },
+    {
+      "notion_id": "029c082aaa674641852137c76ff1403a",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Pahiyas (Kiping) Festival",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 162000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa797a5c7-8dd8-4212-aee3-22195f9860dd%2F26683__30_in_x_40_(Kiping)_Festival_(c.2022)___Acrylic_on_Canvas.jpg?table=block&id=68abe280-eae8-432b-9a21-381516708061&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa797a5c7-8dd8-4212-aee3-22195f9860dd%2F26683__30_in_x_40_(Kiping)_Festival_(c.2022)___Acrylic_on_Canvas.jpg?table=block&id=68abe280-eae8-432b-9a21-381516708061&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26683-029c082aaa674641852137c76ff1403a?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.464012"
+    },
+    {
+      "notion_id": "05cab921073048089f1e45389f1e4b54",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Market Day",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 120000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe00a4c81-c0eb-42bb-8bbc-095034bef8cb%2F22811__24x36_Market_Day_(c.2019)_Acrylic_on_Canvas.jpg?table=block&id=9cc45f7b-92ec-43d8-b1dd-8b44ec7a0d8c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe00a4c81-c0eb-42bb-8bbc-095034bef8cb%2F22811__24x36_Market_Day_(c.2019)_Acrylic_on_Canvas.jpg?table=block&id=9cc45f7b-92ec-43d8-b1dd-8b44ec7a0d8c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22811-05cab921073048089f1e45389f1e4b54?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.464012"
+    },
+    {
+      "notion_id": "ba8cad99d2aa464c8cbff4eb5ef6af07",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Kasalan",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1465d0a7-3a49-4e9d-ba50-839ed8449eb1%2FCS_27095_36_in_x_48_in_Kasalan_(c.2023)_Acrylic__on_CanvasJPG_(1).jpg?table=block&id=d0616200-8b3d-4286-ba6e-303f90d1cd68&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1465d0a7-3a49-4e9d-ba50-839ed8449eb1%2FCS_27095_36_in_x_48_in_Kasalan_(c.2023)_Acrylic__on_CanvasJPG_(1).jpg?table=block&id=d0616200-8b3d-4286-ba6e-303f90d1cd68&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27095-ba8cad99d2aa464c8cbff4eb5ef6af07?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.465469"
+    },
+    {
+      "notion_id": "4f5cb359cd0f4e79acc9406be7875bd6",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd0da4471-89f2-48a0-a1ac-abfa41206889%2F8583.jpg?table=block&id=7521775d-d410-459c-b4d3-029dfa5a0a7e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd0da4471-89f2-48a0-a1ac-abfa41206889%2F8583.jpg?table=block&id=7521775d-d410-459c-b4d3-029dfa5a0a7e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/8583-4f5cb359cd0f4e79acc9406be7875bd6?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.467573"
+    },
+    {
+      "notion_id": "48023b971fbf43cf97d7d7b4c7d9d284",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Solace",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 162000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F55d6110b-df4f-4f11-8d44-0d3a8132d5b9%2F25482.jpg?table=block&id=d062ef03-f74a-488e-9a82-281b2108f778&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F55d6110b-df4f-4f11-8d44-0d3a8132d5b9%2F25482.jpg?table=block&id=d062ef03-f74a-488e-9a82-281b2108f778&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25482-48023b971fbf43cf97d7d7b4c7d9d284?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.468335"
+    },
+    {
+      "notion_id": "d9fc64f62f9a4956a3688ffc6836ce7f",
+      "artist_id": "catamponganeberle000000000000000",
+      "artist_name": "CATAMPONGAN, Eberle",
+      "title": "Sunduan",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 235000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8e77b5fc-d486-4e30-8ed4-726400126396%2FCS_27092_36_in_x48_in_Sunduan_(c.2023)__Acrylic_on_Canvas.jpg?table=block&id=f77e4b67-fdf1-42ea-9aec-18aab5480b65&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8e77b5fc-d486-4e30-8ed4-726400126396%2FCS_27092_36_in_x48_in_Sunduan_(c.2023)__Acrylic_on_Canvas.jpg?table=block&id=f77e4b67-fdf1-42ea-9aec-18aab5480b65&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CS-27092-d9fc64f62f9a4956a3688ffc6836ce7f?pvs=25",
+      "scraped_at": "2026-02-03T17:20:32.468335"
+    }
+  ]
+}

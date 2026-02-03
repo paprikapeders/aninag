@@ -1,0 +1,533 @@
+{
+  "artist_id": "memijelarry000000000000000000000",
+  "artist_name": "MEMIJE, Larry",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T17:20:49.025267",
+  "artworks": [
+    {
+      "notion_id": "13fef5c0e47047bb8ab7dd82895b9860",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Facade Series",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": 144000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa8413ebc-9a2f-4f32-b4fc-90ec61475a4d%2F26466.jpg?table=block&id=960e94cb-3ac0-4073-9d93-20d2261b66e0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa8413ebc-9a2f-4f32-b4fc-90ec61475a4d%2F26466.jpg?table=block&id=960e94cb-3ac0-4073-9d93-20d2261b66e0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26466-13fef5c0e47047bb8ab7dd82895b9860?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.025267"
+    },
+    {
+      "notion_id": "8e9bc657c902421e8faec8180fe400e5",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Facade Series",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "18 x 70 in",
+      "year": null,
+      "price": 252000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff9a383f9-f5dc-431d-9cae-fc92f0f6cd3c%2F25703.jpg?table=block&id=932e451b-9a06-4d78-8ae1-6fd4ba268b8c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff9a383f9-f5dc-431d-9cae-fc92f0f6cd3c%2F25703.jpg?table=block&id=932e451b-9a06-4d78-8ae1-6fd4ba268b8c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25703-8e9bc657c902421e8faec8180fe400e5?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.025980"
+    },
+    {
+      "notion_id": "ce1062e4a809419eb7582c38612c5e2b",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Facade Series",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": 922000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdecdc066-44a3-4356-84a8-f0bfd51180c2%2F23471.jpg?table=block&id=d6a6c33d-ee9b-4e89-bfe7-58c7031bae1b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdecdc066-44a3-4356-84a8-f0bfd51180c2%2F23471.jpg?table=block&id=d6a6c33d-ee9b-4e89-bfe7-58c7031bae1b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23471-ce1062e4a809419eb7582c38612c5e2b?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.025980"
+    },
+    {
+      "notion_id": "d61175d1def5468bb21e7ba0eea28327",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Facade Series",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": 922000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0319014f-d8ab-4e10-a73e-1ca3c73c9472%2F23161.jpg?table=block&id=1fa25b2a-ab19-4b56-91eb-cd3f7fe54eb5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0319014f-d8ab-4e10-a73e-1ca3c73c9472%2F23161.jpg?table=block&id=1fa25b2a-ab19-4b56-91eb-cd3f7fe54eb5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23161-d61175d1def5468bb21e7ba0eea28327?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.026808"
+    },
+    {
+      "notion_id": "2af9f8c22a8280a2b266f167bad410fe",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A652b81eb-e144-4f86-902c-3295fb24a166%3A1000594915.jpg?table=block&id=2af9f8c2-2a82-80db-9cee-c6ea9b1492d0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A652b81eb-e144-4f86-902c-3295fb24a166%3A1000594915.jpg?table=block&id=2af9f8c2-2a82-80db-9cee-c6ea9b1492d0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": "CS 29337",
+      "page_url": "https://artcirclegallery.notion.site/CS-29337-2af9f8c22a8280a2b266f167bad410fe?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.026808"
+    },
+    {
+      "notion_id": "28c9f8c22a8280e9bfbccb5ba9b295bb",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": 230000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A4f4fd39d-0598-4fd4-9b12-fad94a93f15c%3AIMG_7667.jpeg?table=block&id=28c9f8c2-2a82-80b4-b74c-fa6df73a49a4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A4f4fd39d-0598-4fd4-9b12-fad94a93f15c%3AIMG_7667.jpeg?table=block&id=28c9f8c2-2a82-80b4-b74c-fa6df73a49a4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29280-28c9f8c22a8280e9bfbccb5ba9b295bb?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.027628"
+    },
+    {
+      "notion_id": "2459f8c22a8280e4af26d5671e291045",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 172000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A62ab55b2-6b71-48b0-9fe8-6486286391ed%3AWhatsApp_Image_2025-07-31_at_10.58.17_c017d558.jpg?table=block&id=2459f8c2-2a82-8020-b14c-f6b10d2e7e25&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A62ab55b2-6b71-48b0-9fe8-6486286391ed%3AWhatsApp_Image_2025-07-31_at_10.58.17_c017d558.jpg?table=block&id=2459f8c2-2a82-8020-b14c-f6b10d2e7e25&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29089-2459f8c22a8280e4af26d5671e291045?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.027628"
+    },
+    {
+      "notion_id": "2299f8c22a82804cb9ccef3bcdd08e6b",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 172000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A27257b4b-6911-4cfa-b3d8-daabbbe751d2%3AWhatsApp_Image_2025-07-07_at_14.20.50_68f895f2.jpg?table=block&id=2299f8c2-2a82-8054-97f0-c953cf161c6e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A27257b4b-6911-4cfa-b3d8-daabbbe751d2%3AWhatsApp_Image_2025-07-07_at_14.20.50_68f895f2.jpg?table=block&id=2299f8c2-2a82-8054-97f0-c953cf161c6e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29035-2299f8c22a82804cb9ccef3bcdd08e6b?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.027628"
+    },
+    {
+      "notion_id": "1d59f8c22a8280a89b76c6531360ae3d",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": 144000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A65ad0f3a-0296-4924-a9ab-a3faa3f59c1d%3AIMG_5939.jpg?table=block&id=80d76b25-e6f4-4774-8781-65865af7e1dd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A65ad0f3a-0296-4924-a9ab-a3faa3f59c1d%3AIMG_5939.jpg?table=block&id=80d76b25-e6f4-4774-8781-65865af7e1dd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28884-1d59f8c22a8280a89b76c6531360ae3d?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.028468"
+    },
+    {
+      "notion_id": "1d59f8c22a828090b040d050a4f01e61",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": 144000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ad4d8c74c-3082-4f50-a90e-70129c0132d7%3AIMG_5977.jpg?table=block&id=1d69f8c2-2a82-8044-a012-fb9390b8d21b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ad4d8c74c-3082-4f50-a90e-70129c0132d7%3AIMG_5977.jpg?table=block&id=1d69f8c2-2a82-8044-a012-fb9390b8d21b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28883-1d59f8c22a828090b040d050a4f01e61?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.028468"
+    },
+    {
+      "notion_id": "1c99f8c22a8280e3a5fddcde56cd9247",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "32 x 48 in",
+      "year": null,
+      "price": 307000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aa1b60473-8721-4e24-aca9-09784190b0b7%3A1000585896.jpg?table=block&id=8d43f15d-aa2b-4e9d-8b2c-9616bbd438c9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aa1b60473-8721-4e24-aca9-09784190b0b7%3A1000585896.jpg?table=block&id=8d43f15d-aa2b-4e9d-8b2c-9616bbd438c9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28854-1c99f8c22a8280e3a5fddcde56cd9247?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.029226"
+    },
+    {
+      "notion_id": "1979f8c22a82808f830ee1b9c0fa8f39",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Floral Sanctuary",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "30 x 24 in",
+      "year": null,
+      "price": 144000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7d5d9221-d9c3-4889-9607-ff8332647880%3A475963827_9351107568314504_1116456070311835445_n.jpg?table=block&id=47b4f050-ec48-44fa-9c1d-b75460ec1c55&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7d5d9221-d9c3-4889-9607-ff8332647880%3A475963827_9351107568314504_1116456070311835445_n.jpg?table=block&id=47b4f050-ec48-44fa-9c1d-b75460ec1c55&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28758-1979f8c22a82808f830ee1b9c0fa8f39?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.029226"
+    },
+    {
+      "notion_id": "50347afdfe8945408ccbd333c6b98596",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 48 in",
+      "year": null,
+      "price": 288000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa54abbb6-0087-4a2f-a2bf-424c9bf1133f%2FIMG_4375.jpg?table=block&id=17e9f8c2-2a82-81fe-937e-dbce04f25fcf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa54abbb6-0087-4a2f-a2bf-424c9bf1133f%2FIMG_4375.jpg?table=block&id=17e9f8c2-2a82-81fe-937e-dbce04f25fcf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28677-50347afdfe8945408ccbd333c6b98596?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.029816"
+    },
+    {
+      "notion_id": "fd1ab1c786f942638af79c797b3bd9ef",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 345000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F29a36f7e-3471-41fa-bcea-73127a5ea68c%2FPXL_20250120_0421068462.jpg?table=block&id=17e9f8c2-2a82-81e2-b37c-de8d44d88ca2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F29a36f7e-3471-41fa-bcea-73127a5ea68c%2FPXL_20250120_0421068462.jpg?table=block&id=17e9f8c2-2a82-81e2-b37c-de8d44d88ca2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28675-fd1ab1c786f942638af79c797b3bd9ef?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.029816"
+    },
+    {
+      "notion_id": "c7448d2283874ec59af9fe1d7f739026",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 48 in",
+      "year": null,
+      "price": 288000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fddbb0003-f73d-4c04-8d69-dcae290eb93f%2F1000575847.jpg?table=block&id=789542de-bc84-43de-8f6a-b246f8b7c286&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fddbb0003-f73d-4c04-8d69-dcae290eb93f%2F1000575847.jpg?table=block&id=789542de-bc84-43de-8f6a-b246f8b7c286&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27975-c7448d2283874ec59af9fe1d7f739026?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.030460"
+    },
+    {
+      "notion_id": "4e4c035c7ad94913b483fc97d1e83c4e",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Facade Series",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": 230000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F734ddc2b-9666-48ac-bab8-6eab798e4458%2F414587912_229163060150452_5497530901393134657_n.jpg?table=block&id=0a58dc09-cf33-4f44-85dc-cf8f59f27667&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F734ddc2b-9666-48ac-bab8-6eab798e4458%2F414587912_229163060150452_5497530901393134657_n.jpg?table=block&id=0a58dc09-cf33-4f44-85dc-cf8f59f27667&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27824-4e4c035c7ad94913b483fc97d1e83c4e?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.030460"
+    },
+    {
+      "notion_id": "65f6f895fc4440088e218204ed5e08c2",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Facade Series",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": 922000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F81c8ce5c-fb5e-49bb-b3c3-bd91b9c723ab%2F1000011907.jpg?table=block&id=cadd4afa-a3b2-413e-99b3-0165eb77b632&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F81c8ce5c-fb5e-49bb-b3c3-bd91b9c723ab%2F1000011907.jpg?table=block&id=cadd4afa-a3b2-413e-99b3-0165eb77b632&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21678-65f6f895fc4440088e218204ed5e08c2?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.031112"
+    },
+    {
+      "notion_id": "fd115381259b41cbb77ccd886e921909",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": 86000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7bb68598-0526-4187-8cf1-4e3b46480d4a%2F27247_(c.1998)_24_in_x_18_in__Pastel_on_Paper_(1).jpg?table=block&id=41f656a5-62c8-4b66-9ab9-3bd021593ff2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7bb68598-0526-4187-8cf1-4e3b46480d4a%2F27247_(c.1998)_24_in_x_18_in__Pastel_on_Paper_(1).jpg?table=block&id=41f656a5-62c8-4b66-9ab9-3bd021593ff2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27247-fd115381259b41cbb77ccd886e921909?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.031112"
+    },
+    {
+      "notion_id": "2ea9f8c22a8280f494e6f6bb48828232",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Add5e46f4-dc5f-439f-b4fd-a06593128d34%3A29503.jpg?table=block&id=2ea9f8c2-2a82-809c-a006-c04a40f07b68&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Add5e46f4-dc5f-439f-b4fd-a06593128d34%3A29503.jpg?table=block&id=2ea9f8c2-2a82-809c-a006-c04a40f07b68&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29503-2ea9f8c22a8280f494e6f6bb48828232?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.032498"
+    },
+    {
+      "notion_id": "2ea9f8c22a8280ebbd5bd4993ed03f34",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "A Dream in Full Bloom",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A9ee3eacb-33b0-47e8-9e89-9b26bb56e89a%3A29504.jpg?table=block&id=2ea9f8c2-2a82-80dd-97d0-ea37fc6f50b3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A9ee3eacb-33b0-47e8-9e89-9b26bb56e89a%3A29504.jpg?table=block&id=2ea9f8c2-2a82-80dd-97d0-ea37fc6f50b3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29504-2ea9f8c22a8280ebbd5bd4993ed03f34?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.033180"
+    },
+    {
+      "notion_id": "2ea9f8c22a8280f7a29bc325c28afaca",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7356e6cd-58ea-4c68-8458-37f0053f6a61%3A29505.jpg?table=block&id=2ea9f8c2-2a82-8065-94e2-c006700b0c36&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7356e6cd-58ea-4c68-8458-37f0053f6a61%3A29505.jpg?table=block&id=2ea9f8c2-2a82-8065-94e2-c006700b0c36&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29505-2ea9f8c22a8280f7a29bc325c28afaca?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.033180"
+    },
+    {
+      "notion_id": "991109e193d54cbca95892d1a54d220a",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Facade Series",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 60 in",
+      "year": null,
+      "price": 290000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc8d46dbb-22e9-45d8-88e7-5b4ac511f714%2F26386.jpg?table=block&id=8463eb83-9189-4fc4-a8b5-d0d1530e1a24&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc8d46dbb-22e9-45d8-88e7-5b4ac511f714%2F26386.jpg?table=block&id=8463eb83-9189-4fc4-a8b5-d0d1530e1a24&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26386-991109e193d54cbca95892d1a54d220a?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.034194"
+    },
+    {
+      "notion_id": "28c9f8c22a82809db1e9ea8a84c9d24b",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 47",
+      "year": null,
+      "price": 226000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ab299afd6-2cff-41f4-8baf-e7e7c4bab915%3AIMG_7666.jpeg?table=block&id=28c9f8c2-2a82-80e8-a488-ea04fbff40bc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ab299afd6-2cff-41f4-8baf-e7e7c4bab915%3AIMG_7666.jpeg?table=block&id=28c9f8c2-2a82-80e8-a488-ea04fbff40bc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29281-28c9f8c22a82809db1e9ea8a84c9d24b?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.034702"
+    },
+    {
+      "notion_id": "2ea9f8c22a8280d8acd3dc5bb0cc0e26",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Afe096712-6a50-4192-b373-cf5a93432cce%3A29502.jpg?table=block&id=2ea9f8c2-2a82-80a9-a8a9-c6934c07909f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Afe096712-6a50-4192-b373-cf5a93432cce%3A29502.jpg?table=block&id=2ea9f8c2-2a82-80a9-a8a9-c6934c07909f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29502-2ea9f8c22a8280d8acd3dc5bb0cc0e26?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.034702"
+    },
+    {
+      "notion_id": "73b431c8d3904506a53b6f5768e0111f",
+      "artist_id": "memijelarry000000000000000000000",
+      "artist_name": "MEMIJE, Larry",
+      "title": "Facade Series",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "20 x 24 in",
+      "year": null,
+      "price": 96000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F19325d85-6dc2-455e-b142-f5f62670ee09%2F26713.jpg?table=block&id=e2b92a67-beed-4342-a825-1bc89beecf2c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F19325d85-6dc2-455e-b142-f5f62670ee09%2F26713.jpg?table=block&id=e2b92a67-beed-4342-a825-1bc89beecf2c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26713-73b431c8d3904506a53b6f5768e0111f?pvs=25",
+      "scraped_at": "2026-02-03T17:20:49.035445"
+    }
+  ]
+}

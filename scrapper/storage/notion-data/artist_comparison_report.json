@@ -1,0 +1,1292 @@
+{
+  "total_notion_artists": 50,
+  "total_local_artists": 50,
+  "matched": 50,
+  "matched_artists": [
+    {
+      "notion_id": "25d9f8c22a828043ae7af48a5e02cc47",
+      "notion_name": "ABORDO, Peter",
+      "local_name": "ABORDO, Peter",
+      "page_url": "https://artcirclegallery.notion.site/ABORDO-Peter-25d9f8c22a828043ae7af48a5e02cc47?pvs=25",
+      "artworks_count": 8,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280568765cec9416c8b26",
+      "notion_name": "ACUNA, Ivan",
+      "local_name": "ACUNA, Ivan",
+      "page_url": "https://artcirclegallery.notion.site/ACUNA-Ivan-25d9f8c22a8280568765cec9416c8b26?pvs=25",
+      "artworks_count": 22,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "no-id-tish-alcantara-no-id",
+      "notion_name": "ALCANTARA, Tish",
+      "local_name": "ALCANTARA, Tish",
+      "page_url": "https://artcirclegallery.notion.site/tish-alcantara",
+      "note": "matched by name, different notion_id"
+    },
+    {
+      "notion_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "notion_name": "ALEGRE, Hermes",
+      "local_name": "ALEGRE, Hermes",
+      "page_url": "https://artcirclegallery.notion.site/ALEGRE-Hermes-2f19f8c22a8280b5838ec33e751423f5?pvs=25",
+      "artworks_count": 9,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a828044b79df147c877c108",
+      "notion_name": "ANGELES, Isab",
+      "local_name": "ANGELES, Isab",
+      "page_url": "https://artcirclegallery.notion.site/ANGELES-Isab-25d9f8c22a828044b79df147c877c108?pvs=25",
+      "artworks_count": 6,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "2729f8c22a8280469192de90e1502c1c",
+      "notion_name": "Antonio, Marcel",
+      "local_name": "Antonio, Marcel",
+      "page_url": "https://artcirclegallery.notion.site/Antonio-Marcel-2729f8c22a8280469192de90e1502c1c?pvs=25",
+      "artworks_count": 3,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a82800c9a16f2ef713b7f23",
+      "notion_name": "BADAJOS, Nilo",
+      "local_name": "BADAJOS, Nilo",
+      "page_url": "https://artcirclegallery.notion.site/BADAJOS-Nilo-25d9f8c22a82800c9a16f2ef713b7f23?pvs=25",
+      "artworks_count": 6,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "notion_name": "BAGACINA, Jefferson \"Love\"",
+      "local_name": "BAGACINA, Jefferson “Love”",
+      "page_url": "https://artcirclegallery.notion.site/BAGACINA-Jefferson-Love-25d9f8c22a8280aabb68c0eeed83e244?pvs=25",
+      "artworks_count": 20,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "notion_name": "BALDEMOR, Angelo",
+      "local_name": "BALDEMOR, Angelo",
+      "page_url": "https://artcirclegallery.notion.site/BALDEMOR-Angelo-25d9f8c22a8280238d3bfcd79029174c?pvs=25",
+      "artworks_count": 19,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "no-id-mdbaldemor",
+      "notion_name": "BALDEMOR, Manuel",
+      "local_name": "BALDEMOR, Manuel",
+      "page_url": "https://artcirclegallery.notion.site/mdbaldemor",
+      "note": "matched by name, different notion_id"
+    },
+    {
+      "notion_id": "25d9f8c22a8280218e2de9cb6a2053b9",
+      "notion_name": "BANDALAN, Al",
+      "local_name": "BANDALAN, Al",
+      "page_url": "https://artcirclegallery.notion.site/BANDALAN-Al-25d9f8c22a8280218e2de9cb6a2053b9?pvs=25",
+      "artworks_count": 2,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "notion_name": "BANEZ, Joseph",
+      "local_name": "BANEZ, Joseph",
+      "page_url": "https://artcirclegallery.notion.site/BANEZ-Joseph-25d9f8c22a828057b6c8cc4bc9e40204?pvs=25",
+      "artworks_count": 22,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "notion_name": "BENITO, Jovan",
+      "local_name": "BENITO, Jovan",
+      "page_url": "https://artcirclegallery.notion.site/BENITO-Jovan-25d9f8c22a8280a89168f2986ffb4b2a?pvs=25",
+      "artworks_count": 11,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a828046ae42ce215bbc2c6a",
+      "notion_name": "BEQUILLO, Jason",
+      "local_name": "BEQUILLO, Jason",
+      "page_url": "https://artcirclegallery.notion.site/BEQUILLO-Jason-25d9f8c22a828046ae42ce215bbc2c6a?pvs=25",
+      "artworks_count": 2,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "no-id-bernaldo-melchor-",
+      "notion_name": "BERNALDO, Melchor",
+      "local_name": "BERNALDO, Melchor",
+      "page_url": "https://artcirclegallery.notion.site/bernaldo-melchor-",
+      "note": "matched by name, different notion_id"
+    },
+    {
+      "notion_id": "25e9f8c22a8280619150c991da17fecf",
+      "notion_name": "BERNARDINO, Danna",
+      "local_name": "BERNARDINO, Danna",
+      "page_url": "https://artcirclegallery.notion.site/BERNARDINO-Danna-25e9f8c22a8280619150c991da17fecf?pvs=25",
+      "artworks_count": 11,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25c9f8c22a8280e490dce65103390c3e",
+      "notion_name": "BERNARDO, Jacob",
+      "local_name": "BERNARDO, Jacob",
+      "page_url": "https://artcirclegallery.notion.site/BERNARDO-Jacob-25c9f8c22a8280e490dce65103390c3e?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": true,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a828063b898e3deedbe9a55",
+      "notion_name": "CAGANDAHAN, Glen",
+      "local_name": "CAGANDAHAN, Glen",
+      "page_url": "https://artcirclegallery.notion.site/CAGANDAHAN-Glen-25d9f8c22a828063b898e3deedbe9a55?pvs=25",
+      "artworks_count": 0,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "notion_name": "CAINTO, Caroline",
+      "local_name": "CAINTO, Caroline",
+      "page_url": "https://artcirclegallery.notion.site/CAINTO-Caroline-25d9f8c22a8280ef8d94c8e6ebbe3534?pvs=25",
+      "artworks_count": 14,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "notion_name": "CAINTO, Ronnel",
+      "local_name": "CAINTO, Ronnel",
+      "page_url": "https://artcirclegallery.notion.site/CAINTO-Ronnel-25d9f8c22a8280eeba4acd472510e0b5?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280429db6c531c41a8e4c",
+      "notion_name": "CARLOS, Isagani Punzalan",
+      "local_name": "CARLOS, Isagani Punzalan",
+      "page_url": "https://artcirclegallery.notion.site/CARLOS-Isagani-Punzalan-25d9f8c22a8280429db6c531c41a8e4c?pvs=25",
+      "artworks_count": 0,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a828027af43c5380ff0360a",
+      "notion_name": "CASTRILLO, Karen",
+      "local_name": "CASTRILLO, Karen",
+      "page_url": "https://artcirclegallery.notion.site/CASTRILLO-Karen-25d9f8c22a828027af43c5380ff0360a?pvs=25",
+      "artworks_count": 0,
+      "has_bio": false,
+      "has_profile_image": false,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing bio",
+        "missing profile image",
+        "missing description",
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "notion_name": "CASTRILLO, Ronald",
+      "local_name": "CASTRILLO, Ronald",
+      "page_url": "https://artcirclegallery.notion.site/CASTRILLO-Ronald-25d9f8c22a828042afe0f6ad4408db7b?pvs=25",
+      "artworks_count": 22,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "no-id-catampongan-eberle",
+      "notion_name": "CATAMPONGAN, Eberle",
+      "local_name": "CATAMPONGAN, Eberle",
+      "page_url": "https://artcirclegallery.notion.site/catampongan-eberle",
+      "note": "matched by name, different notion_id"
+    },
+    {
+      "notion_id": "25d9f8c22a828062b190d2d36d1dbe9f",
+      "notion_name": "CONMIGO, Reymar",
+      "local_name": "CONMIGO, Reymar",
+      "page_url": "https://artcirclegallery.notion.site/CONMIGO-Reymar-25d9f8c22a828062b190d2d36d1dbe9f?pvs=25",
+      "artworks_count": 1,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280a7a174e2efcb6e0c9b",
+      "notion_name": "CUNANAN, Lemuel",
+      "local_name": "CUNANAN, Lemuel",
+      "page_url": "https://artcirclegallery.notion.site/CUNANAN-Lemuel-25d9f8c22a8280a7a174e2efcb6e0c9b?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "2b59f8c22a828075af98d714e450786b",
+      "notion_name": "DELOLA, Angelo",
+      "local_name": "DELOLA, Angelo",
+      "page_url": "https://artcirclegallery.notion.site/DELOLA-Angelo-2b59f8c22a828075af98d714e450786b?pvs=25",
+      "artworks_count": 8,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": true,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a828037a329e95f9741bfab",
+      "notion_name": "DELOS SANTOS, Roland",
+      "local_name": "DELOS SANTOS, Roland",
+      "page_url": "https://artcirclegallery.notion.site/DELOS-SANTOS-Roland-25d9f8c22a828037a329e95f9741bfab?pvs=25",
+      "artworks_count": 22,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "notion_name": "DEMATERA, Bullet",
+      "local_name": "DEMATERA, Bullet",
+      "page_url": "https://artcirclegallery.notion.site/DEMATERA-Bullet-25e9f8c22a8280c0adb1c39e8a9f069b?pvs=25",
+      "artworks_count": 10,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "notion_name": "DIZON, Jeff",
+      "local_name": "DIZON, Jeff",
+      "page_url": "https://artcirclegallery.notion.site/DIZON-Jeff-25c9f8c22a8280b68418f0cf353bac2a?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "notion_name": "DORONIO, Rico",
+      "local_name": "DORONIO, Rico",
+      "page_url": "https://artcirclegallery.notion.site/DORONIO-Rico-25e9f8c22a828082999be6c12c0cb7d3?pvs=25",
+      "artworks_count": 13,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280a89f9bea2bb1824edc",
+      "notion_name": "FRANCISCO, Jerome",
+      "local_name": "FRANCISCO, Jerome",
+      "page_url": "https://artcirclegallery.notion.site/FRANCISCO-Jerome-25d9f8c22a8280a89f9bea2bb1824edc?pvs=25",
+      "artworks_count": 4,
+      "has_bio": false,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing bio",
+        "missing description",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "notion_name": "GEDUSPAN, Anthony",
+      "local_name": "GEDUSPAN, Anthony",
+      "page_url": "https://artcirclegallery.notion.site/GEDUSPAN-Anthony-25d9f8c22a8280ad922cff01bde5a784?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "notion_name": "GOMEZ, Ray",
+      "local_name": "GOMEZ, Ray",
+      "page_url": "https://artcirclegallery.notion.site/GOMEZ-Ray-25c9f8c22a8280e88afbc5dc4045eabd?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "2729f8c22a8280f48241efed8bac6d19",
+      "notion_name": "Hablo, Allain",
+      "local_name": "Hablo, Allain",
+      "page_url": "https://artcirclegallery.notion.site/Hablo-Allain-2729f8c22a8280f48241efed8bac6d19?pvs=25",
+      "artworks_count": 0,
+      "has_bio": true,
+      "has_profile_image": false,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing profile image",
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25e9f8c22a82806d8b11e12e35ee668e",
+      "notion_name": "HIPOLITO, Dante",
+      "local_name": "HIPOLITO, Dante",
+      "page_url": "https://artcirclegallery.notion.site/HIPOLITO-Dante-25e9f8c22a82806d8b11e12e35ee668e?pvs=25",
+      "artworks_count": 3,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "2649f8c22a828028bdacde45991bfaa1",
+      "notion_name": "HIPOLITO, Ella",
+      "local_name": "HIPOLITO, Ella",
+      "page_url": "https://artcirclegallery.notion.site/HIPOLITO-Ella-2649f8c22a828028bdacde45991bfaa1?pvs=25",
+      "artworks_count": 4,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25e9f8c22a828018b6e0d99e9f75a854",
+      "notion_name": "LIAO, Ed",
+      "local_name": "LIAO, Ed",
+      "page_url": "https://artcirclegallery.notion.site/LIAO-Ed-25e9f8c22a828018b6e0d99e9f75a854?pvs=25",
+      "artworks_count": 2,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "2b59f8c22a828037a0b0c11e60066cb7",
+      "notion_name": "LIM, Sven Wilbur",
+      "local_name": "LIM, Sven Wilbur",
+      "page_url": "https://artcirclegallery.notion.site/LIM-Sven-Wilbur-2b59f8c22a828037a0b0c11e60066cb7?pvs=25",
+      "artworks_count": 11,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": true,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25e9f8c22a8280cb8b7ec16f6bdd19e5",
+      "notion_name": "MAHILUM, Anton",
+      "local_name": "MAHILUM, Anton",
+      "page_url": "https://artcirclegallery.notion.site/MAHILUM-Anton-25e9f8c22a8280cb8b7ec16f6bdd19e5?pvs=25",
+      "artworks_count": 1,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a82807788bafedfa5486de5",
+      "notion_name": "MAHILUM, Joel",
+      "local_name": "MAHILUM, Joel",
+      "page_url": "https://artcirclegallery.notion.site/MAHILUM-Joel-25d9f8c22a82807788bafedfa5486de5?pvs=25",
+      "artworks_count": 15,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a828050ba53f1a5364e958f",
+      "notion_name": "MALLARI, Ram",
+      "local_name": "MALLARI, Ram",
+      "page_url": "https://artcirclegallery.notion.site/MALLARI-Ram-25d9f8c22a828050ba53f1a5364e958f?pvs=25",
+      "artworks_count": 0,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25c9f8c22a8280d89766e2e5659f732c",
+      "notion_name": "MANINGO, Gil",
+      "local_name": "MANINGO, Gil",
+      "page_url": "https://artcirclegallery.notion.site/MANINGO-Gil-25c9f8c22a8280d89766e2e5659f732c?pvs=25",
+      "artworks_count": 0,
+      "has_bio": false,
+      "has_profile_image": false,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing bio",
+        "missing profile image",
+        "missing description",
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25e9f8c22a828012a8b4ddbcd474fa2d",
+      "notion_name": "MARQUEZ, Oliver",
+      "local_name": "MARQUEZ, Oliver",
+      "page_url": "https://artcirclegallery.notion.site/MARQUEZ-Oliver-25e9f8c22a828012a8b4ddbcd474fa2d?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "notion_name": "MARTINEZ, Raymart",
+      "local_name": "MARTINEZ, Raymart",
+      "page_url": "https://artcirclegallery.notion.site/MARTINEZ-Raymart-25d9f8c22a82804496f8fddd2f70bb2b?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "no-id-memije-larry",
+      "notion_name": "MEMIJE, Larry",
+      "local_name": "MEMIJE, Larry",
+      "page_url": "https://artcirclegallery.notion.site/memije-larry",
+      "note": "matched by name, different notion_id"
+    },
+    {
+      "notion_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "notion_name": "MONNAR",
+      "local_name": "MONNAR",
+      "page_url": "https://artcirclegallery.notion.site/MONNAR-25d9f8c22a82807baf67dfdd9cafc624?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "notion_name": "MONTOYA, Manuel",
+      "local_name": "MONTOYA, Manuel",
+      "page_url": "https://artcirclegallery.notion.site/MONTOYA-Manuel-25d9f8c22a8280caa629cc6dde26ed1c?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25d9f8c22a828038a3ffeb1460ed9d7c",
+      "notion_name": "MORADA, Jerry",
+      "local_name": "MORADA, Jerry",
+      "page_url": "https://artcirclegallery.notion.site/MORADA-Jerry-25d9f8c22a828038a3ffeb1460ed9d7c?pvs=25",
+      "artworks_count": 25,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "notion_id": "25e9f8c22a82801dba06ddae406338d2",
+      "notion_name": "MORALES, Adrian",
+      "local_name": "MORALES, Adrian",
+      "page_url": "https://artcirclegallery.notion.site/MORALES-Adrian-25e9f8c22a82801dba06ddae406338d2?pvs=25",
+      "artworks_count": 1,
+      "has_bio": true,
+      "has_profile_image": true,
+      "has_contact": false,
+      "mediums_count": 0,
+      "styles_count": 0,
+      "subjects_count": 0,
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    }
+  ],
+  "only_in_notion": [],
+  "only_in_local": [],
+  "missing_details": [
+    {
+      "name": "ABORDO, Peter",
+      "notion_id": "25d9f8c22a828043ae7af48a5e02cc47",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "ACUNA, Ivan",
+      "notion_id": "25d9f8c22a8280568765cec9416c8b26",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "ALEGRE, Hermes",
+      "notion_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "ANGELES, Isab",
+      "notion_id": "25d9f8c22a828044b79df147c877c108",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "Antonio, Marcel",
+      "notion_id": "2729f8c22a8280469192de90e1502c1c",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "BADAJOS, Nilo",
+      "notion_id": "25d9f8c22a82800c9a16f2ef713b7f23",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "BAGACINA, Jefferson “Love”",
+      "notion_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "BALDEMOR, Angelo",
+      "notion_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "BANDALAN, Al",
+      "notion_id": "25d9f8c22a8280218e2de9cb6a2053b9",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "BANEZ, Joseph",
+      "notion_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "BENITO, Jovan",
+      "notion_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "BEQUILLO, Jason",
+      "notion_id": "25d9f8c22a828046ae42ce215bbc2c6a",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "BERNARDINO, Danna",
+      "notion_id": "25e9f8c22a8280619150c991da17fecf",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "BERNARDO, Jacob",
+      "notion_id": "25c9f8c22a8280e490dce65103390c3e",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "CAGANDAHAN, Glen",
+      "notion_id": "25d9f8c22a828063b898e3deedbe9a55",
+      "issues": [
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "CAINTO, Caroline",
+      "notion_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "CAINTO, Ronnel",
+      "notion_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "CARLOS, Isagani Punzalan",
+      "notion_id": "25d9f8c22a8280429db6c531c41a8e4c",
+      "issues": [
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "CASTRILLO, Karen",
+      "notion_id": "25d9f8c22a828027af43c5380ff0360a",
+      "issues": [
+        "missing bio",
+        "missing profile image",
+        "missing description",
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "CASTRILLO, Ronald",
+      "notion_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "CONMIGO, Reymar",
+      "notion_id": "25d9f8c22a828062b190d2d36d1dbe9f",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "CUNANAN, Lemuel",
+      "notion_id": "25d9f8c22a8280a7a174e2efcb6e0c9b",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "DELOLA, Angelo",
+      "notion_id": "2b59f8c22a828075af98d714e450786b",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "DELOS SANTOS, Roland",
+      "notion_id": "25d9f8c22a828037a329e95f9741bfab",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "DEMATERA, Bullet",
+      "notion_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "DIZON, Jeff",
+      "notion_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "DORONIO, Rico",
+      "notion_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "FRANCISCO, Jerome",
+      "notion_id": "25d9f8c22a8280a89f9bea2bb1824edc",
+      "issues": [
+        "missing bio",
+        "missing description",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "GEDUSPAN, Anthony",
+      "notion_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "GOMEZ, Ray",
+      "notion_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "Hablo, Allain",
+      "notion_id": "2729f8c22a8280f48241efed8bac6d19",
+      "issues": [
+        "missing profile image",
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "HIPOLITO, Dante",
+      "notion_id": "25e9f8c22a82806d8b11e12e35ee668e",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "HIPOLITO, Ella",
+      "notion_id": "2649f8c22a828028bdacde45991bfaa1",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "LIAO, Ed",
+      "notion_id": "25e9f8c22a828018b6e0d99e9f75a854",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "LIM, Sven Wilbur",
+      "notion_id": "2b59f8c22a828037a0b0c11e60066cb7",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MAHILUM, Anton",
+      "notion_id": "25e9f8c22a8280cb8b7ec16f6bdd19e5",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MAHILUM, Joel",
+      "notion_id": "25d9f8c22a82807788bafedfa5486de5",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MALLARI, Ram",
+      "notion_id": "25d9f8c22a828050ba53f1a5364e958f",
+      "issues": [
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MANINGO, Gil",
+      "notion_id": "25c9f8c22a8280d89766e2e5659f732c",
+      "issues": [
+        "missing bio",
+        "missing profile image",
+        "missing description",
+        "no artworks",
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MARQUEZ, Oliver",
+      "notion_id": "25e9f8c22a828012a8b4ddbcd474fa2d",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MARTINEZ, Raymart",
+      "notion_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MONNAR",
+      "notion_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MONTOYA, Manuel",
+      "notion_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MORADA, Jerry",
+      "notion_id": "25d9f8c22a828038a3ffeb1460ed9d7c",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    },
+    {
+      "name": "MORALES, Adrian",
+      "notion_id": "25e9f8c22a82801dba06ddae406338d2",
+      "issues": [
+        "missing mediums",
+        "missing styles",
+        "missing subjects"
+      ]
+    }
+  ],
+  "timestamp": "2026-02-03T17:05:47.789115"
+}

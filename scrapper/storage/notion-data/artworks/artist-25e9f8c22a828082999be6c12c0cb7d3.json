@@ -1,0 +1,281 @@
+{
+  "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+  "artist_name": "DORONIO, Rico",
+  "total_artworks": 13,
+  "scraped_at": "2026-02-03T14:34:50.392784",
+  "artworks": [
+    {
+      "notion_id": "5ad4a233e0364d0db5c5bdd0e5e6d98e",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F8c114b70-3ec4-4c69-ac8c-761ffd93da99%2F74814682_2702800759806857_146761038254047232_n.jpg?table=block&id=bc146e1c-333d-4a2c-b676-b89630b4daeb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F8c114b70-3ec4-4c69-ac8c-761ffd93da99%2F74814682_2702800759806857_146761038254047232_n.jpg?table=block&id=bc146e1c-333d-4a2c-b676-b89630b4daeb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/9433-5ad4a233e0364d0db5c5bdd0e5e6d98e?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.389150"
+    },
+    {
+      "notion_id": "5f27db6d4cde42279ee5780bd86017bf",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff33bbac9-cc59-4461-a28a-ad96d9e00b96%2F393483122_289637507224725_269348812262914368_n.jpg?table=block&id=d1c51eda-54a8-43bc-905d-0f9d307920b7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff33bbac9-cc59-4461-a28a-ad96d9e00b96%2F393483122_289637507224725_269348812262914368_n.jpg?table=block&id=d1c51eda-54a8-43bc-905d-0f9d307920b7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/7487-5f27db6d4cde42279ee5780bd86017bf?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.389150"
+    },
+    {
+      "notion_id": "95fa8a4019134ff0832258ba1f38f0de",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F00d5efcd-5e49-421e-9bf4-af61a26d9a82%2F387604155_709638580555858_5746546935548387435_n.jpg?table=block&id=4a43f42d-51c0-4898-a94b-45d407124571&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F00d5efcd-5e49-421e-9bf4-af61a26d9a82%2F387604155_709638580555858_5746546935548387435_n.jpg?table=block&id=4a43f42d-51c0-4898-a94b-45d407124571&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/7374-95fa8a4019134ff0832258ba1f38f0de?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.389150"
+    },
+    {
+      "notion_id": "59129d74dcd944a68f6acb6cce163ccd",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Larong Pinoy Series",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F08d4c16d-1080-4a64-9f9a-21dd9c545936%2F1000008882.jpg?table=block&id=02bdc98c-0207-48ce-bf80-b9ecf730b0f6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F08d4c16d-1080-4a64-9f9a-21dd9c545936%2F1000008882.jpg?table=block&id=02bdc98c-0207-48ce-bf80-b9ecf730b0f6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24686-59129d74dcd944a68f6acb6cce163ccd?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.389791"
+    },
+    {
+      "notion_id": "8d8f8fe84782482c80d04428517841b2",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Larong Pinoy Series",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4dd12b84-40bc-4006-a020-c55b67c27b14%2F24024.jpeg?table=block&id=b04a7372-012a-43ea-80bf-8f244f9de801&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4dd12b84-40bc-4006-a020-c55b67c27b14%2F24024.jpeg?table=block&id=b04a7372-012a-43ea-80bf-8f244f9de801&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24204-8d8f8fe84782482c80d04428517841b2?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.389791"
+    },
+    {
+      "notion_id": "980c031abbf1457387ac37e42326404a",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Masaganang Ani",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F47d51bc9-2f67-43da-8c3d-c9e7c2f2e690%2F1B648037-623E-47E2-B8EB-1A47265238C2.jpg?table=block&id=91297444-b9bb-427c-915a-8dd4201fc2e8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F47d51bc9-2f67-43da-8c3d-c9e7c2f2e690%2F1B648037-623E-47E2-B8EB-1A47265238C2.jpg?table=block&id=91297444-b9bb-427c-915a-8dd4201fc2e8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25216-980c031abbf1457387ac37e42326404a?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.390373"
+    },
+    {
+      "notion_id": "ea0ca5ca3d1f49fc8e7cbdb75ec50e55",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Larong Pinoy",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1a828b4b-50fc-49c8-929b-d5b5c72dabb5%2F1000008883.jpg?table=block&id=524ece0b-ecd1-4ca7-a407-6f220e756512&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1a828b4b-50fc-49c8-929b-d5b5c72dabb5%2F1000008883.jpg?table=block&id=524ece0b-ecd1-4ca7-a407-6f220e756512&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24097-ea0ca5ca3d1f49fc8e7cbdb75ec50e55?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.390373"
+    },
+    {
+      "notion_id": "ea176178d16949a497a42206f599abe8",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F900e18bc-5017-4521-83a6-de458ace911a%2F1000008885.jpg?table=block&id=004abe65-a884-403b-8140-32bf27f6280d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F900e18bc-5017-4521-83a6-de458ace911a%2F1000008885.jpg?table=block&id=004abe65-a884-403b-8140-32bf27f6280d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/11465-ea176178d16949a497a42206f599abe8?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.390935"
+    },
+    {
+      "notion_id": "e007817b4ae8488da6a84e25f68ed3e6",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "14 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe3fed198-812c-4872-84ff-cbe52b2d1daf%2F1000010716.jpg?table=block&id=1c2a3bc3-f599-43a6-94f4-e72d021258df&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe3fed198-812c-4872-84ff-cbe52b2d1daf%2F1000010716.jpg?table=block&id=1c2a3bc3-f599-43a6-94f4-e72d021258df&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/8433-e007817b4ae8488da6a84e25f68ed3e6?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.390935"
+    },
+    {
+      "notion_id": "54dc2c397f534dc8be6fcc42745be05f",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "20 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F42378bda-d334-4a14-bdfb-dac96e99792c%2F1000008884.jpg?table=block&id=ca9f05b7-3cc6-43f2-8d1c-32e193e597d9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F42378bda-d334-4a14-bdfb-dac96e99792c%2F1000008884.jpg?table=block&id=ca9f05b7-3cc6-43f2-8d1c-32e193e597d9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/15693-54dc2c397f534dc8be6fcc42745be05f?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.390935"
+    },
+    {
+      "notion_id": "545da58502d34b80adb05e154722163f",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Laro ng Mga Batang Pinoy",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe28c3194-c01a-4282-912f-815956f9c5cc%2F23981.jpeg?table=block&id=65555691-76f5-4384-a11b-2afdabe83991&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe28c3194-c01a-4282-912f-815956f9c5cc%2F23981.jpeg?table=block&id=65555691-76f5-4384-a11b-2afdabe83991&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23981-545da58502d34b80adb05e154722163f?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.390935"
+    },
+    {
+      "notion_id": "555f78ee8e214417aadd169c8633a95d",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Outdoor Plays",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff486b863-f682-4c3c-94cc-bc1e1d5a3f73%2F25472.jpeg?table=block&id=f8abea8a-409d-4908-aa74-54c3e7e66902&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff486b863-f682-4c3c-94cc-bc1e1d5a3f73%2F25472.jpeg?table=block&id=f8abea8a-409d-4908-aa74-54c3e7e66902&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25472-555f78ee8e214417aadd169c8633a95d?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.391604"
+    },
+    {
+      "notion_id": "b5a6e9fe54554a78927bd0911ec15412",
+      "artist_id": "25e9f8c22a828082999be6c12c0cb7d3",
+      "artist_name": "DORONIO, Rico",
+      "title": "Trumpo’t Tradisyon",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "12 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdce3607f-5dd4-40cd-b3c5-4171b6377f00%2F16855.jpg?table=block&id=8b66e956-22d5-46f0-ab55-c2b88c9e62ef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdce3607f-5dd4-40cd-b3c5-4171b6377f00%2F16855.jpg?table=block&id=8b66e956-22d5-46f0-ab55-c2b88c9e62ef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/16855-b5a6e9fe54554a78927bd0911ec15412?pvs=25",
+      "scraped_at": "2026-02-03T14:34:50.391604"
+    }
+  ]
+}

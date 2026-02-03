@@ -1,0 +1,470 @@
+{
+  "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+  "artist_name": "BANEZ, Joseph",
+  "total_artworks": 22,
+  "scraped_at": "2026-02-03T14:23:57.569884",
+  "artworks": [
+    {
+      "notion_id": "2009f8c22a8280059c11da09b486e82b",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "The Baker 2.0",
+      "description": null,
+      "medium": "Mixed media",
+      "dimensions": "24 x 12 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A546db35f-1982-46f7-ae67-27615286b314%3AWhatsApp_Image_2025-05-28_at_15.12.57_2d8c27bc.jpg?table=block&id=901d73fb-ac22-4ea6-bfbc-5e821f619f79&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A546db35f-1982-46f7-ae67-27615286b314%3AWhatsApp_Image_2025-05-28_at_15.12.57_2d8c27bc.jpg?table=block&id=901d73fb-ac22-4ea6-bfbc-5e821f619f79&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RM-058-2009f8c22a8280059c11da09b486e82b?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.548964"
+    },
+    {
+      "notion_id": "39728256d6184e1189275a31d988c4d8",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "ReGas Station",
+      "description": null,
+      "medium": "Mixed Media",
+      "dimensions": "20 x 42 x 19 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd2bf7f5a-e0dd-47f7-8df3-17e7ea5c6400%2FReygas.jpg?table=block&id=a3093653-79f1-4159-b2ed-e0407abdb7c8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd2bf7f5a-e0dd-47f7-8df3-17e7ea5c6400%2FReygas.jpg?table=block&id=a3093653-79f1-4159-b2ed-e0407abdb7c8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/OB-029-39728256d6184e1189275a31d988c4d8?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.549924"
+    },
+    {
+      "notion_id": "a61b9485a106456b9a16604675860de7",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on wood",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F736931e4-46bc-43fd-b1e5-4815454e00c5%2F449046366_486012684120416_1147715528949800202_n.jpg?table=block&id=cb33a581-8f95-4ffd-b208-bebcef6bb70d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F736931e4-46bc-43fd-b1e5-4815454e00c5%2F449046366_486012684120416_1147715528949800202_n.jpg?table=block&id=cb33a581-8f95-4ffd-b208-bebcef6bb70d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/OB-023-a61b9485a106456b9a16604675860de7?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.550960"
+    },
+    {
+      "notion_id": "7a332a49545747be8d92c1b27332db1b",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Ligawan",
+      "description": null,
+      "medium": "Oil on wood",
+      "dimensions": "24 x 31",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7e1be65c-0cd2-49c4-bfe7-b40da4a90843%2F27946.jpg?table=block&id=cf4f19fb-5251-4c76-aa53-2571d92e2112&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7e1be65c-0cd2-49c4-bfe7-b40da4a90843%2F27946.jpg?table=block&id=cf4f19fb-5251-4c76-aa53-2571d92e2112&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27946-7a332a49545747be8d92c1b27332db1b?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.550960"
+    },
+    {
+      "notion_id": "276abf3dfb764c79ac72dc7794131ee8",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Tuli",
+      "description": null,
+      "medium": "Oil on wood",
+      "dimensions": "5 x 65",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F04d00baf-9aa5-4e43-b332-c3976565fa9e%2F27945.jpg?table=block&id=68f6aaeb-b13e-4955-9efb-39b5a8405a94&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F04d00baf-9aa5-4e43-b332-c3976565fa9e%2F27945.jpg?table=block&id=68f6aaeb-b13e-4955-9efb-39b5a8405a94&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/OB-019-276abf3dfb764c79ac72dc7794131ee8?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.552474"
+    },
+    {
+      "notion_id": "c48a4a0e1b334181b708fc4010b64652",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Buhaybasket Series",
+      "description": null,
+      "medium": null,
+      "dimensions": "3 x 9",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2d95f916-84a1-4eb3-9ad6-3c174c2dfd3b%2F1000554344.jpg?table=block&id=6dbaa782-768a-4cda-a85c-938e16b29b7d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2d95f916-84a1-4eb3-9ad6-3c174c2dfd3b%2F1000554344.jpg?table=block&id=6dbaa782-768a-4cda-a85c-938e16b29b7d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/OB-018-c48a4a0e1b334181b708fc4010b64652?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.553498"
+    },
+    {
+      "notion_id": "2206c0ad9b3c4611a646366512b51b32",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Buhaybasket Series",
+      "description": null,
+      "medium": null,
+      "dimensions": "3 x 9",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa9bc20a1-3b46-4538-81fe-297a7d9231eb%2F1000554342.jpg?table=block&id=e2168fdf-c44e-4a74-b33e-40ea52bb3dec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa9bc20a1-3b46-4538-81fe-297a7d9231eb%2F1000554342.jpg?table=block&id=e2168fdf-c44e-4a74-b33e-40ea52bb3dec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/OB-016-2206c0ad9b3c4611a646366512b51b32?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.554499"
+    },
+    {
+      "notion_id": "7a20b0b2642e4412885ccd5656954b5e",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Buhaybasket Series",
+      "description": null,
+      "medium": null,
+      "dimensions": "3 x 9",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc9a2c1c8-633e-42b8-b77b-7d5a944e5ec3%2F1000554341.jpg?table=block&id=08a8796c-f0c6-48d9-83e8-e4ccac41faf7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc9a2c1c8-633e-42b8-b77b-7d5a944e5ec3%2F1000554341.jpg?table=block&id=08a8796c-f0c6-48d9-83e8-e4ccac41faf7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/OB-015-7a20b0b2642e4412885ccd5656954b5e?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.555514"
+    },
+    {
+      "notion_id": "52aafaf0513c40ba800bfa5bd3f1a97b",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Buhaybasket Series",
+      "description": null,
+      "medium": null,
+      "dimensions": "3 x 9",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F474f237e-2e30-4110-8481-cd8ca738396a%2F1000554340.jpg?table=block&id=164e79d3-5e70-4539-a1e9-6bf170a745d6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F474f237e-2e30-4110-8481-cd8ca738396a%2F1000554340.jpg?table=block&id=164e79d3-5e70-4539-a1e9-6bf170a745d6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/OB-014-52aafaf0513c40ba800bfa5bd3f1a97b?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.555514"
+    },
+    {
+      "notion_id": "c10db84a3dd74f7bb4eec758f5890df2",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 60 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3fcea9a9-5c49-4d79-b021-c1a372df64e4%2F404879086_1358011904918489_6449624571345950610_n.jpg?table=block&id=6ff5b0cb-32c3-426a-803f-718b2550cf8a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3fcea9a9-5c49-4d79-b021-c1a372df64e4%2F404879086_1358011904918489_6449624571345950610_n.jpg?table=block&id=6ff5b0cb-32c3-426a-803f-718b2550cf8a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/5884-c10db84a3dd74f7bb4eec758f5890df2?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.556627"
+    },
+    {
+      "notion_id": "50519e6ed601423bb83514ec9d804d6b",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on wood",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F11341608-1b9f-42b2-8138-4f8893a84118%2FTC_00012.jpg?table=block&id=2e890120-e3dd-4351-8a82-832bfcc198dd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F11341608-1b9f-42b2-8138-4f8893a84118%2FTC_00012.jpg?table=block&id=2e890120-e3dd-4351-8a82-832bfcc198dd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/TC-00012-50519e6ed601423bb83514ec9d804d6b?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.557967"
+    },
+    {
+      "notion_id": "b964a121aaa248c08b0418e8e239a4ca",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Siklista I",
+      "description": null,
+      "medium": null,
+      "dimensions": "11 x 9",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F62e7997b-9836-41d6-aa5e-523595dc6598%2F312297698_5768890219798693_3947766710929054244_n_(1).jpg?table=block&id=49992e1b-2ff1-4d4e-98ab-4b92f9cfc77a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F62e7997b-9836-41d6-aa5e-523595dc6598%2F312297698_5768890219798693_3947766710929054244_n_(1).jpg?table=block&id=49992e1b-2ff1-4d4e-98ab-4b92f9cfc77a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/OB-006-b964a121aaa248c08b0418e8e239a4ca?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.558987"
+    },
+    {
+      "notion_id": "256a27bccf8a49ada0ce4ddfabcd1504",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0a97461d-d9c1-4acd-8084-9f7758e1eeeb%2F5662.jpg?table=block&id=95294b28-3d29-4dc7-aa7a-bae4919eef04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0a97461d-d9c1-4acd-8084-9f7758e1eeeb%2F5662.jpg?table=block&id=95294b28-3d29-4dc7-aa7a-bae4919eef04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/5662-256a27bccf8a49ada0ce4ddfabcd1504?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.560551"
+    },
+    {
+      "notion_id": "f2739e9187984ef98b3e47a78eedb19c",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Buhaybasket Series",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 18 x 11 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2f40c52a-92e0-4bef-9d5c-e43170d931d4%2Fbanez3.jpg?table=block&id=c955c4e6-6111-45bb-9a16-ce54384111c2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2f40c52a-92e0-4bef-9d5c-e43170d931d4%2Fbanez3.jpg?table=block&id=c955c4e6-6111-45bb-9a16-ce54384111c2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26091-f2739e9187984ef98b3e47a78eedb19c?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.560551"
+    },
+    {
+      "notion_id": "c6682473c27d4b44be894d747ced995e",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Buhaybasket Series",
+      "description": null,
+      "medium": null,
+      "dimensions": "16 x 18 x 10 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F83074216-a20a-47ae-a09e-bab4d03cce2f%2F26182.jpg?table=block&id=b9ea60e9-81ee-4992-ae77-4e271b4669d8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F83074216-a20a-47ae-a09e-bab4d03cce2f%2F26182.jpg?table=block&id=b9ea60e9-81ee-4992-ae77-4e271b4669d8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26182-c6682473c27d4b44be894d747ced995e?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.562066"
+    },
+    {
+      "notion_id": "c22df53f28de4215b7c874fca4955665",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe9b2c10e-cc76-4567-ab91-ac7023f98080%2F375756349_800960931512742_2715696272502925634_n.jpg?table=block&id=596238d0-8b8d-4ce1-83bd-1e8db1be06f9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe9b2c10e-cc76-4567-ab91-ac7023f98080%2F375756349_800960931512742_2715696272502925634_n.jpg?table=block&id=596238d0-8b8d-4ce1-83bd-1e8db1be06f9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/6147-c22df53f28de4215b7c874fca4955665?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.563080"
+    },
+    {
+      "notion_id": "9e0de6754dff4dbb9de716cd968641bf",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Palosebo",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "48 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2a99181e-cb93-4ff8-819c-2c78e74dc7da%2F441870434_753256443347076_7493244303849209459_n.jpg?table=block&id=f1613edf-cf81-4969-8378-5cfd309234d4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2a99181e-cb93-4ff8-819c-2c78e74dc7da%2F441870434_753256443347076_7493244303849209459_n.jpg?table=block&id=f1613edf-cf81-4969-8378-5cfd309234d4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/OB-021-9e0de6754dff4dbb9de716cd968641bf?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.563080"
+    },
+    {
+      "notion_id": "53c3f54e79d846e594205614dd4b479a",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Gagamba Fighting",
+      "description": null,
+      "medium": null,
+      "dimensions": "11 x 10 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F37c588ce-c05d-4b6a-9bd1-7d42a5534579%2F26268.jpg?table=block&id=f7fb2fc6-c147-4baa-b8fb-abe0c991f04e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F37c588ce-c05d-4b6a-9bd1-7d42a5534579%2F26268.jpg?table=block&id=f7fb2fc6-c147-4baa-b8fb-abe0c991f04e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26268-53c3f54e79d846e594205614dd4b479a?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.564078"
+    },
+    {
+      "notion_id": "fbc7c2d482894aada3258aeb28453cd2",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Trumpo",
+      "description": null,
+      "medium": null,
+      "dimensions": "8 x 24 x 9",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F670ec010-a2b3-4856-9c24-25e0ae3f36bd%2F26126.jpg?table=block&id=e9a67df4-dc56-47df-a7ab-3370d8b614d7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F670ec010-a2b3-4856-9c24-25e0ae3f36bd%2F26126.jpg?table=block&id=e9a67df4-dc56-47df-a7ab-3370d8b614d7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26126-fbc7c2d482894aada3258aeb28453cd2?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.565854"
+    },
+    {
+      "notion_id": "df1686c7eeb94ed2b1ebf0a164857be7",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "18 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd317dad6-6a94-40f9-839e-04a9df962272%2F7274.jpg?table=block&id=f6c89435-61e8-4ffa-b34f-d316250e3fd7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd317dad6-6a94-40f9-839e-04a9df962272%2F7274.jpg?table=block&id=f6c89435-61e8-4ffa-b34f-d316250e3fd7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/7274-df1686c7eeb94ed2b1ebf0a164857be7?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.566872"
+    },
+    {
+      "notion_id": "17516a5b19824a788be7d95c7f7a8d1d",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Luksong Tinik",
+      "description": null,
+      "medium": null,
+      "dimensions": "8 x 24 x 9",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F571a75e1-6e38-4e82-bee8-4ff2a13314f9%2F26127.jpg?table=block&id=27341fe3-16bd-410f-846c-7bb1afe3c96e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F571a75e1-6e38-4e82-bee8-4ff2a13314f9%2F26127.jpg?table=block&id=27341fe3-16bd-410f-846c-7bb1afe3c96e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26127-17516a5b19824a788be7d95c7f7a8d1d?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.566872"
+    },
+    {
+      "notion_id": "39ecd082a21c4428b9dc52082f44d51d",
+      "artist_id": "25d9f8c22a828057b6c8cc4bc9e40204",
+      "artist_name": "BANEZ, Joseph",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 24 x 8 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b93b3bc-a744-403f-969f-b7df913d71f7%2F26180.jpg?table=block&id=d054b8c2-f899-482f-a29c-37be7c98c8e3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b93b3bc-a744-403f-969f-b7df913d71f7%2F26180.jpg?table=block&id=d054b8c2-f899-482f-a29c-37be7c98c8e3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26180-39ecd082a21c4428b9dc52082f44d51d?pvs=25",
+      "scraped_at": "2026-02-03T14:23:57.567869"
+    }
+  ]
+}

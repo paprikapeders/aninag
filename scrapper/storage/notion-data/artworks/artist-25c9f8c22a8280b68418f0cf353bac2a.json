@@ -1,0 +1,533 @@
+{
+  "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+  "artist_name": "DIZON, Jeff",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T14:34:19.684029",
+  "artworks": [
+    {
+      "notion_id": "6cb6538854e4409f983861a776e5284d",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Filipina",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe6636e60-7d82-45be-981e-5d2695ca6de1%2F473018279_1733082514157861_7704392404983243805_n.jpg?table=block&id=93b1951a-a43d-4267-882c-f7ec4aa5fddf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe6636e60-7d82-45be-981e-5d2695ca6de1%2F473018279_1733082514157861_7704392404983243805_n.jpg?table=block&id=93b1951a-a43d-4267-882c-f7ec4aa5fddf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24117-6cb6538854e4409f983861a776e5284d?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.671249"
+    },
+    {
+      "notion_id": "1a89f8c22a82808f93dddaad78fedf09",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Selfie",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A6fe458e6-455b-4d72-9779-dd2dbef044a0%3A1a0563f6-d59f-4b12-8581-df08c86a5cd6.jpg?table=block&id=f247661e-8355-4a6d-bee2-18b54c80f92a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A6fe458e6-455b-4d72-9779-dd2dbef044a0%3A1a0563f6-d59f-4b12-8581-df08c86a5cd6.jpg?table=block&id=f247661e-8355-4a6d-bee2-18b54c80f92a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26881-1a89f8c22a82808f93dddaad78fedf09?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.671872"
+    },
+    {
+      "notion_id": "789096e766a5420c8c44a9064b6f6a2d",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "French Wine",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F053c1f4d-d049-4761-9c3a-be185a96ab84%2FIMG_4515.jpeg?table=block&id=d08efcf2-3176-4679-aec8-db49209ae807&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F053c1f4d-d049-4761-9c3a-be185a96ab84%2FIMG_4515.jpeg?table=block&id=d08efcf2-3176-4679-aec8-db49209ae807&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27821-789096e766a5420c8c44a9064b6f6a2d?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.671872"
+    },
+    {
+      "notion_id": "b82c7b76e6894dfebf2461be52e0c9d1",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "“Where na you?”",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F625c5338-7e73-4a36-b2f7-fa89d83d6306%2F27702.jpg?table=block&id=e5b5985e-5b36-4d2c-b26c-e4a50b507beb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F625c5338-7e73-4a36-b2f7-fa89d83d6306%2F27702.jpg?table=block&id=e5b5985e-5b36-4d2c-b26c-e4a50b507beb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27702-b82c7b76e6894dfebf2461be52e0c9d1?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.672635"
+    },
+    {
+      "notion_id": "eefae5b4ae544399a95f3ab041c18fa9",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "“Yo! What’s The Passcode?”",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F67e4b0c5-6b4c-490c-9f84-044d4362d177%2F367809285_1353330265305942_1952282022883853379_n.jpg?table=block&id=61a927eb-b304-4f1b-aa86-7a31ad5cd70e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F67e4b0c5-6b4c-490c-9f84-044d4362d177%2F367809285_1353330265305942_1952282022883853379_n.jpg?table=block&id=61a927eb-b304-4f1b-aa86-7a31ad5cd70e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27701-eefae5b4ae544399a95f3ab041c18fa9?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.673264"
+    },
+    {
+      "notion_id": "1a678c6184504dbf8e3eea77cba91c5f",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Chears with Selfie",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb36372ad-3d4e-4271-84fe-5baf7d3ebe1a%2FIMG_8901.jpg?table=block&id=9ed56b6a-54ae-4ded-b5b1-d7cb444123c7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb36372ad-3d4e-4271-84fe-5baf7d3ebe1a%2FIMG_8901.jpg?table=block&id=9ed56b6a-54ae-4ded-b5b1-d7cb444123c7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27402-1a678c6184504dbf8e3eea77cba91c5f?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.673264"
+    },
+    {
+      "notion_id": "51f24a465b3a47ab8a68ac5e63db59da",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "At BGC Night",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F65fa6c11-3129-483a-ac6b-c90a08289dd4%2F27293.jpg?table=block&id=1b1deb85-4b9c-4f0f-9424-4f3ce1054ee9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F65fa6c11-3129-483a-ac6b-c90a08289dd4%2F27293.jpg?table=block&id=1b1deb85-4b9c-4f0f-9424-4f3ce1054ee9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27293-51f24a465b3a47ab8a68ac5e63db59da?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.673909"
+    },
+    {
+      "notion_id": "bedef1918e29423985aafed58a4c7b1b",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "At Powerplant (Rockwell)",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb15c6be3-121d-412b-ac23-9c9ac9986897%2F27294.jpg?table=block&id=23143bec-ec6a-41a1-b47f-fc563ba8a813&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb15c6be3-121d-412b-ac23-9c9ac9986897%2F27294.jpg?table=block&id=23143bec-ec6a-41a1-b47f-fc563ba8a813&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27294-bedef1918e29423985aafed58a4c7b1b?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.675207"
+    },
+    {
+      "notion_id": "b62fece02ee44bb4b53fb04500b45ede",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Thank God It’s Friday",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F8a5bc0e1-4f48-458c-9d80-7d13fb9864e7%2F27216_without_frame.jpg?table=block&id=85bb2806-f3f7-4568-9d62-0a352f7d15ec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F8a5bc0e1-4f48-458c-9d80-7d13fb9864e7%2F27216_without_frame.jpg?table=block&id=85bb2806-f3f7-4568-9d62-0a352f7d15ec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27295-b62fece02ee44bb4b53fb04500b45ede?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.675829"
+    },
+    {
+      "notion_id": "f45adba5cc854bdfbf9adc74ef68534f",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Loving Kindness",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7dd13b37-fd4c-4209-aa9e-fac7cca099d5%2F25555.jpg?table=block&id=e3c044ea-9841-420a-8c19-f156c89457f8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7dd13b37-fd4c-4209-aa9e-fac7cca099d5%2F25555.jpg?table=block&id=e3c044ea-9841-420a-8c19-f156c89457f8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25555-f45adba5cc854bdfbf9adc74ef68534f?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.676440"
+    },
+    {
+      "notion_id": "6bb4d4dad94449cc9830935f6be0bb50",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Immensely Blessed",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6e2723ee-3c96-4069-9a39-0f29359d4eff%2F281880052_7457084471030918_7658176589908435719_n.jpg?table=block&id=6729a5f3-cedc-448b-aea5-14b49da71422&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6e2723ee-3c96-4069-9a39-0f29359d4eff%2F281880052_7457084471030918_7658176589908435719_n.jpg?table=block&id=6729a5f3-cedc-448b-aea5-14b49da71422&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26033-6bb4d4dad94449cc9830935f6be0bb50?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.677047"
+    },
+    {
+      "notion_id": "439bebd0781548928d9f492624b899a9",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "My Father, My Refuge",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fffea2e8a-9aee-4cb0-a14f-f2565433ba5b%2F473263932_2002164213622074_6674786607101952571_n.jpg?table=block&id=ba469a46-0923-4c07-8eaf-18b0cdf3ffc2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fffea2e8a-9aee-4cb0-a14f-f2565433ba5b%2F473263932_2002164213622074_6674786607101952571_n.jpg?table=block&id=ba469a46-0923-4c07-8eaf-18b0cdf3ffc2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25683-439bebd0781548928d9f492624b899a9?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.677595"
+    },
+    {
+      "notion_id": "3cec03301bdc439c94a69f1b75d7dc4e",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Loving Kindness",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6278fe7d-6be2-49bd-b278-19e2d561bd4c%2F473142487_980415800603281_4963910369804076672_n.jpg?table=block&id=f022d69d-d67f-43bb-b12d-2845d251afbe&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6278fe7d-6be2-49bd-b278-19e2d561bd4c%2F473142487_980415800603281_4963910369804076672_n.jpg?table=block&id=f022d69d-d67f-43bb-b12d-2845d251afbe&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26000-3cec03301bdc439c94a69f1b75d7dc4e?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.677595"
+    },
+    {
+      "notion_id": "b242e314c5024833931d0562e9ae13bb",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "My Father, My Rock, My Refuge",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff052d9e3-6783-4513-8785-c67830c2f77d%2F473044691_627140572984851_6663634790423439871_n.jpg?table=block&id=c677a171-5c6a-4375-830a-14ac71cf3554&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff052d9e3-6783-4513-8785-c67830c2f77d%2F473044691_627140572984851_6663634790423439871_n.jpg?table=block&id=c677a171-5c6a-4375-830a-14ac71cf3554&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26491-b242e314c5024833931d0562e9ae13bb?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.678182"
+    },
+    {
+      "notion_id": "42ba6eb328cf4649baf18b4d116f5fa3",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Loving Kindness",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F213b00cc-2566-4203-913c-561088ad7999%2F473067553_1130843118715261_4113163527890078767_n.jpg?table=block&id=e4628931-1ee2-49e7-a35b-0fce90a9a29e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F213b00cc-2566-4203-913c-561088ad7999%2F473067553_1130843118715261_4113163527890078767_n.jpg?table=block&id=e4628931-1ee2-49e7-a35b-0fce90a9a29e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26078-42ba6eb328cf4649baf18b4d116f5fa3?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.678753"
+    },
+    {
+      "notion_id": "8f334f9f8833496da7572b0184303f7f",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Flower Vendor",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F52af17b4-79e8-469d-a698-22521a10d76c%2F26038_24x24.jpg?table=block&id=d42fa8c4-1e8f-4c41-bc84-00e8f8aa9630&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F52af17b4-79e8-469d-a698-22521a10d76c%2F26038_24x24.jpg?table=block&id=d42fa8c4-1e8f-4c41-bc84-00e8f8aa9630&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26038-8f334f9f8833496da7572b0184303f7f?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.679423"
+    },
+    {
+      "notion_id": "13d211daa2434e5991abc93946f45cd6",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Two Blessed Women",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fce806711-5f7e-46e6-9571-92a10da416fc%2F25769.jpg?table=block&id=c217008e-c50a-4bc8-930b-c53b749ec441&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fce806711-5f7e-46e6-9571-92a10da416fc%2F25769.jpg?table=block&id=c217008e-c50a-4bc8-930b-c53b749ec441&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25769-13d211daa2434e5991abc93946f45cd6?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.679423"
+    },
+    {
+      "notion_id": "7913ecf45f984c71b0005722f01e337c",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "My Father, My Refuge 2",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F59519a0c-31c1-473c-a439-e1250cf5d89f%2F473075691_27943072082005070_2915406719786403194_n.jpg?table=block&id=8808f9c1-4fe1-41f2-b052-ad23970cd5ad&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F59519a0c-31c1-473c-a439-e1250cf5d89f%2F473075691_27943072082005070_2915406719786403194_n.jpg?table=block&id=8808f9c1-4fe1-41f2-b052-ad23970cd5ad&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25685-7913ecf45f984c71b0005722f01e337c?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.680080"
+    },
+    {
+      "notion_id": "2b939d974ee748ce91336bb7b30bbdb0",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Gentle Love",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2d815863-b0ca-456e-883d-e8b57c6a1615%2F472926601_927424496035895_1526620222296512783_n.jpg?table=block&id=d07c1a19-9110-4fe9-8d10-d497d3279ba8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2d815863-b0ca-456e-883d-e8b57c6a1615%2F472926601_927424496035895_1526620222296512783_n.jpg?table=block&id=d07c1a19-9110-4fe9-8d10-d497d3279ba8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25684-2b939d974ee748ce91336bb7b30bbdb0?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.680730"
+    },
+    {
+      "notion_id": "7d146ee5bb29490984d0fb50527d8d6d",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Woman with Cat",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9f6b68f6-36b5-435d-8aaf-f1c1f9a32e58%2F20ca3c96-c65b-467c-9e01-c402cff29197.jpg?table=block&id=a2b2ffb1-f65c-42e3-af96-d699603b0fc7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9f6b68f6-36b5-435d-8aaf-f1c1f9a32e58%2F20ca3c96-c65b-467c-9e01-c402cff29197.jpg?table=block&id=a2b2ffb1-f65c-42e3-af96-d699603b0fc7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28167-7d146ee5bb29490984d0fb50527d8d6d?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.680730"
+    },
+    {
+      "notion_id": "b747646829bc428eacd94c9ec2ed0e5c",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Geisha",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F98d864f7-187c-4146-9903-bcdd098ce3ac%2FIMG_2030.jpg?table=block&id=7e85cbc4-2d8a-4080-b071-32b0862fa4a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F98d864f7-187c-4146-9903-bcdd098ce3ac%2FIMG_2030.jpg?table=block&id=7e85cbc4-2d8a-4080-b071-32b0862fa4a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26435-b747646829bc428eacd94c9ec2ed0e5c?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.681450"
+    },
+    {
+      "notion_id": "d88e1d03cfa2453c9957b200b9432197",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Kow-Tow",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3f08c4e0-2267-4458-8264-2bc3960c06b5%2FIMG_2942.jpg?table=block&id=ede60565-4621-4877-8996-79b3d9d5df36&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3f08c4e0-2267-4458-8264-2bc3960c06b5%2FIMG_2942.jpg?table=block&id=ede60565-4621-4877-8996-79b3d9d5df36&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22073-d88e1d03cfa2453c9957b200b9432197?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.681450"
+    },
+    {
+      "notion_id": "e6ed0e350e664a53abc277d3cc6f316a",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Blessed",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F90611d08-2ce6-40b6-8bf2-7f55893fde66%2F313888298_5811222072232174_7881117849875483178_n.jpg?table=block&id=89b21320-ae70-4da9-84b8-d612ca8eb002&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F90611d08-2ce6-40b6-8bf2-7f55893fde66%2F313888298_5811222072232174_7881117849875483178_n.jpg?table=block&id=89b21320-ae70-4da9-84b8-d612ca8eb002&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26492-e6ed0e350e664a53abc277d3cc6f316a?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.682042"
+    },
+    {
+      "notion_id": "35e3ba71b633467eaf47da2504e3000e",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Blessings Flow",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa872c9c7-8787-4a64-9f71-3733dfdf2e8e%2F26756_30_x_30.jpg?table=block&id=a1b195ba-e7c7-4363-89eb-d4722b06d731&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa872c9c7-8787-4a64-9f71-3733dfdf2e8e%2F26756_30_x_30.jpg?table=block&id=a1b195ba-e7c7-4363-89eb-d4722b06d731&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26756-35e3ba71b633467eaf47da2504e3000e?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.682042"
+    },
+    {
+      "notion_id": "aecabb1eda5a4b129a52c324a16141f9",
+      "artist_id": "25c9f8c22a8280b68418f0cf353bac2a",
+      "artist_name": "DIZON, Jeff",
+      "title": "Blessed Woman 1",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbb9cd1f6-ee04-4260-bbac-6b9718b27029%2F26077.jpg?table=block&id=03997d4b-ca30-4d28-9345-b313914e41f4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbb9cd1f6-ee04-4260-bbac-6b9718b27029%2F26077.jpg?table=block&id=03997d4b-ca30-4d28-9345-b313914e41f4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26077-aecabb1eda5a4b129a52c324a16141f9?pvs=25",
+      "scraped_at": "2026-02-03T14:34:19.682678"
+    }
+  ]
+}

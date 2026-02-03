@@ -1,0 +1,218 @@
+{
+  "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+  "artist_name": "DEMATERA, Bullet",
+  "total_artworks": 10,
+  "scraped_at": "2026-02-03T14:33:48.850428",
+  "artworks": [
+    {
+      "notion_id": "2739f8c22a8280fa90eedc4ec060c3c6",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "Untitled",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A2b1090fd-27c9-47e4-ada4-fcd1dd9adf33%3AWhatsApp_Image_2025-09-18_at_15.42.26.jpeg?table=block&id=2739f8c2-2a82-8020-a61b-f1f4b242b12e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A2b1090fd-27c9-47e4-ada4-fcd1dd9adf33%3AWhatsApp_Image_2025-09-18_at_15.42.26.jpeg?table=block&id=2739f8c2-2a82-8020-a61b-f1f4b242b12e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 026",
+      "page_url": "https://artcirclegallery.notion.site/BD-026-2739f8c22a8280fa90eedc4ec060c3c6?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.841215"
+    },
+    {
+      "notion_id": "ed4aa8f9a6c44cea8b25b54d5928711a",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "Fortune Feathers",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7dfd2e3b-fa9a-4ae7-8f1f-d87e90e993c0%2F438246461_426620806853139_2608427167359341130_n.jpg?table=block&id=2b62fe83-6590-4f3c-8fc8-ddbbc611ef98&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7dfd2e3b-fa9a-4ae7-8f1f-d87e90e993c0%2F438246461_426620806853139_2608427167359341130_n.jpg?table=block&id=2b62fe83-6590-4f3c-8fc8-ddbbc611ef98&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 025",
+      "page_url": "https://artcirclegallery.notion.site/BD-025-ed4aa8f9a6c44cea8b25b54d5928711a?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.841908"
+    },
+    {
+      "notion_id": "7e05df60e5274b8eb4bf016450e5741d",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "A Symbol of Power and Wisdom",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9de69a2f-925b-4b6d-ae08-40f667dec7b7%2FIMG_5688.jpeg?table=block&id=01c542a1-0d54-4063-b22f-890cdfd15134&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9de69a2f-925b-4b6d-ae08-40f667dec7b7%2FIMG_5688.jpeg?table=block&id=01c542a1-0d54-4063-b22f-890cdfd15134&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 022",
+      "page_url": "https://artcirclegallery.notion.site/BD-022-7e05df60e5274b8eb4bf016450e5741d?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.841908"
+    },
+    {
+      "notion_id": "1a4e20e5613445538cf2d99d2fb1b46e",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "Serpentine Symphony",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F79ad683b-f021-49d7-b25f-afe81882ed11%2FIMG_5037.jpeg?table=block&id=caa5596a-d65e-49c1-b369-c8236b44f779&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F79ad683b-f021-49d7-b25f-afe81882ed11%2FIMG_5037.jpeg?table=block&id=caa5596a-d65e-49c1-b369-c8236b44f779&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 016",
+      "page_url": "https://artcirclegallery.notion.site/BD-016-1a4e20e5613445538cf2d99d2fb1b46e?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.843778"
+    },
+    {
+      "notion_id": "346d92f5e78b4d9192bf438f6d522b1b",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "Loyal Guardian",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc0f8a521-0b5b-40a5-8e62-f49b192f10fb%2FBD013_(1).jpg?table=block&id=980a912c-5063-46fe-a175-e5460e20d7e8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc0f8a521-0b5b-40a5-8e62-f49b192f10fb%2FBD013_(1).jpg?table=block&id=980a912c-5063-46fe-a175-e5460e20d7e8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 013",
+      "page_url": "https://artcirclegallery.notion.site/BD-013-346d92f5e78b4d9192bf438f6d522b1b?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.844291"
+    },
+    {
+      "notion_id": "955664aa0d8d4d5eba1b7cb0d7f0ce56",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "Strength & Prosperity",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F73c96093-713e-4ed3-9a02-2f3c4b4fdf3a%2FBD_008.jpg?table=block&id=1b7d68ce-9ec5-489f-bbaa-c41012850f04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F73c96093-713e-4ed3-9a02-2f3c4b4fdf3a%2FBD_008.jpg?table=block&id=1b7d68ce-9ec5-489f-bbaa-c41012850f04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 008",
+      "page_url": "https://artcirclegallery.notion.site/BD-008-955664aa0d8d4d5eba1b7cb0d7f0ce56?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.845067"
+    },
+    {
+      "notion_id": "9d66d10a36444c29a05602fb1ee5d510",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "Fearless Romantism",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2c8c6ca8-a18e-444b-b554-166610939f8c%2F371131575_1313077559602426_3318899935479263915_n.jpg?table=block&id=3c46b415-4729-40c7-bbb9-00b5b37486d7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2c8c6ca8-a18e-444b-b554-166610939f8c%2F371131575_1313077559602426_3318899935479263915_n.jpg?table=block&id=3c46b415-4729-40c7-bbb9-00b5b37486d7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 005",
+      "page_url": "https://artcirclegallery.notion.site/BD-005-9d66d10a36444c29a05602fb1ee5d510?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.845813"
+    },
+    {
+      "notion_id": "06fa8eb261ed479ab4f7c8ac672a2f13",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "Untitled",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F26b0f176-6bef-427c-b686-46629c95a47e%2F379417897_840114537491038_4771496256021844401_n_(1).jpg?table=block&id=a6706cee-b8ac-45af-b163-1912fb30f0da&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F26b0f176-6bef-427c-b686-46629c95a47e%2F379417897_840114537491038_4771496256021844401_n_(1).jpg?table=block&id=a6706cee-b8ac-45af-b163-1912fb30f0da&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 001",
+      "page_url": "https://artcirclegallery.notion.site/BD-001-06fa8eb261ed479ab4f7c8ac672a2f13?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.846370"
+    },
+    {
+      "notion_id": "2739f8c22a82804aac40ec5063b3b56c",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "Untitled",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A08fd80bd-fe33-4055-986a-32b6e484fb44%3AIMG_7459.jpeg?table=block&id=2739f8c2-2a82-80a7-aa94-d46f5ba4371e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A08fd80bd-fe33-4055-986a-32b6e484fb44%3AIMG_7459.jpeg?table=block&id=2739f8c2-2a82-80a7-aa94-d46f5ba4371e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 026",
+      "page_url": "https://artcirclegallery.notion.site/BD-026-2739f8c22a82804aac40ec5063b3b56c?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.846929"
+    },
+    {
+      "notion_id": "38f67655a4094748afce3ba179e0e3e6",
+      "artist_id": "25e9f8c22a8280c0adb1c39e8a9f069b",
+      "artist_name": "DEMATERA, Bullet",
+      "title": "Memories We Will Make III",
+      "description": null,
+      "medium": "acrylic and oil on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0f04d459-2582-46d1-bcc6-7e8caaf8bb2b%2FBD_002.jpg?table=block&id=03eead48-9f83-4cb9-81e4-c2af7dbb0765&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0f04d459-2582-46d1-bcc6-7e8caaf8bb2b%2FBD_002.jpg?table=block&id=03eead48-9f83-4cb9-81e4-c2af7dbb0765&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "BD 002",
+      "page_url": "https://artcirclegallery.notion.site/BD-002-38f67655a4094748afce3ba179e0e3e6?pvs=25",
+      "scraped_at": "2026-02-03T14:33:48.847457"
+    }
+  ]
+}

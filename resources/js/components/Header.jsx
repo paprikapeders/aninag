@@ -66,6 +66,16 @@ export function Header({ currentPath = '/' }) {
                 Collection
               </Link>
               <Link
+                href="/artists"
+                className={`text-sm font-medium transition-all hover:text-[#0A7A7A] relative ${
+                  currentPath === "/artists"
+                    ? "text-[#0A7A7A] after:absolute after:bottom-[-8px] after:left-0 after:right-0 after:h-0.5 after:bg-[#0A7A7A]"
+                    : "text-foreground/70"
+                }`}
+              >
+                Artists
+              </Link>
+              <Link
                 href="/about"
                 className={`text-sm font-medium transition-all hover:text-[#0A7A7A] relative ${
                   currentPath === "/about"
@@ -120,6 +130,13 @@ export function Header({ currentPath = '/' }) {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Collection
+              </Link>
+              <Link
+                href="/artists"
+                className="block px-4 py-2.5 text-base font-medium rounded-lg transition-colors hover:bg-muted"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Artists
               </Link>
               <Link
                 href="/about"

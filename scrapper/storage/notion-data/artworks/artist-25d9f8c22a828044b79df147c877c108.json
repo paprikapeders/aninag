@@ -1,0 +1,134 @@
+{
+  "artist_id": "25d9f8c22a828044b79df147c877c108",
+  "artist_name": "ANGELES, Isab",
+  "total_artworks": 6,
+  "scraped_at": "2026-02-03T14:20:45.798923",
+  "artworks": [
+    {
+      "notion_id": "2fb9f8c22a8280519090f0f8a4289920",
+      "artist_id": "25d9f8c22a828044b79df147c877c108",
+      "artist_name": "ANGELES, Isab",
+      "title": "Brighter Horizons 2",
+      "description": null,
+      "medium": "Acrylic on Canvas",
+      "dimensions": "12 x 16 in",
+      "year": null,
+      "price": 22500.0,
+      "gallery_price": null,
+      "image_url": "https://file.notion.so/f/f/6016608a-1545-4074-9e94-e3473bef6445/61750989-ef01-4039-89b1-a97357aa4f16/57c88b21-d03f-401f-8ba4-546ee7263730.jfif?table=block&id=2fb9f8c2-2a82-80b5-8fd7-c9d45a2ceb51&spaceId=6016608a-1545-4074-9e94-e3473bef6445&expirationTimestamp=1770127200000&signature=r0cmbBLV4ydYcKGbvcjPO-NpcBqkItFFMwCOmpcYOg8",
+      "images": [
+        "https://file.notion.so/f/f/6016608a-1545-4074-9e94-e3473bef6445/61750989-ef01-4039-89b1-a97357aa4f16/57c88b21-d03f-401f-8ba4-546ee7263730.jfif?table=block&id=2fb9f8c2-2a82-80b5-8fd7-c9d45a2ceb51&spaceId=6016608a-1545-4074-9e94-e3473bef6445&expirationTimestamp=1770127200000&signature=r0cmbBLV4ydYcKGbvcjPO-NpcBqkItFFMwCOmpcYOg8"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/ISAB-086-2-2fb9f8c22a8280519090f0f8a4289920?pvs=25",
+      "scraped_at": "2026-02-03T14:20:45.793404"
+    },
+    {
+      "notion_id": "2fb9f8c22a828073aa31e131a854120a",
+      "artist_id": "25d9f8c22a828044b79df147c877c108",
+      "artist_name": "ANGELES, Isab",
+      "title": "Brighter Horizons 1",
+      "description": null,
+      "medium": "Acrylic on Canvas",
+      "dimensions": "12 x 16 in",
+      "year": null,
+      "price": 22500.0,
+      "gallery_price": null,
+      "image_url": "https://file.notion.so/f/f/6016608a-1545-4074-9e94-e3473bef6445/f96385da-8f23-4733-859a-b1ea3d7905e6/4ef793e9-2fd4-42da-bba0-5d79db119cbe.jfif?table=block&id=2fb9f8c2-2a82-80a8-ade8-fce9471c7a0c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&expirationTimestamp=1770127200000&signature=nLDQQiYSdIdvjBzCI4PcSwA_APJDrdyPHjwC3xsu4Xk",
+      "images": [
+        "https://file.notion.so/f/f/6016608a-1545-4074-9e94-e3473bef6445/f96385da-8f23-4733-859a-b1ea3d7905e6/4ef793e9-2fd4-42da-bba0-5d79db119cbe.jfif?table=block&id=2fb9f8c2-2a82-80a8-ade8-fce9471c7a0c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&expirationTimestamp=1770127200000&signature=nLDQQiYSdIdvjBzCI4PcSwA_APJDrdyPHjwC3xsu4Xk"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/ISAB-086-1-2fb9f8c22a828073aa31e131a854120a?pvs=25",
+      "scraped_at": "2026-02-03T14:20:45.793404"
+    },
+    {
+      "notion_id": "22d9f8c22a82808b8b31d4c22f484a77",
+      "artist_id": "25d9f8c22a828044b79df147c877c108",
+      "artist_name": "ANGELES, Isab",
+      "title": "Tawny Serenade",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": 60000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7b7bb144-4ebc-4289-891a-a67f103d0ab3%3AIMG_7184.jpeg?table=block&id=22d9f8c2-2a82-80c6-bee3-ec7eb0e7a789&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7b7bb144-4ebc-4289-891a-a67f103d0ab3%3AIMG_7184.jpeg?table=block&id=22d9f8c2-2a82-80c6-bee3-ec7eb0e7a789&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/ISAB-062-22d9f8c22a82808b8b31d4c22f484a77?pvs=25",
+      "scraped_at": "2026-02-03T14:20:45.794912"
+    },
+    {
+      "notion_id": "2319f8c22a8280599031dc8551cdad6b",
+      "artist_id": "25d9f8c22a828044b79df147c877c108",
+      "artist_name": "ANGELES, Isab",
+      "title": "Twin Peaks of Serenity",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 86500.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A978db00d-13a3-495f-9232-cb69e24c2463%3AIMG_7186.jpeg?table=block&id=2319f8c2-2a82-81ae-9f4a-d3997cfacc6a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A978db00d-13a3-495f-9232-cb69e24c2463%3AIMG_7186.jpeg?table=block&id=2319f8c2-2a82-81ae-9f4a-d3997cfacc6a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/ISAB-066-2319f8c22a8280599031dc8551cdad6b?pvs=25",
+      "scraped_at": "2026-02-03T14:20:45.795920"
+    },
+    {
+      "notion_id": "2fb9f8c22a8280b4a183e890b74e9b9a",
+      "artist_id": "25d9f8c22a828044b79df147c877c108",
+      "artist_name": "ANGELES, Isab",
+      "title": "Prosperity Bay",
+      "description": null,
+      "medium": "Acrylic on Canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": 60000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A4778e5fb-7d63-4d48-8f4b-4d51e4dce742%3A611472494_25349805898023129_7944724829722123628_n.jpg?table=block&id=2fb9f8c2-2a82-805c-82ba-de80679d885b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A4778e5fb-7d63-4d48-8f4b-4d51e4dce742%3A611472494_25349805898023129_7944724829722123628_n.jpg?table=block&id=2fb9f8c2-2a82-805c-82ba-de80679d885b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/ISAB-084-2fb9f8c22a8280b4a183e890b74e9b9a?pvs=25",
+      "scraped_at": "2026-02-03T14:20:45.795920"
+    },
+    {
+      "notion_id": "2c49f8c22a8280fcb753fda7763dbe37",
+      "artist_id": "25d9f8c22a828044b79df147c877c108",
+      "artist_name": "ANGELES, Isab",
+      "title": "Mountain Contours",
+      "description": null,
+      "medium": "Acrylic on Canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 86500.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A95314bee-d5a5-4bd4-847a-ded4e19243c4%3Aisab_83.jpg?table=block&id=2c49f8c2-2a82-8013-8100-c519f9a9b4a7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A95314bee-d5a5-4bd4-847a-ded4e19243c4%3Aisab_83.jpg?table=block&id=2c49f8c2-2a82-8013-8100-c519f9a9b4a7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/ISAB-083-2c49f8c22a8280fcb753fda7763dbe37?pvs=25",
+      "scraped_at": "2026-02-03T14:20:45.796921"
+    }
+  ]
+}

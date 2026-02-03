@@ -1,0 +1,50 @@
+{
+  "artist_id": "25e9f8c22a828018b6e0d99e9f75a854",
+  "artist_name": "LIAO, Ed",
+  "total_artworks": 2,
+  "scraped_at": "2026-02-03T14:38:27.441365",
+  "artworks": [
+    {
+      "notion_id": "11320524f3144c819c61f931f973a051",
+      "artist_id": "25e9f8c22a828018b6e0d99e9f75a854",
+      "artist_name": "LIAO, Ed",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Mixed Media",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdff34f18-7e60-4d1c-95d3-09ea2334a0ed%2Fa.jpg?table=block&id=037e0d5d-d747-41e0-a8e2-b0aab8e172c5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdff34f18-7e60-4d1c-95d3-09ea2334a0ed%2Fa.jpg?table=block&id=037e0d5d-d747-41e0-a8e2-b0aab8e172c5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "CS 20185",
+      "page_url": "https://artcirclegallery.notion.site/CS-20185-11320524f3144c819c61f931f973a051?pvs=25",
+      "scraped_at": "2026-02-03T14:38:27.438668"
+    },
+    {
+      "notion_id": "a0a1559e036f4f2b986c9192030412e1",
+      "artist_id": "25e9f8c22a828018b6e0d99e9f75a854",
+      "artist_name": "LIAO, Ed",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7a0cebc9-9c53-481b-9096-5c18f76c0e29%3AScreenshot_(1016).png?table=block&id=2649f8c2-2a82-8009-913a-d3f6f358aa7c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7a0cebc9-9c53-481b-9096-5c18f76c0e29%3AScreenshot_(1016).png?table=block&id=2649f8c2-2a82-8009-913a-d3f6f358aa7c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/012-B-a0a1559e036f4f2b986c9192030412e1?pvs=25",
+      "scraped_at": "2026-02-03T14:38:27.439346"
+    }
+  ]
+}

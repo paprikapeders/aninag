@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\CatalogController;
+use App\Http\Controllers\ArtistController;
 use App\Http\Controllers\LeadController;
 use App\Http\Controllers\SitemapController;
 use App\Http\Controllers\AboutController;
@@ -20,6 +21,12 @@ Route::get('/about', [AboutController::class, 'index'])->name('about');
 
 // Catalog - browse all artworks
 Route::get('/catalog', [CatalogController::class, 'index'])->name('catalog');
+
+// Artists - browse all artists
+Route::get('/artists', [ArtistController::class, 'index'])->name('artists');
+
+// Artist detail page
+Route::get('/artists/{artist:slug}', [ArtistController::class, 'show'])->name('artist.show');
 
 // Artwork detail page
 Route::get('/artwork/{artwork}', [CatalogController::class, 'show'])->name('artwork.show');

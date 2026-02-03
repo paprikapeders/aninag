@@ -1,0 +1,71 @@
+{
+  "artist_id": "25e9f8c22a82806d8b11e12e35ee668e",
+  "artist_name": "HIPOLITO, Dante",
+  "total_artworks": 3,
+  "scraped_at": "2026-02-03T14:37:24.168961",
+  "artworks": [
+    {
+      "notion_id": "1297186a4ca748388ba6ec6f5fc22038",
+      "artist_id": "25e9f8c22a82806d8b11e12e35ee668e",
+      "artist_name": "HIPOLITO, Dante",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F42d0172b-35b0-4ca4-96b7-5d4f13e44641%2F16100.jpg?table=block&id=0eba9d93-470b-4dee-b016-77c314b7a6e5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F42d0172b-35b0-4ca4-96b7-5d4f13e44641%2F16100.jpg?table=block&id=0eba9d93-470b-4dee-b016-77c314b7a6e5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/16100-1297186a4ca748388ba6ec6f5fc22038?pvs=25",
+      "scraped_at": "2026-02-03T14:37:24.167759"
+    },
+    {
+      "notion_id": "a895368618ab4bf49c5f5dae4dc7f55d",
+      "artist_id": "25e9f8c22a82806d8b11e12e35ee668e",
+      "artist_name": "HIPOLITO, Dante",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F46cf71f9-b5b9-4ac3-b32a-9a69db599b78%2F20299.jpg?table=block&id=b79cbd73-a378-474e-b01b-9a4d37918a0f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F46cf71f9-b5b9-4ac3-b32a-9a69db599b78%2F20299.jpg?table=block&id=b79cbd73-a378-474e-b01b-9a4d37918a0f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20299-a895368618ab4bf49c5f5dae4dc7f55d?pvs=25",
+      "scraped_at": "2026-02-03T14:37:24.167759"
+    },
+    {
+      "notion_id": "b97f4683bcda47049a752df2442a39ba",
+      "artist_id": "25e9f8c22a82806d8b11e12e35ee668e",
+      "artist_name": "HIPOLITO, Dante",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faf95cc6c-5884-43da-88c0-9690e1db9d6a%2F26686059_1495328090535484_3408397804510035515_o.jpg?table=block&id=1ecbb463-f44e-44fb-9684-35f023f4383f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faf95cc6c-5884-43da-88c0-9690e1db9d6a%2F26686059_1495328090535484_3408397804510035515_o.jpg?table=block&id=1ecbb463-f44e-44fb-9684-35f023f4383f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20309-b97f4683bcda47049a752df2442a39ba?pvs=25",
+      "scraped_at": "2026-02-03T14:37:24.168281"
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+  "artist_name": "GEDUSPAN, Anthony",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T14:35:52.072807",
+  "artworks": [
+    {
+      "notion_id": "22a9f8c22a82800cabc8e4e4acbcdfa7",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Bagong Ani “Mangga”",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "20 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A9a9a016c-59c0-4273-806f-7fc0de5977a0%3A515770580_587044167532664_5868918100881628064_n.jpg?table=block&id=22a9f8c2-2a82-800a-a256-f5724fceafb7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A9a9a016c-59c0-4273-806f-7fc0de5977a0%3A515770580_587044167532664_5868918100881628064_n.jpg?table=block&id=22a9f8c2-2a82-800a-a256-f5724fceafb7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/10608-22a9f8c22a82800cabc8e4e4acbcdfa7?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.065300"
+    },
+    {
+      "notion_id": "99b2033b8f224d77b7cfd4df2a8e81b3",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "5 x 23",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F42f2c365-9a17-4fe8-b266-92a57f5071be%2F1000077848.jpg?table=block&id=58fd38cc-9fe2-4b14-bb0b-26fe73867b61&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F42f2c365-9a17-4fe8-b266-92a57f5071be%2F1000077848.jpg?table=block&id=58fd38cc-9fe2-4b14-bb0b-26fe73867b61&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/19437-99b2033b8f224d77b7cfd4df2a8e81b3?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.065905"
+    },
+    {
+      "notion_id": "6b4430e269f04b41b8ace3845c2798c8",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Decent Catch",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F732ac04f-3286-430f-a95d-b5fc5c07abdd%2F02.jpg?table=block&id=8068c5a9-41e5-4ffa-8d07-da21c49c09ea&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F732ac04f-3286-430f-a95d-b5fc5c07abdd%2F02.jpg?table=block&id=8068c5a9-41e5-4ffa-8d07-da21c49c09ea&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27631-6b4430e269f04b41b8ace3845c2798c8?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.065905"
+    },
+    {
+      "notion_id": "04ed7168468e4c3496eb99249e1ba222",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Dugong Mandirigma",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb41961f8-f127-4e86-9ac0-3c47004ae4bd%2F11539.jpg?table=block&id=4451d0d9-f9f5-4fcd-a3ab-cf0abb478874&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb41961f8-f127-4e86-9ac0-3c47004ae4bd%2F11539.jpg?table=block&id=4451d0d9-f9f5-4fcd-a3ab-cf0abb478874&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/11539-04ed7168468e4c3496eb99249e1ba222?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.066467"
+    },
+    {
+      "notion_id": "0547949ea8ed41a9b645074c47003856",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F36b50364-2863-4ec0-a60b-5b48af7a6f61%2F9320.jpg?table=block&id=ccf9d547-bdd8-49f6-a16e-de114fbee0cc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F36b50364-2863-4ec0-a60b-5b48af7a6f61%2F9320.jpg?table=block&id=ccf9d547-bdd8-49f6-a16e-de114fbee0cc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/9320-0547949ea8ed41a9b645074c47003856?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.066467"
+    },
+    {
+      "notion_id": "7eb7269d9a0e430a86085bdd484e4b27",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Mango Street Vendor",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "29 x 21 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F636e61d9-364d-4dc7-875a-054f930fd1d7%2F1000580918.jpg?table=block&id=8916c95b-8f38-4c26-99b2-5c9f199662d1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F636e61d9-364d-4dc7-875a-054f930fd1d7%2F1000580918.jpg?table=block&id=8916c95b-8f38-4c26-99b2-5c9f199662d1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/8213-7eb7269d9a0e430a86085bdd484e4b27?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.066467"
+    },
+    {
+      "notion_id": "6b4a775c942d4303a04b379edac10fc9",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A94923b55-1727-43b7-835e-fae148d39f21%3A1000011086.jpg?table=block&id=20f9f8c2-2a82-807c-99df-f68d9fc6dd9d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A94923b55-1727-43b7-835e-fae148d39f21%3A1000011086.jpg?table=block&id=20f9f8c2-2a82-807c-99df-f68d9fc6dd9d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/10360-6b4a775c942d4303a04b379edac10fc9?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.067109"
+    },
+    {
+      "notion_id": "1741b0af0ec944769c9b36933ca11707",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F85d39e07-3e5b-40fe-8628-7bbc40ca2d70%2F1000010691.jpg?table=block&id=7effb63f-89f6-4255-8fe3-8f35a8613daf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F85d39e07-3e5b-40fe-8628-7bbc40ca2d70%2F1000010691.jpg?table=block&id=7effb63f-89f6-4255-8fe3-8f35a8613daf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/9897-1741b0af0ec944769c9b36933ca11707?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.067109"
+    },
+    {
+      "notion_id": "4dc87947beed4516a2b34dba06544456",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Fruit Vendor",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F332fcd2f-d964-43a1-a467-701d8870de01%2F27642.jpg?table=block&id=00d869f0-f25b-48e5-b578-9e79ac84277d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F332fcd2f-d964-43a1-a467-701d8870de01%2F27642.jpg?table=block&id=00d869f0-f25b-48e5-b578-9e79ac84277d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27642-4dc87947beed4516a2b34dba06544456?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.067639"
+    },
+    {
+      "notion_id": "a5774a1aeb7242419dc0b03325ebb424",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Tindera",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F37234edb-7585-4317-a833-da24cc48b21f%2F27639.jpg?table=block&id=3af3fd44-2985-4590-a3e7-df8374dba6ca&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F37234edb-7585-4317-a833-da24cc48b21f%2F27639.jpg?table=block&id=3af3fd44-2985-4590-a3e7-df8374dba6ca&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27639-a5774a1aeb7242419dc0b03325ebb424?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.067639"
+    },
+    {
+      "notion_id": "454f2801bc4d4e72a84987a57bec908d",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Fresh Catch",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1fb4a586-47ba-4533-9baa-b51138e7c49d%2F27634.jpg?table=block&id=3877a859-a403-4da3-88b7-6efb04c03b67&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1fb4a586-47ba-4533-9baa-b51138e7c49d%2F27634.jpg?table=block&id=3877a859-a403-4da3-88b7-6efb04c03b67&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27634-454f2801bc4d4e72a84987a57bec908d?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.067639"
+    },
+    {
+      "notion_id": "537a9fc95e3a4e9c8395fc35763566f0",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Bounty of the Sea",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F76a274fe-020a-4357-92ae-2ac286e97027%2F27633.jpg?table=block&id=38caf5d4-bfcb-4e40-bfed-803fd195f083&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F76a274fe-020a-4357-92ae-2ac286e97027%2F27633.jpg?table=block&id=38caf5d4-bfcb-4e40-bfed-803fd195f083&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27633-537a9fc95e3a4e9c8395fc35763566f0?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.068262"
+    },
+    {
+      "notion_id": "eabaabc8d26c46e2aeb1091d10371054",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F53cbdba8-83bf-4e2a-9715-c7a2980cd926%2F10867.jpg?table=block&id=00770c49-e546-4ed8-9385-137b91abe581&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F53cbdba8-83bf-4e2a-9715-c7a2980cd926%2F10867.jpg?table=block&id=00770c49-e546-4ed8-9385-137b91abe581&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/10867-eabaabc8d26c46e2aeb1091d10371054?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.068262"
+    },
+    {
+      "notion_id": "fdc2eb4ee01249c0a37badbf689c69d5",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 22 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd39c3774-7e22-419a-86b1-fba99e3459ab%2F1000580919.jpg?table=block&id=9cd23b81-16cc-412e-8921-c27de4d3f9c2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd39c3774-7e22-419a-86b1-fba99e3459ab%2F1000580919.jpg?table=block&id=9cd23b81-16cc-412e-8921-c27de4d3f9c2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/11684-fdc2eb4ee01249c0a37badbf689c69d5?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.068262"
+    },
+    {
+      "notion_id": "d6a0a0433fe543c197c682cdadd0a87a",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff152a74a-5061-46f4-a6f4-4d388ffd60d7%2F1000009112.jpg?table=block&id=1697601e-55b3-4d0c-992a-04a2104173ca&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff152a74a-5061-46f4-a6f4-4d388ffd60d7%2F1000009112.jpg?table=block&id=1697601e-55b3-4d0c-992a-04a2104173ca&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/19644-d6a0a0433fe543c197c682cdadd0a87a?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.068920"
+    },
+    {
+      "notion_id": "2fea1967a25d4c4ca6d40a07d1bad120",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Bagong Ani",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F5666424e-4ae3-452b-a9c8-01a3e61c60d2%2F24338.jpg?table=block&id=2bbff94f-277a-4da1-91de-f776fa7f33fa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F5666424e-4ae3-452b-a9c8-01a3e61c60d2%2F24338.jpg?table=block&id=2bbff94f-277a-4da1-91de-f776fa7f33fa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24338-2fea1967a25d4c4ca6d40a07d1bad120?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.069439"
+    },
+    {
+      "notion_id": "bf274b0d7d104e7da2c0b323e32d3ced",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Pakwan Vendor",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1d7fda5b-e9fd-4d32-adc8-89be5ba2123f%2F14751.jpg?table=block&id=0ac780a0-1a27-436f-af08-321be159d04a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1d7fda5b-e9fd-4d32-adc8-89be5ba2123f%2F14751.jpg?table=block&id=0ac780a0-1a27-436f-af08-321be159d04a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/14751-bf274b0d7d104e7da2c0b323e32d3ced?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.069439"
+    },
+    {
+      "notion_id": "4ac7dc34474746fda0d39ba19d479925",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F09cb401e-faf5-47d4-86a2-9151cd1308b2%2F9321.jpg?table=block&id=71d172b4-bc04-4e83-8b51-0ffda1510d58&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F09cb401e-faf5-47d4-86a2-9151cd1308b2%2F9321.jpg?table=block&id=71d172b4-bc04-4e83-8b51-0ffda1510d58&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/9321-4ac7dc34474746fda0d39ba19d479925?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.070063"
+    },
+    {
+      "notion_id": "76114af010a8408e810a07bd70d12076",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F131de7db-17b4-4a07-8c65-2b85b9f36473%2F9890.jpg?table=block&id=a54ba8f7-b3fa-441c-a3e7-2c2567cf96e1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F131de7db-17b4-4a07-8c65-2b85b9f36473%2F9890.jpg?table=block&id=a54ba8f7-b3fa-441c-a3e7-2c2567cf96e1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/9890-76114af010a8408e810a07bd70d12076?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.070063"
+    },
+    {
+      "notion_id": "aa4fca83603840db808cb32425f27c1f",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "28 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Faf387ec6-d26b-44d9-b173-6a2f03a7b122%2F17047.jpg?table=block&id=32f6214a-2fd8-4060-b6fa-c753dfeb619c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Faf387ec6-d26b-44d9-b173-6a2f03a7b122%2F17047.jpg?table=block&id=32f6214a-2fd8-4060-b6fa-c753dfeb619c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/17047-aa4fca83603840db808cb32425f27c1f?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.070063"
+    },
+    {
+      "notion_id": "79e8ffb0124a4caf9ff6114f2293928f",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc0735e26-5b5a-44e3-adf1-a86df2eefb7a%2F10685.jpg?table=block&id=1f7dfd14-990e-4c3a-a0fe-6b11c148e3bb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc0735e26-5b5a-44e3-adf1-a86df2eefb7a%2F10685.jpg?table=block&id=1f7dfd14-990e-4c3a-a0fe-6b11c148e3bb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/10685-79e8ffb0124a4caf9ff6114f2293928f?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.070755"
+    },
+    {
+      "notion_id": "6cd340b0c8da4202836203553c4d7318",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "20 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F5f3be7dd-2968-4dce-a492-0a35d528f89e%2F1000009110.jpg?table=block&id=73672065-5548-4396-a89c-eead8c24e1c1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F5f3be7dd-2968-4dce-a492-0a35d528f89e%2F1000009110.jpg?table=block&id=73672065-5548-4396-a89c-eead8c24e1c1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/10683-6cd340b0c8da4202836203553c4d7318?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.070755"
+    },
+    {
+      "notion_id": "f2c02ae8b26c4670b0702e07751b9d3b",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F15b6d150-51f9-40c1-85b7-bae5473fd305%2F10385_30x24.jpg?table=block&id=0820a0d5-14c5-45ff-b312-cf6f2ced2e1a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F15b6d150-51f9-40c1-85b7-bae5473fd305%2F10385_30x24.jpg?table=block&id=0820a0d5-14c5-45ff-b312-cf6f2ced2e1a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/10385-f2c02ae8b26c4670b0702e07751b9d3b?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.070755"
+    },
+    {
+      "notion_id": "3f6a3ef6f7454d8f99dc100bbc78d1ac",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc9bb7c70-0c13-4552-b780-aeb790636229%2F10383.jpg?table=block&id=7065d5c4-14e3-420f-9eb0-9d743177d1ae&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc9bb7c70-0c13-4552-b780-aeb790636229%2F10383.jpg?table=block&id=7065d5c4-14e3-420f-9eb0-9d743177d1ae&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/10383-3f6a3ef6f7454d8f99dc100bbc78d1ac?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.071354"
+    },
+    {
+      "notion_id": "160394c73ec54c029fe4fea53c817c2d",
+      "artist_id": "25d9f8c22a8280ad922cff01bde5a784",
+      "artist_name": "GEDUSPAN, Anthony",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fcd93abb9-8d05-430a-9bbb-8cee78ce662e%2F10386.jpg?table=block&id=ff9328b7-a00d-4b16-8158-27d2bfec272a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fcd93abb9-8d05-430a-9bbb-8cee78ce662e%2F10386.jpg?table=block&id=ff9328b7-a00d-4b16-8158-27d2bfec272a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/10386-160394c73ec54c029fe4fea53c817c2d?pvs=25",
+      "scraped_at": "2026-02-03T14:35:52.071354"
+    }
+  ]
+}

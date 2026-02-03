@@ -1,0 +1,428 @@
+{
+  "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+  "artist_name": "BAGACINA, Jefferson “Love”",
+  "total_artworks": 20,
+  "scraped_at": "2026-02-03T14:22:21.341066",
+  "artworks": [
+    {
+      "notion_id": "1269f8c22a8280caa562d3530d34c0f3",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Rose",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 12 in",
+      "year": null,
+      "price": 35000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F22bf172c-48c1-446c-a62f-3e09623346b0%2FCS_28478.jpg?table=block&id=1269f8c2-2a82-802b-89ef-e0dc3937a04b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F22bf172c-48c1-446c-a62f-3e09623346b0%2FCS_28478.jpg?table=block&id=1269f8c2-2a82-802b-89ef-e0dc3937a04b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-28478-1269f8c22a8280caa562d3530d34c0f3?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.261886"
+    },
+    {
+      "notion_id": "1269f8c22a828049af01e29e64321143",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 12 in",
+      "year": null,
+      "price": 35000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A53107233-7936-4d9a-9ff1-d6a25f8732dc%3AIMG_7174.jpeg?table=block&id=1269f8c2-2a82-80e7-84ca-d5429df47e10&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A53107233-7936-4d9a-9ff1-d6a25f8732dc%3AIMG_7174.jpeg?table=block&id=1269f8c2-2a82-80e7-84ca-d5429df47e10&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-28476-1269f8c22a828049af01e29e64321143?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.263912"
+    },
+    {
+      "notion_id": "1269f8c22a828075bdb1e6db540fe095",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Jade",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 12 in",
+      "year": null,
+      "price": 35000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff628a184-c425-4a8a-9442-3a508d78f8f0%2FCS_28474.jpg?table=block&id=1269f8c2-2a82-80d7-a6be-efc57e15297f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff628a184-c425-4a8a-9442-3a508d78f8f0%2FCS_28474.jpg?table=block&id=1269f8c2-2a82-80d7-a6be-efc57e15297f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-28474-1269f8c22a828075bdb1e6db540fe095?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.271919"
+    },
+    {
+      "notion_id": "2cd9f8c22a82804eae92f29c1ddd82e1",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Beyond the Dream Remembering the Giver",
+      "description": null,
+      "medium": "Mixed Media",
+      "dimensions": null,
+      "year": null,
+      "price": 198000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A225ae37d-09a4-49c5-8903-0ec6848648ff%3AIMG_8166.jpg?table=block&id=2cd9f8c2-2a82-8050-95e7-ecfd223e9469&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A225ae37d-09a4-49c5-8903-0ec6848648ff%3AIMG_8166.jpg?table=block&id=2cd9f8c2-2a82-8050-95e7-ecfd223e9469&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/2cd9f8c22a82804eae92f29c1ddd82e1?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.278916"
+    },
+    {
+      "notion_id": "2cc9f8c22a8280ed83a6dc52995e4919",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Dreams Taking Flight",
+      "description": null,
+      "medium": "Mixed Media",
+      "dimensions": "5 x 12",
+      "year": null,
+      "price": 185000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aa9d0ea3e-721c-4d12-a795-1d0cb85b6d0c%3AIMG_8169.jpg?table=block&id=2cc9f8c2-2a82-809a-8cef-ea336fb6f7fa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aa9d0ea3e-721c-4d12-a795-1d0cb85b6d0c%3AIMG_8169.jpg?table=block&id=2cc9f8c2-2a82-809a-8cef-ea336fb6f7fa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/LAL-031-2cc9f8c22a8280ed83a6dc52995e4919?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.285304"
+    },
+    {
+      "notion_id": "2cc9f8c22a82804f9e06e3addaad1fa1",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Home of Endless Imagination",
+      "description": null,
+      "medium": null,
+      "dimensions": "14 x 9 x 37",
+      "year": null,
+      "price": 172000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Adc263b63-35fd-4e29-820a-5426e7045e9e%3AWhatsApp_Image_2025-12-19_at_10.50.36.jpeg?table=block&id=2cc9f8c2-2a82-8021-a587-f6cba0820d44&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Adc263b63-35fd-4e29-820a-5426e7045e9e%3AWhatsApp_Image_2025-12-19_at_10.50.36.jpeg?table=block&id=2cc9f8c2-2a82-8021-a587-f6cba0820d44&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/LAL-033-2cc9f8c22a82804f9e06e3addaad1fa1?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.290512"
+    },
+    {
+      "notion_id": "2cc9f8c22a8280b3a7cac46af33d2cdd",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Songs & Stories",
+      "description": null,
+      "medium": null,
+      "dimensions": "18 x 18 x 36 in",
+      "year": null,
+      "price": 290000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A2efa087c-75a2-4318-95db-fb2ab6681066%3A70380448-0665-469c-853c-95fe23a8ffdb.png?table=block&id=2cc9f8c2-2a82-80a5-98c7-cd87db412140&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A2efa087c-75a2-4318-95db-fb2ab6681066%3A70380448-0665-469c-853c-95fe23a8ffdb.png?table=block&id=2cc9f8c2-2a82-80a5-98c7-cd87db412140&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/LAL-034-2cc9f8c22a8280b3a7cac46af33d2cdd?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.293395"
+    },
+    {
+      "notion_id": "2b99f8c22a8280f8a66dfcec14f66314",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Love Bagacina",
+      "description": null,
+      "medium": "Mixed Media",
+      "dimensions": "15 x 10 x 37 in",
+      "year": null,
+      "price": 198000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A3a740829-d0e5-4acc-99e0-31d5b9ac9fd5%3AFBR_Love_Bagacina_(6).jpg?table=block&id=2b99f8c2-2a82-800b-88ee-f228e5ed446e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A3a740829-d0e5-4acc-99e0-31d5b9ac9fd5%3AFBR_Love_Bagacina_(6).jpg?table=block&id=2b99f8c2-2a82-800b-88ee-f228e5ed446e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/LAL-024-2b99f8c22a8280f8a66dfcec14f66314?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.295256"
+    },
+    {
+      "notion_id": "2b99f8c22a8280af90f6dfd8a85e7e01",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Sanctuary Among Branches by Love Bagacina 12 x 10.5 x 30.5 inches Mixed MediaAvailable₱180,000.00",
+      "description": null,
+      "medium": "Mixed Media",
+      "dimensions": "12 x 10",
+      "year": null,
+      "price": 180000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A95eb12da-cd7f-463b-9001-8ba1b87ac532%3ASanctuary.jpg?table=block&id=2b99f8c2-2a82-8044-be57-ef154fe7e37a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A95eb12da-cd7f-463b-9001-8ba1b87ac532%3ASanctuary.jpg?table=block&id=2b99f8c2-2a82-8044-be57-ef154fe7e37a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/LAL-023-2b99f8c22a8280af90f6dfd8a85e7e01?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.297883"
+    },
+    {
+      "notion_id": "2f09f8c22a82804cb0fdec4f2de98cbf",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Dream chaser",
+      "description": null,
+      "medium": "Acrylic on Canvas",
+      "dimensions": "48 x 20 in",
+      "year": null,
+      "price": 106000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A8c57f0a7-4705-44f2-bcc3-0dbf36d87c2c%3AIMG_8498.jpeg?table=block&id=2f09f8c2-2a82-80ce-b811-da4ad1dd6eab&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A8c57f0a7-4705-44f2-bcc3-0dbf36d87c2c%3AIMG_8498.jpeg?table=block&id=2f09f8c2-2a82-80ce-b811-da4ad1dd6eab&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-29520-2f09f8c22a82804cb0fdec4f2de98cbf?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.299191"
+    },
+    {
+      "notion_id": "2e69f8c22a82806a9115d65a6e121288",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "A Placed Called Tomorrow",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "12 x 16 in",
+      "year": null,
+      "price": 29500.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Af33f467c-cb22-49e9-b86f-7fdaf5a8839d%3ASA_29488.jpeg?table=block&id=2e69f8c2-2a82-8030-8326-c0cd02783759&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Af33f467c-cb22-49e9-b86f-7fdaf5a8839d%3ASA_29488.jpeg?table=block&id=2e69f8c2-2a82-8030-8326-c0cd02783759&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-29488-2e69f8c22a82806a9115d65a6e121288?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.300707"
+    },
+    {
+      "notion_id": "2e69f8c22a8280f8927ad6484328e094",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Eternal Embers of Love",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 12 in",
+      "year": null,
+      "price": 35000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Adf8d0a9f-f221-46c7-ab72-03e699617702%3ASA_29487.jpeg?table=block&id=2e69f8c2-2a82-8094-a504-c7109b4ddcd2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Adf8d0a9f-f221-46c7-ab72-03e699617702%3ASA_29487.jpeg?table=block&id=2e69f8c2-2a82-8094-a504-c7109b4ddcd2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-29487-2e69f8c22a8280f8927ad6484328e094?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.309716"
+    },
+    {
+      "notion_id": "2e69f8c22a8280d79cc1fcb78c24bcbe",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "When Morning Begins by Love Bagacina 24 x 12 inches Acrylic on canvasAvailable₱35,000.00",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 12 in",
+      "year": null,
+      "price": 35000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A1ad1a3bf-cc48-4188-aab1-248b1b9d0bc1%3ASA_29486.jpeg?table=block&id=2e69f8c2-2a82-8018-9cb4-da85d6bedc05&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A1ad1a3bf-cc48-4188-aab1-248b1b9d0bc1%3ASA_29486.jpeg?table=block&id=2e69f8c2-2a82-8018-9cb4-da85d6bedc05&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-29486-2e69f8c22a8280d79cc1fcb78c24bcbe?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.313868"
+    },
+    {
+      "notion_id": "3dc456908b9e4b5d9112bb84cd5f209b",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Melody Landscape",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": 103000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe0da934e-4176-4068-9a4f-4d53f5a2611b%2Fd6830511-02ee-429d-8e09-ac562d1e7988.jpg?table=block&id=b93bfae4-fe1e-448a-a1f4-2755f0b9ee24&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe0da934e-4176-4068-9a4f-4d53f5a2611b%2Fd6830511-02ee-429d-8e09-ac562d1e7988.jpg?table=block&id=b93bfae4-fe1e-448a-a1f4-2755f0b9ee24&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-28326-3dc456908b9e4b5d9112bb84cd5f209b?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.315673"
+    },
+    {
+      "notion_id": "4da3da853afd4d28839f2348971ae766",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": 66300.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7329b754-9617-4713-8464-9332f2ac6f8d%2Fbde025f2-1abf-4135-b54b-6ee465b73cd7.jpg?table=block&id=a03b7440-59fb-4d7d-b71e-cb711795c0d9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7329b754-9617-4713-8464-9332f2ac6f8d%2Fbde025f2-1abf-4135-b54b-6ee465b73cd7.jpg?table=block&id=a03b7440-59fb-4d7d-b71e-cb711795c0d9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-28231-4da3da853afd4d28839f2348971ae766?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.318278"
+    },
+    {
+      "notion_id": "f54e06a118f647f0ba5f27bdef1713cd",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Waiting to be Explored",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": 99500.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F75b8412e-8068-4409-b091-e68b8684a028%2F440865942_971835297579143_7290107441844175189_n.jpg?table=block&id=f427c574-83a4-4256-a17e-d5795f8b6f3b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F75b8412e-8068-4409-b091-e68b8684a028%2F440865942_971835297579143_7290107441844175189_n.jpg?table=block&id=f427c574-83a4-4256-a17e-d5795f8b6f3b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/SA-28134-f54e06a118f647f0ba5f27bdef1713cd?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.319697"
+    },
+    {
+      "notion_id": "2cc9f8c22a828006b53ef7d24441d40d",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Boltes Blox",
+      "description": null,
+      "medium": "Mixed Media",
+      "dimensions": "5 x 13 x 21 in",
+      "year": null,
+      "price": 195000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ad0aae316-079c-4510-91a3-7e4575a56055%3AIMG_1160.jpg?table=block&id=2cc9f8c2-2a82-8035-ba8c-f441246b0e36&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ad0aae316-079c-4510-91a3-7e4575a56055%3AIMG_1160.jpg?table=block&id=2cc9f8c2-2a82-8035-ba8c-f441246b0e36&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/LAL-001-2cc9f8c22a828006b53ef7d24441d40d?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.323755"
+    },
+    {
+      "notion_id": "2cb9f8c22a8280468665f2ddaa7085bd",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Unshakable Imagination",
+      "description": null,
+      "medium": "Mixed Media",
+      "dimensions": null,
+      "year": null,
+      "price": 198000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A0348fdfc-086f-4938-9102-74fbd1cc2038%3A604591784_1296705055825820_8174972141316269547_n.jpg?table=block&id=2cb9f8c2-2a82-807e-be62-c07e6ed97a04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A0348fdfc-086f-4938-9102-74fbd1cc2038%3A604591784_1296705055825820_8174972141316269547_n.jpg?table=block&id=2cb9f8c2-2a82-807e-be62-c07e6ed97a04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/LAL-036-2cb9f8c22a8280468665f2ddaa7085bd?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.325660"
+    },
+    {
+      "notion_id": "2e69f8c22a82809dbd7ae2b338120231",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Care was a Language",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "12 x 8 in",
+      "year": null,
+      "price": 18750.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A1876e14c-4b61-4eba-b738-7a1fefe2509f%3ADA_29490.jpeg?table=block&id=2e69f8c2-2a82-8020-b538-da6a52bf17ec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A1876e14c-4b61-4eba-b738-7a1fefe2509f%3ADA_29490.jpeg?table=block&id=2e69f8c2-2a82-8020-b538-da6a52bf17ec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-29490-2e69f8c22a82809dbd7ae2b338120231?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.332060"
+    },
+    {
+      "notion_id": "2e69f8c22a82802fbcfee2095ed9adf1",
+      "artist_id": "25d9f8c22a8280aabb68c0eeed83e244",
+      "artist_name": "BAGACINA, Jefferson “Love”",
+      "title": "Something Waited Kindly by Love Bagacina 12 x 8 inches Acrylic on canvasReserved for Payment₱18,750.00",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "12 x 8 in",
+      "year": null,
+      "price": 18750.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7285771f-7b3a-4f26-9097-39c998e993c6%3ADA_29489.jpeg?table=block&id=2e69f8c2-2a82-80cc-8883-c5b930b06aac&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7285771f-7b3a-4f26-9097-39c998e993c6%3ADA_29489.jpeg?table=block&id=2e69f8c2-2a82-80cc-8883-c5b930b06aac&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-29489-2e69f8c22a82802fbcfee2095ed9adf1?pvs=25",
+      "scraped_at": "2026-02-03T14:22:21.335743"
+    }
+  ]
+}

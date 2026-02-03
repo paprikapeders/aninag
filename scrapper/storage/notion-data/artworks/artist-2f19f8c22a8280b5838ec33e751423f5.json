@@ -1,0 +1,197 @@
+{
+  "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+  "artist_name": "ALEGRE, Hermes",
+  "total_artworks": 9,
+  "scraped_at": "2026-02-03T14:20:14.333569",
+  "artworks": [
+    {
+      "notion_id": "2e39f8c22a8280de8d49e93287fe216b",
+      "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "artist_name": "ALEGRE, Hermes",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Adff1a2fd-624a-4646-8dc7-4c7a8e48c919%3AIMG_8369.jpeg?table=block&id=2e39f8c2-2a82-803c-bb49-dfc501e78748&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Adff1a2fd-624a-4646-8dc7-4c7a8e48c919%3AIMG_8369.jpeg?table=block&id=2e39f8c2-2a82-803c-bb49-dfc501e78748&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29479-2e39f8c22a8280de8d49e93287fe216b?pvs=25",
+      "scraped_at": "2026-02-03T14:20:14.322555"
+    },
+    {
+      "notion_id": "2e39f8c22a82809196a5c59c57ab0c7f",
+      "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "artist_name": "ALEGRE, Hermes",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A582ba9dc-4cf7-4499-8229-8e0383474695%3AIMG_8368.jpeg?table=block&id=2e39f8c2-2a82-80b2-9b7e-c9de5db4aaa0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A582ba9dc-4cf7-4499-8229-8e0383474695%3AIMG_8368.jpeg?table=block&id=2e39f8c2-2a82-80b2-9b7e-c9de5db4aaa0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29478-2e39f8c22a82809196a5c59c57ab0c7f?pvs=25",
+      "scraped_at": "2026-02-03T14:20:14.323557"
+    },
+    {
+      "notion_id": "2e39f8c22a82800a95b3e1928fd4a2bb",
+      "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "artist_name": "ALEGRE, Hermes",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "18 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A02eb1375-ceb5-4efb-9fb3-6d51f38cab5c%3AIMG_8366.jpeg?table=block&id=2e39f8c2-2a82-8086-a7d4-df711b987145&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A02eb1375-ceb5-4efb-9fb3-6d51f38cab5c%3AIMG_8366.jpeg?table=block&id=2e39f8c2-2a82-8086-a7d4-df711b987145&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29476-2e39f8c22a82800a95b3e1928fd4a2bb?pvs=25",
+      "scraped_at": "2026-02-03T14:20:14.324551"
+    },
+    {
+      "notion_id": "2e39f8c22a8280baba42c3c5e3a96dc5",
+      "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "artist_name": "ALEGRE, Hermes",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "20 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Afbe6143a-a2ba-4d00-8cbd-4cb76ba1ea3b%3AIMG_8365.jpeg?table=block&id=2e39f8c2-2a82-8005-8aba-ddb0848f1b44&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Afbe6143a-a2ba-4d00-8cbd-4cb76ba1ea3b%3AIMG_8365.jpeg?table=block&id=2e39f8c2-2a82-8005-8aba-ddb0848f1b44&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29475-2e39f8c22a8280baba42c3c5e3a96dc5?pvs=25",
+      "scraped_at": "2026-02-03T14:20:14.325064"
+    },
+    {
+      "notion_id": "2e39f8c22a82804b9da3d8a2e83328d8",
+      "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "artist_name": "ALEGRE, Hermes",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "20 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A428fd2f7-e3dc-420e-a2a1-fa4e8fafd927%3AIMG_8363.jpeg?table=block&id=2e39f8c2-2a82-809f-a039-d3e351ebc01d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A428fd2f7-e3dc-420e-a2a1-fa4e8fafd927%3AIMG_8363.jpeg?table=block&id=2e39f8c2-2a82-809f-a039-d3e351ebc01d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29474-2e39f8c22a82804b9da3d8a2e83328d8?pvs=25",
+      "scraped_at": "2026-02-03T14:20:14.326074"
+    },
+    {
+      "notion_id": "2e39f8c22a8280d19cc9d5af17e0c9d1",
+      "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "artist_name": "ALEGRE, Hermes",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A629a3900-b173-4644-b0e8-bd6dcdb9138f%3AIMG_8360.jpeg?table=block&id=2e39f8c2-2a82-80d8-a379-c34de3d58434&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A629a3900-b173-4644-b0e8-bd6dcdb9138f%3AIMG_8360.jpeg?table=block&id=2e39f8c2-2a82-80d8-a379-c34de3d58434&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29472-2e39f8c22a8280d19cc9d5af17e0c9d1?pvs=25",
+      "scraped_at": "2026-02-03T14:20:14.327088"
+    },
+    {
+      "notion_id": "2e39f8c22a82807e8653cddf8d469708",
+      "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "artist_name": "ALEGRE, Hermes",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Adb5f5cf3-817d-40ff-88e0-6a90b1bf4dab%3AIMG_8359.jpeg?table=block&id=2e39f8c2-2a82-8029-80d7-d71be0816833&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Adb5f5cf3-817d-40ff-88e0-6a90b1bf4dab%3AIMG_8359.jpeg?table=block&id=2e39f8c2-2a82-8029-80d7-d71be0816833&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29471-2e39f8c22a82807e8653cddf8d469708?pvs=25",
+      "scraped_at": "2026-02-03T14:20:14.328086"
+    },
+    {
+      "notion_id": "2e39f8c22a828072ac66eac271bd8be8",
+      "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "artist_name": "ALEGRE, Hermes",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ad2bc9319-4baf-449d-aad1-4ef7b56bb2fb%3AIMG_8358.jpeg?table=block&id=2e39f8c2-2a82-801b-8432-f11c3db63cf9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ad2bc9319-4baf-449d-aad1-4ef7b56bb2fb%3AIMG_8358.jpeg?table=block&id=2e39f8c2-2a82-801b-8432-f11c3db63cf9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29470-2e39f8c22a828072ac66eac271bd8be8?pvs=25",
+      "scraped_at": "2026-02-03T14:20:14.328086"
+    },
+    {
+      "notion_id": "2e39f8c22a8280c18f64db1cb26ce0d8",
+      "artist_id": "2f19f8c22a8280b5838ec33e751423f5",
+      "artist_name": "ALEGRE, Hermes",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A3e5d4524-0a64-4912-801d-f8b9bf42f13a%3AIMG_8367.jpeg?table=block&id=2e39f8c2-2a82-8094-92cd-df6f15b51933&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A3e5d4524-0a64-4912-801d-f8b9bf42f13a%3AIMG_8367.jpeg?table=block&id=2e39f8c2-2a82-8094-92cd-df6f15b51933&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29477-2e39f8c22a8280c18f64db1cb26ce0d8?pvs=25",
+      "scraped_at": "2026-02-03T14:20:14.330591"
+    }
+  ]
+}

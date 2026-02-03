@@ -1,0 +1,92 @@
+{
+  "artist_id": "25d9f8c22a8280a89f9bea2bb1824edc",
+  "artist_name": "FRANCISCO, Jerome",
+  "total_artworks": 4,
+  "scraped_at": "2026-02-03T14:35:21.322492",
+  "artworks": [
+    {
+      "notion_id": "8aca4236557046449c288dcce24bc321",
+      "artist_id": "25d9f8c22a8280a89f9bea2bb1824edc",
+      "artist_name": "FRANCISCO, Jerome",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fedc4aae6-08a5-41e2-befe-6ce447760c22%2FIMG_1641.jpg?table=block&id=2603a537-ef4d-442b-97a0-37be67f512ec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fedc4aae6-08a5-41e2-befe-6ce447760c22%2FIMG_1641.jpg?table=block&id=2603a537-ef4d-442b-97a0-37be67f512ec&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27298-8aca4236557046449c288dcce24bc321?pvs=25",
+      "scraped_at": "2026-02-03T14:35:21.320446"
+    },
+    {
+      "notion_id": "6180cf7c804f4b11bdabacd84cca79e5",
+      "artist_id": "25d9f8c22a8280a89f9bea2bb1824edc",
+      "artist_name": "FRANCISCO, Jerome",
+      "title": "Splash",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "52 x 99 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F205bd81e-7acf-4615-aed0-a76dfe5f465b%2F27244_52X99.jpg?table=block&id=3b956a04-37b5-4fde-b4e9-5be2bfba3d6f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F205bd81e-7acf-4615-aed0-a76dfe5f465b%2F27244_52X99.jpg?table=block&id=3b956a04-37b5-4fde-b4e9-5be2bfba3d6f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27244-6180cf7c804f4b11bdabacd84cca79e5?pvs=25",
+      "scraped_at": "2026-02-03T14:35:21.320446"
+    },
+    {
+      "notion_id": "e7c121b703874efdbf8933120b3459cc",
+      "artist_id": "25d9f8c22a8280a89f9bea2bb1824edc",
+      "artist_name": "FRANCISCO, Jerome",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "51 x 79 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F88094ecf-607f-4820-88bd-a2dcc0a58aad%2FIMG_9031.jpg?table=block&id=7653c877-2b65-43dd-ab74-335d691bf8c4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F88094ecf-607f-4820-88bd-a2dcc0a58aad%2FIMG_9031.jpg?table=block&id=7653c877-2b65-43dd-ab74-335d691bf8c4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27407-e7c121b703874efdbf8933120b3459cc?pvs=25",
+      "scraped_at": "2026-02-03T14:35:21.321172"
+    },
+    {
+      "notion_id": "253bde0ff65b4a2e8ea1eb97f920359a",
+      "artist_id": "25d9f8c22a8280a89f9bea2bb1824edc",
+      "artist_name": "FRANCISCO, Jerome",
+      "title": "Prosperity in Pink Pallete",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 60 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5877ba7b-2b30-4a35-acfe-46ca9eabb93f%2F27223_48x60_(Koi_Series)_Acrylic_on_Canvas_2023.jpg?table=block&id=b0f29246-319c-4f70-a21f-ebfe63c124e0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5877ba7b-2b30-4a35-acfe-46ca9eabb93f%2F27223_48x60_(Koi_Series)_Acrylic_on_Canvas_2023.jpg?table=block&id=b0f29246-319c-4f70-a21f-ebfe63c124e0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27223-253bde0ff65b4a2e8ea1eb97f920359a?pvs=25",
+      "scraped_at": "2026-02-03T14:35:21.321172"
+    }
+  ]
+}

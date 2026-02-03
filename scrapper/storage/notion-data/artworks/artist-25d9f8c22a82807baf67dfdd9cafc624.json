@@ -1,0 +1,533 @@
+{
+  "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+  "artist_name": "MONNAR",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T14:44:49.452070",
+  "artworks": [
+    {
+      "notion_id": "4a6bd1b154bf4667bdc47b321a49dc4c",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "蒼龍 Cānglóng",
+      "description": null,
+      "medium": "ink on Canvas",
+      "dimensions": "18 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1511a652-bbc2-4eac-8037-a4d1de7dd599%2FIMG_1444.jpg?table=block&id=39f0895b-c896-4506-8450-20d57a7716f9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1511a652-bbc2-4eac-8037-a4d1de7dd599%2FIMG_1444.jpg?table=block&id=39f0895b-c896-4506-8450-20d57a7716f9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-339-4a6bd1b154bf4667bdc47b321a49dc4c?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.441595"
+    },
+    {
+      "notion_id": "3afa7e15615848d583f4e401bc9d4690",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "青龍 Qīnglóng",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "18 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F12cc2eb6-e873-44f5-97a8-88f1b4900e45%2FIMG_1445.jpg?table=block&id=d2e04ca2-5fd2-4d0d-9047-7fc02ab6a562&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F12cc2eb6-e873-44f5-97a8-88f1b4900e45%2FIMG_1445.jpg?table=block&id=d2e04ca2-5fd2-4d0d-9047-7fc02ab6a562&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-340-3afa7e15615848d583f4e401bc9d4690?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.441595"
+    },
+    {
+      "notion_id": "23f9f8c22a8280b09334e692d898e972",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Comfort Zone",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A48d5d779-cdbe-405c-b5f1-82bf03cec82c%3AIMG_6409.jpg?table=block&id=23f9f8c2-2a82-80dd-81e2-ccf01662c533&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A48d5d779-cdbe-405c-b5f1-82bf03cec82c%3AIMG_6409.jpg?table=block&id=23f9f8c2-2a82-80dd-81e2-ccf01662c533&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CT-012-23f9f8c22a8280b09334e692d898e972?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.442304"
+    },
+    {
+      "notion_id": "2e69f8c22a8280d29287d31856360380",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Held in Light",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "12 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A9eb7fdad-584e-4756-93ec-420bb5109570%3Ae64114ec-107a-461e-8fb7-c026e5f61189.jpeg?table=block&id=2e69f8c2-2a82-8055-9df6-c0975d469e34&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A9eb7fdad-584e-4756-93ec-420bb5109570%3Ae64114ec-107a-461e-8fb7-c026e5f61189.jpeg?table=block&id=2e69f8c2-2a82-8055-9df6-c0975d469e34&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-397-2e69f8c22a8280d29287d31856360380?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.442304"
+    },
+    {
+      "notion_id": "23f9f8c22a8280118b8ecfa42ba06320",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Motion in Maze",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A84b285fe-b822-41e1-8eed-9c79c5e006c5%3AIMG_6434.jpg?table=block&id=23f9f8c2-2a82-802e-8445-c83940988f99&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A84b285fe-b822-41e1-8eed-9c79c5e006c5%3AIMG_6434.jpg?table=block&id=23f9f8c2-2a82-802e-8445-c83940988f99&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CT-007-23f9f8c22a8280118b8ecfa42ba06320?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.443094"
+    },
+    {
+      "notion_id": "23f9f8c22a82801b96afd4c77a8aec26",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "One Car: A Thousand Stories",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7525573f-3413-4294-a557-1d275a6fb8d0%3AIMG_6432.jpg?table=block&id=23f9f8c2-2a82-8027-8436-c5c2daedd5d2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7525573f-3413-4294-a557-1d275a6fb8d0%3AIMG_6432.jpg?table=block&id=23f9f8c2-2a82-8027-8436-c5c2daedd5d2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CT-004-23f9f8c22a82801b96afd4c77a8aec26?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.443094"
+    },
+    {
+      "notion_id": "23f9f8c22a8280f9b3adf5728cdff90f",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Clusters",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A8477d829-3ab5-4383-9a49-0b9dfb19f044%3AIMG_6447.jpg?table=block&id=23f9f8c2-2a82-8055-b7c6-f666a6df741d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A8477d829-3ab5-4383-9a49-0b9dfb19f044%3AIMG_6447.jpg?table=block&id=23f9f8c2-2a82-8055-b7c6-f666a6df741d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CT-002-23f9f8c22a8280f9b3adf5728cdff90f?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.443094"
+    },
+    {
+      "notion_id": "1ec9f8c22a8280d2934af5bad6d9e325",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "The Comedy of Feeling",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A9eb51440-0a81-46cf-ad34-6e50cf6f3fca%3AWhatsApp_Image_2025-05-06_at_16.57.45_0650b6be.jpg?table=block&id=03754c86-dfbf-41a1-a72f-71fcb415c47b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A9eb51440-0a81-46cf-ad34-6e50cf6f3fca%3AWhatsApp_Image_2025-05-06_at_16.57.45_0650b6be.jpg?table=block&id=03754c86-dfbf-41a1-a72f-71fcb415c47b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-364-1ec9f8c22a8280d2934af5bad6d9e325?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.443887"
+    },
+    {
+      "notion_id": "a035a074f3374d91a75fde2fd6a030e0",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Mermaids",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Faf82d5a8-3a02-4cb2-a262-47a3c0002c39%2FMNR_052_(1).jpg?table=block&id=c59222dc-a6a2-4977-90c7-4e1f0b66da7b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Faf82d5a8-3a02-4cb2-a262-47a3c0002c39%2FMNR_052_(1).jpg?table=block&id=c59222dc-a6a2-4977-90c7-4e1f0b66da7b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-052-a035a074f3374d91a75fde2fd6a030e0?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.444403"
+    },
+    {
+      "notion_id": "e2043caba18e4714b4659dcb0f7415ab",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Fisherman",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7b38a031-3a80-4cca-af1a-837294efb5e9%2FMNR_242_(1).jpg?table=block&id=466c8f4b-4334-4324-a09e-e25609bdc113&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7b38a031-3a80-4cca-af1a-837294efb5e9%2FMNR_242_(1).jpg?table=block&id=466c8f4b-4334-4324-a09e-e25609bdc113&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-242-e2043caba18e4714b4659dcb0f7415ab?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.445034"
+    },
+    {
+      "notion_id": "a50d98ddbf10426790f39018aa00ce83",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Afterglow",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbaaee8c4-cf70-4327-8f65-55564dd63186%2FIO_040_24_x_36.jpg?table=block&id=b3bfa7de-4ebd-414f-b249-e5393396b692&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbaaee8c4-cf70-4327-8f65-55564dd63186%2FIO_040_24_x_36.jpg?table=block&id=b3bfa7de-4ebd-414f-b249-e5393396b692&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/IO-040-a50d98ddbf10426790f39018aa00ce83?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.445034"
+    },
+    {
+      "notion_id": "d7f3350c737043fb9688fae8b740749e",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Dinner Date",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "18 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbfc637ec-b1a0-4393-b94a-3590d1b51891%2F378132358_835839014832460_5032691440347545319_n.jpg?table=block&id=01a674fa-e1d6-4be0-9fd8-9fb4953dadb3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbfc637ec-b1a0-4393-b94a-3590d1b51891%2F378132358_835839014832460_5032691440347545319_n.jpg?table=block&id=01a674fa-e1d6-4be0-9fd8-9fb4953dadb3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-315-d7f3350c737043fb9688fae8b740749e?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.445678"
+    },
+    {
+      "notion_id": "7fc846290933452db060b193e8c9f150",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Untitled",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6fdbadf6-afc0-4834-a4ca-3e652d612172%2F393493795_862762805164281_6487305142499542825_n.jpg?table=block&id=dba9424d-5c27-4255-8a06-d42abe634e70&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6fdbadf6-afc0-4834-a4ca-3e652d612172%2F393493795_862762805164281_6487305142499542825_n.jpg?table=block&id=dba9424d-5c27-4255-8a06-d42abe634e70&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CSR-036-7fc846290933452db060b193e8c9f150?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.446691"
+    },
+    {
+      "notion_id": "cec2fe60371a4c4c9dbc1f6b83cdf0a7",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Where Flowers Bloom",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F47c6dae5-610b-49eb-b532-f6181c3696c0%2FMNR_283.jpg?table=block&id=3ce098fa-81a8-4238-af5a-8f48ae7d74bf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F47c6dae5-610b-49eb-b532-f6181c3696c0%2FMNR_283.jpg?table=block&id=3ce098fa-81a8-4238-af5a-8f48ae7d74bf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-283-cec2fe60371a4c4c9dbc1f6b83cdf0a7?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.446691"
+    },
+    {
+      "notion_id": "4888099ed3ba4de69571a514ade4dc84",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Untitled",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F648aad7a-11e3-40b8-be5f-29ed84a8cb63%2FIMG_2081.jpg?table=block&id=76877502-1dd6-4306-9a9e-4b9cecfa2a27&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F648aad7a-11e3-40b8-be5f-29ed84a8cb63%2FIMG_2081.jpg?table=block&id=76877502-1dd6-4306-9a9e-4b9cecfa2a27&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CSR-052-4888099ed3ba4de69571a514ade4dc84?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.447274"
+    },
+    {
+      "notion_id": "773c285a049842fd8f3b135569acae8e",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "White-Flowered Orchids",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd06224c3-c0af-4399-aadc-edbeefb202b0%2FMNR_113.jpg?table=block&id=552f9a1d-e16c-42ff-ae1d-85766634d323&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd06224c3-c0af-4399-aadc-edbeefb202b0%2FMNR_113.jpg?table=block&id=552f9a1d-e16c-42ff-ae1d-85766634d323&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-113-773c285a049842fd8f3b135569acae8e?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.447274"
+    },
+    {
+      "notion_id": "37d8612d911a4ec7b899b70a4b2b7890",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Untitled",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F96d71614-f5e8-425b-902f-0c92b9754758%2FMNR_138_24X24_(1).jpeg?table=block&id=cafd03a3-9d75-4c47-a7c5-0f16bf771786&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F96d71614-f5e8-425b-902f-0c92b9754758%2FMNR_138_24X24_(1).jpeg?table=block&id=cafd03a3-9d75-4c47-a7c5-0f16bf771786&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-138-37d8612d911a4ec7b899b70a4b2b7890?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.447918"
+    },
+    {
+      "notion_id": "4688d026360e4804a60f8ca5db6a1143",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "The Tightrope Walker",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F665c7b18-bcb7-487b-af93-7a448de81aaf%2F376369168_316148044429398_121821426006122705_n.jpg?table=block&id=fabd5664-c1a6-4643-a120-4a03a3fab200&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F665c7b18-bcb7-487b-af93-7a448de81aaf%2F376369168_316148044429398_121821426006122705_n.jpg?table=block&id=fabd5664-c1a6-4643-a120-4a03a3fab200&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CSR-030-4688d026360e4804a60f8ca5db6a1143?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.447918"
+    },
+    {
+      "notion_id": "b4543160dd42495fb4cd3e59cc5a665c",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Midnight Moonlight",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb8311deb-afc3-4744-8a63-5cc5a23ce525%2FIO_017_24_x_36.jpg?table=block&id=e6b6e04e-f148-451b-9ffb-7d85fe8c4ea5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb8311deb-afc3-4744-8a63-5cc5a23ce525%2FIO_017_24_x_36.jpg?table=block&id=e6b6e04e-f148-451b-9ffb-7d85fe8c4ea5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/IO-017-b4543160dd42495fb4cd3e59cc5a665c?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.448696"
+    },
+    {
+      "notion_id": "9c9704c5dccb4973af42fa74ae119775",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Untitled",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F507c794d-dc29-403e-98ea-0e1d6816eb37%2FMNR_135_24X24.jpeg?table=block&id=a1cd2ad1-312e-4588-8f14-add2568a81ca&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F507c794d-dc29-403e-98ea-0e1d6816eb37%2FMNR_135_24X24.jpeg?table=block&id=a1cd2ad1-312e-4588-8f14-add2568a81ca&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-135-9c9704c5dccb4973af42fa74ae119775?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.448696"
+    },
+    {
+      "notion_id": "8d8a09aaf72d4fafa991ec496690d367",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Carousel: Sphinx",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb01149a1-1e03-4186-8051-6b6a4f6390dc%2FCSR_019.jpg?table=block&id=65e74359-b0be-40ae-93fa-621da98564a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb01149a1-1e03-4186-8051-6b6a4f6390dc%2FCSR_019.jpg?table=block&id=65e74359-b0be-40ae-93fa-621da98564a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CSR-019-8d8a09aaf72d4fafa991ec496690d367?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.449389"
+    },
+    {
+      "notion_id": "a1e05c7f40e44018aad2c4682a743249",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Ode to Masked Journey",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1365adaa-21f4-42f5-97a3-7b6e957fc04a%2FMNR_272.jpg?table=block&id=b4f34349-1228-43cb-a7d9-05b1413ec1a2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1365adaa-21f4-42f5-97a3-7b6e957fc04a%2FMNR_272.jpg?table=block&id=b4f34349-1228-43cb-a7d9-05b1413ec1a2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-272-a1e05c7f40e44018aad2c4682a743249?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.449389"
+    },
+    {
+      "notion_id": "2889f8c22a828043aa0edf341e6d980c",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Spirit Blooms Like Trees",
+      "description": null,
+      "medium": "ink on canvas",
+      "dimensions": "18 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Abcb1a00f-2258-4133-a64b-3180ccf9a8de%3AIMG_7637.jpeg?table=block&id=2889f8c2-2a82-805d-9408-d9bfd3ac7051&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Abcb1a00f-2258-4133-a64b-3180ccf9a8de%3AIMG_7637.jpeg?table=block&id=2889f8c2-2a82-805d-9408-d9bfd3ac7051&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-384-2889f8c22a828043aa0edf341e6d980c?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.449389"
+    },
+    {
+      "notion_id": "23f9f8c22a8280a4b602d29864c3badb",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Rush Hour Rhythm",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ad87e7bb7-bc5e-4e66-b431-c5b3739be1a9%3AIMG_6410.jpg?table=block&id=23f9f8c2-2a82-80d2-aab4-cf53a1f90549&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ad87e7bb7-bc5e-4e66-b431-c5b3739be1a9%3AIMG_6410.jpg?table=block&id=23f9f8c2-2a82-80d2-aab4-cf53a1f90549&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CT-003-23f9f8c22a8280a4b602d29864c3badb?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.450128"
+    },
+    {
+      "notion_id": "2dc9f8c22a82803fb417cfe5b30bbd6f",
+      "artist_id": "25d9f8c22a82807baf67dfdd9cafc624",
+      "artist_name": "MONNAR",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A50c0067f-ddb6-49b3-8dbb-05ad8fc8357a%3AWhatsApp_Image_2025-12-29_at_14.47.14.jpeg?table=block&id=2dc9f8c2-2a82-805a-bec5-fd6f35b3f65c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A50c0067f-ddb6-49b3-8dbb-05ad8fc8357a%3AWhatsApp_Image_2025-12-29_at_14.47.14.jpeg?table=block&id=2dc9f8c2-2a82-805a-bec5-fd6f35b3f65c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MNR-395-C-2dc9f8c22a82803fb417cfe5b30bbd6f?pvs=25",
+      "scraped_at": "2026-02-03T14:44:49.450836"
+    }
+  ]
+}

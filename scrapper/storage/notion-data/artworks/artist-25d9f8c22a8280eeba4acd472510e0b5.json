@@ -1,0 +1,533 @@
+{
+  "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+  "artist_name": "CAINTO, Ronnel",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T14:27:35.648800",
+  "artworks": [
+    {
+      "notion_id": "1ea9f8c22a8280ae8ba4ffdd0c1584ec",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aa1c46770-bc19-40ba-9819-2e54668c5767%3A53410167_2031932386861959_2944782139670921216_n.jpg?table=block&id=bb5aec04-4633-4d6f-a5d8-19d24d029c92&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aa1c46770-bc19-40ba-9819-2e54668c5767%3A53410167_2031932386861959_2944782139670921216_n.jpg?table=block&id=bb5aec04-4633-4d6f-a5d8-19d24d029c92&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22694-1ea9f8c22a8280ae8ba4ffdd0c1584ec?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.642561"
+    },
+    {
+      "notion_id": "1415e975c8b44a43afbc64290c0f5954",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Procession",
+      "description": null,
+      "medium": null,
+      "dimensions": "16 x 10 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0571ba2c-d03f-4207-a7e3-190aa7d281e9%2F1001056693.jpg?table=block&id=12640f0d-f9fe-4cba-bd25-520f55fc41c1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0571ba2c-d03f-4207-a7e3-190aa7d281e9%2F1001056693.jpg?table=block&id=12640f0d-f9fe-4cba-bd25-520f55fc41c1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/16731-1415e975c8b44a43afbc64290c0f5954?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.642561"
+    },
+    {
+      "notion_id": "f589d0471ec74a348ca75192be04d870",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Playing with Balloons",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 12",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2bd64f46-c846-449c-86c1-b7fd0bcdad27%2FkjRl__ex.jpg?table=block&id=cf106fd9-b60b-40da-b18d-6a02b9eaf113&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2bd64f46-c846-449c-86c1-b7fd0bcdad27%2FkjRl__ex.jpg?table=block&id=cf106fd9-b60b-40da-b18d-6a02b9eaf113&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/16932-f589d0471ec74a348ca75192be04d870?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.642561"
+    },
+    {
+      "notion_id": "f8dad6a2e548491e9d7e92c538c718a4",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Sunset",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Feb4886c7-0684-4fcc-97a3-2cf987b20272%2F21935.jpg?table=block&id=c08a87ff-7480-4888-98ab-d1b80146af14&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Feb4886c7-0684-4fcc-97a3-2cf987b20272%2F21935.jpg?table=block&id=c08a87ff-7480-4888-98ab-d1b80146af14&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21935-f8dad6a2e548491e9d7e92c538c718a4?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.643161"
+    },
+    {
+      "notion_id": "650e74cb1cc543d8b8ccdf96afbb8e89",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Sorbetero",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa3d5046f-09f3-416a-8504-c14b3c273d63%2F23956.jpeg?table=block&id=dad69b85-0439-4c6e-98ba-6d1649f34ace&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa3d5046f-09f3-416a-8504-c14b3c273d63%2F23956.jpeg?table=block&id=dad69b85-0439-4c6e-98ba-6d1649f34ace&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23956-650e74cb1cc543d8b8ccdf96afbb8e89?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.643161"
+    },
+    {
+      "notion_id": "3a5e24ad877f4f93a37a484bba29c5c3",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Mountain Houses",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F102a7edd-e73a-44cc-b184-815a5295eef4%2F54730221_2263789837041287_1456972117915467776_n.jpg?table=block&id=30c28f95-7ff0-4fe1-88ed-a2afb58139fb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F102a7edd-e73a-44cc-b184-815a5295eef4%2F54730221_2263789837041287_1456972117915467776_n.jpg?table=block&id=30c28f95-7ff0-4fe1-88ed-a2afb58139fb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23000-3a5e24ad877f4f93a37a484bba29c5c3?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.643161"
+    },
+    {
+      "notion_id": "c7b64c6c011c480ca3fed34b65267c3a",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Mountain Houses",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1f0914d0-828d-44c9-b032-88234c37b0e8%2F387415695_3592049074414043_927987556684209767_n.jpg?table=block&id=592cd337-a878-4bc0-97d9-dea2f6b1198e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1f0914d0-828d-44c9-b032-88234c37b0e8%2F387415695_3592049074414043_927987556684209767_n.jpg?table=block&id=592cd337-a878-4bc0-97d9-dea2f6b1198e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23954-c7b64c6c011c480ca3fed34b65267c3a?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.643808"
+    },
+    {
+      "notion_id": "08be1abf5eb7444e944344181ac252e4",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Sorbetero",
+      "description": null,
+      "medium": null,
+      "dimensions": "9 x 15 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A35262830-0912-45b7-9505-80f2d8c0c05d%3A1000036649_(1).png?table=block&id=9bfd07d3-8461-49df-9bf4-3a805282e5e9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A35262830-0912-45b7-9505-80f2d8c0c05d%3A1000036649_(1).png?table=block&id=9bfd07d3-8461-49df-9bf4-3a805282e5e9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/14275-08be1abf5eb7444e944344181ac252e4?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.643808"
+    },
+    {
+      "notion_id": "bc710c82d4014192a7534cb88b7cf955",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 5",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F30694ee2-d016-44b5-8f50-658b83fd2727%2F14539.jpg?table=block&id=b26489b8-cf82-461f-b178-d32a3d14050a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F30694ee2-d016-44b5-8f50-658b83fd2727%2F14539.jpg?table=block&id=b26489b8-cf82-461f-b178-d32a3d14050a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/14539-bc710c82d4014192a7534cb88b7cf955?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.643808"
+    },
+    {
+      "notion_id": "8e569a2710c3429b99a65503acad153a",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Family Prayer",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4a79fe71-4f8b-4e93-93bf-94a4f8c7c218%2F375701862_2018871075144574_4288528356010910660_n.jpg?table=block&id=2cf137c2-42a6-4a6a-8ec5-9b76cea42928&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4a79fe71-4f8b-4e93-93bf-94a4f8c7c218%2F375701862_2018871075144574_4288528356010910660_n.jpg?table=block&id=2cf137c2-42a6-4a6a-8ec5-9b76cea42928&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24177-8e569a2710c3429b99a65503acad153a?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.643808"
+    },
+    {
+      "notion_id": "9cfb75b41b1a4d5395580da72952b1b5",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Mountain Houses",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fac5027d7-2686-4a83-b00d-61fd415247ce%2F377277262_992959898596754_3362548217724203562_n.jpg?table=block&id=516340a0-254a-4e9f-955d-07a2a7dce5a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fac5027d7-2686-4a83-b00d-61fd415247ce%2F377277262_992959898596754_3362548217724203562_n.jpg?table=block&id=516340a0-254a-4e9f-955d-07a2a7dce5a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23357-9cfb75b41b1a4d5395580da72952b1b5?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.644495"
+    },
+    {
+      "notion_id": "5d08b84fce5c467f9fe46ad9149d73a2",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Heat Wave",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0d1ec5fe-da0a-477b-bc80-b188cf0fe8f4%2F20483.jpeg?table=block&id=f8ffc75b-0564-4992-975e-e0ea3b4a030d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0d1ec5fe-da0a-477b-bc80-b188cf0fe8f4%2F20483.jpeg?table=block&id=f8ffc75b-0564-4992-975e-e0ea3b4a030d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20483-5d08b84fce5c467f9fe46ad9149d73a2?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.644495"
+    },
+    {
+      "notion_id": "738a90b07b614eb3b832caedab5cb815",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Mountain Houses",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4dbf3092-3bfa-411a-99e6-2adb8799cbdc%2F373456476_240269975206112_903888881584916627_n.jpg?table=block&id=acaeb2e4-29b5-4da0-bb80-9f35a65942dd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4dbf3092-3bfa-411a-99e6-2adb8799cbdc%2F373456476_240269975206112_903888881584916627_n.jpg?table=block&id=acaeb2e4-29b5-4da0-bb80-9f35a65942dd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22459-738a90b07b614eb3b832caedab5cb815?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.644495"
+    },
+    {
+      "notion_id": "b68a526089964148a64988ef77f891db",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdfe0c49d-a6bb-4e3e-b30e-9292724d0630%2F377153917_1362294014674211_6679218679965880375_n_(1).jpg?table=block&id=143ec18a-cb9f-485e-849d-fe00304ecd7b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdfe0c49d-a6bb-4e3e-b30e-9292724d0630%2F377153917_1362294014674211_6679218679965880375_n_(1).jpg?table=block&id=143ec18a-cb9f-485e-849d-fe00304ecd7b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RLC-006-b68a526089964148a64988ef77f891db?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.645199"
+    },
+    {
+      "notion_id": "059f112aa36b4b15b003e1b5c592243f",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6f2a17d3-4f4d-4f44-b625-42af5c4eec33%2FRLC_007_24X48.jpeg?table=block&id=d8a831e4-f271-4b1e-8d7d-158a8c202b50&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6f2a17d3-4f4d-4f44-b625-42af5c4eec33%2FRLC_007_24X48.jpeg?table=block&id=d8a831e4-f271-4b1e-8d7d-158a8c202b50&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RLC-007-059f112aa36b4b15b003e1b5c592243f?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.645199"
+    },
+    {
+      "notion_id": "ce874901ec9141e9bcb468e331f4af34",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Maze",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdc01a70c-b1d5-4a66-bb86-15e64f41bd04%2F416435536_748079267387099_3990602240494188153_n.jpg?table=block&id=cb58e104-46fb-42f5-8cce-764a8f40f4b1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdc01a70c-b1d5-4a66-bb86-15e64f41bd04%2F416435536_748079267387099_3990602240494188153_n.jpg?table=block&id=cb58e104-46fb-42f5-8cce-764a8f40f4b1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20057-ce874901ec9141e9bcb468e331f4af34?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.645199"
+    },
+    {
+      "notion_id": "07dcd21f5fa14e0db2e8a98f9416e95f",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 28 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc5924c66-a571-4129-82a4-d9c1c095d734%2F373490286_332161762511110_7808264011778012667_n.jpg?table=block&id=0e9b7244-c140-47a5-892f-7e858a25c08b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc5924c66-a571-4129-82a4-d9c1c095d734%2F373490286_332161762511110_7808264011778012667_n.jpg?table=block&id=0e9b7244-c140-47a5-892f-7e858a25c08b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21014-07dcd21f5fa14e0db2e8a98f9416e95f?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.645199"
+    },
+    {
+      "notion_id": "85d33340cc4b430ab69573c4e1c91bc2",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Mountain Houses",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F44a52cb4-a554-4e63-8237-cc9d1b3ec42a%2F375758601_3448726658725313_5059417384219158832_n.jpg?table=block&id=ec545fdc-27a0-4d3b-9e68-047e185f0ef5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F44a52cb4-a554-4e63-8237-cc9d1b3ec42a%2F375758601_3448726658725313_5059417384219158832_n.jpg?table=block&id=ec545fdc-27a0-4d3b-9e68-047e185f0ef5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21083-85d33340cc4b430ab69573c4e1c91bc2?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.645199"
+    },
+    {
+      "notion_id": "9a9088aff9064d549b751a52f2aaad8e",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd0d660ee-1c7c-4564-aa61-545b4113f7b9%2F372141140_2347716992102590_5516911291867068091_n.jpg?table=block&id=872baae7-72ae-4188-8ab8-6c92a22b6632&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd0d660ee-1c7c-4564-aa61-545b4113f7b9%2F372141140_2347716992102590_5516911291867068091_n.jpg?table=block&id=872baae7-72ae-4188-8ab8-6c92a22b6632&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21015-9a9088aff9064d549b751a52f2aaad8e?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.646258"
+    },
+    {
+      "notion_id": "abe3198188174e40a1ee563c0d26cb54",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Mountain Houses",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9d10c8e8-dbd9-4fac-93fd-155d8f4c40f2%2F376393484_1501610514004242_1066183748649308414_n.jpg?table=block&id=bb1fc9c6-13ee-4332-bd85-36a378a43bde&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9d10c8e8-dbd9-4fac-93fd-155d8f4c40f2%2F376393484_1501610514004242_1066183748649308414_n.jpg?table=block&id=bb1fc9c6-13ee-4332-bd85-36a378a43bde&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24650-abe3198188174e40a1ee563c0d26cb54?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.646258"
+    },
+    {
+      "notion_id": "f167efb5e95f4cecb46283c9452e2081",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd35e12fe-ea97-4781-bb1d-c9ad21c7e0ff%2F22591.jpg?table=block&id=6a2cc1e2-455d-4714-926f-bea35214ba6f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd35e12fe-ea97-4781-bb1d-c9ad21c7e0ff%2F22591.jpg?table=block&id=6a2cc1e2-455d-4714-926f-bea35214ba6f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22591-f167efb5e95f4cecb46283c9452e2081?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.646258"
+    },
+    {
+      "notion_id": "f4438e546eea415cb51b7021b951a634",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0b72553a-3beb-4aef-a325-adb74baba9dd%2F373352333_633965188873044_8653217683498773061_n.jpg?table=block&id=9c05437b-af9d-4eb8-9e5b-521051974a63&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0b72553a-3beb-4aef-a325-adb74baba9dd%2F373352333_633965188873044_8653217683498773061_n.jpg?table=block&id=9c05437b-af9d-4eb8-9e5b-521051974a63&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/18357-f4438e546eea415cb51b7021b951a634?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.646258"
+    },
+    {
+      "notion_id": "2b80f254db8e4d419d0f34bd4cf0be3f",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F38c9fe75-f878-49fa-843a-2e39d8a6b2f4%2FRLC005_24X48.jpeg?table=block&id=e76a0c0b-f63c-447b-b576-cb56483e19f8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F38c9fe75-f878-49fa-843a-2e39d8a6b2f4%2FRLC005_24X48.jpeg?table=block&id=e76a0c0b-f63c-447b-b576-cb56483e19f8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RLC-005-2b80f254db8e4d419d0f34bd4cf0be3f?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.646972"
+    },
+    {
+      "notion_id": "7db7204cf2604454abc9999b20c2ca55",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F56d54817-6329-49d4-b27f-8f842ed4cc8d%2F23056_24_x_48.jpg?table=block&id=d0b4ff43-3e54-416d-a4d6-4417e492ed66&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F56d54817-6329-49d4-b27f-8f842ed4cc8d%2F23056_24_x_48.jpg?table=block&id=d0b4ff43-3e54-416d-a4d6-4417e492ed66&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23056-7db7204cf2604454abc9999b20c2ca55?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.646972"
+    },
+    {
+      "notion_id": "15cf2d99985c4f64951f8cc0bcca13f0",
+      "artist_id": "25d9f8c22a8280eeba4acd472510e0b5",
+      "artist_name": "CAINTO, Ronnel",
+      "title": "Mother & Child",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa4fd6991-1e46-411f-8c94-21d8f225ab93%2F14154.jpg?table=block&id=3d7800ee-695d-462e-a91c-f75ed1f56c39&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa4fd6991-1e46-411f-8c94-21d8f225ab93%2F14154.jpg?table=block&id=3d7800ee-695d-462e-a91c-f75ed1f56c39&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/14154-15cf2d99985c4f64951f8cc0bcca13f0?pvs=25",
+      "scraped_at": "2026-02-03T14:27:35.646972"
+    }
+  ]
+}

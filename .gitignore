@@ -45,7 +45,8 @@ copy-scraped-images.bat
 scrapper/*
 !scrapper/artcirclegallery_dump/
 !scrapper/artcirclegallery_dump/artworks.json
-scrapper/storage/notion-data/
+!scrapper/storage/
 sync-artworks.bat
 SEO_IMPLEMENTATION.md
 CRAWLER_SEO_SOLUTION.md
+deploy-commands.sh

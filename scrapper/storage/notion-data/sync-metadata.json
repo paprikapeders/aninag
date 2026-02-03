@@ -1,0 +1,39 @@
+{
+  "scraper_version": "1.0.0",
+  "sync_started_at": "2026-02-03T14:18:18.643269",
+  "sync_completed_at": "2026-02-03T14:46:22.235153",
+  "total_artists": 45,
+  "total_artworks": 547,
+  "successful_artists": 45,
+  "failed_artists": 0,
+  "errors": [
+    {
+      "stage": "artist_artworks",
+      "artist_id": "25d9f8c22a8280429db6c531c41a8e4c",
+      "artist_name": "CARLOS, Isagani Punzalan",
+      "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://artcirclegallery.notion.site/CARLOS-Isagani-Punzalan-25d9f8c22a8280429db6c531c41a8e4c?pvs=25\", waiting until \"domcontentloaded\"\n",
+      "timestamp": "2026-02-03T14:29:23.085260"
+    },
+    {
+      "stage": "artist_artworks",
+      "artist_id": "25d9f8c22a828027af43c5380ff0360a",
+      "artist_name": "CASTRILLO, Karen",
+      "error": "Page.goto: Navigation to \"https://artcirclegallery.notion.site/CASTRILLO-Karen-25d9f8c22a828027af43c5380ff0360a?pvs=25\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://artcirclegallery.notion.site/CASTRILLO-Karen-25d9f8c22a828027af43c5380ff0360a?pvs=25\", waiting until \"domcontentloaded\"\n",
+      "timestamp": "2026-02-03T14:30:42.571000"
+    },
+    {
+      "stage": "artist_artworks",
+      "artist_id": "25d9f8c22a828050ba53f1a5364e958f",
+      "artist_name": "MALLARI, Ram",
+      "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://artcirclegallery.notion.site/MALLARI-Ram-25d9f8c22a828050ba53f1a5364e958f?pvs=25\", waiting until \"domcontentloaded\"\n",
+      "timestamp": "2026-02-03T14:41:47.612130"
+    },
+    {
+      "stage": "artist_artworks",
+      "artist_id": "25c9f8c22a8280d89766e2e5659f732c",
+      "artist_name": "MANINGO, Gil",
+      "error": "Page.goto: Navigation to \"https://artcirclegallery.notion.site/MANINGO-Gil-25c9f8c22a8280d89766e2e5659f732c?pvs=25\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://artcirclegallery.notion.site/MANINGO-Gil-25c9f8c22a8280d89766e2e5659f732c?pvs=25\", waiting until \"domcontentloaded\"\n",
+      "timestamp": "2026-02-03T14:43:16.041782"
+    }
+  ]
+}

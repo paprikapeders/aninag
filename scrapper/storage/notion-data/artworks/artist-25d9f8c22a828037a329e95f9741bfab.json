@@ -1,0 +1,470 @@
+{
+  "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+  "artist_name": "DELOS SANTOS, Roland",
+  "total_artworks": 22,
+  "scraped_at": "2026-02-03T14:33:18.040863",
+  "artworks": [
+    {
+      "notion_id": "fd80f10fe3c44b1489aeb6722dbee36d",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "30 x 20 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fea719c6e-a223-45a6-b226-2ef241dc5bc3%2FIMG_1918.jpg?table=block&id=4f85ca65-18fd-405c-838f-439552b3f527&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fea719c6e-a223-45a6-b226-2ef241dc5bc3%2FIMG_1918.jpg?table=block&id=4f85ca65-18fd-405c-838f-439552b3f527&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22489-fd80f10fe3c44b1489aeb6722dbee36d?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.032281"
+    },
+    {
+      "notion_id": "5402bfce1a2f493fab50d6a0d50386e1",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Purity & Chastity",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb3860ae2-a791-4e46-93ce-340a685197db%2FIMG_2346.jpg?table=block&id=e1317d0d-4169-43aa-bea9-423053c6103b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb3860ae2-a791-4e46-93ce-340a685197db%2FIMG_2346.jpg?table=block&id=e1317d0d-4169-43aa-bea9-423053c6103b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20997-5402bfce1a2f493fab50d6a0d50386e1?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.032281"
+    },
+    {
+      "notion_id": "370871d2c1ba402e973f03c775b66003",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "30 x 20 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F5c3f4f5d-4533-4756-91a6-970822d62a41%2F20377_30_x_20.jpg?table=block&id=a4e5fb84-e19b-4682-b8a5-6e582dd70acd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F5c3f4f5d-4533-4756-91a6-970822d62a41%2F20377_30_x_20.jpg?table=block&id=a4e5fb84-e19b-4682-b8a5-6e582dd70acd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20377-370871d2c1ba402e973f03c775b66003?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.032958"
+    },
+    {
+      "notion_id": "7195ef2d9ec24ad48fa7eac3ec0168f0",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Delfware",
+      "description": null,
+      "medium": "Acrylic on paper",
+      "dimensions": "32 x 22",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2dbf5540-9a30-4973-95a7-2d7ecaa3d949%2F19679464_1326334124101549_7207188347364969006_o.jpg?table=block&id=907b593a-7f36-49a0-bd76-0e1f6034ffc5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2dbf5540-9a30-4973-95a7-2d7ecaa3d949%2F19679464_1326334124101549_7207188347364969006_o.jpg?table=block&id=907b593a-7f36-49a0-bd76-0e1f6034ffc5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/18256-7195ef2d9ec24ad48fa7eac3ec0168f0?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.032958"
+    },
+    {
+      "notion_id": "8042bd5a60254662ab81447034dfef06",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Fruits of Labor",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "22 x 32 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb26a31fe-24aa-4663-b1ad-e0a1d9e7f5e5%2F1000008879.jpg?table=block&id=0300662c-8f79-4f58-ab61-2b7955a7ae15&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb26a31fe-24aa-4663-b1ad-e0a1d9e7f5e5%2F1000008879.jpg?table=block&id=0300662c-8f79-4f58-ab61-2b7955a7ae15&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/18542-8042bd5a60254662ab81447034dfef06?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.033609"
+    },
+    {
+      "notion_id": "0ac100acf46148378196e7b1de5f6164",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Ripe Serenity",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "30 x 20 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb7d881f5-81d2-4989-a71e-2a146fe98933%2FIMG_1314.jpg?table=block&id=ce52b1c3-161b-40b3-b508-0aebf5b89a4a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb7d881f5-81d2-4989-a71e-2a146fe98933%2FIMG_1314.jpg?table=block&id=ce52b1c3-161b-40b3-b508-0aebf5b89a4a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20478-0ac100acf46148378196e7b1de5f6164?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.033609"
+    },
+    {
+      "notion_id": "cc6b343dd8e54f67b3cb03fdb3ba2150",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 20 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F8af88896-11ef-4554-9e0e-f4fad60878da%2F1000010729.jpg?table=block&id=149deaff-fa4c-407c-a0b7-82ac30847786&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F8af88896-11ef-4554-9e0e-f4fad60878da%2F1000010729.jpg?table=block&id=149deaff-fa4c-407c-a0b7-82ac30847786&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21416-cc6b343dd8e54f67b3cb03fdb3ba2150?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.034232"
+    },
+    {
+      "notion_id": "67cf50665393458a91ee838663c5b5e0",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Blue & White Series",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "30 x 20 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6b4d782b-8087-40df-b799-f1720ecc5f6b%2F1000008873.jpg?table=block&id=cd3677d2-8738-4c6d-b9b9-1bdaf9a46bf7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6b4d782b-8087-40df-b799-f1720ecc5f6b%2F1000008873.jpg?table=block&id=cd3677d2-8738-4c6d-b9b9-1bdaf9a46bf7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20693-67cf50665393458a91ee838663c5b5e0?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.034844"
+    },
+    {
+      "notion_id": "543257078dea40c5bdc449cf782d0160",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Fruits of Prosperity",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "22 x 32 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1910efb3-8623-4d19-9d2c-ef8cab26682c%2FIMG_1312.jpg?table=block&id=eb25e8d5-d07d-4f89-80b5-e13ab6342779&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1910efb3-8623-4d19-9d2c-ef8cab26682c%2FIMG_1312.jpg?table=block&id=eb25e8d5-d07d-4f89-80b5-e13ab6342779&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/18241-543257078dea40c5bdc449cf782d0160?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.034844"
+    },
+    {
+      "notion_id": "2d246b601a124b33a3b5e61d93fdb4b0",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "22 x 32",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F25009b4f-980c-40c6-bba3-b43d969b9a75%2F1000008876.jpg?table=block&id=4660fad0-7f73-44f9-b7d6-d20964f6fbc1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F25009b4f-980c-40c6-bba3-b43d969b9a75%2F1000008876.jpg?table=block&id=4660fad0-7f73-44f9-b7d6-d20964f6fbc1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/19671-2d246b601a124b33a3b5e61d93fdb4b0?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.035588"
+    },
+    {
+      "notion_id": "f4e7934c3f24471c8f83b7fba3d16123",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Abundance",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbb32d2ed-4df4-49ab-b319-1033b05092e0%2FIMG_2339.jpg?table=block&id=a30cbef6-8ab9-4686-9579-9aba4721d22e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbb32d2ed-4df4-49ab-b319-1033b05092e0%2FIMG_2339.jpg?table=block&id=a30cbef6-8ab9-4686-9579-9aba4721d22e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/18874-f4e7934c3f24471c8f83b7fba3d16123?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.035588"
+    },
+    {
+      "notion_id": "6ee062a228894871ac8e211f4f71933a",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd8dfdfe7-f6d0-4c96-a620-4286859722a4%2FIMG_2302.jpg?table=block&id=174eb485-2310-4a70-89f4-7c82406e31e4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd8dfdfe7-f6d0-4c96-a620-4286859722a4%2FIMG_2302.jpg?table=block&id=174eb485-2310-4a70-89f4-7c82406e31e4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/19049-6ee062a228894871ac8e211f4f71933a?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.036328"
+    },
+    {
+      "notion_id": "f2fc2cd763374b2ca655d9757fca1ed7",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Sun Kissed Platter",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F045d39d8-6922-4677-ac95-4209e993d78b%2FIMG_2301.jpg?table=block&id=146d1511-e28b-424a-a082-deac670e68a1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F045d39d8-6922-4677-ac95-4209e993d78b%2FIMG_2301.jpg?table=block&id=146d1511-e28b-424a-a082-deac670e68a1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/19095-f2fc2cd763374b2ca655d9757fca1ed7?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.036328"
+    },
+    {
+      "notion_id": "fb16e33cf20840f2b4b9cba4e8245d90",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "20 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdf3b34d9-66c1-475f-bbae-cbb392843d63%2F19900.jpg?table=block&id=fb04a68a-8742-45c3-884c-1b0a9fad10a5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdf3b34d9-66c1-475f-bbae-cbb392843d63%2F19900.jpg?table=block&id=fb04a68a-8742-45c3-884c-1b0a9fad10a5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/19900-fb16e33cf20840f2b4b9cba4e8245d90?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.036328"
+    },
+    {
+      "notion_id": "1a7f51d8c28742d39a8525a55628300f",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "20 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdfedf276-fc47-4f70-94fb-6f0aeea18268%2FIMG_2328.jpg?table=block&id=3d8a549c-adf4-4844-945f-4b927c4a65da&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdfedf276-fc47-4f70-94fb-6f0aeea18268%2FIMG_2328.jpg?table=block&id=3d8a549c-adf4-4844-945f-4b927c4a65da&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/18622-1a7f51d8c28742d39a8525a55628300f?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.037335"
+    },
+    {
+      "notion_id": "164cbc3a87a74a799d8427621fcb2626",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Still Life",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "30 x 20 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff974d8f5-c678-4686-9ee7-122c48f35dea%2F21234_20_x_30.jpg?table=block&id=7eb2229d-80d9-44c2-8e86-e37d1a3ec0e4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff974d8f5-c678-4686-9ee7-122c48f35dea%2F21234_20_x_30.jpg?table=block&id=7eb2229d-80d9-44c2-8e86-e37d1a3ec0e4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21234-164cbc3a87a74a799d8427621fcb2626?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.037841"
+    },
+    {
+      "notion_id": "f2b64ea6ea7f48f3a4fe4b7b69faa1da",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb3f0da8b-2d57-471c-bc46-3dacfd9f65f0%2F18586.jpg?table=block&id=a3145eb3-8cda-4fe4-8fe3-1c3e69ba92d7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb3f0da8b-2d57-471c-bc46-3dacfd9f65f0%2F18586.jpg?table=block&id=a3145eb3-8cda-4fe4-8fe3-1c3e69ba92d7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/18586-f2b64ea6ea7f48f3a4fe4b7b69faa1da?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.037841"
+    },
+    {
+      "notion_id": "550d6487891148558017fd87810c0bfa",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "30 x 20 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3ab36b2d-894c-4c91-ba01-16dd4e734b9d%2F21809.jpg?table=block&id=6bad4542-ef71-4e13-bd62-7f2c02202738&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3ab36b2d-894c-4c91-ba01-16dd4e734b9d%2F21809.jpg?table=block&id=6bad4542-ef71-4e13-bd62-7f2c02202738&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/No-Code-550d6487891148558017fd87810c0bfa?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.038589"
+    },
+    {
+      "notion_id": "11c3b96782c448ae95eefed34d236264",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Blue & White Series",
+      "description": null,
+      "medium": "Acrylic on paper",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffa0c3b6f-9a75-4183-9dbb-ed9b2dd796ad%2FIMG_2318.jpg?table=block&id=df2dcdd8-af59-4237-ad93-ff9a60af4572&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffa0c3b6f-9a75-4183-9dbb-ed9b2dd796ad%2FIMG_2318.jpg?table=block&id=df2dcdd8-af59-4237-ad93-ff9a60af4572&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/18957-11c3b96782c448ae95eefed34d236264?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.039247"
+    },
+    {
+      "notion_id": "f4bbff9546624330b90cd84a3e25a5ea",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Flower in the Window",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "18 x 25 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbd672560-713a-423a-a0f3-fc72eb111133%2F22712188_1418780481523579_2010084115371185194_o.jpg?table=block&id=3d9357ce-fe1e-4998-8766-42d1e522f3d8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbd672560-713a-423a-a0f3-fc72eb111133%2F22712188_1418780481523579_2010084115371185194_o.jpg?table=block&id=3d9357ce-fe1e-4998-8766-42d1e522f3d8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/19974-f4bbff9546624330b90cd84a3e25a5ea?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.039247"
+    },
+    {
+      "notion_id": "57c78bafccb941248670a3d5454f43e8",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Still Life",
+      "description": null,
+      "medium": "Acrylic on board",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff7b22dc6-deae-4b08-97af-33e519a443a6%2F1000008878.jpg?table=block&id=4f419da2-3eff-4bde-b2eb-a4196dc0035e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff7b22dc6-deae-4b08-97af-33e519a443a6%2F1000008878.jpg?table=block&id=4f419da2-3eff-4bde-b2eb-a4196dc0035e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/18897-57c78bafccb941248670a3d5454f43e8?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.039247"
+    },
+    {
+      "notion_id": "46f1207fc4b946cbb38c999be7f10572",
+      "artist_id": "25d9f8c22a828037a329e95f9741bfab",
+      "artist_name": "DELOS SANTOS, Roland",
+      "title": "Blue & White Series",
+      "description": null,
+      "medium": "Acrylic on paper",
+      "dimensions": "30 x 20 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7b9f8d0f-f760-4cb5-999c-164b5099e5da%2F20066.jpg?table=block&id=733fb5ee-fedc-4be1-abc2-4c81fc9d2f57&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7b9f8d0f-f760-4cb5-999c-164b5099e5da%2F20066.jpg?table=block&id=733fb5ee-fedc-4be1-abc2-4c81fc9d2f57&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20066-46f1207fc4b946cbb38c999be7f10572?pvs=25",
+      "scraped_at": "2026-02-03T14:33:18.039929"
+    }
+  ]
+}

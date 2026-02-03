@@ -1,0 +1,470 @@
+{
+  "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+  "artist_name": "ACUNA, Ivan",
+  "total_artworks": 22,
+  "scraped_at": "2026-02-03T14:19:42.159220",
+  "artworks": [
+    {
+      "notion_id": "7b6607b9ff6148488e41c37c6235c609",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbf4e911c-142c-449e-aec7-57f83abdd734%2F25905.jpg?table=block&id=1864803a-4476-40eb-bb77-8018d9a40c50&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbf4e911c-142c-449e-aec7-57f83abdd734%2F25905.jpg?table=block&id=1864803a-4476-40eb-bb77-8018d9a40c50&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25905-7b6607b9ff6148488e41c37c6235c609?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.144946"
+    },
+    {
+      "notion_id": "f5f67a55fcd448fb8140169bffe1e6f1",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "48 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F530225a1-481c-4987-8839-c1d6e5764a12%2F25522.jpg?table=block&id=54d4a395-bc52-4608-8366-1cf4390265b1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F530225a1-481c-4987-8839-c1d6e5764a12%2F25522.jpg?table=block&id=54d4a395-bc52-4608-8366-1cf4390265b1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25522-f5f67a55fcd448fb8140169bffe1e6f1?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.145949"
+    },
+    {
+      "notion_id": "2f79f8c22a8280c6bbbcf9347f8ad169",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A63674036-a264-4a38-a3a2-e1eb692326c5%3A480467671_9612122912142718_2030097605142461999_n.jpg?table=block&id=2f79f8c2-2a82-8063-8ec5-e4748837e0fb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A63674036-a264-4a38-a3a2-e1eb692326c5%3A480467671_9612122912142718_2030097605142461999_n.jpg?table=block&id=2f79f8c2-2a82-8063-8ec5-e4748837e0fb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/IA-053-2f79f8c22a8280c6bbbcf9347f8ad169?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.146959"
+    },
+    {
+      "notion_id": "c548726b3141474b8f2f781d23adadef",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on Wood",
+      "dimensions": "12 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F40c17b5c-d2a6-4ca4-b279-bfbbcd9c2d51%2FIA_155.jpg?table=block&id=aa0e9492-f451-467e-badc-c137f10a87af&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F40c17b5c-d2a6-4ca4-b279-bfbbcd9c2d51%2FIA_155.jpg?table=block&id=aa0e9492-f451-467e-badc-c137f10a87af&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/IA-155-c548726b3141474b8f2f781d23adadef?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.146959"
+    },
+    {
+      "notion_id": "e1b5988e6756427aacbb7dc9d4271f15",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "36 x 55",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe597ad07-b1b4-49ee-9f2e-f9806bbe7483%2F1000011573.jpg?table=block&id=0f194641-e623-4a98-8582-46fe67b5d8a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe597ad07-b1b4-49ee-9f2e-f9806bbe7483%2F1000011573.jpg?table=block&id=0f194641-e623-4a98-8582-46fe67b5d8a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/IA-055-e1b5988e6756427aacbb7dc9d4271f15?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.147958"
+    },
+    {
+      "notion_id": "524dde9fa86c423b81c9a3f1d9c729e3",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "48 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F454c5624-fba5-4963-a03e-95fb5a27b16c%2F1000011564.jpg?table=block&id=809c46d6-29ca-45f3-a1cf-247d39d80948&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F454c5624-fba5-4963-a03e-95fb5a27b16c%2F1000011564.jpg?table=block&id=809c46d6-29ca-45f3-a1cf-247d39d80948&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25511-524dde9fa86c423b81c9a3f1d9c729e3?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.147958"
+    },
+    {
+      "notion_id": "c74c9a14cec54bc9bdbcbe070590a065",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff28af57f-5a94-429a-a966-830ad116b9b9%2F1000011551.jpg?table=block&id=53341743-7a70-49e6-b7b4-7fca757c2558&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff28af57f-5a94-429a-a966-830ad116b9b9%2F1000011551.jpg?table=block&id=53341743-7a70-49e6-b7b4-7fca757c2558&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25894-c74c9a14cec54bc9bdbcbe070590a065?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.148958"
+    },
+    {
+      "notion_id": "fb971b3f15f748b1b8b72b6a7c7317b9",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc54bf3c0-eee4-4bcc-8d4d-a7cb9e6b970d%2F27614.jpg?table=block&id=1d0ab297-d835-444e-ab59-914f8bb78763&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc54bf3c0-eee4-4bcc-8d4d-a7cb9e6b970d%2F27614.jpg?table=block&id=1d0ab297-d835-444e-ab59-914f8bb78763&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27614-fb971b3f15f748b1b8b72b6a7c7317b9?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.148958"
+    },
+    {
+      "notion_id": "be6380763190450bb81c3434049d8e1c",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1cfc3883-79de-401c-82db-cb394a9e141d%2F26712.jpg?table=block&id=a659844f-de7c-4126-9f69-05956f76defb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1cfc3883-79de-401c-82db-cb394a9e141d%2F26712.jpg?table=block&id=a659844f-de7c-4126-9f69-05956f76defb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27612-be6380763190450bb81c3434049d8e1c?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.149958"
+    },
+    {
+      "notion_id": "a5f31a8032ba45318de9aa5b4a311483",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbaf5b031-4437-4d57-a065-f72345dc9255%2F27609.jpg?table=block&id=b93b1f3e-e9bd-45ae-88bf-44f3ed9bda01&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbaf5b031-4437-4d57-a065-f72345dc9255%2F27609.jpg?table=block&id=b93b1f3e-e9bd-45ae-88bf-44f3ed9bda01&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27609-a5f31a8032ba45318de9aa5b4a311483?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.149958"
+    },
+    {
+      "notion_id": "a0cd2db88a7b4d38b34db222f24f26ae",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F023642ef-70a6-4732-ae86-07835ebf04b1%2F27608.jpg?table=block&id=67235b87-cb93-430f-920d-998cdbe0e361&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F023642ef-70a6-4732-ae86-07835ebf04b1%2F27608.jpg?table=block&id=67235b87-cb93-430f-920d-998cdbe0e361&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27608-a0cd2db88a7b4d38b34db222f24f26ae?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.150958"
+    },
+    {
+      "notion_id": "7e76a85c8509447281eafaee9beed24f",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0b9d3b98-7e35-420e-bb1b-9c53161d020b%2F27606.jpg?table=block&id=4189dea7-0258-4de2-998b-bde222dd6b12&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0b9d3b98-7e35-420e-bb1b-9c53161d020b%2F27606.jpg?table=block&id=4189dea7-0258-4de2-998b-bde222dd6b12&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27606-7e76a85c8509447281eafaee9beed24f?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.151467"
+    },
+    {
+      "notion_id": "b130593044484d54a58ec5d77a5537f0",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9005c85b-5939-4931-beef-6e8989fecba1%2F27605.jpg?table=block&id=6e9695d5-c710-42ef-b523-babc3dc416fd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9005c85b-5939-4931-beef-6e8989fecba1%2F27605.jpg?table=block&id=6e9695d5-c710-42ef-b523-babc3dc416fd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27605-b130593044484d54a58ec5d77a5537f0?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.152477"
+    },
+    {
+      "notion_id": "bc40f64820e84259933b4b880eebb0fd",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbc100c00-bc86-4b73-bd4e-813aa7095629%2F399849115_1037979397406331_694256031929059308_n.jpg?table=block&id=004f51ba-3f12-4957-bb60-2224522d4fdf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbc100c00-bc86-4b73-bd4e-813aa7095629%2F399849115_1037979397406331_694256031929059308_n.jpg?table=block&id=004f51ba-3f12-4957-bb60-2224522d4fdf&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27604-bc40f64820e84259933b4b880eebb0fd?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.153480"
+    },
+    {
+      "notion_id": "0734c80a772c474f991008dce46909e5",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc6a018a9-4d11-4b12-adb7-b19424483092%2F27603.jpg?table=block&id=498cc112-a1a1-4bd0-b84c-4979c39cf15d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc6a018a9-4d11-4b12-adb7-b19424483092%2F27603.jpg?table=block&id=498cc112-a1a1-4bd0-b84c-4979c39cf15d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27603-0734c80a772c474f991008dce46909e5?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.153480"
+    },
+    {
+      "notion_id": "a7587d8561a240d6b597aa42469e697d",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0adf4e79-ddcc-43ca-8d3f-1fcca70b5bf6%2F1000010732.jpg?table=block&id=c9417068-8014-4c6f-bb3f-850a07ed4ae1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0adf4e79-ddcc-43ca-8d3f-1fcca70b5bf6%2F1000010732.jpg?table=block&id=c9417068-8014-4c6f-bb3f-850a07ed4ae1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/5727-a7587d8561a240d6b597aa42469e697d?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.153480"
+    },
+    {
+      "notion_id": "6f58d4f9c3774a0f858f85fd6432d844",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "48 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1d8cf4e9-eaba-48f4-a5f5-36b860ec421e%2F25498.jpg?table=block&id=0df5048d-c034-4c1b-8238-f731dd575afd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1d8cf4e9-eaba-48f4-a5f5-36b860ec421e%2F25498.jpg?table=block&id=0df5048d-c034-4c1b-8238-f731dd575afd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25498-6f58d4f9c3774a0f858f85fd6432d844?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.154570"
+    },
+    {
+      "notion_id": "ad1f20edf60d4fbbba29aba737feb5ab",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "36 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8546ae52-f5dd-411e-abe7-1c432ec3249d%2F25750.jpg?table=block&id=a872e490-35a1-44b4-b61c-173178d1d9a9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8546ae52-f5dd-411e-abe7-1c432ec3249d%2F25750.jpg?table=block&id=a872e490-35a1-44b4-b61c-173178d1d9a9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25750-ad1f20edf60d4fbbba29aba737feb5ab?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.155170"
+    },
+    {
+      "notion_id": "07672961e39f45289b2a3bad12a115c9",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "48 x 60 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F307d0d3e-2109-49db-874a-d3795f17ae1e%2F1000011578.jpg?table=block&id=49655a5a-bbae-4db0-b44b-d778ee23fbf9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F307d0d3e-2109-49db-874a-d3795f17ae1e%2F1000011578.jpg?table=block&id=49655a5a-bbae-4db0-b44b-d778ee23fbf9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25906-07672961e39f45289b2a3bad12a115c9?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.155170"
+    },
+    {
+      "notion_id": "e3a201555bb04aa3bfc7d4a2cb6f29e7",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffa889c95-e577-4671-aa03-5c32146a4dcf%2F27607.jpg?table=block&id=c25ebd54-f02e-46f3-b067-cd4f516d5cef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffa889c95-e577-4671-aa03-5c32146a4dcf%2F27607.jpg?table=block&id=c25ebd54-f02e-46f3-b067-cd4f516d5cef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27607-e3a201555bb04aa3bfc7d4a2cb6f29e7?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.156223"
+    },
+    {
+      "notion_id": "42d6a18946554d348d50c5579091e4d2",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F230e5cc4-6265-40e5-b4eb-e84edc19a6a1%2F367374711_319760014097008_2241295392737474146_n.jpg?table=block&id=0b24fa36-9f97-4d6b-b8cc-3fbb877ab799&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F230e5cc4-6265-40e5-b4eb-e84edc19a6a1%2F367374711_319760014097008_2241295392737474146_n.jpg?table=block&id=0b24fa36-9f97-4d6b-b8cc-3fbb877ab799&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27602-42d6a18946554d348d50c5579091e4d2?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.156223"
+    },
+    {
+      "notion_id": "3a1e34614f9f423cb8dceb3d8ad4b31e",
+      "artist_id": "25d9f8c22a8280568765cec9416c8b26",
+      "artist_name": "ACUNA, Ivan",
+      "title": "Platinum Series",
+      "description": null,
+      "medium": "Acrylic on wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F80062f85-4047-4cf4-ad72-dee26ecf22ad%2F363014814_2882940275173019_1994316112360428099_n.jpg?table=block&id=bad5efaf-4adb-4896-a67c-c2e238262d59&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F80062f85-4047-4cf4-ad72-dee26ecf22ad%2F363014814_2882940275173019_1994316112360428099_n.jpg?table=block&id=bad5efaf-4adb-4896-a67c-c2e238262d59&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/IA-139-3a1e34614f9f423cb8dceb3d8ad4b31e?pvs=25",
+      "scraped_at": "2026-02-03T14:19:42.157278"
+    }
+  ]
+}

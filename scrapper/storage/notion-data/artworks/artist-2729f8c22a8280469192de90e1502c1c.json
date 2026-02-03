@@ -1,0 +1,71 @@
+{
+  "artist_id": "2729f8c22a8280469192de90e1502c1c",
+  "artist_name": "Antonio, Marcel",
+  "total_artworks": 3,
+  "scraped_at": "2026-02-03T14:21:18.103855",
+  "artworks": [
+    {
+      "notion_id": "1b29f8c22a828070ba7aea97eec24b8d",
+      "artist_id": "2729f8c22a8280469192de90e1502c1c",
+      "artist_name": "Antonio, Marcel",
+      "title": "Waiting Light",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "12 x 9 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7581bd2e-28e8-4f4d-b506-39a02c2cf8c4%3A482492550_2318146151898768_4061539393183078462_n.jpg?table=block&id=4fdc92d9-6a3d-4dd7-a293-5ec5003a0a92&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7581bd2e-28e8-4f4d-b506-39a02c2cf8c4%3A482492550_2318146151898768_4061539393183078462_n.jpg?table=block&id=4fdc92d9-6a3d-4dd7-a293-5ec5003a0a92&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MA-005-1b29f8c22a828070ba7aea97eec24b8d?pvs=25",
+      "scraped_at": "2026-02-03T14:21:18.099315"
+    },
+    {
+      "notion_id": "1b29f8c22a82804e9480f4c44ad7bd66",
+      "artist_id": "2729f8c22a8280469192de90e1502c1c",
+      "artist_name": "Antonio, Marcel",
+      "title": "Forever Young",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "9 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A0fb08cb9-1e17-4c89-8349-31afb8294bbe%3A483234824_1157942665952993_1056585617571054105_n.jpg?table=block&id=9f6f7174-a7b7-4be1-bc1d-0b9cfdde1150&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A0fb08cb9-1e17-4c89-8349-31afb8294bbe%3A483234824_1157942665952993_1056585617571054105_n.jpg?table=block&id=9f6f7174-a7b7-4be1-bc1d-0b9cfdde1150&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MA-004-1b29f8c22a82804e9480f4c44ad7bd66?pvs=25",
+      "scraped_at": "2026-02-03T14:21:18.100312"
+    },
+    {
+      "notion_id": "c3eb5e84ebd8408a9fc49aea93a9c31f",
+      "artist_id": "2729f8c22a8280469192de90e1502c1c",
+      "artist_name": "Antonio, Marcel",
+      "title": "Nude with Orange Cat",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "9 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fcec0cb3f-e65c-4276-b710-5125b0746d25%2F462569604_3928534947427004_7569804408108496065_n.jpg?table=block&id=6d9e8725-15b4-43f4-8e98-8f7e168c0cbe&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fcec0cb3f-e65c-4276-b710-5125b0746d25%2F462569604_3928534947427004_7569804408108496065_n.jpg?table=block&id=6d9e8725-15b4-43f4-8e98-8f7e168c0cbe&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/MA-002-c3eb5e84ebd8408a9fc49aea93a9c31f?pvs=25",
+      "scraped_at": "2026-02-03T14:21:18.100312"
+    }
+  ]
+}

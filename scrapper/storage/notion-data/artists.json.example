@@ -1,0 +1,72 @@
+[
+  {
+    "notion_id": "abc123def456789012345678901234ab",
+    "name": "Juan dela Cruz",
+    "bio": "Juan dela Cruz is a contemporary Filipino artist known for his vibrant abstract expressionist works. His paintings explore themes of identity, memory, and the Filipino experience through bold colors and dynamic compositions.",
+    "contact_info": "juan.delacruz@example.com | +63 917 123 4567",
+    "profile_image_url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fprofile.jpg",
+    "style": "Abstract Expressionism, Contemporary",
+    "subject": "Identity, Memory, Filipino Heritage",
+    "description": "Through his art, Juan explores the intersection of traditional Filipino motifs with modern abstract techniques, creating pieces that resonate with both local and international audiences.",
+    "page_url": "https://artcirclegallery.notion.site/Juan-dela-Cruz-abc123def456789012345678901234ab",
+    "artworks_file": "artworks/artist-abc123def456789012345678901234ab.json",
+    "artworks_count": 15,
+    "scraped_at": "2026-02-03T14:30:00.123456"
+  },
+  {
+    "notion_id": "def456abc789012345678901234567cd",
+    "name": "Maria Santos",
+    "bio": "Maria Santos is a figurative painter specializing in portraiture and narrative scenes. Her work captures the essence of Filipino life through carefully composed oil paintings that tell stories of everyday experiences.",
+    "contact_info": "maria.santos@artmail.com",
+    "profile_image_url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fmaria-profile.jpg",
+    "style": "Figurative, Realism, Portraiture",
+    "subject": "Portraits, Daily Life, Human Experience",
+    "description": "Maria's paintings are characterized by their emotional depth and technical precision. She has exhibited in galleries across Manila and has received numerous awards for her portrait work.",
+    "page_url": "https://artcirclegallery.notion.site/Maria-Santos-def456abc789012345678901234567cd",
+    "artworks_file": "artworks/artist-def456abc789012345678901234567cd.json",
+    "artworks_count": 23,
+    "scraped_at": "2026-02-03T14:32:15.654321"
+  },
+  {
+    "notion_id": "ghi789jkl012345678901234567890ef",
+    "name": "Roberto Valdez",
+    "bio": "Roberto Valdez is a mixed-media artist whose work bridges traditional and contemporary art forms. His installations and sculptures incorporate found objects, creating thought-provoking pieces that comment on consumer culture and environmental issues.",
+    "contact_info": "roberto.valdez@studio.ph | www.robertovaldezart.com",
+    "profile_image_url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Froberto.jpg",
+    "style": "Mixed Media, Installation Art, Sculpture",
+    "subject": "Environment, Consumer Culture, Sustainability",
+    "description": "Roberto's innovative approach to materials and form has earned him recognition both locally and internationally. His work challenges viewers to reconsider their relationship with objects and the environment.",
+    "page_url": "https://artcirclegallery.notion.site/Roberto-Valdez-ghi789jkl012345678901234567890ef",
+    "artworks_file": "artworks/artist-ghi789jkl012345678901234567890ef.json",
+    "artworks_count": 8,
+    "scraped_at": "2026-02-03T14:35:42.987654"
+  },
+  {
+    "notion_id": "jkl012mno345678901234567890123gh",
+    "name": "Angela Reyes",
+    "bio": "Angela Reyes creates ethereal watercolor landscapes that capture the beauty of the Philippine countryside. Her delicate brushwork and mastery of light create atmospheric pieces that transport viewers to serene natural settings.",
+    "contact_info": "angela@reyesart.ph | +63 918 765 4321",
+    "profile_image_url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fangela.jpg",
+    "style": "Watercolor, Landscape, Impressionism",
+    "subject": "Nature, Landscapes, Philippine Countryside",
+    "description": "Angela's watercolors are celebrated for their luminous quality and emotional resonance. She has been painting for over 20 years and teaches watercolor workshops throughout Metro Manila.",
+    "page_url": "https://artcirclegallery.notion.site/Angela-Reyes-jkl012mno345678901234567890123gh",
+    "artworks_file": "artworks/artist-jkl012mno345678901234567890123gh.json",
+    "artworks_count": 31,
+    "scraped_at": "2026-02-03T14:38:19.246801"
+  },
+  {
+    "notion_id": "mno345pqr678901234567890123456ij",
+    "name": "Carlos Mendoza",
+    "bio": "Carlos Mendoza is known for his bold, geometric abstract paintings that explore color theory and spatial relationships. His large-scale canvases create immersive visual experiences.",
+    "contact_info": "carlos.mendoza@gmail.com",
+    "profile_image_url": null,
+    "style": "Geometric Abstraction, Modernism",
+    "subject": "Color Theory, Form, Spatial Dynamics",
+    "description": "Carlos's work is influenced by international modernist movements while maintaining a distinctly Filipino sensibility. His pieces are in private collections across Asia and the United States.",
+    "page_url": "https://artcirclegallery.notion.site/Carlos-Mendoza-mno345pqr678901234567890123456ij",
+    "artworks_file": "artworks/artist-mno345pqr678901234567890123456ij.json",
+    "artworks_count": 12,
+    "scraped_at": "2026-02-03T14:41:33.135790"
+  }
+]

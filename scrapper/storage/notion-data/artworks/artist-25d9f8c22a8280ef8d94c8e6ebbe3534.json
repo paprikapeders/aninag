@@ -1,0 +1,302 @@
+{
+  "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+  "artist_name": "CAINTO, Caroline",
+  "total_artworks": 14,
+  "scraped_at": "2026-02-03T14:27:04.802416",
+  "artworks": [
+    {
+      "notion_id": "4c4eeefb213442a7bf1a913338998f64",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd550ea6c-1500-4e5f-abce-21e115a4f744%2F394094358_1138568800917382_1645232377009294870_n.jpg?table=block&id=7821065e-fca3-4b94-8b58-dc62b5cec523&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd550ea6c-1500-4e5f-abce-21e115a4f744%2F394094358_1138568800917382_1645232377009294870_n.jpg?table=block&id=7821065e-fca3-4b94-8b58-dc62b5cec523&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CRO-003-4c4eeefb213442a7bf1a913338998f64?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.790802"
+    },
+    {
+      "notion_id": "36d6463b19174d7e81abb8f61d344bd1",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Tree Series",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe1ef026d-c64a-49a4-9327-dac7ec87f11b%2F398397034_921113716017626_6994589095800575081_n.jpg?table=block&id=af9750a5-0ed9-430f-bd53-48554454f1fe&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe1ef026d-c64a-49a4-9327-dac7ec87f11b%2F398397034_921113716017626_6994589095800575081_n.jpg?table=block&id=af9750a5-0ed9-430f-bd53-48554454f1fe&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22041-36d6463b19174d7e81abb8f61d344bd1?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.790802"
+    },
+    {
+      "notion_id": "87c1bde99cdc44788b53bf8a795d5015",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Spring Series",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd5d6a3f4-75b5-4bfc-acc2-17dd4656c447%2F23247_(1).jpg?table=block&id=6f3a17df-ec35-4369-b76e-8526bc854054&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd5d6a3f4-75b5-4bfc-acc2-17dd4656c447%2F23247_(1).jpg?table=block&id=6f3a17df-ec35-4369-b76e-8526bc854054&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23247-87c1bde99cdc44788b53bf8a795d5015?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.792420"
+    },
+    {
+      "notion_id": "d5072269c24444a897509ca39fe405da",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Blossoms",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "20 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F223d8c43-ea49-4d26-b5d2-3833aa4e9fbf%2F21781.jpg?table=block&id=5ff81262-41b8-4ab6-9f5e-a1b20d12d554&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F223d8c43-ea49-4d26-b5d2-3833aa4e9fbf%2F21781.jpg?table=block&id=5ff81262-41b8-4ab6-9f5e-a1b20d12d554&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21781-d5072269c24444a897509ca39fe405da?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.793198"
+    },
+    {
+      "notion_id": "cf41dc6ac7424bc9a7a4c417a2e0cea4",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "In Bloom",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "20 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdbe982ae-a999-42bf-ac43-1440e9e55b29%2F21931.jpg?table=block&id=da8ac6f8-2388-4e68-bfa9-2279b731c33f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fdbe982ae-a999-42bf-ac43-1440e9e55b29%2F21931.jpg?table=block&id=da8ac6f8-2388-4e68-bfa9-2279b731c33f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21931-cf41dc6ac7424bc9a7a4c417a2e0cea4?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.793873"
+    },
+    {
+      "notion_id": "016eafa8072247b991322d1e0d814695",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "20 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc74983c9-e391-47c5-bd5f-1000807154ed%2F21777.jpg?table=block&id=f0dc0a3d-4039-4f5c-a05e-9004b27e4db9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc74983c9-e391-47c5-bd5f-1000807154ed%2F21777.jpg?table=block&id=f0dc0a3d-4039-4f5c-a05e-9004b27e4db9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21777-016eafa8072247b991322d1e0d814695?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.795182"
+    },
+    {
+      "notion_id": "b1cd818ab7e74140a93179822aa7cb5b",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "20 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F65a3cc88-2402-42a6-8a2a-8553d44b6cf6%2F21710_20X26.jpeg?table=block&id=27726342-fe25-4a0a-b42f-3f6247e5f4f1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F65a3cc88-2402-42a6-8a2a-8553d44b6cf6%2F21710_20X26.jpeg?table=block&id=27726342-fe25-4a0a-b42f-3f6247e5f4f1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21710-b1cd818ab7e74140a93179822aa7cb5b?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.795182"
+    },
+    {
+      "notion_id": "4eec45812e0f4d2da94e55db0d4425f5",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Santan Flower",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "20 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe2bd0a30-983e-487e-a5b7-c27683aada52%2F21933_20X26.jpeg?table=block&id=7634c38b-7ebd-40f4-a774-7ac213e50b94&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe2bd0a30-983e-487e-a5b7-c27683aada52%2F21933_20X26.jpeg?table=block&id=7634c38b-7ebd-40f4-a774-7ac213e50b94&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21933-4eec45812e0f4d2da94e55db0d4425f5?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.796842"
+    },
+    {
+      "notion_id": "67013a327dc9445c9ebb4b1024521077",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "20 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffd2a18f1-bbd9-4234-bacb-c0ddf9da2676%2F21420_20X26.jpg?table=block&id=227b9ef1-3331-45f0-9e7f-ee8bf57c792a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffd2a18f1-bbd9-4234-bacb-c0ddf9da2676%2F21420_20X26.jpg?table=block&id=227b9ef1-3331-45f0-9e7f-ee8bf57c792a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21420-67013a327dc9445c9ebb4b1024521077?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.797537"
+    },
+    {
+      "notion_id": "2776eb6c306e43d6a582984a9738b0c7",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "20 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F565712f1-4989-444e-a0d9-6129fd57aa3f%2F21934.jpg?table=block&id=cb4ee1dc-b4f3-4836-adf6-9334df7b483c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F565712f1-4989-444e-a0d9-6129fd57aa3f%2F21934.jpg?table=block&id=cb4ee1dc-b4f3-4836-adf6-9334df7b483c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21934-2776eb6c306e43d6a582984a9738b0c7?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.798236"
+    },
+    {
+      "notion_id": "1fc1d25b88594454b3679f44848e3fcb",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3b633575-ec50-4fc3-bf51-bdd9a947a28f%2F393177794_1022306165492671_4461785206854025346_n.jpg?table=block&id=483af2c5-77ee-4fd7-b5e4-fd001280e7d0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3b633575-ec50-4fc3-bf51-bdd9a947a28f%2F393177794_1022306165492671_4461785206854025346_n.jpg?table=block&id=483af2c5-77ee-4fd7-b5e4-fd001280e7d0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/TC-00001-1fc1d25b88594454b3679f44848e3fcb?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.798236"
+    },
+    {
+      "notion_id": "c5f3d6c919be4a69b132698143380781",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Trees",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "20 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe6095f28-58ec-4c1c-9a11-4e0933a0f1a4%2F21623.jpg?table=block&id=0cb4f715-8d7e-46f7-be80-41dc1bf4f7f7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe6095f28-58ec-4c1c-9a11-4e0933a0f1a4%2F21623.jpg?table=block&id=0cb4f715-8d7e-46f7-be80-41dc1bf4f7f7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21623-c5f3d6c919be4a69b132698143380781?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.798881"
+    },
+    {
+      "notion_id": "813c583fe2564cf3ae3b6392b5e73f2f",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Leaves Beneath Blue Skies by Caroline Cainto 24 x 24 in. Mixed media on canvasReserved for Payment",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffe02cae8-2618-46fb-847b-ad2150d2a927%2F385529522_668845718764841_9171267830191720774_n.jpg?table=block&id=5055a2a8-57b4-46e5-89cc-7478ca450eb8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffe02cae8-2618-46fb-847b-ad2150d2a927%2F385529522_668845718764841_9171267830191720774_n.jpg?table=block&id=5055a2a8-57b4-46e5-89cc-7478ca450eb8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27943-813c583fe2564cf3ae3b6392b5e73f2f?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.799507"
+    },
+    {
+      "notion_id": "53cb1f05959c40fb836f9c3bfd790da6",
+      "artist_id": "25d9f8c22a8280ef8d94c8e6ebbe3534",
+      "artist_name": "CAINTO, Caroline",
+      "title": "Summer",
+      "description": null,
+      "medium": "Mixed media on canvas",
+      "dimensions": "20 x 26 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F24253536-5ee2-4b2c-bf71-2e7a4117d69d%2F21712.jpg?table=block&id=b1cb29b3-c69e-4a98-852a-7cce25027fbb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F24253536-5ee2-4b2c-bf71-2e7a4117d69d%2F21712.jpg?table=block&id=b1cb29b3-c69e-4a98-852a-7cce25027fbb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21712-53cb1f05959c40fb836f9c3bfd790da6?pvs=25",
+      "scraped_at": "2026-02-03T14:27:04.800177"
+    }
+  ]
+}

@@ -15,8 +15,26 @@ class Artist extends Model
     use HasFactory;
 
     protected $fillable = [
+        'notion_id',
         'name',
+        'slug',
         'bio',
+        'contact_info',
+        'profile_image_url',
+        'mediums',
+        'styles',
+        'subjects',
+        'genres',
+        'description',
+        'page_url',
+        'artworks_count',
+    ];
+
+    protected $casts = [
+        'mediums' => 'array',
+        'styles' => 'array',
+        'subjects' => 'array',
+        'genres' => 'array',
     ];
 
     /**

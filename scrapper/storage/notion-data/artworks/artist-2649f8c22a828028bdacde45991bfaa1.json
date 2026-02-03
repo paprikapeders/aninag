@@ -1,0 +1,92 @@
+{
+  "artist_id": "2649f8c22a828028bdacde45991bfaa1",
+  "artist_name": "HIPOLITO, Ella",
+  "total_artworks": 4,
+  "scraped_at": "2026-02-03T14:37:55.385327",
+  "artworks": [
+    {
+      "notion_id": "a05b2b3b277e4ee2a1bf821e66ed0523",
+      "artist_id": "2649f8c22a828028bdacde45991bfaa1",
+      "artist_name": "HIPOLITO, Ella",
+      "title": "Aquaflora",
+      "description": null,
+      "medium": "acrylic resin base",
+      "dimensions": "5 x 10 x 10 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff6b0646a-c296-4e66-b8d3-ccc4e4b62aa3%2FIMG_0817.jpg?table=block&id=aa8ec7c8-ff7d-492b-b1fc-1f20806b6b95&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff6b0646a-c296-4e66-b8d3-ccc4e4b62aa3%2FIMG_0817.jpg?table=block&id=aa8ec7c8-ff7d-492b-b1fc-1f20806b6b95&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "EH 27732",
+      "page_url": "https://artcirclegallery.notion.site/EH-27732-a05b2b3b277e4ee2a1bf821e66ed0523?pvs=25",
+      "scraped_at": "2026-02-03T14:37:55.383699"
+    },
+    {
+      "notion_id": "995de9ee92b44d83a7ec084d8324e999",
+      "artist_id": "2649f8c22a828028bdacde45991bfaa1",
+      "artist_name": "HIPOLITO, Ella",
+      "title": "Nourishing Harmony",
+      "description": null,
+      "medium": "acrylic resin base",
+      "dimensions": "5 x 20 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F906a86fd-15fb-41ba-b03a-1cc4eb4a02d8%2FIMG_0822.jpg?table=block&id=617a08c4-af25-46ab-9520-0d2a4a4b3751&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F906a86fd-15fb-41ba-b03a-1cc4eb4a02d8%2FIMG_0822.jpg?table=block&id=617a08c4-af25-46ab-9520-0d2a4a4b3751&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "EH 27737",
+      "page_url": "https://artcirclegallery.notion.site/EH-27737-995de9ee92b44d83a7ec084d8324e999?pvs=25",
+      "scraped_at": "2026-02-03T14:37:55.383699"
+    },
+    {
+      "notion_id": "4a260df7b9af4a92b44686d099cb6c87",
+      "artist_id": "2649f8c22a828028bdacde45991bfaa1",
+      "artist_name": "HIPOLITO, Ella",
+      "title": "The Circle of Life",
+      "description": null,
+      "medium": "acrylic resin base",
+      "dimensions": "30 x 10 x 10 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1eaedb45-b5af-40ba-9a95-069fbfcc51c5%2F398331318_1080311866746892_2494432067071318281_n.jpg?table=block&id=79536f14-a533-45a1-82a2-8cee2af95747&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1eaedb45-b5af-40ba-9a95-069fbfcc51c5%2F398331318_1080311866746892_2494432067071318281_n.jpg?table=block&id=79536f14-a533-45a1-82a2-8cee2af95747&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "EH 27551",
+      "page_url": "https://artcirclegallery.notion.site/EH-27551-4a260df7b9af4a92b44686d099cb6c87?pvs=25",
+      "scraped_at": "2026-02-03T14:37:55.383699"
+    },
+    {
+      "notion_id": "1b39f8c22a82808a9ff5c6b572e77948",
+      "artist_id": "2649f8c22a828028bdacde45991bfaa1",
+      "artist_name": "HIPOLITO, Ella",
+      "title": "Playful Fantails",
+      "description": null,
+      "medium": "acrylic resin base",
+      "dimensions": "5 x 18 x 9",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Afe8e6f55-8cc9-4878-a2a7-f4b1e0e5ec3b%3Aviber_image_2025-08-30_13-53-10-864_(1).jpg?table=block&id=0d389c3f-a22d-445e-97be-de70b0cf5bf1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Afe8e6f55-8cc9-4878-a2a7-f4b1e0e5ec3b%3Aviber_image_2025-08-30_13-53-10-864_(1).jpg?table=block&id=0d389c3f-a22d-445e-97be-de70b0cf5bf1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "EH 27558",
+      "page_url": "https://artcirclegallery.notion.site/EH-27558-1b39f8c22a82808a9ff5c6b572e77948?pvs=25",
+      "scraped_at": "2026-02-03T14:37:55.384326"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "scraper_version": "1.0.0",
+  "sync_started_at": "2026-02-03T14:28:00.000000",
+  "sync_completed_at": "2026-02-03T15:15:42.789456",
+  "total_artists": 47,
+  "total_artworks": 523,
+  "successful_artists": 45,
+  "failed_artists": 2,
+  "errors": [
+    {
+      "stage": "artist_artworks",
+      "artist_id": "xyz789abc012345678901234567890",
+      "artist_name": "Test Artist",
+      "error": "Timeout waiting for page to load",
+      "timestamp": "2026-02-03T14:45:12.123456"
+    },
+    {
+      "stage": "artist_processing",
+      "artist_id": "def456ghi789012345678901234567",
+      "artist_name": "Another Artist",
+      "error": "Network connection failed after 3 retries",
+      "timestamp": "2026-02-03T15:02:33.654321"
+    }
+  ]
+}

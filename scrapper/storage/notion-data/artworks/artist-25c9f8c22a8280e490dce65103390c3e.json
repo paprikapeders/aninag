@@ -1,0 +1,533 @@
+{
+  "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+  "artist_name": "BERNARDO, Jacob",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T14:26:02.234808",
+  "artworks": [
+    {
+      "notion_id": "5e6bdba33277436a8e3563675a889c4c",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "AI Curiosity About the Soul… Kardeshev Scale Type 7 Human",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 21",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F188654d9-8813-4f5d-9dd0-3db14d728fad%2F445381320_856654296497567_9154459277437910528_n.jpg?table=block&id=8e408cb5-f125-40d2-898e-d2fd32707095&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F188654d9-8813-4f5d-9dd0-3db14d728fad%2F445381320_856654296497567_9154459277437910528_n.jpg?table=block&id=8e408cb5-f125-40d2-898e-d2fd32707095&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28149-5e6bdba33277436a8e3563675a889c4c?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.213897"
+    },
+    {
+      "notion_id": "cf74b1d691e64ad689ba20ec4af9a528",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "AI Curiosity About Human Sins",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 21",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4cc51691-662a-46e8-b619-399621d5da63%2F444480802_856648863164777_3065636568927771478_n.jpg?table=block&id=76da241c-0023-40a5-b2d0-fff777d2093c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4cc51691-662a-46e8-b619-399621d5da63%2F444480802_856648863164777_3065636568927771478_n.jpg?table=block&id=76da241c-0023-40a5-b2d0-fff777d2093c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28148-cf74b1d691e64ad689ba20ec4af9a528?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.214897"
+    },
+    {
+      "notion_id": "cfac24f4cce644d9a47a20d6be3c6743",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "AI Curiosity About the Creation of Life",
+      "description": null,
+      "medium": null,
+      "dimensions": "28 x 21",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F48af9d4f-920b-4f51-8459-b96a4b3933e6%2F440928474_1004235934451072_7551233992104141814_n.jpg?table=block&id=68e91065-0a5e-4626-a85f-9e3e475ed158&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F48af9d4f-920b-4f51-8459-b96a4b3933e6%2F440928474_1004235934451072_7551233992104141814_n.jpg?table=block&id=68e91065-0a5e-4626-a85f-9e3e475ed158&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28147-cfac24f4cce644d9a47a20d6be3c6743?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.215933"
+    },
+    {
+      "notion_id": "2559f8c22a828010af7ce4b8206e6a5a",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "The Plant Shop",
+      "description": null,
+      "medium": null,
+      "dimensions": "29 x 16 x 12",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A49576fdb-e0f1-4057-a04c-68d010fe2b1b%3Ae2eb494a-6647-405d-9f27-932b519fdb9c.png?table=block&id=2559f8c2-2a82-809a-a655-e7b1fccde47c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A49576fdb-e0f1-4057-a04c-68d010fe2b1b%3Ae2eb494a-6647-405d-9f27-932b519fdb9c.png?table=block&id=2559f8c2-2a82-809a-a655-e7b1fccde47c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29165-2559f8c22a828010af7ce4b8206e6a5a?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.216546"
+    },
+    {
+      "notion_id": "2ce9f8c22a8280fab777d56aac7352b9",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Darkest Night",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A440fe4b6-546d-4832-ac6c-7b26b5730195%3AIMG_8225.jpeg?table=block&id=2ce9f8c2-2a82-8033-9f81-fd15244d19fa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A440fe4b6-546d-4832-ac6c-7b26b5730195%3AIMG_8225.jpeg?table=block&id=2ce9f8c2-2a82-8033-9f81-fd15244d19fa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/New-Arrival-2ce9f8c22a8280fab777d56aac7352b9?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.217556"
+    },
+    {
+      "notion_id": "2ce9f8c22a82807bb856ed8bf4366c26",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Captain Barbell at ang Aswang",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ade9db4eb-7f7f-4735-a60a-2d779f0b0256%3AIMG_8220.jpeg?table=block&id=2ce9f8c2-2a82-8037-a423-c75682ea3477&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ade9db4eb-7f7f-4735-a60a-2d779f0b0256%3AIMG_8220.jpeg?table=block&id=2ce9f8c2-2a82-8037-a423-c75682ea3477&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29424-2ce9f8c22a82807bb856ed8bf4366c26?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.217556"
+    },
+    {
+      "notion_id": "2cb9f8c22a828060b88fe9658e02b5cc",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Matador & Knows His Glory (Set Piece)",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Acc2ab47e-a6c6-4b8e-baea-15c7f52e6cd9%3AWhatsApp_Image_2025-12-18_at_19.49.20.jpeg?table=block&id=2cb9f8c2-2a82-80c5-8eb8-e984c706bbb0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Acc2ab47e-a6c6-4b8e-baea-15c7f52e6cd9%3AWhatsApp_Image_2025-12-18_at_19.49.20.jpeg?table=block&id=2cb9f8c2-2a82-80c5-8eb8-e984c706bbb0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": "LAL 003",
+      "page_url": "https://artcirclegallery.notion.site/LAL-003-2cb9f8c22a828060b88fe9658e02b5cc?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.218556"
+    },
+    {
+      "notion_id": "2cb9f8c22a82800f8e05c41072a8c929",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "The Vitruvian Watcher",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A8e62da92-ed7d-4b31-90b6-749c0e433f5e%3A0b609002-1b8b-49d0-85f1-361f201c92d9.jpeg?table=block&id=2cb9f8c2-2a82-809c-bbaa-dc2e701c319b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A8e62da92-ed7d-4b31-90b6-749c0e433f5e%3A0b609002-1b8b-49d0-85f1-361f201c92d9.jpeg?table=block&id=2cb9f8c2-2a82-809c-bbaa-dc2e701c319b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": "LAL 002",
+      "page_url": "https://artcirclegallery.notion.site/LAL-002-2cb9f8c22a82800f8e05c41072a8c929?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.219885"
+    },
+    {
+      "notion_id": "2959f8c22a828011aaf6ecda7537a930",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "The Red Cape",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 22 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A90c565a8-5936-4806-a0f5-742ce63bd536%3AIMG_7779.jpeg?table=block&id=2959f8c2-2a82-8089-8c9e-cb409a9546d7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A90c565a8-5936-4806-a0f5-742ce63bd536%3AIMG_7779.jpeg?table=block&id=2959f8c2-2a82-8089-8c9e-cb409a9546d7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29300-2959f8c22a828011aaf6ecda7537a930?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.219885"
+    },
+    {
+      "notion_id": "2959f8c22a828029b569d34720879ecf",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "The Big Blue",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 22 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A304c5135-4c91-4a86-a192-28cb99362fc6%3AIMG_7778.jpeg?table=block&id=2959f8c2-2a82-8041-ba73-f5eb53834a21&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A304c5135-4c91-4a86-a192-28cb99362fc6%3AIMG_7778.jpeg?table=block&id=2959f8c2-2a82-8041-ba73-f5eb53834a21&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29299-2959f8c22a828029b569d34720879ecf?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.220866"
+    },
+    {
+      "notion_id": "e5cf05764d714cebadb9f937c7e2ff41",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Red Riding Hood",
+      "description": null,
+      "medium": null,
+      "dimensions": "16 x 24",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Faec5a047-5448-410d-b306-049b4a217960%2F1000576472.jpg?table=block&id=09053388-5d7a-43e3-8cce-a5a4712f7c6e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Faec5a047-5448-410d-b306-049b4a217960%2F1000576472.jpg?table=block&id=09053388-5d7a-43e3-8cce-a5a4712f7c6e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28017-e5cf05764d714cebadb9f937c7e2ff41?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.221851"
+    },
+    {
+      "notion_id": "04c8a1945e0249b4b79c7f9641782948",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "21 x 23",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F07f9edb4-11f9-463c-b2d7-cfcf29f5b216%2F27940.jpg?table=block&id=d1e27299-e976-496f-822f-d25a9953fbce&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F07f9edb4-11f9-463c-b2d7-cfcf29f5b216%2F27940.jpg?table=block&id=d1e27299-e976-496f-822f-d25a9953fbce&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27940-04c8a1945e0249b4b79c7f9641782948?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.221851"
+    },
+    {
+      "notion_id": "2b8256ae406d49a8ad6d3308164bbc8c",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Darna vs Higante",
+      "description": null,
+      "medium": null,
+      "dimensions": "25 x 18 x 18",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F46d73ebb-5e5f-4cc6-8866-2da71c0ba46e%2F27939.jpg?table=block&id=a56fb904-4402-4629-b197-7a168b85d7bc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F46d73ebb-5e5f-4cc6-8866-2da71c0ba46e%2F27939.jpg?table=block&id=a56fb904-4402-4629-b197-7a168b85d7bc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27939-2b8256ae406d49a8ad6d3308164bbc8c?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.222848"
+    },
+    {
+      "notion_id": "adb2c1c45f904b7197dd3f18462d39c6",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Weapon X (Alternate Universe)",
+      "description": null,
+      "medium": null,
+      "dimensions": "16 x 26 x 18",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F439c0db2-e4c9-494a-b5b4-0377ac834cb8%2F27938.jpg?table=block&id=8ec18076-78fd-4032-957d-8d859dc248ce&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F439c0db2-e4c9-494a-b5b4-0377ac834cb8%2F27938.jpg?table=block&id=8ec18076-78fd-4032-957d-8d859dc248ce&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27938-adb2c1c45f904b7197dd3f18462d39c6?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.223846"
+    },
+    {
+      "notion_id": "2559f8c22a82809b9b61d44bdc24e2e7",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Af4cc1002-cc8f-4c43-b7d7-064e072fa586%3AIMG_2401.jpg?table=block&id=2559f8c2-2a82-80c5-9c25-c19815992b77&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Af4cc1002-cc8f-4c43-b7d7-064e072fa586%3AIMG_2401.jpg?table=block&id=2559f8c2-2a82-80c5-9c25-c19815992b77&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29162-2559f8c22a82809b9b61d44bdc24e2e7?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.223846"
+    },
+    {
+      "notion_id": "2559f8c22a8280309553d72c9272db6d",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 16 x 9 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A653f0ee5-2e53-49e7-8dbc-39df883dacde%3AIMG_2400.jpg?table=block&id=2559f8c2-2a82-80cb-bc6a-c833619f3359&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A653f0ee5-2e53-49e7-8dbc-39df883dacde%3AIMG_2400.jpg?table=block&id=2559f8c2-2a82-80cb-bc6a-c833619f3359&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29163-2559f8c22a8280309553d72c9272db6d?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.224848"
+    },
+    {
+      "notion_id": "2559f8c22a8280ecb0abd59d1d377594",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 12 x 11",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ab01aa161-8e22-4056-9401-9f66049b2e8e%3AIMG_2403_copy.png?table=block&id=2559f8c2-2a82-80d5-ac62-d379972cefc6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ab01aa161-8e22-4056-9401-9f66049b2e8e%3AIMG_2403_copy.png?table=block&id=2559f8c2-2a82-80d5-ac62-d379972cefc6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29164-2559f8c22a8280ecb0abd59d1d377594?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.225850"
+    },
+    {
+      "notion_id": "2699f8c22a82807c9cfee6da1804e38a",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Ang Paniniwala",
+      "description": null,
+      "medium": null,
+      "dimensions": "20 x 23 x 9 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ab10c20b9-7b77-4400-8fe4-9b2241e713ff%3AIMG_7363.png?table=block&id=2699f8c2-2a82-80bf-97cf-e3723a4cefe2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ab10c20b9-7b77-4400-8fe4-9b2241e713ff%3AIMG_7363.png?table=block&id=2699f8c2-2a82-80bf-97cf-e3723a4cefe2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29213-2699f8c22a82807c9cfee6da1804e38a?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.225850"
+    },
+    {
+      "notion_id": "2399f8c22a8280f88449d67dc3d6f120",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Suyo",
+      "description": null,
+      "medium": null,
+      "dimensions": "15 x 22",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A40f16274-d69a-4921-8405-87923e01abbb%3AIMG_2399.jpg?table=block&id=2559f8c2-2a82-80ef-b95b-dcd1e7e36be8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A40f16274-d69a-4921-8405-87923e01abbb%3AIMG_2399.jpg?table=block&id=2559f8c2-2a82-80ef-b95b-dcd1e7e36be8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29085-2399f8c22a8280f88449d67dc3d6f120?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.227284"
+    },
+    {
+      "notion_id": "6bce083f74c54eca8d94c091dd2187f4",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Lastikman",
+      "description": null,
+      "medium": null,
+      "dimensions": "37 x 18 x 14 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffac6af5b-7170-4596-bc69-1b3c311bd8d5%2FLastikman.jpg?table=block&id=9b3b182b-e028-4871-ad6d-125346266b1b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffac6af5b-7170-4596-bc69-1b3c311bd8d5%2FLastikman.jpg?table=block&id=9b3b182b-e028-4871-ad6d-125346266b1b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28018-6bce083f74c54eca8d94c091dd2187f4?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.228279"
+    },
+    {
+      "notion_id": "883f38bfbf7545cf8312a307b03e6a3b",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Alice and Wonderworld",
+      "description": null,
+      "medium": null,
+      "dimensions": "29 x 18 x 9 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9677e892-ca3d-4186-8535-8b77a8b55d13%2FAlice_and_wonderworld_(1).jpg?table=block&id=898b6a47-1e54-4e45-8c10-651b5539ba68&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9677e892-ca3d-4186-8535-8b77a8b55d13%2FAlice_and_wonderworld_(1).jpg?table=block&id=898b6a47-1e54-4e45-8c10-651b5539ba68&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28014-883f38bfbf7545cf8312a307b03e6a3b?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.229286"
+    },
+    {
+      "notion_id": "377934c1eedc472c8f8bec0f5f00d181",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Pinocchio",
+      "description": null,
+      "medium": null,
+      "dimensions": "21 x 12 x 19 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa1ee8115-f8d1-440e-b164-482073d19a35%2F1000576471.jpg?table=block&id=0fc63577-a4b0-466c-9149-914973c997aa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa1ee8115-f8d1-440e-b164-482073d19a35%2F1000576471.jpg?table=block&id=0fc63577-a4b0-466c-9149-914973c997aa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28016-377934c1eedc472c8f8bec0f5f00d181?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.229286"
+    },
+    {
+      "notion_id": "8ecaf018eb4c49dc99d5efef68ec1f47",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Snow White",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F47a74965-cfaf-48d4-9ad4-6176dddf8102%2F1000576470.jpg?table=block&id=786a936b-bc38-4bef-a1df-172cb490ee07&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F47a74965-cfaf-48d4-9ad4-6176dddf8102%2F1000576470.jpg?table=block&id=786a936b-bc38-4bef-a1df-172cb490ee07&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28015-8ecaf018eb4c49dc99d5efef68ec1f47?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.230285"
+    },
+    {
+      "notion_id": "9441ea4450ab4d9f837ae1ecf65cec16",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Joker",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 31 x 23",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb28bae73-82a2-46bb-9a2c-0bf582bba7e3%2F1000576469.jpg?table=block&id=803dff3e-1304-4ea8-a271-4237513027e0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb28bae73-82a2-46bb-9a2c-0bf582bba7e3%2F1000576469.jpg?table=block&id=803dff3e-1304-4ea8-a271-4237513027e0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27942-9441ea4450ab4d9f837ae1ecf65cec16?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.231285"
+    },
+    {
+      "notion_id": "20219936516341de9f47703ac948220f",
+      "artist_id": "25c9f8c22a8280e490dce65103390c3e",
+      "artist_name": "BERNARDO, Jacob",
+      "title": "Zuma vs Galema (Zuma’s Father—Kukulkan)",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 24",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa2141fb0-05d7-4cbd-ad7a-e3c4babc99e6%2F27941.jpg?table=block&id=34eb3f3b-636b-463d-b8a0-30b8be55fc13&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa2141fb0-05d7-4cbd-ad7a-e3c4babc99e6%2F27941.jpg?table=block&id=34eb3f3b-636b-463d-b8a0-30b8be55fc13&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27941-20219936516341de9f47703ac948220f?pvs=25",
+      "scraped_at": "2026-02-03T14:26:02.232794"
+    }
+  ]
+}

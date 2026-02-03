@@ -1,0 +1,29 @@
+{
+  "artist_id": "25e9f8c22a82801dba06ddae406338d2",
+  "artist_name": "MORALES, Adrian",
+  "total_artworks": 1,
+  "scraped_at": "2026-02-03T14:46:21.882424",
+  "artworks": [
+    {
+      "notion_id": "db41169e5b304c74998c396e8321e885",
+      "artist_id": "25e9f8c22a82801dba06ddae406338d2",
+      "artist_name": "MORALES, Adrian",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "40 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2cd66aad-f5f8-466d-94a2-6df46f60a2e7%2F7231.jpg?table=block&id=70b52389-b230-42d8-808c-e26f05ffc40e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2cd66aad-f5f8-466d-94a2-6df46f60a2e7%2F7231.jpg?table=block&id=70b52389-b230-42d8-808c-e26f05ffc40e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/7231-db41169e5b304c74998c396e8321e885?pvs=25",
+      "scraped_at": "2026-02-03T14:46:21.880504"
+    }
+  ]
+}

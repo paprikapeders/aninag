@@ -1,0 +1,407 @@
+{
+  "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+  "artist_name": "BALDEMOR, Angelo",
+  "total_artworks": 19,
+  "scraped_at": "2026-02-03T14:22:54.483706",
+  "artworks": [
+    {
+      "notion_id": "1af9f8c22a82802d959cfab1fa10cbb6",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Isda Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aa70f50bd-bed0-4911-8eac-d88b42b589a1%3A1000585086.jpg?table=block&id=4de57b8a-b5cb-4907-822b-5272cb86bea3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aa70f50bd-bed0-4911-8eac-d88b42b589a1%3A1000585086.jpg?table=block&id=4de57b8a-b5cb-4907-822b-5272cb86bea3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-082-1af9f8c22a82802d959cfab1fa10cbb6?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.450967"
+    },
+    {
+      "notion_id": "1af9f8c22a8280909f8aece2751434c1",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Bigas Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ae5d4db2b-e995-479b-a1b3-34387f812f42%3A1000585077.jpg?table=block&id=8d0ffef5-dcaa-4216-af13-191933fbc5a3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ae5d4db2b-e995-479b-a1b3-34387f812f42%3A1000585077.jpg?table=block&id=8d0ffef5-dcaa-4216-af13-191933fbc5a3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-124-1af9f8c22a8280909f8aece2751434c1?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.451965"
+    },
+    {
+      "notion_id": "5c521ea01d1d4d498930ba5f60e30880",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Isda Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "19 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fcace035f-4749-4037-a0bc-ec30a9cbed24%2F1000011560.jpg?table=block&id=29d9adaf-2246-4282-a8c5-0b6cd194acdb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fcace035f-4749-4037-a0bc-ec30a9cbed24%2F1000011560.jpg?table=block&id=29d9adaf-2246-4282-a8c5-0b6cd194acdb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-078-5c521ea01d1d4d498930ba5f60e30880?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.452981"
+    },
+    {
+      "notion_id": "44a9fea860ad49c690b3cf9a7e99ca73",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Bigas Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F634e696e-69ef-4d22-b0ed-575de2cbe3ff%2F1000011558.jpg?table=block&id=eaa9d926-08fb-4eef-a719-62c5bb5816bb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F634e696e-69ef-4d22-b0ed-575de2cbe3ff%2F1000011558.jpg?table=block&id=eaa9d926-08fb-4eef-a719-62c5bb5816bb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-123-44a9fea860ad49c690b3cf9a7e99ca73?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.453979"
+    },
+    {
+      "notion_id": "5ce2a64c60344849880de8937671d848",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Bigas Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "14 x 17",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fce3df206-1f5d-4282-a0ef-e0366632aca4%2F1000011557.jpg?table=block&id=cf64dcd4-0eca-43c4-b130-44792c577fda&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fce3df206-1f5d-4282-a0ef-e0366632aca4%2F1000011557.jpg?table=block&id=cf64dcd4-0eca-43c4-b130-44792c577fda&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-128-5ce2a64c60344849880de8937671d848?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.453979"
+    },
+    {
+      "notion_id": "2da1895f4c624132a254197f5dc3b5d6",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Bigas Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "5 x 28 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F898831cf-5c7d-4b76-9dca-637688e2a0da%2F1000011556.jpg?table=block&id=89f08dfe-c7e4-4b0e-8296-5b17ca3462da&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F898831cf-5c7d-4b76-9dca-637688e2a0da%2F1000011556.jpg?table=block&id=89f08dfe-c7e4-4b0e-8296-5b17ca3462da&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-113-2da1895f4c624132a254197f5dc3b5d6?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.456036"
+    },
+    {
+      "notion_id": "2a92097a54b44965b1b5b47ae1fd80f4",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Bigas Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Faeaa1ffd-ad26-4f64-a34c-3f1190daf99e%2F1000011554.jpg?table=block&id=aa687e0e-aa96-4972-92fe-05706115baef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Faeaa1ffd-ad26-4f64-a34c-3f1190daf99e%2F1000011554.jpg?table=block&id=aa687e0e-aa96-4972-92fe-05706115baef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/15773-2a92097a54b44965b1b5b47ae1fd80f4?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.457062"
+    },
+    {
+      "notion_id": "393ae7abab2047509c7c67c37533f634",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Anthurium Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9f9127fa-423c-4410-856a-f2ec95ef0674%2Fra_097.jpg?table=block&id=e6a38ce8-5eea-43d1-9cd3-19f1076219de&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9f9127fa-423c-4410-856a-f2ec95ef0674%2Fra_097.jpg?table=block&id=e6a38ce8-5eea-43d1-9cd3-19f1076219de&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-083-393ae7abab2047509c7c67c37533f634?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.458061"
+    },
+    {
+      "notion_id": "11e66f4b7f7b43398147b3f3d1765d80",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Suman sa Bilao",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3a715e7e-8825-4e28-8860-7973e75121d7%2FIMG_0005.jpg?table=block&id=b78c319d-1f4f-4815-b49b-74d840c66cf1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3a715e7e-8825-4e28-8860-7973e75121d7%2FIMG_0005.jpg?table=block&id=b78c319d-1f4f-4815-b49b-74d840c66cf1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/TC-00006-11e66f4b7f7b43398147b3f3d1765d80?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.459058"
+    },
+    {
+      "notion_id": "97fa46c99372438e857581e6f9c2d2ac",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Lotus Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa382daba-07ce-4cab-bad0-58bc0f03915e%2FRA_046_(1).jpg?table=block&id=ca5a24f5-a891-484e-afa1-5e26fa5eaeb0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa382daba-07ce-4cab-bad0-58bc0f03915e%2FRA_046_(1).jpg?table=block&id=ca5a24f5-a891-484e-afa1-5e26fa5eaeb0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-046-97fa46c99372438e857581e6f9c2d2ac?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.459058"
+    },
+    {
+      "notion_id": "de123f6f58e149b6a0710b9d76679b7c",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Santan Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd5a540d1-914f-4e0d-926c-d9033cea450f%2FRA_136.jpg?table=block&id=f31c691b-905e-44f3-9b0a-dd1fdbbb630d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd5a540d1-914f-4e0d-926c-d9033cea450f%2FRA_136.jpg?table=block&id=f31c691b-905e-44f3-9b0a-dd1fdbbb630d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-136-de123f6f58e149b6a0710b9d76679b7c?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.461419"
+    },
+    {
+      "notion_id": "6f741822b31045f1a829a4797795ae48",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Anthurium Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2d26bf07-e801-42a1-a57f-2a170eeb3066%2FRA_093.jpg?table=block&id=cf3128d2-91ad-4526-9bbd-2b93715b6c1d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2d26bf07-e801-42a1-a57f-2a170eeb3066%2FRA_093.jpg?table=block&id=cf3128d2-91ad-4526-9bbd-2b93715b6c1d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-093-6f741822b31045f1a829a4797795ae48?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.463215"
+    },
+    {
+      "notion_id": "27896b2c2ffb4c2e849f6fbe06f3041d",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "3 x 17",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4d3e4082-7f95-4198-9a7f-aae113f91849%2FRA_070.jpg?table=block&id=07007fb0-a84a-4807-b0ea-408a112e7ab5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4d3e4082-7f95-4198-9a7f-aae113f91849%2FRA_070.jpg?table=block&id=07007fb0-a84a-4807-b0ea-408a112e7ab5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-070-27896b2c2ffb4c2e849f6fbe06f3041d?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.465285"
+    },
+    {
+      "notion_id": "8f4435f82ce94df28674a1625271d1df",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Santan Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffd8d4653-cf9f-4c15-ad88-32bd31cbb214%2FRA_129.jpg?table=block&id=aa80424e-d6e9-4d09-8e3b-f8e99f9b2fd6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffd8d4653-cf9f-4c15-ad88-32bd31cbb214%2FRA_129.jpg?table=block&id=aa80424e-d6e9-4d09-8e3b-f8e99f9b2fd6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-129-8f4435f82ce94df28674a1625271d1df?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.468344"
+    },
+    {
+      "notion_id": "e3353c0256d1427398c5acbebb6962e1",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Bigas Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "15 x 40",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fcbd7314d-7da7-42cf-a1eb-4548b5b4bd98%2FRA_010.jpg?table=block&id=4716c888-6adf-4f55-9c11-489ed00facfb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fcbd7314d-7da7-42cf-a1eb-4548b5b4bd98%2FRA_010.jpg?table=block&id=4716c888-6adf-4f55-9c11-489ed00facfb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-010-e3353c0256d1427398c5acbebb6962e1?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.470334"
+    },
+    {
+      "notion_id": "c1301dcb2a444e4595f1126d833d4405",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Lotus",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "25 x 15",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4023c645-91af-4786-897d-a1a3a46d3cbb%2FA._Baldemor_No_Code.jpg?table=block&id=c8062a6b-0555-48b9-91e1-578a0d23120c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4023c645-91af-4786-897d-a1a3a46d3cbb%2FA._Baldemor_No_Code.jpg?table=block&id=c8062a6b-0555-48b9-91e1-578a0d23120c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-049-B-c1301dcb2a444e4595f1126d833d4405?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.471855"
+    },
+    {
+      "notion_id": "28ea98bc409047d48bd8364c19e91c1f",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Anthurium Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "24 x 14 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F638fd051-0d92-4e13-89ca-1ad1cdcc7733%2FAngelo_Baldemor_No_Code.jpg?table=block&id=459ac1d0-492b-45e7-a7b4-ae2d34ad1709&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F638fd051-0d92-4e13-89ca-1ad1cdcc7733%2FAngelo_Baldemor_No_Code.jpg?table=block&id=459ac1d0-492b-45e7-a7b4-ae2d34ad1709&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/TC-00004-28ea98bc409047d48bd8364c19e91c1f?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.472896"
+    },
+    {
+      "notion_id": "f4858335c8f34caf91c725000c49f91c",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Santan Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa7dd0cce-f44d-41cc-bc9a-d9b2319fa20d%2FRA_034_.jpg?table=block&id=64aedffa-5300-4cc1-8edd-bf3102c6acd2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa7dd0cce-f44d-41cc-bc9a-d9b2319fa20d%2FRA_034_.jpg?table=block&id=64aedffa-5300-4cc1-8edd-bf3102c6acd2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-034-f4858335c8f34caf91c725000c49f91c?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.473982"
+    },
+    {
+      "notion_id": "1417a5e20ffc4a728764b95173fb97e6",
+      "artist_id": "25d9f8c22a8280238d3bfcd79029174c",
+      "artist_name": "BALDEMOR, Angelo",
+      "title": "Bigas Series",
+      "description": null,
+      "medium": "Acrylic and oil on wood relief (Batikuling wood",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9dc051be-0085-4a59-8811-ca9748e1c597%2F1000435025.jpg?table=block&id=f126b692-3883-42ed-a187-ca81b366afef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9dc051be-0085-4a59-8811-ca9748e1c597%2F1000435025.jpg?table=block&id=f126b692-3883-42ed-a187-ca81b366afef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RA-092-1417a5e20ffc4a728764b95173fb97e6?pvs=25",
+      "scraped_at": "2026-02-03T14:22:54.477339"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artist_id": "25d9f8c22a8280218e2de9cb6a2053b9",
+  "artist_name": "BANDALAN, Al",
+  "total_artworks": 2,
+  "scraped_at": "2026-02-03T14:23:25.733650",
+  "artworks": [
+    {
+      "notion_id": "9b47144520314155bf05398e9c6f8682",
+      "artist_id": "25d9f8c22a8280218e2de9cb6a2053b9",
+      "artist_name": "BANDALAN, Al",
+      "title": "Flower Power",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "32 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc2ab6477-0196-44a0-a844-99f0783e3826%2F27135_32x48_(Flower_Power)_2023_Flower_Power_Oil_on_Canvas.jpg?table=block&id=f6bd00d0-d5fa-40e0-ad95-8a33c60dd8f2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc2ab6477-0196-44a0-a844-99f0783e3826%2F27135_32x48_(Flower_Power)_2023_Flower_Power_Oil_on_Canvas.jpg?table=block&id=f6bd00d0-d5fa-40e0-ad95-8a33c60dd8f2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27135-9b47144520314155bf05398e9c6f8682?pvs=25",
+      "scraped_at": "2026-02-03T14:23:25.731590"
+    },
+    {
+      "notion_id": "d7d6f7fbd8f340c79905538225e4450a",
+      "artist_id": "25d9f8c22a8280218e2de9cb6a2053b9",
+      "artist_name": "BANDALAN, Al",
+      "title": "Portrait in Pink",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff61bfb0e-5ec2-4802-bccc-6d0d07289543%2F25420.jpg?table=block&id=72836976-2af3-4775-8a62-743961459f12&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff61bfb0e-5ec2-4802-bccc-6d0d07289543%2F25420.jpg?table=block&id=72836976-2af3-4775-8a62-743961459f12&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25420-d7d6f7fbd8f340c79905538225e4450a?pvs=25",
+      "scraped_at": "2026-02-03T14:23:25.731590"
+    }
+  ]
+}

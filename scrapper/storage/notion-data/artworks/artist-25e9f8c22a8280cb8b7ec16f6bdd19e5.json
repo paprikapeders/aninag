@@ -1,0 +1,29 @@
+{
+  "artist_id": "25e9f8c22a8280cb8b7ec16f6bdd19e5",
+  "artist_name": "MAHILUM, Anton",
+  "total_artworks": 1,
+  "scraped_at": "2026-02-03T14:39:29.339160",
+  "artworks": [
+    {
+      "notion_id": "3a5f2d881ad440feaf1826ea6a6fc70e",
+      "artist_id": "25e9f8c22a8280cb8b7ec16f6bdd19e5",
+      "artist_name": "MAHILUM, Anton",
+      "title": "Boso Boso Church",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 60 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd3721827-f65a-4382-a2fc-cbf28ecf2acd%2F64BB4222-9703-4990-B311-0282C7993801.jpeg?table=block&id=8c4c6b02-50dc-48a1-8f6f-e6703f8ec7d2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd3721827-f65a-4382-a2fc-cbf28ecf2acd%2F64BB4222-9703-4990-B311-0282C7993801.jpeg?table=block&id=8c4c6b02-50dc-48a1-8f6f-e6703f8ec7d2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24385-3a5f2d881ad440feaf1826ea6a6fc70e?pvs=25",
+      "scraped_at": "2026-02-03T14:39:29.338555"
+    }
+  ]
+}

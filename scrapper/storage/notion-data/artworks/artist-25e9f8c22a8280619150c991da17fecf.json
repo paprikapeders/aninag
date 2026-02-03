@@ -1,0 +1,239 @@
+{
+  "artist_id": "25e9f8c22a8280619150c991da17fecf",
+  "artist_name": "BERNARDINO, Danna",
+  "total_artworks": 11,
+  "scraped_at": "2026-02-03T14:25:31.222729",
+  "artworks": [
+    {
+      "notion_id": "1469f8c22a82807681abf4df5b1bddaa",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Pride",
+      "description": null,
+      "medium": null,
+      "dimensions": "23 x 10 x 15 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F683b0c3d-d908-4977-9b4f-e0d813688f8a%2FIMG_0285.jpg?table=block&id=1469f8c2-2a82-805b-a08e-c5a8672b6346&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F683b0c3d-d908-4977-9b4f-e0d813688f8a%2FIMG_0285.jpg?table=block&id=1469f8c2-2a82-805b-a08e-c5a8672b6346&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "DB 001",
+      "page_url": "https://artcirclegallery.notion.site/DB-001-1469f8c22a82807681abf4df5b1bddaa?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.217045"
+    },
+    {
+      "notion_id": "1469f8c22a82802e9361f24ce5aad6e0",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "My Wealth",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 20 x 15 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F22648f1c-ad7d-4d19-983b-612ef1d35f83%2FIMG_0283.jpg?table=block&id=1469f8c2-2a82-8046-923b-c1fa633460c0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F22648f1c-ad7d-4d19-983b-612ef1d35f83%2FIMG_0283.jpg?table=block&id=1469f8c2-2a82-8046-923b-c1fa633460c0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "DB 002",
+      "page_url": "https://artcirclegallery.notion.site/DB-002-1469f8c22a82802e9361f24ce5aad6e0?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.218176"
+    },
+    {
+      "notion_id": "643dab73dbf747d99030023e917852e7",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Fly With Me",
+      "description": null,
+      "medium": null,
+      "dimensions": "23 x 16 x 11 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa9c39cd5-7fbc-45da-b4d1-350d70a9237a%2F451348700_1006992261089608_2428179901347777272_n.jpg?table=block&id=e65d0073-3d27-4f15-ac34-3271111c32f4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa9c39cd5-7fbc-45da-b4d1-350d70a9237a%2F451348700_1006992261089608_2428179901347777272_n.jpg?table=block&id=e65d0073-3d27-4f15-ac34-3271111c32f4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "CS 28256",
+      "page_url": "https://artcirclegallery.notion.site/CS-28256-643dab73dbf747d99030023e917852e7?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.218176"
+    },
+    {
+      "notion_id": "525d19a0770c43048b2ce96fee3e59fc",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Hope",
+      "description": null,
+      "medium": null,
+      "dimensions": "25 x 15 x 7 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3b5f894e-d461-4fe1-82f5-a207e8f9a78c%2F445381941_1312464919710147_5869774403542859336_n.jpg?table=block&id=3c2e07ec-bf27-4eb3-9dac-55dd76480d85&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3b5f894e-d461-4fe1-82f5-a207e8f9a78c%2F445381941_1312464919710147_5869774403542859336_n.jpg?table=block&id=3c2e07ec-bf27-4eb3-9dac-55dd76480d85&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "CS 28160",
+      "page_url": "https://artcirclegallery.notion.site/CS-28160-525d19a0770c43048b2ce96fee3e59fc?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.218176"
+    },
+    {
+      "notion_id": "7c42c65280034827b82a108c5a31e590",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Purpose",
+      "description": null,
+      "medium": null,
+      "dimensions": "26 x 12",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F460d220e-0071-4448-acd1-b699a0ea9070%2F445377154_3796188087331445_3466807814633107912_n.jpg?table=block&id=7a92de8b-fb71-4b12-89e7-af88b7158612&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F460d220e-0071-4448-acd1-b699a0ea9070%2F445377154_3796188087331445_3466807814633107912_n.jpg?table=block&id=7a92de8b-fb71-4b12-89e7-af88b7158612&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "CS 28159",
+      "page_url": "https://artcirclegallery.notion.site/CS-28159-7c42c65280034827b82a108c5a31e590?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.219185"
+    },
+    {
+      "notion_id": "c6daafc6f2764e5ba6e42b03da889e4a",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Valor",
+      "description": null,
+      "medium": null,
+      "dimensions": "26 x 13 x 6",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F524c18c2-3269-4fb0-92b5-e05c902b5b11%2F441673378_3307780606192155_5753302238115565751_n.jpg?table=block&id=30c1f04d-0a81-492f-8470-69d61ca0bf73&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F524c18c2-3269-4fb0-92b5-e05c902b5b11%2F441673378_3307780606192155_5753302238115565751_n.jpg?table=block&id=30c1f04d-0a81-492f-8470-69d61ca0bf73&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": "CS 28158",
+      "page_url": "https://artcirclegallery.notion.site/CS-28158-c6daafc6f2764e5ba6e42b03da889e4a?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.219185"
+    },
+    {
+      "notion_id": "d31e387e65684a2b948b52edb187ac53",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Infinity",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 19 x 14 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd4384e54-a00f-47ba-be17-4ead3b93eeed%2FIMG_0357.jpg?table=block&id=ae1ccbe5-936d-4c6b-9b9a-ab1473325551&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd4384e54-a00f-47ba-be17-4ead3b93eeed%2FIMG_0357.jpg?table=block&id=ae1ccbe5-936d-4c6b-9b9a-ab1473325551&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27535-d31e387e65684a2b948b52edb187ac53?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.219185"
+    },
+    {
+      "notion_id": "b31d0c585e5a4c73b441af2d788fa43e",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Ray of Hope",
+      "description": null,
+      "medium": null,
+      "dimensions": "18 x 7 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffec75345-14db-466d-933b-caec511b2699%2F27432.jpg?table=block&id=13886333-d71f-48ce-82fd-c997fc1ca210&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffec75345-14db-466d-933b-caec511b2699%2F27432.jpg?table=block&id=13886333-d71f-48ce-82fd-c997fc1ca210&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27432-b31d0c585e5a4c73b441af2d788fa43e?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.220348"
+    },
+    {
+      "notion_id": "108c615d409a4322839903a3633133ab",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Playful Spirit",
+      "description": null,
+      "medium": null,
+      "dimensions": "18 x 18 x 14 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F15acb681-f181-4a6d-9ffd-262f8be5f3fc%2FIMG_9002.jpg?table=block&id=18114982-b0e6-4f69-a898-42211a8cc7c7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F15acb681-f181-4a6d-9ffd-262f8be5f3fc%2FIMG_9002.jpg?table=block&id=18114982-b0e6-4f69-a898-42211a8cc7c7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27412-108c615d409a4322839903a3633133ab?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.221219"
+    },
+    {
+      "notion_id": "7d350845ee854162a439ba52663a4987",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Serenity Swan",
+      "description": null,
+      "medium": null,
+      "dimensions": "5 x 12 x 20 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F29f82f82-074d-4a46-adbd-579394790676%2FIMG_9030.jpg?table=block&id=436ad74d-a056-4281-be56-b5566d37912e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F29f82f82-074d-4a46-adbd-579394790676%2FIMG_9030.jpg?table=block&id=436ad74d-a056-4281-be56-b5566d37912e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27411-7d350845ee854162a439ba52663a4987?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.221219"
+    },
+    {
+      "notion_id": "480df8dd2bf6445e9af58b5469c9c1ed",
+      "artist_id": "25e9f8c22a8280619150c991da17fecf",
+      "artist_name": "BERNARDINO, Danna",
+      "title": "Fealess Beauty",
+      "description": null,
+      "medium": null,
+      "dimensions": "18 x 8 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0525f014-3a35-4062-8387-933a4c9efb9c%2FIMG_8988.jpg?table=block&id=cf421e73-51fd-4d6f-abe9-506d49a8810d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0525f014-3a35-4062-8387-933a4c9efb9c%2FIMG_8988.jpg?table=block&id=cf421e73-51fd-4d6f-abe9-506d49a8810d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27410-480df8dd2bf6445e9af58b5469c9c1ed?pvs=25",
+      "scraped_at": "2026-02-03T14:25:31.221219"
+    }
+  ]
+}

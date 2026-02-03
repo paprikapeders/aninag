@@ -1,0 +1,533 @@
+{
+  "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+  "artist_name": "GOMEZ, Ray",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T14:36:22.798380",
+  "artworks": [
+    {
+      "notion_id": "cd742831bffc4cd391aa137ac1dcd140",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Sa Bawat Butil ng Bigas",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": 144000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b34ad80-19ba-4171-bfe7-d96f9cf2a3b0%2F26614.jpg?table=block&id=898f48dc-0adf-4c71-b02a-b27edff46128&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b34ad80-19ba-4171-bfe7-d96f9cf2a3b0%2F26614.jpg?table=block&id=898f48dc-0adf-4c71-b02a-b27edff46128&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26614-cd742831bffc4cd391aa137ac1dcd140?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.791724"
+    },
+    {
+      "notion_id": "1b327110feab461a93a6900c36e9375d",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 173000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd17bcda4-42c6-47e5-a46a-d2d798702cc0%2F27367.jpg?table=block&id=5cd71c17-ced0-4da5-8391-5a4121554e35&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd17bcda4-42c6-47e5-a46a-d2d798702cc0%2F27367.jpg?table=block&id=5cd71c17-ced0-4da5-8391-5a4121554e35&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27367-1b327110feab461a93a6900c36e9375d?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.791724"
+    },
+    {
+      "notion_id": "c9bf747d28324f84b34e3db909287f2d",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 173000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3a109f67-6ddf-4bd9-9c57-b84365879652%2F26785.jpg?table=block&id=8397cc3c-c5ab-40c6-beb4-c6a53b663374&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3a109f67-6ddf-4bd9-9c57-b84365879652%2F26785.jpg?table=block&id=8397cc3c-c5ab-40c6-beb4-c6a53b663374&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26785-c9bf747d28324f84b34e3db909287f2d?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.792300"
+    },
+    {
+      "notion_id": "f0ad9de722cb476d8b867acb52bb7f90",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 173000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbf810ad6-6641-45ba-a10c-12c85ff7116a%2F27091.jpg?table=block&id=89fdb823-249c-4c41-a029-059dfe37b915&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbf810ad6-6641-45ba-a10c-12c85ff7116a%2F27091.jpg?table=block&id=89fdb823-249c-4c41-a029-059dfe37b915&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27091-f0ad9de722cb476d8b867acb52bb7f90?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.792300"
+    },
+    {
+      "notion_id": "36457cf724784e0681a30be0dc6925a8",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 240000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6f5e3d83-092a-4f2c-982d-f7f171b52a82%2F27172.jpg?table=block&id=c5c78e2f-9f37-4d9d-98c6-95c52f80e033&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6f5e3d83-092a-4f2c-982d-f7f171b52a82%2F27172.jpg?table=block&id=c5c78e2f-9f37-4d9d-98c6-95c52f80e033&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27172-36457cf724784e0681a30be0dc6925a8?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.792974"
+    },
+    {
+      "notion_id": "d99f5c7f4b044ca7b2b098cecbe601c4",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Sarsa",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 240000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F43acc737-08f4-4ae0-8f1e-4a354c274ed7%2F26846_30_x_40.jpg?table=block&id=99515341-f755-4d41-94a5-952bed28a91b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F43acc737-08f4-4ae0-8f1e-4a354c274ed7%2F26846_30_x_40.jpg?table=block&id=99515341-f755-4d41-94a5-952bed28a91b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26846-d99f5c7f4b044ca7b2b098cecbe601c4?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.792974"
+    },
+    {
+      "notion_id": "2e39f8c22a82807ebabac4450656e938",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A45aadb0c-ed39-452b-99d7-6beb0cf52e50%3AIMG_8370.jpeg?table=block&id=2e39f8c2-2a82-804a-ad74-e06e44dce0e8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A45aadb0c-ed39-452b-99d7-6beb0cf52e50%3AIMG_8370.jpeg?table=block&id=2e39f8c2-2a82-804a-ad74-e06e44dce0e8&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29480-2e39f8c22a82807ebabac4450656e938?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.792974"
+    },
+    {
+      "notion_id": "2ce9f8c22a8280f29452cddad8d44417",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on Canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A5c3a02ef-64fb-4e5d-bdbc-6112b13dbf00%3A1000596243.jpg?table=block&id=2ce9f8c2-2a82-80a3-b835-ddf0fe3d18b2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A5c3a02ef-64fb-4e5d-bdbc-6112b13dbf00%3A1000596243.jpg?table=block&id=2ce9f8c2-2a82-80a3-b835-ddf0fe3d18b2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29416-2ce9f8c22a8280f29452cddad8d44417?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.792974"
+    },
+    {
+      "notion_id": "28c9f8c22a8280f8aa15c5e967aa593d",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": 144000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A9caba65f-a49b-421a-a988-1ab54a5337a9%3AIMG_7664.jpeg?table=block&id=28c9f8c2-2a82-80dc-96af-df7873e18d21&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A9caba65f-a49b-421a-a988-1ab54a5337a9%3AIMG_7664.jpeg?table=block&id=28c9f8c2-2a82-80dc-96af-df7873e18d21&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29279-28c9f8c22a8280f8aa15c5e967aa593d?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.793755"
+    },
+    {
+      "notion_id": "25d9f8c22a82801aa3dae49d4f1d1681",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 32 in",
+      "year": null,
+      "price": 154000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A077e0942-47a8-41fa-8c83-a2505c2a5c54%3A29182_Ray_Gomez_24x32.jpg?table=block&id=25d9f8c2-2a82-80b2-89ff-e5241d2b5585&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A077e0942-47a8-41fa-8c83-a2505c2a5c54%3A29182_Ray_Gomez_24x32.jpg?table=block&id=25d9f8c2-2a82-80b2-89ff-e5241d2b5585&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29182-25d9f8c22a82801aa3dae49d4f1d1681?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.793755"
+    },
+    {
+      "notion_id": "25d9f8c22a828064a696d8618a5df5d2",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 32 in",
+      "year": null,
+      "price": 154000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A4991ffe2-d478-4e4b-b65f-14d5b6e5ceef%3A29181_Ray_Gomez_24x32.jpg?table=block&id=25d9f8c2-2a82-80f3-aef6-c8154d9a6bd1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A4991ffe2-d478-4e4b-b65f-14d5b6e5ceef%3A29181_Ray_Gomez_24x32.jpg?table=block&id=25d9f8c2-2a82-80f3-aef6-c8154d9a6bd1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/29181-25d9f8c22a828064a696d8618a5df5d2?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.794398"
+    },
+    {
+      "notion_id": "2099f8c22a828018a420f09894c59693",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 240000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7c8b6099-5457-4afb-876f-b7ad7f096053%3AIMG_6207.jpg?table=block&id=2099f8c2-2a82-80be-8969-e7ecd4df251b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7c8b6099-5457-4afb-876f-b7ad7f096053%3AIMG_6207.jpg?table=block&id=2099f8c2-2a82-80be-8969-e7ecd4df251b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28972-2099f8c22a828018a420f09894c59693?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.794398"
+    },
+    {
+      "notion_id": "1eb9f8c22a8280e495d1ecabbc90611a",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": 144000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aafc55826-43f9-4b94-bc81-8a6526b46e1f%3AIMG_6050.jpg?table=block&id=f5bac39f-888b-42af-a76b-42646bb10c0e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aafc55826-43f9-4b94-bc81-8a6526b46e1f%3AIMG_6050.jpg?table=block&id=f5bac39f-888b-42af-a76b-42646bb10c0e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28912-1eb9f8c22a8280e495d1ecabbc90611a?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.794398"
+    },
+    {
+      "notion_id": "1d19f8c22a828069a9ebe7150617c620",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 32 in",
+      "year": null,
+      "price": 154000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ab4756476-0daa-442a-9cf5-1ddff4fd0ab7%3A489364866_545534555232016_2515138572749526600_n.jpg?table=block&id=9e058d61-be28-4bc9-b458-ecccd07da35f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ab4756476-0daa-442a-9cf5-1ddff4fd0ab7%3A489364866_545534555232016_2515138572749526600_n.jpg?table=block&id=9e058d61-be28-4bc9-b458-ecccd07da35f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28861-1d19f8c22a828069a9ebe7150617c620?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.794398"
+    },
+    {
+      "notion_id": "1c99f8c22a828002aafed1dcc71c25af",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": 144000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ac2fe8bdc-f9dd-445e-b0b3-14f4e3c6c4b9%3A486949264_547154477954778_4297921825773765434_n.jpg?table=block&id=d345eaa0-c376-4fab-9105-773f567989c3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ac2fe8bdc-f9dd-445e-b0b3-14f4e3c6c4b9%3A486949264_547154477954778_4297921825773765434_n.jpg?table=block&id=d345eaa0-c376-4fab-9105-773f567989c3&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28852-1c99f8c22a828002aafed1dcc71c25af?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.795137"
+    },
+    {
+      "notion_id": "1af9f8c22a828006af6acdc43f783b22",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "30 x 40 in",
+      "year": null,
+      "price": 240000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Abfe6dfee-51a9-4cc7-9b94-29de0742d966%3A1000585090.jpg?table=block&id=2f6283b9-81ca-42ae-8ca8-39680a819f62&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Abfe6dfee-51a9-4cc7-9b94-29de0742d966%3A1000585090.jpg?table=block&id=2f6283b9-81ca-42ae-8ca8-39680a819f62&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27697-1af9f8c22a828006af6acdc43f783b22?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.795137"
+    },
+    {
+      "notion_id": "1af9f8c22a8280759765df37ca278365",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 32 in",
+      "year": null,
+      "price": 154000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A1552b78e-d360-48c1-9a37-28d57da89870%3A1000585089.jpg?table=block&id=c1b7896d-73ae-4a97-a370-76a4f0b84992&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A1552b78e-d360-48c1-9a37-28d57da89870%3A1000585089.jpg?table=block&id=c1b7896d-73ae-4a97-a370-76a4f0b84992&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27976-1af9f8c22a8280759765df37ca278365?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.795644"
+    },
+    {
+      "notion_id": "1af9f8c22a828066a17bf0affd2bc825",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 32 in",
+      "year": null,
+      "price": 154000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A1387ba5f-956b-4f92-b79a-79500550f9a7%3A1000585088.jpg?table=block&id=a5fa87a0-6b13-4bc9-9a36-e6a97dde299a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A1387ba5f-956b-4f92-b79a-79500550f9a7%3A1000585088.jpg?table=block&id=a5fa87a0-6b13-4bc9-9a36-e6a97dde299a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28313-1af9f8c22a828066a17bf0affd2bc825?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.795644"
+    },
+    {
+      "notion_id": "c8812734d26649c39fb116153bf69447",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Harvest Treasures",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 345000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F771c9e72-af59-4280-b508-9fda56bd74b6%2F5673f8ca-33cb-4aa7-8abe-dabf7fa2c46d.jpg?table=block&id=4ec29119-b13f-4ca9-84ca-74e019060706&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F771c9e72-af59-4280-b508-9fda56bd74b6%2F5673f8ca-33cb-4aa7-8abe-dabf7fa2c46d.jpg?table=block&id=4ec29119-b13f-4ca9-84ca-74e019060706&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28579-c8812734d26649c39fb116153bf69447?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.795644"
+    },
+    {
+      "notion_id": "ec37442fd59b43768bfcbfdc92e88469",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "25 x 38 in",
+      "year": null,
+      "price": 190000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F58a1b296-9d24-44ca-983e-1f57f9abec40%2F449710799_1758219461385143_374399793584454956_n.jpg?table=block&id=9da25351-1933-491b-b5af-877d37799e04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F58a1b296-9d24-44ca-983e-1f57f9abec40%2F449710799_1758219461385143_374399793584454956_n.jpg?table=block&id=9da25351-1933-491b-b5af-877d37799e04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28237-ec37442fd59b43768bfcbfdc92e88469?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.796354"
+    },
+    {
+      "notion_id": "73c32a7da4c24dc9be2955c8b261e662",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 30 in",
+      "year": null,
+      "price": 144000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9a46f443-0e23-4538-8f27-8a0fa63c7aa4%2F28125.jpg?table=block&id=48bbcd18-f4ff-439a-8030-8adea4689073&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9a46f443-0e23-4538-8f27-8a0fa63c7aa4%2F28125.jpg?table=block&id=48bbcd18-f4ff-439a-8030-8adea4689073&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28125-73c32a7da4c24dc9be2955c8b261e662?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.796354"
+    },
+    {
+      "notion_id": "ef17fa7e614a46d0bac94efdc1694386",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 32 in",
+      "year": null,
+      "price": 154000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc542c1c9-8adc-491b-a86e-a5c883614a85%2F426724386_849093233652077_5029453532861328922_n.jpg?table=block&id=aba92c65-fed6-4647-97ac-a4025baf48d0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc542c1c9-8adc-491b-a86e-a5c883614a85%2F426724386_849093233652077_5029453532861328922_n.jpg?table=block&id=aba92c65-fed6-4647-97ac-a4025baf48d0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27929-ef17fa7e614a46d0bac94efdc1694386?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.796354"
+    },
+    {
+      "notion_id": "32069548d5b149e2b70506948bbd4984",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 32 in",
+      "year": null,
+      "price": 154000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffcdba326-167f-469a-8a4b-35f253bfd924%2F419880355_742899084470264_7565177564618001588_n.jpg?table=block&id=51aac837-70f5-47af-86d6-bd9ab6697cb6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ffcdba326-167f-469a-8a4b-35f253bfd924%2F419880355_742899084470264_7565177564618001588_n.jpg?table=block&id=51aac837-70f5-47af-86d6-bd9ab6697cb6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27875-32069548d5b149e2b70506948bbd4984?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.797076"
+    },
+    {
+      "notion_id": "5ff1d4d7cb374d69ab44aa65c381f17e",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic and oil on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 172000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F601adcc6-e620-482f-9b91-ee412f3b80cb%2F1000077837.jpg?table=block&id=72b4f3fc-9731-4973-9db6-274d71c5775b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F601adcc6-e620-482f-9b91-ee412f3b80cb%2F1000077837.jpg?table=block&id=72b4f3fc-9731-4973-9db6-274d71c5775b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27325-5ff1d4d7cb374d69ab44aa65c381f17e?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.797076"
+    },
+    {
+      "notion_id": "8bf4fab556794ccda4f90939f6c39c5b",
+      "artist_id": "25c9f8c22a8280e88afbc5dc4045eabd",
+      "artist_name": "GOMEZ, Ray",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 34 in",
+      "year": null,
+      "price": 163000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb35ae378-6945-4a95-9983-bec74f95cb13%2F393265364_239977895725104_7639191121886319905_n.jpg?table=block&id=29a8f911-f8c9-4fc6-8378-44c8492caf1d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb35ae378-6945-4a95-9983-bec74f95cb13%2F393265364_239977895725104_7639191121886319905_n.jpg?table=block&id=29a8f911-f8c9-4fc6-8378-44c8492caf1d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27540-8bf4fab556794ccda4f90939f6c39c5b?pvs=25",
+      "scraped_at": "2026-02-03T14:36:22.797076"
+    }
+  ]
+}

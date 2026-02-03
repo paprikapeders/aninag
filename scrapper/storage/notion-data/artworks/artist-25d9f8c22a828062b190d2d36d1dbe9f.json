@@ -1,0 +1,29 @@
+{
+  "artist_id": "25d9f8c22a828062b190d2d36d1dbe9f",
+  "artist_name": "CONMIGO, Reymar",
+  "total_artworks": 1,
+  "scraped_at": "2026-02-03T14:31:44.695681",
+  "artworks": [
+    {
+      "notion_id": "3d672443fedf4c55936147c300b333a8",
+      "artist_id": "25d9f8c22a828062b190d2d36d1dbe9f",
+      "artist_name": "CONMIGO, Reymar",
+      "title": "Nassau Grouper Fish",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fea2f1578-f02f-4241-a932-2dc0337c577b%2F1000568549.jpg?table=block&id=b11815f4-e870-4cd1-ab10-f189a3810144&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fea2f1578-f02f-4241-a932-2dc0337c577b%2F1000568549.jpg?table=block&id=b11815f4-e870-4cd1-ab10-f189a3810144&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/25123-3d672443fedf4c55936147c300b333a8?pvs=25",
+      "scraped_at": "2026-02-03T14:31:44.693758"
+    }
+  ]
+}

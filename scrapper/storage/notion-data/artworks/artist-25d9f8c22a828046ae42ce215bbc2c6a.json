@@ -1,0 +1,50 @@
+{
+  "artist_id": "25d9f8c22a828046ae42ce215bbc2c6a",
+  "artist_name": "BEQUILLO, Jason",
+  "total_artworks": 2,
+  "scraped_at": "2026-02-03T14:24:59.973306",
+  "artworks": [
+    {
+      "notion_id": "358ae34011704ad0a197d4a8a5d93137",
+      "artist_id": "25d9f8c22a828046ae42ce215bbc2c6a",
+      "artist_name": "BEQUILLO, Jason",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "32 x 40 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F557e2ead-0ebc-43e8-92fa-1b422680272d%2F21547_32_in_x_40_in_(1).jpg?table=block&id=feed21f6-3cd9-4f4c-bcb6-d7b8d69ee2f0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F557e2ead-0ebc-43e8-92fa-1b422680272d%2F21547_32_in_x_40_in_(1).jpg?table=block&id=feed21f6-3cd9-4f4c-bcb6-d7b8d69ee2f0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21547-358ae34011704ad0a197d4a8a5d93137?pvs=25",
+      "scraped_at": "2026-02-03T14:24:59.970305"
+    },
+    {
+      "notion_id": "ffe51b4d3549478788b6b9820b3416be",
+      "artist_id": "25d9f8c22a828046ae42ce215bbc2c6a",
+      "artist_name": "BEQUILLO, Jason",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "25 x 30",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b916b9e-eeb7-4ea1-aa2c-8dfdffe6d3c9%2F22406.jpg?table=block&id=cc563a96-f659-43dd-8180-df752b51d1c1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b916b9e-eeb7-4ea1-aa2c-8dfdffe6d3c9%2F22406.jpg?table=block&id=cc563a96-f659-43dd-8180-df752b51d1c1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22406-ffe51b4d3549478788b6b9820b3416be?pvs=25",
+      "scraped_at": "2026-02-03T14:24:59.971298"
+    }
+  ]
+}

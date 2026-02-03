@@ -1,0 +1,470 @@
+{
+  "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+  "artist_name": "CASTRILLO, Ronald",
+  "total_artworks": 22,
+  "scraped_at": "2026-02-03T14:31:13.948887",
+  "artworks": [
+    {
+      "notion_id": "bd27651ec5f440d7ada81ef794e8758a",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "21 x 27 x 8 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1cf9427e-2c1d-4207-9ff8-659bc16f078a%2F472580216_610475541489943_2664554198302923278_n.jpg?table=block&id=1769f8c2-2a82-8190-8c16-d16062118f0c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1cf9427e-2c1d-4207-9ff8-659bc16f078a%2F472580216_610475541489943_2664554198302923278_n.jpg?table=block&id=1769f8c2-2a82-8190-8c16-d16062118f0c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/TC-00023-bd27651ec5f440d7ada81ef794e8758a?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.936051"
+    },
+    {
+      "notion_id": "c86795bfaba2472e98a970bf0820619e",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on kusot board",
+      "dimensions": "5 x 18",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F215d0338-5b28-404c-8417-5f09a65e3e62%2F214501652_4468190563202671_8795241403504170772_n.jpg?table=block&id=06a9544e-4254-4b41-855b-7b908b41c3dc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F215d0338-5b28-404c-8417-5f09a65e3e62%2F214501652_4468190563202671_8795241403504170772_n.jpg?table=block&id=06a9544e-4254-4b41-855b-7b908b41c3dc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-CLB-034-c86795bfaba2472e98a970bf0820619e?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.936902"
+    },
+    {
+      "notion_id": "e10bb1f73e4e4e129c2fe070dff02cd8",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbdebdbf8-1746-4919-aea1-c8d34d2a6307%2FIMG_1556.jpg?table=block&id=9b3cfe74-024b-42d5-83c5-ee8b43affe2e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbdebdbf8-1746-4919-aea1-c8d34d2a6307%2FIMG_1556.jpg?table=block&id=9b3cfe74-024b-42d5-83c5-ee8b43affe2e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-00020-e10bb1f73e4e4e129c2fe070dff02cd8?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.937591"
+    },
+    {
+      "notion_id": "47f07c3e668b4138a9e321dd6531caa5",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9a213851-cda5-4a45-b07f-c6941affe9c5%2FIMG_2176.png?table=block&id=3897e25d-da4f-430e-9999-2171ef542fbd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9a213851-cda5-4a45-b07f-c6941affe9c5%2FIMG_2176.png?table=block&id=3897e25d-da4f-430e-9999-2171ef542fbd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/JV-00001-47f07c3e668b4138a9e321dd6531caa5?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.937591"
+    },
+    {
+      "notion_id": "4f0fbab7aa32413db0664b8132f1bcab",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Kabukiran",
+      "description": null,
+      "medium": null,
+      "dimensions": "28 x 13 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbd898f2a-cb86-4006-b09a-472c12a43b25%2FRC_298.jpg?table=block&id=494a5369-465d-41e9-9dbb-59198be5650c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbd898f2a-cb86-4006-b09a-472c12a43b25%2FRC_298.jpg?table=block&id=494a5369-465d-41e9-9dbb-59198be5650c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-298-4f0fbab7aa32413db0664b8132f1bcab?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.938210"
+    },
+    {
+      "notion_id": "3de9dc95fb2740d58ead5a373032ee34",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F55fc2c06-4401-4b49-bb53-0c61579893c2%2FYIlPNZYe.jpg?table=block&id=0b1a3328-9dbe-480f-aa8d-3ab35144224e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F55fc2c06-4401-4b49-bb53-0c61579893c2%2FYIlPNZYe.jpg?table=block&id=0b1a3328-9dbe-480f-aa8d-3ab35144224e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/TC-00024-3de9dc95fb2740d58ead5a373032ee34?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.938837"
+    },
+    {
+      "notion_id": "848df01f79e7411eb2d2b8e2dda20f03",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Consultation",
+      "description": null,
+      "medium": null,
+      "dimensions": "10 x 12 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2223e883-07e5-4dc7-af6e-00e3cf989a9a%2F217629039_4485993294755731_560476792645761122_n_(1).jpg?table=block&id=23752107-0fb1-4a4f-bdae-29ede0fa0525&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F2223e883-07e5-4dc7-af6e-00e3cf989a9a%2F217629039_4485993294755731_560476792645761122_n_(1).jpg?table=block&id=23752107-0fb1-4a4f-bdae-29ede0fa0525&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-418-848df01f79e7411eb2d2b8e2dda20f03?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.939431"
+    },
+    {
+      "notion_id": "10c8ce20708f4329bd9fe537198c77b7",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Blissful Day",
+      "description": null,
+      "medium": null,
+      "dimensions": "12 x 9 x 32 in",
+      "year": null,
+      "price": 160000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbc174e16-d78c-4e7f-8fdf-36f4900eecae%2FRC_488.jpeg?table=block&id=b6acbe76-560a-4d8d-b06b-bc81d869337c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fbc174e16-d78c-4e7f-8fdf-36f4900eecae%2FRC_488.jpeg?table=block&id=b6acbe76-560a-4d8d-b06b-bc81d869337c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-488-10c8ce20708f4329bd9fe537198c77b7?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.940041"
+    },
+    {
+      "notion_id": "6ba07c2373fe4b69965a02b1c29bd9d3",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Bliss",
+      "description": null,
+      "medium": null,
+      "dimensions": "15 x 11 x 20 in",
+      "year": null,
+      "price": 115000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fba67473c-2952-4517-8ad2-7fd7ff9b453e%2FRC_482.jpg?table=block&id=e50c97f6-925d-40e1-8c09-9b6a26b7e92c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fba67473c-2952-4517-8ad2-7fd7ff9b453e%2FRC_482.jpg?table=block&id=e50c97f6-925d-40e1-8c09-9b6a26b7e92c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-482-6ba07c2373fe4b69965a02b1c29bd9d3?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.940648"
+    },
+    {
+      "notion_id": "8ec8b5046df441c08c9690a581f1ab5e",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Consultation",
+      "description": null,
+      "medium": null,
+      "dimensions": "10 x 12 x 12 in",
+      "year": null,
+      "price": 145000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3b2eacf8-8f35-4d83-a72b-ec4dc30738fd%2FRC_416.jpeg?table=block&id=2b42c2b2-cf2a-47df-9d17-e54483d05e3b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F3b2eacf8-8f35-4d83-a72b-ec4dc30738fd%2FRC_416.jpeg?table=block&id=2b42c2b2-cf2a-47df-9d17-e54483d05e3b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-416-8ec8b5046df441c08c9690a581f1ab5e?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.941239"
+    },
+    {
+      "notion_id": "4756d0338374459aa261b5fd68a72709",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": 190000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa0464bb4-5df9-4a5b-9aeb-9d955fbbdd8c%2FCastrillo.jpg?table=block&id=78ceb5ac-8a7e-4dd1-9097-3da0721c0e96&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa0464bb4-5df9-4a5b-9aeb-9d955fbbdd8c%2FCastrillo.jpg?table=block&id=78ceb5ac-8a7e-4dd1-9097-3da0721c0e96&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-099-4756d0338374459aa261b5fd68a72709?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.941827"
+    },
+    {
+      "notion_id": "cdd58c8fefcb4ff7b800c88a093fb3ea",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Fish Harvest",
+      "description": null,
+      "medium": null,
+      "dimensions": "23 x 18 x 9 in",
+      "year": null,
+      "price": 75000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff8e77e3d-3588-44cd-8014-8e5fba9010ae%2F382895470_3606271162929202_5065394474462466147_n.jpg?table=block&id=6b60fbf3-7eac-4a0c-bbec-7f17bca7c246&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff8e77e3d-3588-44cd-8014-8e5fba9010ae%2F382895470_3606271162929202_5065394474462466147_n.jpg?table=block&id=6b60fbf3-7eac-4a0c-bbec-7f17bca7c246&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-450-cdd58c8fefcb4ff7b800c88a093fb3ea?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.941827"
+    },
+    {
+      "notion_id": "1fb964ef3f2441f0a5eae0526a950dbe",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Mother & Child",
+      "description": null,
+      "medium": null,
+      "dimensions": "15 x 9 x 12 in",
+      "year": null,
+      "price": 115000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F584808d2-182f-4452-ba58-bd8d795ca5e3%2F170026905_4227390910617985_2926925839660774440_n.jpg?table=block&id=020719f1-ff26-441c-b13b-e53cac3ee925&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F584808d2-182f-4452-ba58-bd8d795ca5e3%2F170026905_4227390910617985_2926925839660774440_n.jpg?table=block&id=020719f1-ff26-441c-b13b-e53cac3ee925&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-401-1fb964ef3f2441f0a5eae0526a950dbe?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.942430"
+    },
+    {
+      "notion_id": "17fd6d0003b44b6394d1e132834acee2",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Hawak Kamay",
+      "description": null,
+      "medium": null,
+      "dimensions": "15 x 11 x 28 in",
+      "year": null,
+      "price": 160000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0fa33471-41c7-4f46-916d-935e273efaf2%2Fo2Rd_d6T.jpg?table=block&id=935583e3-13c8-454d-a4b8-326fdc27599d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0fa33471-41c7-4f46-916d-935e273efaf2%2Fo2Rd_d6T.jpg?table=block&id=935583e3-13c8-454d-a4b8-326fdc27599d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-485-17fd6d0003b44b6394d1e132834acee2?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.943036"
+    },
+    {
+      "notion_id": "571c84c330b0474081efbd9052b817f1",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Bliss",
+      "description": null,
+      "medium": null,
+      "dimensions": "12 x 11 x 16 in",
+      "year": null,
+      "price": 100000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faa122be9-2ade-410b-9ebf-1acd58aef66d%2FRC_525_12x11x16_(Bliss)_2023.jpg?table=block&id=3ca3c364-bd0c-4d47-b2aa-b4734c719f58&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faa122be9-2ade-410b-9ebf-1acd58aef66d%2FRC_525_12x11x16_(Bliss)_2023.jpg?table=block&id=3ca3c364-bd0c-4d47-b2aa-b4734c719f58&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-525-571c84c330b0474081efbd9052b817f1?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.943642"
+    },
+    {
+      "notion_id": "cc235aa5ea04491a98abaa6c75a97edc",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "15 x 9 x 12 in",
+      "year": null,
+      "price": 115000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9b40514d-180d-4a1b-87ec-ff98467b706a%2FRC_403.jpg?table=block&id=156a6e0d-d916-4979-8f92-76bc7870c9cc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9b40514d-180d-4a1b-87ec-ff98467b706a%2FRC_403.jpg?table=block&id=156a6e0d-d916-4979-8f92-76bc7870c9cc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-403-cc235aa5ea04491a98abaa6c75a97edc?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.944234"
+    },
+    {
+      "notion_id": "d3603cac822b413ca39ab3e9a883a669",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Crucifix",
+      "description": null,
+      "medium": null,
+      "dimensions": "56 x 26 x 9 in",
+      "year": null,
+      "price": 525000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F462735e8-2d2d-400e-9930-b916ba8b8a0c%2FRC_280.jpg?table=block&id=556b30bd-5064-4059-a209-c3962f230b69&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F462735e8-2d2d-400e-9930-b916ba8b8a0c%2FRC_280.jpg?table=block&id=556b30bd-5064-4059-a209-c3962f230b69&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-280-d3603cac822b413ca39ab3e9a883a669?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.944818"
+    },
+    {
+      "notion_id": "9f020597b9584620af04d2ed32c21e9d",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Fish Harvest",
+      "description": null,
+      "medium": null,
+      "dimensions": "12 x 9 x 10 in",
+      "year": null,
+      "price": 135000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fcd28858d-04aa-4b82-9092-ad5bb49802f1%2FRC_409.jpg?table=block&id=6caf3286-a4d7-4890-bb15-74d840bb143f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fcd28858d-04aa-4b82-9092-ad5bb49802f1%2FRC_409.jpg?table=block&id=6caf3286-a4d7-4890-bb15-74d840bb143f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-409-9f020597b9584620af04d2ed32c21e9d?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.945433"
+    },
+    {
+      "notion_id": "05092449974a477cb15f4a26b2bbaadf",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F61939fbc-e9d9-49ad-b6d1-c2ed9df04bf1%2FRC_274.jpeg?table=block&id=919a59eb-9fa7-423f-98b2-1bd0ef8c9528&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F61939fbc-e9d9-49ad-b6d1-c2ed9df04bf1%2FRC_274.jpeg?table=block&id=919a59eb-9fa7-423f-98b2-1bd0ef8c9528&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-274-05092449974a477cb15f4a26b2bbaadf?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.945433"
+    },
+    {
+      "notion_id": "dcff09ae1ca44809984f0bee3a7adb1a",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Fish Harvest",
+      "description": null,
+      "medium": null,
+      "dimensions": "17 x 25 x 10 in",
+      "year": null,
+      "price": 72000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fca0c60e5-6526-4ac5-9e71-ed491bb399b6%2FRC_454.jpeg?table=block&id=ef1d9f0b-942c-45da-85e4-46d6d7f7ef68&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fca0c60e5-6526-4ac5-9e71-ed491bb399b6%2FRC_454.jpeg?table=block&id=ef1d9f0b-942c-45da-85e4-46d6d7f7ef68&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-454-dcff09ae1ca44809984f0bee3a7adb1a?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.946029"
+    },
+    {
+      "notion_id": "bb7bfcf6ac6147509cb96e286f1553c4",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Father & Son",
+      "description": null,
+      "medium": null,
+      "dimensions": "26 x 11 x 10 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1a249ad3-e766-48c1-9eb6-2db9e7b55c74%2FRC_CLB_024.jpeg?table=block&id=3f533417-4515-4783-9690-cc378e3b9f13&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1a249ad3-e766-48c1-9eb6-2db9e7b55c74%2FRC_CLB_024.jpeg?table=block&id=3f533417-4515-4783-9690-cc378e3b9f13&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-CLB-024-bb7bfcf6ac6147509cb96e286f1553c4?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.946029"
+    },
+    {
+      "notion_id": "dd4851f49f8a4a74acc6b09e287ed560",
+      "artist_id": "25d9f8c22a828042afe0f6ad4408db7b",
+      "artist_name": "CASTRILLO, Ronald",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "22 x 15 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb9a95a38-c082-4ef4-88db-137e0f65fdf8%2FIMG_1624.jpg?table=block&id=34cf05b2-e304-43ef-8008-3b09edd1d73b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb9a95a38-c082-4ef4-88db-137e0f65fdf8%2FIMG_1624.jpg?table=block&id=34cf05b2-e304-43ef-8008-3b09edd1d73b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RC-516-dd4851f49f8a4a74acc6b09e287ed560?pvs=25",
+      "scraped_at": "2026-02-03T14:31:13.947054"
+    }
+  ]
+}

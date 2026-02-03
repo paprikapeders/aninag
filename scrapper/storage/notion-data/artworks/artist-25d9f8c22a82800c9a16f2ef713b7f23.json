@@ -1,0 +1,134 @@
+{
+  "artist_id": "25d9f8c22a82800c9a16f2ef713b7f23",
+  "artist_name": "BADAJOS, Nilo",
+  "total_artworks": 6,
+  "scraped_at": "2026-02-03T14:21:49.510945",
+  "artworks": [
+    {
+      "notion_id": "740757bcc4f4468781ac24b0bdc7aa71",
+      "artist_id": "25d9f8c22a82800c9a16f2ef713b7f23",
+      "artist_name": "BADAJOS, Nilo",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "16 x 27 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6c8b937c-ae32-41b3-af41-072ffdb26b76%2F449887049_1643033349886428_418004372037282851_n.jpg?table=block&id=34be57cd-977c-462c-b722-73491625feea&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F6c8b937c-ae32-41b3-af41-072ffdb26b76%2F449887049_1643033349886428_418004372037282851_n.jpg?table=block&id=34be57cd-977c-462c-b722-73491625feea&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/2951-740757bcc4f4468781ac24b0bdc7aa71?pvs=25",
+      "scraped_at": "2026-02-03T14:21:49.499271"
+    },
+    {
+      "notion_id": "25b518acdec24488aad71eb8ba3c8273",
+      "artist_id": "25d9f8c22a82800c9a16f2ef713b7f23",
+      "artist_name": "BADAJOS, Nilo",
+      "title": "Mga Awit",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "34 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1b01c193-154e-4448-92e7-318cc69e390b%2F23248_34_x_48.jpg?table=block&id=da55b590-aa62-4de9-b329-3106c762edef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F1b01c193-154e-4448-92e7-318cc69e390b%2F23248_34_x_48.jpg?table=block&id=da55b590-aa62-4de9-b329-3106c762edef&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23248-25b518acdec24488aad71eb8ba3c8273?pvs=25",
+      "scraped_at": "2026-02-03T14:21:49.500292"
+    },
+    {
+      "notion_id": "b2270fed126e48c8bfe342d8d8c0e44c",
+      "artist_id": "25d9f8c22a82800c9a16f2ef713b7f23",
+      "artist_name": "BADAJOS, Nilo",
+      "title": "It Was New Every Morning",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 60 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7e20bce1-8092-43df-a37b-aec687deeb3b%3AIMG_7239.jpeg?table=block&id=315868fb-411a-4b85-937a-1f00138a2e15&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7e20bce1-8092-43df-a37b-aec687deeb3b%3AIMG_7239.jpeg?table=block&id=315868fb-411a-4b85-937a-1f00138a2e15&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21373-b2270fed126e48c8bfe342d8d8c0e44c?pvs=25",
+      "scraped_at": "2026-02-03T14:21:49.502342"
+    },
+    {
+      "notion_id": "ae9b7240b69e4755b6d7badbf723fba3",
+      "artist_id": "25d9f8c22a82800c9a16f2ef713b7f23",
+      "artist_name": "BADAJOS, Nilo",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "34 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F06f8adad-bb83-489f-8b26-e36e686af5f0%2FBadajos.jpeg?table=block&id=c502f818-dc4f-44e0-b26d-98979cd2e46e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F06f8adad-bb83-489f-8b26-e36e686af5f0%2FBadajos.jpeg?table=block&id=c502f818-dc4f-44e0-b26d-98979cd2e46e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/26694-ae9b7240b69e4755b6d7badbf723fba3?pvs=25",
+      "scraped_at": "2026-02-03T14:21:49.503376"
+    },
+    {
+      "notion_id": "2e79f8c22a8280da95b3ecaad2c9095f",
+      "artist_id": "25d9f8c22a82800c9a16f2ef713b7f23",
+      "artist_name": "BADAJOS, Nilo",
+      "title": "Untitled",
+      "description": null,
+      "medium": null,
+      "dimensions": "24 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A30328f79-67f4-4431-ac6c-75a02f54e9b7%3AIMG_8419.jpeg?table=block&id=2e79f8c2-2a82-8090-a7f3-fccb2ab7e718&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A30328f79-67f4-4431-ac6c-75a02f54e9b7%3AIMG_8419.jpeg?table=block&id=2e79f8c2-2a82-8090-a7f3-fccb2ab7e718&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CS-29492-2e79f8c22a8280da95b3ecaad2c9095f?pvs=25",
+      "scraped_at": "2026-02-03T14:21:49.504902"
+    },
+    {
+      "notion_id": "2e79f8c22a8280bca3b4d44f123e32f3",
+      "artist_id": "25d9f8c22a82800c9a16f2ef713b7f23",
+      "artist_name": "BADAJOS, Nilo",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ac4b5475d-cf8f-4b45-b12c-26f8a6f08432%3AIMG_8420.jpg?table=block&id=2f19f8c2-2a82-8067-9124-d8e36685bb94&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ac4b5475d-cf8f-4b45-b12c-26f8a6f08432%3AIMG_8420.jpg?table=block&id=2f19f8c2-2a82-8067-9124-d8e36685bb94&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CS-29493-2e79f8c22a8280bca3b4d44f123e32f3?pvs=25",
+      "scraped_at": "2026-02-03T14:21:49.506929"
+    }
+  ]
+}

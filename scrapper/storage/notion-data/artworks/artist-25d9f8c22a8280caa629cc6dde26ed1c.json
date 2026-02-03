@@ -1,0 +1,533 @@
+{
+  "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+  "artist_name": "MONTOYA, Manuel",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T14:45:20.304835",
+  "artworks": [
+    {
+      "notion_id": "2549f8c22a8280d5add4c88eef171442",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "38 x 29 in",
+      "year": null,
+      "price": 165000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A577782c4-0c33-4857-a449-667dfa82d101%3A72dc6b14-a81d-4521-9024-63ca41651672.jpg?table=block&id=2549f8c2-2a82-8034-ba76-cc16056416c6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A577782c4-0c33-4857-a449-667dfa82d101%3A72dc6b14-a81d-4521-9024-63ca41651672.jpg?table=block&id=2549f8c2-2a82-8034-ba76-cc16056416c6&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/15943-2549f8c22a8280d5add4c88eef171442?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.297994"
+    },
+    {
+      "notion_id": "2099f8c22a8280a7b2b7c66de8382349",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Girl with Flower",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "19 x 9",
+      "year": null,
+      "price": 27000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A261fffa4-6ce8-44fc-90c4-eacb54ab2be3%3A494575705_1760219474593780_985884837733480209_n.jpg?table=block&id=2099f8c2-2a82-80bd-8811-c09c202bfd64&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A261fffa4-6ce8-44fc-90c4-eacb54ab2be3%3A494575705_1760219474593780_985884837733480209_n.jpg?table=block&id=2099f8c2-2a82-80bd-8811-c09c202bfd64&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20651-2099f8c22a8280a7b2b7c66de8382349?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.297994"
+    },
+    {
+      "notion_id": "2099f8c22a8280b4bf0cc51c99008642",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "5 x 10 in",
+      "year": null,
+      "price": 26000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A0044536e-ec51-437b-9817-09606b52875d%3A494577327_1756748088549158_6770742930102935766_n.jpg?table=block&id=2099f8c2-2a82-80d0-aed3-e9ff1e2b137f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A0044536e-ec51-437b-9817-09606b52875d%3A494577327_1756748088549158_6770742930102935766_n.jpg?table=block&id=2099f8c2-2a82-80d0-aed3-e9ff1e2b137f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21338-2099f8c22a8280b4bf0cc51c99008642?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.297994"
+    },
+    {
+      "notion_id": "2099f8c22a8280c6baa2e85af45829c5",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "28 x 14 in",
+      "year": null,
+      "price": 59000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A04c603fd-b465-41d9-a9b9-209cecdf85c1%3A494569697_689695853944226_3282792327472633413_n.jpg?table=block&id=2099f8c2-2a82-80de-af49-c57428fadbde&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A04c603fd-b465-41d9-a9b9-209cecdf85c1%3A494569697_689695853944226_3282792327472633413_n.jpg?table=block&id=2099f8c2-2a82-80de-af49-c57428fadbde&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/16367-2099f8c22a8280c6baa2e85af45829c5?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.298629"
+    },
+    {
+      "notion_id": "2099f8c22a82801abcbdc1b43360127c",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "27 x 14 in",
+      "year": null,
+      "price": 57000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aebc0d53d-a935-42e4-968f-171cea175525%3A496513149_1624796631564497_6613862046521108056_n.jpg?table=block&id=2099f8c2-2a82-80c1-807a-f3200e4b0a6f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aebc0d53d-a935-42e4-968f-171cea175525%3A496513149_1624796631564497_6613862046521108056_n.jpg?table=block&id=2099f8c2-2a82-80c1-807a-f3200e4b0a6f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/16368-2099f8c22a82801abcbdc1b43360127c?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.299728"
+    },
+    {
+      "notion_id": "2069f8c22a82805bb78cc6e595d200cc",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "20012Flower Vendor by Manuel Montoya 35 x 29 in. Acrylic on canvas₱153,000.00",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "35 x 29 in",
+      "year": null,
+      "price": 153000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ac736e518-c074-4a2f-a198-7b608d594828%3A494574673_1046935130234357_6151080690531488972_n.jpg?table=block&id=2069f8c2-2a82-8008-a912-cd81b96d748e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ac736e518-c074-4a2f-a198-7b608d594828%3A494574673_1046935130234357_6151080690531488972_n.jpg?table=block&id=2069f8c2-2a82-8008-a912-cd81b96d748e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20012-2069f8c22a82805bb78cc6e595d200cc?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.299728"
+    },
+    {
+      "notion_id": "2069f8c22a82801c9deccfb07767fc73",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "22 x 28",
+      "year": null,
+      "price": 94000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Af66b71a2-72c7-44eb-a54e-2969f2366678%3A494576321_1378873226845200_1285474323257215860_n.jpg?table=block&id=2069f8c2-2a82-80a3-a5ec-d147b3db16c0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Af66b71a2-72c7-44eb-a54e-2969f2366678%3A494576321_1378873226845200_1285474323257215860_n.jpg?table=block&id=2069f8c2-2a82-80a3-a5ec-d147b3db16c0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20655-2069f8c22a82801c9deccfb07767fc73?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.299728"
+    },
+    {
+      "notion_id": "2069f8c22a828056b71efaf35873131f",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "5 x 44 in",
+      "year": null,
+      "price": 228000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Abf0c32dd-fc02-4b49-ae5f-1ec34c10deaa%3A494579251_1657343814919130_2321170667677544444_n.jpg?table=block&id=2069f8c2-2a82-80bb-a757-d5e6bfc1abcc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Abf0c32dd-fc02-4b49-ae5f-1ec34c10deaa%3A494579251_1657343814919130_2321170667677544444_n.jpg?table=block&id=2069f8c2-2a82-80bb-a757-d5e6bfc1abcc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22557-2069f8c22a828056b71efaf35873131f?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.300381"
+    },
+    {
+      "notion_id": "2069f8c22a8280339789f796778b593e",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "35 x 29 in",
+      "year": null,
+      "price": 153000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A8d3ba859-4d41-4135-9325-0b15de6208dd%3A502374601_1265731958499862_1409123646518196289_n.jpg?table=block&id=2069f8c2-2a82-8022-b00e-cc906fbc669e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A8d3ba859-4d41-4135-9325-0b15de6208dd%3A502374601_1265731958499862_1409123646518196289_n.jpg?table=block&id=2069f8c2-2a82-8022-b00e-cc906fbc669e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/11592-2069f8c22a8280339789f796778b593e?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.300381"
+    },
+    {
+      "notion_id": "2069f8c22a828047850de194d8003dd0",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "5 x 38",
+      "year": null,
+      "price": 165000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aa332d908-430b-4493-a66a-e6a5b97bb513%3A494570800_797764309500792_3303366332894997886_n.jpg?table=block&id=2069f8c2-2a82-80ae-afd4-e11a4dc1e702&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aa332d908-430b-4493-a66a-e6a5b97bb513%3A494570800_797764309500792_3303366332894997886_n.jpg?table=block&id=2069f8c2-2a82-80ae-afd4-e11a4dc1e702&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/16394-2069f8c22a828047850de194d8003dd0?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.300381"
+    },
+    {
+      "notion_id": "2069f8c22a828002b626c8d535e1d190",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "5 x 34 in",
+      "year": null,
+      "price": 140000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Afc3e95ea-5b37-4882-8d48-76f4491b5dde%3A494571291_709582061482644_49583285660928741_n.jpg?table=block&id=2069f8c2-2a82-806d-a4a1-db9e6e9bf59a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Afc3e95ea-5b37-4882-8d48-76f4491b5dde%3A494571291_709582061482644_49583285660928741_n.jpg?table=block&id=2069f8c2-2a82-806d-a4a1-db9e6e9bf59a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/17069-2069f8c22a828002b626c8d535e1d190?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.300987"
+    },
+    {
+      "notion_id": "2069f8c22a8280feaeecf1dc16602533",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "29 x 39 in",
+      "year": null,
+      "price": 170000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Afb7ef170-538d-486a-ba21-677d9cdd8bb2%3A494575618_1350342942721333_1134638748095045247_n.jpg?table=block&id=2069f8c2-2a82-8091-ac63-fa27db1a6386&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Afb7ef170-538d-486a-ba21-677d9cdd8bb2%3A494575618_1350342942721333_1134638748095045247_n.jpg?table=block&id=2069f8c2-2a82-8091-ac63-fa27db1a6386&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/14500-2069f8c22a8280feaeecf1dc16602533?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.300987"
+    },
+    {
+      "notion_id": "2069f8c22a8280f8bca9f9b1b6337938",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "29 x 17 in",
+      "year": null,
+      "price": 74000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A7302f612-09e5-4fa9-bca0-00427e87c960%3A494579111_1099567608859607_506270992236855331_n.jpg?table=block&id=2069f8c2-2a82-8080-aeda-fc8695692a6c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A7302f612-09e5-4fa9-bca0-00427e87c960%3A494579111_1099567608859607_506270992236855331_n.jpg?table=block&id=2069f8c2-2a82-8080-aeda-fc8695692a6c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20008-2069f8c22a8280f8bca9f9b1b6337938?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.301496"
+    },
+    {
+      "notion_id": "2069f8c22a8280ee81cec77af3cf8f2c",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "20 x 28",
+      "year": null,
+      "price": 86000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A5567cb5b-c197-4a4a-8e11-51782dcb4cd1%3A494576276_557383497208209_872988211303809807_n.jpg?table=block&id=2069f8c2-2a82-80c8-9af8-c80cb5b13175&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A5567cb5b-c197-4a4a-8e11-51782dcb4cd1%3A494576276_557383497208209_872988211303809807_n.jpg?table=block&id=2069f8c2-2a82-80c8-9af8-c80cb5b13175&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21680-2069f8c22a8280ee81cec77af3cf8f2c?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.301496"
+    },
+    {
+      "notion_id": "2069f8c22a8280eea10fd2f9c1fe08a8",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "5 x 33",
+      "year": null,
+      "price": 138000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Adae663ad-9b09-42eb-a6c7-958920ba8d4a%3A494573333_948416563952130_4248542512905451455_n.jpg?table=block&id=2069f8c2-2a82-80be-a994-e808893123e4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Adae663ad-9b09-42eb-a6c7-958920ba8d4a%3A494573333_948416563952130_4248542512905451455_n.jpg?table=block&id=2069f8c2-2a82-80be-a994-e808893123e4&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/16806-2069f8c22a8280eea10fd2f9c1fe08a8?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.301496"
+    },
+    {
+      "notion_id": "2069f8c22a828025975bed408cf487b5",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "26 x 31 in",
+      "year": null,
+      "price": 121000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Acc5446c5-d60e-49d9-9a4d-7fb23602295c%3A494573333_1223475469386752_6640709537578137895_n.jpg?table=block&id=2069f8c2-2a82-80c3-90e6-f6d7d81cf6fa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Acc5446c5-d60e-49d9-9a4d-7fb23602295c%3A494573333_1223475469386752_6640709537578137895_n.jpg?table=block&id=2069f8c2-2a82-80c3-90e6-f6d7d81cf6fa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/8455-2069f8c22a828025975bed408cf487b5?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.302106"
+    },
+    {
+      "notion_id": "2069f8c22a828047ae8dd576ab50c5dc",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Brothers",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "28 x 38",
+      "year": null,
+      "price": 162000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A46aeb06b-9ada-44ba-bf64-9ed431913a3b%3A464499130_8430661147002109_5571489724015981724_n.jpg?table=block&id=2069f8c2-2a82-8039-992f-f28baa3eef2a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A46aeb06b-9ada-44ba-bf64-9ed431913a3b%3A464499130_8430661147002109_5571489724015981724_n.jpg?table=block&id=2069f8c2-2a82-8039-992f-f28baa3eef2a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/15504-2069f8c22a828047ae8dd576ab50c5dc?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.302106"
+    },
+    {
+      "notion_id": "2069f8c22a82802a8e54c1e5791cfa36",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "5 x 29 in",
+      "year": null,
+      "price": 85000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Af5aa78b7-1608-42bc-ae95-b23bb93c6e36%3A464628644_8430660887002135_4806125497510837946_n.jpg?table=block&id=2069f8c2-2a82-80b8-8671-e7ea1db314fc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Af5aa78b7-1608-42bc-ae95-b23bb93c6e36%3A464628644_8430660887002135_4806125497510837946_n.jpg?table=block&id=2069f8c2-2a82-80b8-8671-e7ea1db314fc&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/16033-2069f8c22a82802a8e54c1e5791cfa36?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.302106"
+    },
+    {
+      "notion_id": "2069f8c22a8280d28b07cbc135a32928",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Tres Marias",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "35 x 29 in",
+      "year": null,
+      "price": 153000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A1171b0f9-2d3e-4d56-90f1-e08d82677571%3AIMG_7236.jpeg?table=block&id=2069f8c2-2a82-808e-8d10-e3e2352383b2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A1171b0f9-2d3e-4d56-90f1-e08d82677571%3AIMG_7236.jpeg?table=block&id=2069f8c2-2a82-808e-8d10-e3e2352383b2&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/19835-2069f8c22a8280d28b07cbc135a32928?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.302713"
+    },
+    {
+      "notion_id": "2069f8c22a82803a9472c9ea1a6968d3",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Flower Vendor",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "5 x 26",
+      "year": null,
+      "price": 133000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A8058e29f-7ce6-4843-a4e3-07c94550a186%3A464748608_8430661347002089_3059130705117447146_n.jpg?table=block&id=2069f8c2-2a82-80c6-b72a-fb95285cb65a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A8058e29f-7ce6-4843-a4e3-07c94550a186%3A464748608_8430661347002089_3059130705117447146_n.jpg?table=block&id=2069f8c2-2a82-80c6-b72a-fb95285cb65a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/17525-2069f8c22a82803a9472c9ea1a6968d3?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.302713"
+    },
+    {
+      "notion_id": "2069f8c22a82800a9530d18ad14b2106",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Flower Harvest",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "27 x 34 in",
+      "year": null,
+      "price": 138000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A2f9c4e6a-34bf-4bde-a19a-a8c2d86ec775%3AIMG_7231.jpeg?table=block&id=2069f8c2-2a82-808e-9dda-c4508011541c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A2f9c4e6a-34bf-4bde-a19a-a8c2d86ec775%3AIMG_7231.jpeg?table=block&id=2069f8c2-2a82-808e-9dda-c4508011541c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/17650-2069f8c22a82800a9530d18ad14b2106?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.302713"
+    },
+    {
+      "notion_id": "2069f8c22a82805293cceaecc2232636",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Tres Marias",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "27 x 33",
+      "year": null,
+      "price": 136000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Afd849167-beec-42af-9d54-561d8ba9537b%3A464646918_8430661357002088_6619085488121226418_n.jpg?table=block&id=2069f8c2-2a82-804f-8e01-d15a14fd53fd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Afd849167-beec-42af-9d54-561d8ba9537b%3A464646918_8430661357002088_6619085488121226418_n.jpg?table=block&id=2069f8c2-2a82-804f-8e01-d15a14fd53fd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/17749-2069f8c22a82805293cceaecc2232636?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.303314"
+    },
+    {
+      "notion_id": "2069f8c22a828079a591e3dbc8cfc86e",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "29 x 38",
+      "year": null,
+      "price": 168000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A717e4ca4-513a-4f8a-9fed-cc244948cfda%3A464570368_8430661350335422_7592819625937061368_n.jpg?table=block&id=2069f8c2-2a82-801b-8f26-fce696cb8f41&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A717e4ca4-513a-4f8a-9fed-cc244948cfda%3A464570368_8430661350335422_7592819625937061368_n.jpg?table=block&id=2069f8c2-2a82-801b-8f26-fce696cb8f41&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/15558-2069f8c22a828079a591e3dbc8cfc86e?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.303314"
+    },
+    {
+      "notion_id": "500ba3688d2748fbbb528232acd39b24",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": 691000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aa5e8fc64-4fa7-4410-a578-eaa33c344751%3A475839776_1002733225235547_149786747794406046_n.jpg?table=block&id=1929f8c2-2a82-81fb-8b30-d3c52dd1863a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aa5e8fc64-4fa7-4410-a578-eaa33c344751%3A475839776_1002733225235547_149786747794406046_n.jpg?table=block&id=1929f8c2-2a82-81fb-8b30-d3c52dd1863a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28745-500ba3688d2748fbbb528232acd39b24?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.303314"
+    },
+    {
+      "notion_id": "76f8cbe1c66045e3b6f4c28925da1249",
+      "artist_id": "25d9f8c22a8280caa629cc6dde26ed1c",
+      "artist_name": "MONTOYA, Manuel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": 691000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A91b15142-f52e-4baf-a51e-6d07ed7fa5f0%3A475783891_983959316934530_4741227472924995759_n.jpg?table=block&id=1929f8c2-2a82-816f-b47f-d649bfe31519&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A91b15142-f52e-4baf-a51e-6d07ed7fa5f0%3A475783891_983959316934530_4741227472924995759_n.jpg?table=block&id=1929f8c2-2a82-816f-b47f-d649bfe31519&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28744-76f8cbe1c66045e3b6f4c28925da1249?pvs=25",
+      "scraped_at": "2026-02-03T14:45:20.303909"
+    }
+  ]
+}

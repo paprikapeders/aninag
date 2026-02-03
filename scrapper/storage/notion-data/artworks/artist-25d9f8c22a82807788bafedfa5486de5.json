@@ -1,0 +1,323 @@
+{
+  "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+  "artist_name": "MAHILUM, Joel",
+  "total_artworks": 15,
+  "scraped_at": "2026-02-03T14:40:00.157476",
+  "artworks": [
+    {
+      "notion_id": "14d9f8c22a8280229771c86373f0bec0",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "A Symphony of Light and Leaves",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 95 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa637e508-a2ea-4fd4-aa1d-5f673cb0ab23%2FIMG_8709.jpg?table=block&id=14d9f8c2-2a82-8074-962f-d03176014600&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa637e508-a2ea-4fd4-aa1d-5f673cb0ab23%2FIMG_8709.jpg?table=block&id=14d9f8c2-2a82-8074-962f-d03176014600&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21295-14d9f8c22a8280229771c86373f0bec0?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.152709"
+    },
+    {
+      "notion_id": "12734316c92849208293b9047a3ae6b7",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Lauat",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 30 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb925dde1-5110-4365-9048-1fce217e95a1%2FCS_24090_30x30.jpg?table=block&id=d1942add-430f-449c-bf5b-7f1e367fefd9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb925dde1-5110-4365-9048-1fce217e95a1%2FCS_24090_30x30.jpg?table=block&id=d1942add-430f-449c-bf5b-7f1e367fefd9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CS-24090-12734316c92849208293b9047a3ae6b7?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.152709"
+    },
+    {
+      "notion_id": "554050872b464ab3a66105f6f85ada39",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd40635ba-888e-4ccd-b5ab-122d46179095%2F25307.jpg?table=block&id=abce4ec2-d153-43f8-9cdd-f7e541906f8d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd40635ba-888e-4ccd-b5ab-122d46179095%2F25307.jpg?table=block&id=abce4ec2-d153-43f8-9cdd-f7e541906f8d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22384-554050872b464ab3a66105f6f85ada39?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.152709"
+    },
+    {
+      "notion_id": "2639f8c22a8280b7bfb1e18bca939178",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Reverie (How does one View the Butterfly)",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "32 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Aea3c40b9-324b-4754-a67b-0a1cd5adb66f%3AIMG_2828.jpg?table=block&id=2639f8c2-2a82-80b0-8566-d69d2b8251be&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Aea3c40b9-324b-4754-a67b-0a1cd5adb66f%3AIMG_2828.jpg?table=block&id=2639f8c2-2a82-80b0-8566-d69d2b8251be&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/CS-15240-2639f8c22a8280b7bfb1e18bca939178?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.153280"
+    },
+    {
+      "notion_id": "e153197bfe9d4abf985e4a726d3224a9",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa0c9a22c-2aa0-440d-ad1e-6dc7c8a9b053%2FIMG_0796.jpeg?table=block&id=b354ef9d-ef53-481e-a7df-f5875e13ce2a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fa0c9a22c-2aa0-440d-ad1e-6dc7c8a9b053%2FIMG_0796.jpeg?table=block&id=b354ef9d-ef53-481e-a7df-f5875e13ce2a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/9198-e153197bfe9d4abf985e4a726d3224a9?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.153280"
+    },
+    {
+      "notion_id": "e0c4a38913f840c88416c9066ea3bdbf",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Untitled (Triptych)",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9dbe7f45-d9dd-45dd-984c-e25e4cd4c136%2FJoel_1.jpg?table=block&id=1d0b1c84-2eb2-4dea-8753-173422be18f9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9dbe7f45-d9dd-45dd-984c-e25e4cd4c136%2FJoel_1.jpg?table=block&id=1d0b1c84-2eb2-4dea-8753-173422be18f9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21483-e0c4a38913f840c88416c9066ea3bdbf?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.153831"
+    },
+    {
+      "notion_id": "53a66ed19d804cb4b4193766f3d1335e",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc4eb99be-23d8-4394-bd0f-3af9c823969d%2F1000010658.jpg?table=block&id=348a4642-7a05-4f17-9d54-27ffe99e5e85&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc4eb99be-23d8-4394-bd0f-3af9c823969d%2F1000010658.jpg?table=block&id=348a4642-7a05-4f17-9d54-27ffe99e5e85&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21751-53a66ed19d804cb4b4193766f3d1335e?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.153831"
+    },
+    {
+      "notion_id": "da421c4eae6847e38ac2986a87f19c7d",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "16 x 12 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F31a840ff-053a-4b69-ab68-0c28ab6975a7%2F1000010719.jpg?table=block&id=6b91f912-4553-4c92-8d7a-d06c1c6f3c04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F31a840ff-053a-4b69-ab68-0c28ab6975a7%2F1000010719.jpg?table=block&id=6b91f912-4553-4c92-8d7a-d06c1c6f3c04&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/6324-da421c4eae6847e38ac2986a87f19c7d?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.154443"
+    },
+    {
+      "notion_id": "e34eee163b2e468d9826cf2bb4513a1b",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8b04a5b2-55f2-4829-acf3-3a2587cc78d2%2F21030.jpg?table=block&id=5899cc28-e9bc-413c-924a-6a194d1fd5cb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8b04a5b2-55f2-4829-acf3-3a2587cc78d2%2F21030.jpg?table=block&id=5899cc28-e9bc-413c-924a-6a194d1fd5cb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/21030-e34eee163b2e468d9826cf2bb4513a1b?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.155031"
+    },
+    {
+      "notion_id": "26bce46c468d4646aee14112088faed1",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "20 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe99de175-616c-4561-81e4-64a602609638%2F23212.jpg?table=block&id=3d85f3f6-0a46-4b3c-9833-10b929c97565&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe99de175-616c-4561-81e4-64a602609638%2F23212.jpg?table=block&id=3d85f3f6-0a46-4b3c-9833-10b929c97565&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23212-26bce46c468d4646aee14112088faed1?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.155031"
+    },
+    {
+      "notion_id": "08eded8694404d98abadc20d3799ff56",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe813bcaa-579f-4bac-9cda-0016716f0f7c%2FJLM_014.jpg?table=block&id=b9f7e743-519c-420b-b2ff-99bdd53adeee&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe813bcaa-579f-4bac-9cda-0016716f0f7c%2FJLM_014.jpg?table=block&id=b9f7e743-519c-420b-b2ff-99bdd53adeee&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/JLM-014-08eded8694404d98abadc20d3799ff56?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.155031"
+    },
+    {
+      "notion_id": "9a3fa60c5a8444d78c056d2bc174cdef",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Furry Tails",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "20 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb84a2aab-a241-448f-b332-e6a7108e24cc%2F23695.jpg?table=block&id=b185612f-2424-4582-9ce4-45e91a6364bd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb84a2aab-a241-448f-b332-e6a7108e24cc%2F23695.jpg?table=block&id=b185612f-2424-4582-9ce4-45e91a6364bd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23695-9a3fa60c5a8444d78c056d2bc174cdef?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.155664"
+    },
+    {
+      "notion_id": "b4924f7f3f69439e837b91b357e594b3",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Max and Paw",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "20 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A6aa5e7ee-abf2-46ae-886d-f878045977f1%3AIMG_2827.jpg?table=block&id=2639f8c2-2a82-8005-876a-f854c2afaa02&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A6aa5e7ee-abf2-46ae-886d-f878045977f1%3AIMG_2827.jpg?table=block&id=2639f8c2-2a82-8005-876a-f854c2afaa02&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/11910-b4924f7f3f69439e837b91b357e594b3?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.155664"
+    },
+    {
+      "notion_id": "82b39b1238d44aff96316dd322bebc86",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Mananahi",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb7fac504-48a5-4675-845b-2eb92f08ecc2%2F6825.jpg?table=block&id=d583160e-f018-49cb-b839-3ba0319ef9a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb7fac504-48a5-4675-845b-2eb92f08ecc2%2F6825.jpg?table=block&id=d583160e-f018-49cb-b839-3ba0319ef9a0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/6825-82b39b1238d44aff96316dd322bebc86?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.156242"
+    },
+    {
+      "notion_id": "c5d96739377c40c2a7ceaaf6f7d808c5",
+      "artist_id": "25d9f8c22a82807788bafedfa5486de5",
+      "artist_name": "MAHILUM, Joel",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "20 x 16 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F61b2e959-a23c-4d7e-80c1-3cdb53ee1034%2F23694.jpg?table=block&id=2aeec88f-1010-4bbc-b7a8-937a11a8770d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F61b2e959-a23c-4d7e-80c1-3cdb53ee1034%2F23694.jpg?table=block&id=2aeec88f-1010-4bbc-b7a8-937a11a8770d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Reserved",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23694-c5d96739377c40c2a7ceaaf6f7d808c5?pvs=25",
+      "scraped_at": "2026-02-03T14:40:00.156242"
+    }
+  ]
+}

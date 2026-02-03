@@ -1,0 +1,239 @@
+{
+  "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+  "artist_name": "BENITO, Jovan",
+  "total_artworks": 11,
+  "scraped_at": "2026-02-03T14:24:28.746439",
+  "artworks": [
+    {
+      "notion_id": "26c9f8c22a8280ef9968c532f8ae669c",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A004bc165-3018-4786-952b-1d8ff4aaa8ba%3Aa65cf566-e340-42ca-9b03-4cf1b16544aa.jpeg?table=block&id=26c9f8c2-2a82-8019-9e77-ebdb20d8592b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A004bc165-3018-4786-952b-1d8ff4aaa8ba%3Aa65cf566-e340-42ca-9b03-4cf1b16544aa.jpeg?table=block&id=26c9f8c2-2a82-8019-9e77-ebdb20d8592b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23700-26c9f8c22a8280ef9968c532f8ae669c?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.729400"
+    },
+    {
+      "notion_id": "ddbb00a110ae4568a5f96c1be53b1be0",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": null,
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F65566194-dee0-4dca-bb47-ffa03623da17%2FLxCS0Pem_(2).jpg?table=block&id=c837c4f4-85be-42a6-b60f-38896c9dc9d1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F65566194-dee0-4dca-bb47-ffa03623da17%2FLxCS0Pem_(2).jpg?table=block&id=c837c4f4-85be-42a6-b60f-38896c9dc9d1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/RRV-039-ddbb00a110ae4568a5f96c1be53b1be0?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.730399"
+    },
+    {
+      "notion_id": "79c61ce8f1b64dbebcfe86f6722339c4",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Magsusuman by Jovan Benito 36 x 36 in. Oil on canvasAvailable",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 36 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb56557dd-4953-43e1-b0df-15cd949f15ba%2F22981.jpg?table=block&id=c7c5c17c-3d47-4144-bab5-f5f81085702e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb56557dd-4953-43e1-b0df-15cd949f15ba%2F22981.jpg?table=block&id=c7c5c17c-3d47-4144-bab5-f5f81085702e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22981-79c61ce8f1b64dbebcfe86f6722339c4?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.730399"
+    },
+    {
+      "notion_id": "5fcd450a6b864385b9bc84d6a4c2abb6",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "48 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd8823daa-37fc-4a1d-b5b4-e6c13aba2322%2F1000008890.jpg?table=block&id=552b908f-de58-4d8e-a489-9eb4796949f1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd8823daa-37fc-4a1d-b5b4-e6c13aba2322%2F1000008890.jpg?table=block&id=552b908f-de58-4d8e-a489-9eb4796949f1&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23702-5fcd450a6b864385b9bc84d6a4c2abb6?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.731972"
+    },
+    {
+      "notion_id": "dd09f24a5c9647b9bdb1dce7a9ae0c09",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F23ea7fe0-640f-4062-aae7-7f15359284c0%2F23701_36x48.jpg?table=block&id=f2285495-d34a-44d8-afe4-b2b43b575be5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F23ea7fe0-640f-4062-aae7-7f15359284c0%2F23701_36x48.jpg?table=block&id=f2285495-d34a-44d8-afe4-b2b43b575be5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/23701-dd09f24a5c9647b9bdb1dce7a9ae0c09?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.732999"
+    },
+    {
+      "notion_id": "1c8a66c50caf45a5a96902261eaeecde",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Nagdadalaga Na",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe222a689-431f-4724-b119-2d0457d741fe%2F22659_36x48.jpg?table=block&id=f53a495c-0035-480b-8876-4c730c30f491&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fe222a689-431f-4724-b119-2d0457d741fe%2F22659_36x48.jpg?table=block&id=f53a495c-0035-480b-8876-4c730c30f491&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22659-1c8a66c50caf45a5a96902261eaeecde?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.733998"
+    },
+    {
+      "notion_id": "68f2e366550749ccb0aadfce8e9b48f2",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Weekend",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd27b2687-1116-4a85-9b8e-032ba06d7447%2F24078.jpeg?table=block&id=b45b6fff-3e18-4cb3-bbff-dd89eafbaf2a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fd27b2687-1116-4a85-9b8e-032ba06d7447%2F24078.jpeg?table=block&id=b45b6fff-3e18-4cb3-bbff-dd89eafbaf2a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24078-68f2e366550749ccb0aadfce8e9b48f2?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.736076"
+    },
+    {
+      "notion_id": "182be416be5b46f18bd1105d2ed8a501",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7e5dae67-3f1d-48f9-ab43-adc097736bab%2FIMG_7658.jpeg?table=block&id=0a6df38d-c7f4-4c4a-8e0e-36de11c599e9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7e5dae67-3f1d-48f9-ab43-adc097736bab%2FIMG_7658.jpeg?table=block&id=0a6df38d-c7f4-4c4a-8e0e-36de11c599e9&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/22562-182be416be5b46f18bd1105d2ed8a501?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.738850"
+    },
+    {
+      "notion_id": "1ecd6d22bd7743d1aac585909311afce",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "First Step",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F877b43cc-2f5f-4117-aa0e-7dd92845b4c9%2F24081.jpg?table=block&id=852baf72-987a-41a4-adda-409272daba0e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F877b43cc-2f5f-4117-aa0e-7dd92845b4c9%2F24081.jpg?table=block&id=852baf72-987a-41a4-adda-409272daba0e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24081-1ecd6d22bd7743d1aac585909311afce?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.739851"
+    },
+    {
+      "notion_id": "e142ce02122141b38e5d56b8961bb9bb",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Sisters",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd772df63-530c-4c7c-8980-df7d211b9d0d%2F20718.jpeg?table=block&id=f549ed9d-30f0-43e3-acc7-486ec2a38e01&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd772df63-530c-4c7c-8980-df7d211b9d0d%2F20718.jpeg?table=block&id=f549ed9d-30f0-43e3-acc7-486ec2a38e01&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/20712-e142ce02122141b38e5d56b8961bb9bb?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.741372"
+    },
+    {
+      "notion_id": "b121dfaf7470402da5e4ef7a854fb8cd",
+      "artist_id": "25d9f8c22a8280a89168f2986ffb4b2a",
+      "artist_name": "BENITO, Jovan",
+      "title": "Kuprasan",
+      "description": null,
+      "medium": "Oil on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F83b872bd-509c-4081-b65d-30289fa808a2%2F24080.jpg?table=block&id=9cc2a5b5-0a8f-4bed-b958-bbfad534a211&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F83b872bd-509c-4081-b65d-30289fa808a2%2F24080.jpg?table=block&id=9cc2a5b5-0a8f-4bed-b958-bbfad534a211&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": "Available",
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24080-b121dfaf7470402da5e4ef7a854fb8cd?pvs=25",
+      "scraped_at": "2026-02-03T14:24:28.742389"
+    }
+  ]
+}

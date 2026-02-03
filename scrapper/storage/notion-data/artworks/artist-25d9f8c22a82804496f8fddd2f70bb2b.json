@@ -1,0 +1,533 @@
+{
+  "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+  "artist_name": "MARTINEZ, Raymart",
+  "total_artworks": 25,
+  "scraped_at": "2026-02-03T14:44:18.624682",
+  "artworks": [
+    {
+      "notion_id": "4c514a67b96f4448acc8f1e27742a21c",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "16 x 12 in",
+      "year": null,
+      "price": 23000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc548a03b-1a80-4d59-b290-bf9e90c627b5%2FIMG_4598.jpg?table=block&id=aec21cfb-6724-4dab-a0ee-f226c48ef4bb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fc548a03b-1a80-4d59-b290-bf9e90c627b5%2FIMG_4598.jpg?table=block&id=aec21cfb-6724-4dab-a0ee-f226c48ef4bb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-27985-4c514a67b96f4448acc8f1e27742a21c?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.610872"
+    },
+    {
+      "notion_id": "2579f8c22a828018b208d66a6f7ccd8b",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Kasama sa Alaala",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 24 in",
+      "year": null,
+      "price": 52000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ab894100b-d99e-4d32-b1f3-2bd796308607%3AWhatsApp_Image_2025-08-22_at_09.22.36_8c2d97f9.jpg?table=block&id=2579f8c2-2a82-80a6-80e7-cc47cb1e8083&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ab894100b-d99e-4d32-b1f3-2bd796308607%3AWhatsApp_Image_2025-08-22_at_09.22.36_8c2d97f9.jpg?table=block&id=2579f8c2-2a82-80a6-80e7-cc47cb1e8083&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-29171-2579f8c22a828018b208d66a6f7ccd8b?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.611558"
+    },
+    {
+      "notion_id": "2709f8c22a82803fa9fccbd82e9a00db",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "35 x 24 in",
+      "year": null,
+      "price": 76000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A1ab612e2-e0bb-44d8-872b-5f97e226f289%3AIMG_7380.jpeg?table=block&id=2709f8c2-2a82-803d-b266-ed584a4f9367&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A1ab612e2-e0bb-44d8-872b-5f97e226f289%3AIMG_7380.jpeg?table=block&id=2709f8c2-2a82-803d-b266-ed584a4f9367&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-29221-2709f8c22a82803fa9fccbd82e9a00db?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.612175"
+    },
+    {
+      "notion_id": "20f9f8c22a82801c994edab27812c831",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A8fa7ef34-cf95-473e-95e8-39251f8076fc%3A28977.jpg?table=block&id=20f9f8c2-2a82-80e7-b2a7-cfa5536a3fd7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A8fa7ef34-cf95-473e-95e8-39251f8076fc%3A28977.jpg?table=block&id=20f9f8c2-2a82-80e7-b2a7-cfa5536a3fd7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-28977-20f9f8c22a82801c994edab27812c831?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.612692"
+    },
+    {
+      "notion_id": "1d19f8c22a8280798acbc213c5d8841e",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3Ad0fde4b0-762e-4a07-8dea-c3e17a17084a%3A487809236_1004216478465137_7891873535493818434_n.jpg?table=block&id=68f96d66-f299-43dc-88b3-1201fd5b62b0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3Ad0fde4b0-762e-4a07-8dea-c3e17a17084a%3A487809236_1004216478465137_7891873535493818434_n.jpg?table=block&id=68f96d66-f299-43dc-88b3-1201fd5b62b0&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-28859-1d19f8c22a8280798acbc213c5d8841e?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.613377"
+    },
+    {
+      "notion_id": "5cd5028bc9964bd1ad70ea5a523624dd",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Pagdiriwang sa Gitna ng Gintong Ani",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 96 in",
+      "year": null,
+      "price": 415000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F84f822c3-cb9f-4a4e-8e42-e99d56436159%2F473744309_1020372153459113_2068634915942893687_n.jpg?table=block&id=17b9f8c2-2a82-81a1-b437-e6a77afd9dd7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F84f822c3-cb9f-4a4e-8e42-e99d56436159%2F473744309_1020372153459113_2068634915942893687_n.jpg?table=block&id=17b9f8c2-2a82-81a1-b437-e6a77afd9dd7&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-28674-5cd5028bc9964bd1ad70ea5a523624dd?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.614511"
+    },
+    {
+      "notion_id": "a896a1c1cfc94defb28bb7713bbcc6e8",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "48 x 36 in",
+      "year": null,
+      "price": 156000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff6608788-08c2-435c-8a40-9d7c30c6c6aa%2F2f528881-91b9-46f3-b1ec-15ec402bb257.jpg?table=block&id=975bef83-ac31-4b5e-8055-0c895cc8e95c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Ff6608788-08c2-435c-8a40-9d7c30c6c6aa%2F2f528881-91b9-46f3-b1ec-15ec402bb257.jpg?table=block&id=975bef83-ac31-4b5e-8055-0c895cc8e95c&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/28273-a896a1c1cfc94defb28bb7713bbcc6e8?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.615145"
+    },
+    {
+      "notion_id": "6113f99e0b3245468d3f345ffa7a47ca",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "16 x 12 in",
+      "year": null,
+      "price": 23000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4d8d97c3-ce93-4ae0-b33b-c9f839d88665%2FIMG_4599.jpg?table=block&id=190bb74c-e5c3-4080-98a7-817da8e85e6b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F4d8d97c3-ce93-4ae0-b33b-c9f839d88665%2FIMG_4599.jpg?table=block&id=190bb74c-e5c3-4080-98a7-817da8e85e6b&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-27984-6113f99e0b3245468d3f345ffa7a47ca?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.616402"
+    },
+    {
+      "notion_id": "6a03af1ca61d4c2eb574ec153721c9d2",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "It’s a Family Affair",
+      "description": null,
+      "medium": "Acrylic and oil on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 155000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0dafb681-d710-4a94-a621-800617c688b5%2FIMG_1902.jpg?table=block&id=1f21490d-c616-47f3-b49c-4ff0b72b0e0f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0dafb681-d710-4a94-a621-800617c688b5%2FIMG_1902.jpg?table=block&id=1f21490d-c616-47f3-b49c-4ff0b72b0e0f&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-27883-6a03af1ca61d4c2eb574ec153721c9d2?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.617043"
+    },
+    {
+      "notion_id": "e1b0e5006e0e42baaa4fbb4f5b7a7dc7",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Date on the Beach",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F5c47a3c3-a749-4905-9612-4256e33ff132%2FDA_26209_(1).jpg?table=block&id=f0e1d905-6872-4603-b993-f4dad7f4f041&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F5c47a3c3-a749-4905-9612-4256e33ff132%2FDA_26209_(1).jpg?table=block&id=f0e1d905-6872-4603-b993-f4dad7f4f041&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-26209-e1b0e5006e0e42baaa4fbb4f5b7a7dc7?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.617735"
+    },
+    {
+      "notion_id": "7f69906ee3484724afb217ee8d96cba1",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Romantic Picnic Date",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7a44ce10-44b9-427b-9d88-deab05afde87%2FIMG_2934.jpg?table=block&id=db1b13ed-7bd7-4195-8ea3-2faadbf25684&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F7a44ce10-44b9-427b-9d88-deab05afde87%2FIMG_2934.jpg?table=block&id=db1b13ed-7bd7-4195-8ea3-2faadbf25684&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-27554-7f69906ee3484724afb217ee8d96cba1?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.617735"
+    },
+    {
+      "notion_id": "64077defce9740a186eada3b7aec4efd",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Kiss in the Garden",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb5ecf5ed-e5d4-4468-811b-21a067cb5009%2FIMG_2158.jpg?table=block&id=487ecc89-d6f4-4647-8360-af88f6391c22&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fb5ecf5ed-e5d4-4468-811b-21a067cb5009%2FIMG_2158.jpg?table=block&id=487ecc89-d6f4-4647-8360-af88f6391c22&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-27548-64077defce9740a186eada3b7aec4efd?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.618426"
+    },
+    {
+      "notion_id": "7890a43c7a6a453abe00ab471014a781",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Fruit Vendor",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "27 x 22 in",
+      "year": null,
+      "price": 54000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9ef6ced6-4166-470c-9116-b218b1919e3d%2F393857647_322989553659008_3260739452442247558_n.jpg?table=block&id=e2402e2d-7650-4d8e-9345-10cc587c8a98&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F9ef6ced6-4166-470c-9116-b218b1919e3d%2F393857647_322989553659008_3260739452442247558_n.jpg?table=block&id=e2402e2d-7650-4d8e-9345-10cc587c8a98&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/17124-7890a43c7a6a453abe00ab471014a781?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.618426"
+    },
+    {
+      "notion_id": "fa2f25182529483a9a901220579844dc",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Pottery",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": 38000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0126b5df-9e70-40fe-a149-869101bf03a0%2F393730833_859736952090341_6311661384336975134_n.jpg?table=block&id=c22b13d6-c420-4f5f-a0a1-48eaecfbf1bb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0126b5df-9e70-40fe-a149-869101bf03a0%2F393730833_859736952090341_6311661384336975134_n.jpg?table=block&id=c22b13d6-c420-4f5f-a0a1-48eaecfbf1bb&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/17816-fa2f25182529483a9a901220579844dc?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.619075"
+    },
+    {
+      "notion_id": "ab94cb0a40d14db392a105334d0f5399",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Singing with Family",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F63fc4711-979c-4285-bc84-d1ab2a140f36%2FDA_25935.jpeg?table=block&id=4d468770-c9f1-4c24-a1e8-67d4f406ea7d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F63fc4711-979c-4285-bc84-d1ab2a140f36%2FDA_25935.jpeg?table=block&id=4d468770-c9f1-4c24-a1e8-67d4f406ea7d&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-25935-ab94cb0a40d14db392a105334d0f5399?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.619734"
+    },
+    {
+      "notion_id": "62bf8541ddc2416da9f9365fe2c49455",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "TLC",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 18 in",
+      "year": null,
+      "price": 38000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbb474fad-9b31-4cd4-8d48-a871d3052450%2FDA_25933.jpg?table=block&id=52f22afb-8498-4f85-803b-0df5e0b8d68a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbb474fad-9b31-4cd4-8d48-a871d3052450%2FDA_25933.jpg?table=block&id=52f22afb-8498-4f85-803b-0df5e0b8d68a&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-25933-62bf8541ddc2416da9f9365fe2c49455?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.619734"
+    },
+    {
+      "notion_id": "855ab8c417464e9cb5093d03c429dd4e",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Masayang Huli",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 48 in",
+      "year": null,
+      "price": 104000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F03efe46f-eca9-4f48-9817-be751a8ef285%2FDA_27182.jpg?table=block&id=68fb45a0-5674-4cf8-9269-5f9d80bbab8e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F03efe46f-eca9-4f48-9817-be751a8ef285%2FDA_27182.jpg?table=block&id=68fb45a0-5674-4cf8-9269-5f9d80bbab8e&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-27182-855ab8c417464e9cb5093d03c429dd4e?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.620418"
+    },
+    {
+      "notion_id": "6de0ae74bd4d43e684213e8add02b89e",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Mananahi",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "18 x 24 in",
+      "year": null,
+      "price": 38000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7a71dd44-adfa-4c84-8fcb-52a5b073555f%2F17817.jpg?table=block&id=dc03c8e9-4500-416c-9407-8cdcd90002ab&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7a71dd44-adfa-4c84-8fcb-52a5b073555f%2F17817.jpg?table=block&id=dc03c8e9-4500-416c-9407-8cdcd90002ab&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/17817-6de0ae74bd4d43e684213e8add02b89e?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.620418"
+    },
+    {
+      "notion_id": "2f044df09e8144c9b1e9b5c618fe285b",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F90ebb4eb-6767-49e1-af9f-069490af407b%2F24061.jpg?table=block&id=d8c78fb3-ab46-4056-b3cc-36eee000d7b5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F90ebb4eb-6767-49e1-af9f-069490af407b%2F24061.jpg?table=block&id=d8c78fb3-ab46-4056-b3cc-36eee000d7b5&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/24061-2f044df09e8144c9b1e9b5c618fe285b?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.621052"
+    },
+    {
+      "notion_id": "22d9f8c22a82808c8a13e073ab4e87b2",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Colors of the Harvest",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "30 x 48 in",
+      "year": null,
+      "price": 130000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A713a16fc-21d8-49bc-a484-59495043056f%3AWhatsApp_Image_2025-07-11_at_09.33.30_07b0c925.jpg?table=block&id=22d9f8c2-2a82-8024-a037-f3dba91bc0fd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A713a16fc-21d8-49bc-a484-59495043056f%3AWhatsApp_Image_2025-07-11_at_09.33.30_07b0c925.jpg?table=block&id=22d9f8c2-2a82-8024-a037-f3dba91bc0fd&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-29047-22d9f8c22a82808c8a13e073ab4e87b2?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.621052"
+    },
+    {
+      "notion_id": "1b49f8c22a828013a229cf7cf1c1ce31",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "40 x 16 in",
+      "year": null,
+      "price": 58000.0,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A73a4eb95-d4e4-4be3-879d-3f44169d9475%3A482495825_1105015481395959_6250048877367647470_n.jpg?table=block&id=603c4405-d08f-41bb-b9e7-1e3fd2f1ed98&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A73a4eb95-d4e4-4be3-879d-3f44169d9475%3A482495825_1105015481395959_6250048877367647470_n.jpg?table=block&id=603c4405-d08f-41bb-b9e7-1e3fd2f1ed98&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-28819-1b49f8c22a828013a229cf7cf1c1ce31?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.621712"
+    },
+    {
+      "notion_id": "83250b5c8fa048f0925f180c0256b081",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Playtime",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "24 x 36 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb21a75f2-dca3-4915-aa8a-d270ffd5b71e%2FDA_25730.jpg?table=block&id=93b098ad-62f0-497d-9016-74cd23375fda&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb21a75f2-dca3-4915-aa8a-d270ffd5b71e%2FDA_25730.jpg?table=block&id=93b098ad-62f0-497d-9016-74cd23375fda&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-25730-83250b5c8fa048f0925f180c0256b081?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.621712"
+    },
+    {
+      "notion_id": "71aa141e3d7143a48914b7f3d92ebec0",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Untitled",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 48 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fabf62889-4a44-4e88-9938-8cb03fe35e53%2FIMG_1237.jpg?table=block&id=b409e29d-2a22-47a2-9a91-f09e50241afa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2Fabf62889-4a44-4e88-9938-8cb03fe35e53%2FIMG_1237.jpg?table=block&id=b409e29d-2a22-47a2-9a91-f09e50241afa&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/27807-71aa141e3d7143a48914b7f3d92ebec0?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.622359"
+    },
+    {
+      "notion_id": "edb362357a3542e584fd0cd901d6dc78",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Sight of Music",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "36 x 24 in",
+      "year": null,
+      "price": 78000.0,
+      "gallery_price": null,
+      "image_url": "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0ea5d420-363c-4ca6-aaa5-1db488ab9658%2FIMG_2157.jpg?table=block&id=cd2bb5a2-ae4f-41aa-a0cd-012d27772257&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6016608a-1545-4074-9e94-e3473bef6445%2F0ea5d420-363c-4ca6-aaa5-1db488ab9658%2FIMG_2157.jpg?table=block&id=cd2bb5a2-ae4f-41aa-a0cd-012d27772257&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-27549-edb362357a3542e584fd0cd901d6dc78?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.623019"
+    },
+    {
+      "notion_id": "2579f8c22a828067a033e658670a526a",
+      "artist_id": "25d9f8c22a82804496f8fddd2f70bb2b",
+      "artist_name": "MARTINEZ, Raymart",
+      "title": "Masayang Pagsasalo",
+      "description": null,
+      "medium": "Acrylic on canvas",
+      "dimensions": "35 x 24 in",
+      "year": null,
+      "price": null,
+      "gallery_price": null,
+      "image_url": "/image/attachment%3A8757ccf8-583d-4a6a-bdbb-c1a33821813a%3AWhatsApp_Image_2025-08-22_at_09.22.01_210a0cb2.jpg?table=block&id=2579f8c2-2a82-8098-93d6-f1ab321f5588&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2",
+      "images": [
+        "/image/attachment%3A8757ccf8-583d-4a6a-bdbb-c1a33821813a%3AWhatsApp_Image_2025-08-22_at_09.22.01_210a0cb2.jpg?table=block&id=2579f8c2-2a82-8098-93d6-f1ab321f5588&spaceId=6016608a-1545-4074-9e94-e3473bef6445&width=520&userId=&cache=v2"
+      ],
+      "available": true,
+      "status": null,
+      "inventory_code": null,
+      "page_url": "https://artcirclegallery.notion.site/DA-29170-2579f8c22a828067a033e658670a526a?pvs=25",
+      "scraped_at": "2026-02-03T14:44:18.623019"
+    }
+  ]
+}

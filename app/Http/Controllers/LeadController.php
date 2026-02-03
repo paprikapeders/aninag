@@ -87,7 +87,10 @@ class LeadController extends Controller
     {
         // Handle direct POST from new frontend (Contact Form)
         if ($request->isMethod('post')) {
-            $inquiry = $request->only(['type', 'artwork_title', 'artist_name', 'name', 'email', 'phone', 'message']);
+            $inquiry = $request->only(['type', 'artwork_id', 'artwork_slug', 'artwork_title', 'artwork_code', 'artist_name', 'price', 'currency', 'medium', 'name', 'email', 'phone', 'message']);
+            
+            // Store inquiry data in session for page refresh
+            session(['last_inquiry' => $inquiry]);
             
             // Send notification email to inquiry email
             try {
@@ -104,20 +107,35 @@ class LeadController extends Controller
             ]);
         }
         
+        // Handle page refresh - get from session
+        if (!$lead && session()->has('last_inquiry')) {
+            return Inertia::render('Confirmation', [
+                'inquiry' => session('last_inquiry'),
+            ]);
+        }
+        
         // Handle old route with Lead model
         if ($lead) {
             $lead->load(['artwork.artist']);
 
+            $inquiry = [
+                'type' => 'inquiry',
+                'artwork_slug' => $lead->artwork->slug,
+                'artwork_title' => $lead->artwork->title,
+                'artwork_code' => $lead->artwork->artwork_code,
+                'artist_name' => $lead->artwork->artist->name,
+                'price' => $lead->artwork->price,
+                'currency' => $lead->artwork->currency,
+                'name' => $lead->buyer_name,
+                'email' => $lead->buyer_email,
+                'phone' => $lead->buyer_phone,
+                'message' => $lead->message,
+            ];
+            
+            session(['last_inquiry' => $inquiry]);
+
             return Inertia::render('Confirmation', [
-                'inquiry' => [
-                    'type' => 'inquiry',
-                    'artwork_title' => $lead->artwork->title,
-                    'artist_name' => $lead->artwork->artist->name,
-                    'name' => $lead->buyer_name,
-                    'email' => $lead->buyer_email,
-                    'phone' => $lead->buyer_phone,
-                    'message' => $lead->message,
-                ],
+                'inquiry' => $inquiry,
             ]);
         }
 

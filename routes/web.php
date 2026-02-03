@@ -27,8 +27,8 @@ Route::get('/artwork/{artwork}', [CatalogController::class, 'show'])->name('artw
 // Lead submission (buyer inquiry)
 Route::post('/inquiry', [LeadController::class, 'store'])->name('inquiry.store');
 
-// Confirmation page
-Route::post('/confirmation', [LeadController::class, 'confirmation'])->name('confirmation');
+// Confirmation page (both GET and POST)
+Route::match(['get', 'post'], '/confirmation', [LeadController::class, 'confirmation'])->name('confirmation');
 
 // Inquiry confirmation
 Route::get('/inquiry/{lead}/confirmation', [LeadController::class, 'confirmation'])->name('inquiry.confirmation');

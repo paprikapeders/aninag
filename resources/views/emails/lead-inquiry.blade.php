@@ -141,17 +141,22 @@
                 @endif
                 @if(!empty($inquiry['artwork_code']))
                 <div style="color: #666; font-size: 13px; margin-top: 8px;">
-                    <strong>Code:</strong> {{ $inquiry['artwork_code'] }}
+                    <strong>Artwork Code:</strong> {{ $inquiry['artwork_code'] }}
+                </div>
+                @endif
+                @if(!empty($inquiry['medium']))
+                <div style="color: #666; font-size: 13px; margin-top: 4px;">
+                    <strong>Medium:</strong> {{ $inquiry['medium'] }}
                 </div>
                 @endif
                 @if(!empty($inquiry['price']))
-                <div style="color: #0A7A7A; font-size: 15px; font-weight: 600; margin-top: 8px;">
+                <div style="color: #0A7A7A; font-size: 16px; font-weight: 600; margin-top: 8px;">
                     {{ $inquiry['currency'] ?? 'PHP' }} {{ number_format($inquiry['price'], 2) }}
                 </div>
                 @endif
                 @if(!empty($inquiry['intent']))
                 <div style="color: #666; font-size: 13px; margin-top: 8px;">
-                    <strong>Intent:</strong> {{ $inquiry['intent'] }}
+                    <strong>Purchase Intent:</strong> {{ $inquiry['intent'] }}
                 </div>
                 @endif
             </div>

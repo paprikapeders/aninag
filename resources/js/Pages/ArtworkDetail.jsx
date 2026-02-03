@@ -63,8 +63,14 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
       method: 'post',
       data: {
         type: inquiryType,
+        artwork_id: artwork.id,
+        artwork_slug: artwork.slug,
         artwork_title: artwork.title,
+        artwork_code: artwork.artwork_code,
         artist_name: artwork.artist_name,
+        price: artwork.price,
+        currency: artwork.currency,
+        medium: artwork.medium,
         ...formData,
       },
     });

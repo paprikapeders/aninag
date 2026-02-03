@@ -51,8 +51,23 @@ export default function Confirmation({ inquiry }) {
 
               <div className="border-t border-border pt-6">
                 <h2 className="text-sm text-muted-foreground mb-1">Artwork</h2>
-                <p className="text-lg">{inquiry.artwork_title}</p>
-                <p className="text-muted-foreground">{inquiry.artist_name}</p>
+                <p className="text-lg font-medium">{inquiry.artwork_title}</p>
+                <p className="text-muted-foreground">by {inquiry.artist_name}</p>
+                {inquiry.artwork_code && (
+                  <p className="text-sm text-muted-foreground mt-2">
+                    Code: {inquiry.artwork_code}
+                  </p>
+                )}
+                {inquiry.medium && (
+                  <p className="text-sm text-muted-foreground">
+                    {inquiry.medium}
+                  </p>
+                )}
+                {inquiry.price && (
+                  <p className="text-lg font-semibold text-[#0A7A7A] mt-2">
+                    {inquiry.currency || 'PHP'} {Number(inquiry.price).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
+                  </p>
+                )}
               </div>
 
               <div className="border-t border-border pt-6">
@@ -102,12 +117,22 @@ export default function Confirmation({ inquiry }) {
           </div>
 
           <div className="text-center space-x-4">
-            <Link
-              href="/"
-              className="inline-block px-8 py-3 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#096565] transition-colors"
-            >
-              Return Home
-            </Link>
+            {inquiry?.artwork_slug && (
+              <Link
+                href={`/artwork/${inquiry.artwork_slug}`}
+                className="inline-block px-8 py-3 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#096565] transition-colors"
+              >
+                Back to Artwork
+              </Link>
+            )}
+            {!inquiry?.artwork_slug && (
+              <Link
+                href="/"
+                className="inline-block px-8 py-3 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#096565] transition-colors"
+              >
+                Return Home
+              </Link>
+            )}
             <Link
               href="/catalog"
               className="inline-block px-8 py-3 border-2 border-[#0A7A7A] text-[#0A7A7A] rounded-lg hover:bg-[#0A7A7A] hover:text-white transition-colors"

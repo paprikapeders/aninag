@@ -47,3 +47,4 @@ scrapper/*
 !scrapper/artcirclegallery_dump/artworks.json
 sync-artworks.bat
 SEO_IMPLEMENTATION.md
+CRAWLER_SEO_SOLUTION.md

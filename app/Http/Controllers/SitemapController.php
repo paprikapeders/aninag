@@ -37,10 +37,17 @@ class SitemapController extends Controller
         $sitemap .= '<priority>0.9</priority>';
         $sitemap .= '</url>';
 
-        // Artwork pages
+        // About page
+        $sitemap .= '<url>';
+        $sitemap .= '<loc>' . url('/about') . '</loc>';
+        $sitemap .= '<changefreq>monthly</changefreq>';
+        $sitemap .= '<priority>0.7</priority>';
+        $sitemap .= '</url>';
+
+        // Artwork pages (using slugs)
         foreach ($artworks as $artwork) {
             $sitemap .= '<url>';
-            $sitemap .= '<loc>' . url('/artwork/' . $artwork->id) . '</loc>';
+            $sitemap .= '<loc>' . url('/artwork/' . $artwork->slug) . '</loc>';
             $sitemap .= '<lastmod>' . $artwork->updated_at->toAtomString() . '</lastmod>';
             $sitemap .= '<changefreq>weekly</changefreq>';
             $sitemap .= '<priority>0.8</priority>';

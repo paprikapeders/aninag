@@ -32,10 +32,12 @@ class CatalogController extends Controller
                         'slug' => $artwork->slug,
                         'title' => $artwork->title,
                         'artist_name' => $artwork->artist->name,
+                        'artist_slug' => $artwork->artist->slug,
                         'medium' => $artwork->medium,
                         'size' => $artwork->size,
+                        'dimensions' => $artwork->dimensions,
                         'year' => $artwork->year,
-                        'primary_image_url' => $artwork->primary_image_url,
+                        'primary_image_url' => $this->fixNotionImageUrl($artwork->primary_image_url),
                         'formatted_price' => $artwork->formatted_price,
                         'price' => $artwork->price,
                     ];
@@ -95,36 +97,43 @@ class CatalogController extends Controller
         // Cache artwork details for 30 minutes
         $artworkData = Cache::remember('artwork_' . $artwork->id, 1800, function () use ($artwork) {
             // Load relationships
-            $artwork->load(['artist', 'gallery', 'images']);
+            $artwork->load(['artist', 'gallery']);
             
             // Check if artwork is publicly available
             if (!$artwork->isAvailable()) {
                 return null;
             }
             
+            // Get images array (from Notion JSON field)
+            $images = is_array($artwork->images) ? $artwork->images : [];
+            $fixedImages = array_map(function($imageUrl) {
+                return [
+                    'image_url' => $this->fixNotionImageUrl($imageUrl),
+                ];
+            }, $images);
+            
             return [
                 'id' => $artwork->id,
                 'slug' => $artwork->slug,
                 'artwork_code' => $artwork->artwork_code,
                 'title' => $artwork->title,
+                'description' => $artwork->description,
                 'artist_id' => $artwork->artist->id,
                 'artist_name' => $artwork->artist->name,
+                'artist_slug' => $artwork->artist->slug,
                 'artist_bio' => $artwork->artist->bio,
                 'medium' => $artwork->medium,
                 'size' => $artwork->size,
+                'dimensions' => $artwork->dimensions,
                 'year' => $artwork->year,
                 'price' => $artwork->price,
-                'primary_image_url' => $artwork->primary_image_url,
+                'gallery_price' => $artwork->gallery_price,
+                'primary_image_url' => $this->fixNotionImageUrl($artwork->primary_image_url),
                 'gallery_name' => $artwork->gallery->name,
                 'gallery_location' => $artwork->gallery->location,
                 'status' => $artwork->status,
                 'formatted_price' => $artwork->formatted_price,
-                'images' => $artwork->images->map(function ($image) {
-                    return [
-                        'id' => $image->id,
-                        'image_url' => $image->image_url,
-                    ];
-                }),
+                'images' => $fixedImages,
             ];
         });
         
@@ -170,12 +179,15 @@ class CatalogController extends Controller
                 ->map(function ($similarArtwork) {
                     return [
                         'id' => $similarArtwork->id,
+                        'slug' => $similarArtwork->slug,
                         'title' => $similarArtwork->title,
                         'artist_name' => $similarArtwork->artist->name,
+                        'artist_slug' => $similarArtwork->artist->slug,
                         'medium' => $similarArtwork->medium,
                         'size' => $similarArtwork->size,
+                        'dimensions' => $similarArtwork->dimensions,
                         'year' => $similarArtwork->year,
-                        'primary_image_url' => $similarArtwork->primary_image_url,
+                        'primary_image_url' => $this->fixNotionImageUrl($similarArtwork->primary_image_url),
                         'status' => $similarArtwork->status,
                         'formatted_price' => $similarArtwork->formatted_price,
                     ];
@@ -211,5 +223,22 @@ class CatalogController extends Controller
                 'availability' => $artworkData['status'] === 'available' ? 'in stock' : 'out of stock',
             ],
         ]);
+    }
+    
+    /**
+     * Fix Notion image URLs by prepending domain if needed
+     */
+    private function fixNotionImageUrl(?string $imageUrl): ?string
+    {
+        if (!$imageUrl) {
+            return null;
+        }
+        
+        // If URL starts with /image/, prepend Notion domain
+        if (str_starts_with($imageUrl, '/image/')) {
+            return 'https://artcirclegallery.notion.site' . $imageUrl;
+        }
+        
+        return $imageUrl;
     }
 }

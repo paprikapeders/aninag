@@ -18,23 +18,33 @@ class Artwork extends Model
     use HasFactory;
 
     protected $fillable = [
+        'notion_id',
+        'notion_artist_id',
         'gallery_id',
         'artist_id',
         'artwork_code',
+        'inventory_code',
         'title',
         'slug',
+        'description',
         'medium',
         'size',
+        'dimensions',
         'year',
         'price',
+        'gallery_price',
         'currency',
         'status',
         'visibility',
         'primary_image_url',
+        'images',
+        'page_url',
     ];
 
     protected $casts = [
         'price' => 'decimal:2',
+        'gallery_price' => 'decimal:2',
+        'images' => 'array',
     ];
 
     /**

@@ -104,7 +104,7 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #F9F8F6 0%, #FDFCFB 100%)' }}>
-      <Head title={`${artwork.title} - Aninag`} />
+      <Head title={`${artwork.title}`} />
       <Header currentPath="/artwork" />
 
       {/* AR Viewer Component */}

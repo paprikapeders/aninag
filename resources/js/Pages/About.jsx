@@ -6,7 +6,7 @@ import { ScrollToTop } from "@/components/ScrollToTop";
 export default function About() {
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #F9F8F6 0%, #FDFCFB 100%)' }}>
-      <Head title="About - Aninag Collective" />
+      <Head title="About" />
       <Header currentPath="/about" />
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12 lg:py-16">

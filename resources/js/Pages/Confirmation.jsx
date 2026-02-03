@@ -20,7 +20,7 @@ export default function Confirmation({ inquiry }) {
 
   return (
     <div className="min-h-screen bg-background">
-      <Head title="Thank You - Aninag" />
+      <Head title="Thank You" />
       <Header />
 
       <div className="container mx-auto px-6 lg:px-8 py-20">

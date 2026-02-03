@@ -192,19 +192,11 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
               <div className="flex items-start justify-between gap-3 sm:gap-4">
                 <div className="flex-1">
                   <h1 className="text-2xl sm:text-3xl lg:text-4xl tracking-tight mb-2">{artwork.title}</h1>
-                  {artwork.artist_slug ? (
-                    <Link 
-                      href={`/artists/${artwork.artist_slug}`}
-                      className="text-base sm:text-lg lg:text-xl text-muted-foreground hover:text-[#0A7A7A] transition-colors">
-                      {artwork.artist_name}
-                    </Link>
-                  ) : (
-                    <Link 
-                      href={`/catalog?artist=${encodeURIComponent(artwork.artist_name)}`}
-                      className="text-base sm:text-lg lg:text-xl text-muted-foreground hover:text-[#0A7A7A] transition-colors">
-                      {artwork.artist_name}
-                    </Link>
-                  )}
+                  <Link 
+                    href={`/catalog?artist=${encodeURIComponent(artwork.artist_name)}`}
+                    className="text-base sm:text-lg lg:text-xl text-muted-foreground hover:text-[#0A7A7A] transition-colors">
+                    {artwork.artist_name}
+                  </Link>
                 </div>
               </div>
             </div>
@@ -285,27 +277,27 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
                       </li>
                     </ul>
                   </div>
-                  
-                  {/* Immediate CTA after price */}
-                  {artwork.status && (artwork.status.toLowerCase() === "available" || artwork.status.toLowerCase() === "reserved") && (
-                    <div className="border-t border-border pt-4 mt-4">
-                      <button
-                        onClick={() => { handleOpenDialog("reserve"); handleReserveClick(); }}
-                        className="group relative w-full px-4 sm:px-6 py-3.5 sm:py-4 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#086060] transition-all duration-200 overflow-hidden text-sm sm:text-base font-medium"
-                      >
-                        <div className="relative z-10 flex items-center justify-center gap-2">
-                          <Heart size={18} className="sm:w-5 sm:h-5" />
-                          <span>Reserve This Artwork</span>
-                          <ChevronRight size={18} className="sm:w-5 sm:h-5 transition-transform group-hover:translate-x-1" />
-                        </div>
-                        <div className="absolute inset-0 bg-gradient-to-r from-[#086060] to-[#0A7A7A] opacity-0 group-hover:opacity-100 transition-opacity" />
-                      </button>
-                      <p className="text-xs text-center text-muted-foreground mt-2">
-                        No payment required • Gallery will contact you within 24 hours
-                      </p>
-                    </div>
-                  )}
                 </div>
+              </div>
+            )}
+
+            {/* Reserve Button - Always show if available */}
+            {artwork.status && (artwork.status.toLowerCase() === "available" || artwork.status.toLowerCase() === "reserved") && (
+              <div className="border-t border-border pt-4 sm:pt-6">
+                <button
+                  onClick={() => { handleOpenDialog("reserve"); handleReserveClick(); }}
+                  className="group relative w-full px-4 sm:px-6 py-3.5 sm:py-4 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#086060] transition-all duration-200 overflow-hidden text-sm sm:text-base font-medium"
+                >
+                  <div className="relative z-10 flex items-center justify-center gap-2">
+                    <Heart size={18} className="sm:w-5 sm:h-5" />
+                    <span>Reserve This Artwork</span>
+                    <ChevronRight size={18} className="sm:w-5 sm:h-5 transition-transform group-hover:translate-x-1" />
+                  </div>
+                  <div className="absolute inset-0 bg-gradient-to-r from-[#086060] to-[#0A7A7A] opacity-0 group-hover:opacity-100 transition-opacity" />
+                </button>
+                <p className="text-xs text-center text-muted-foreground mt-2">
+                  No payment required • Gallery will contact you within 24 hours
+                </p>
               </div>
             )}
 

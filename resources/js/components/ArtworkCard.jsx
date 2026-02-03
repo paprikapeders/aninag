@@ -28,17 +28,7 @@ export function ArtworkCard({ artwork }) {
       </div>
       <div className="p-4 sm:p-5 lg:p-6 space-y-2 sm:space-y-3 bg-gradient-to-b from-white to-[#FDFCFB]">
         <h3 className="text-base sm:text-lg font-medium group-hover:text-[#0A7A7A] transition-colors">{artwork.title}</h3>
-        {artwork.artist_slug ? (
-          <Link 
-            href={`/artists/${artwork.artist_slug}`}
-            className="text-muted-foreground hover:text-[#0A7A7A] text-xs sm:text-sm transition-colors inline-block"
-            onClick={(e) => e.stopPropagation()}
-          >
-            {artwork.artist_name}
-          </Link>
-        ) : (
-          <p className="text-muted-foreground text-xs sm:text-sm">{artwork.artist_name}</p>
-        )}
+        <p className="text-muted-foreground text-xs sm:text-sm">{artwork.artist_name}</p>
         <p className="text-xs sm:text-sm text-muted-foreground">
           {artwork.medium} • {artwork.year}
         </p>

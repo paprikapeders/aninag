@@ -13,9 +13,10 @@ import { HowItWorks } from "@/components/HowItWorks";
 import { Testimonials } from "@/components/Testimonials";
 import { GalleryPartners } from "@/components/GalleryPartners";
 import { FAQ } from "@/components/FAQ";
+import { SEO } from "@/components/SEO";
 import { ChevronLeft, ChevronRight, Sparkles, Camera, CheckCircle2 } from "lucide-react";
 
-export default function Home({ featuredArtworks }) {
+export default function Home({ featuredArtworks, meta }) {
   const [currentSlide, setCurrentSlide] = useState(0);
   const sliderRef = useRef(null);
 
@@ -34,6 +35,7 @@ export default function Home({ featuredArtworks }) {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #F9F8F6 0%, #FDFCFB 100%)' }}>
+      <SEO meta={meta} />
       <Head title="Aninag - Filipino Art Marketplace with AR Preview" />
       
       {/* Demo Banner */}

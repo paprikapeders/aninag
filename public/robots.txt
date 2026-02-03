@@ -6,8 +6,9 @@ Allow: /
 Allow: /catalog
 Allow: /artwork/
 
-# Disallow admin areas (when added)
-# Disallow: /admin
+# Disallow admin areas
+Disallow: /admin
+Disallow: /dashboard
 
 # Sitemap location
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: {{ url('/sitemap.xml') }}

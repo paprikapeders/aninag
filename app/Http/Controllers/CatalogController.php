@@ -72,6 +72,13 @@ class CatalogController extends Controller
             'artists' => $artists,
             'mediums' => $mediums,
             'priceRanges' => $priceRanges,
+            'meta' => [
+                'title' => 'Browse Art Collection - ' . count($artworks) . '+ Contemporary Artworks | Aninag',
+                'description' => 'Explore our curated collection of Filipino contemporary art. Filter by artist, medium, and price. Preview artworks in your space with AR technology.',
+                'keywords' => 'art catalog, buy Filipino art, contemporary paintings, sculptures, art for sale Philippines',
+                'url' => url('/catalog'),
+                'image' => asset('images/og-catalog.jpg'),
+            ],
         ]);
     }
 
@@ -178,6 +185,31 @@ class CatalogController extends Controller
         return Inertia::render('ArtworkDetail', [
             'artwork' => $artworkData,
             'similarArtworks' => $similarArtworks,
+            'meta' => [
+                'title' => $artworkData['title'] . ' by ' . $artworkData['artist_name'] . ' | Aninag',
+                'description' => sprintf(
+                    '%s by %s - %s, %s. %s. Available at %s. View with AR technology in your space.',
+                    $artworkData['title'],
+                    $artworkData['artist_name'],
+                    $artworkData['medium'],
+                    $artworkData['year'],
+                    $artworkData['formatted_price'],
+                    $artworkData['gallery_name']
+                ),
+                'keywords' => sprintf(
+                    '%s, %s art, %s, Philippine contemporary art, %s',
+                    $artworkData['artist_name'],
+                    $artworkData['medium'],
+                    $artworkData['title'],
+                    $artworkData['gallery_name']
+                ),
+                'url' => url('/artwork/' . $artworkData['slug']),
+                'image' => $artworkData['primary_image_url'],
+                'type' => 'product',
+                'price' => $artworkData['price'],
+                'currency' => 'PHP',
+                'availability' => $artworkData['status'] === 'available' ? 'in stock' : 'out of stock',
+            ],
         ]);
     }
 }

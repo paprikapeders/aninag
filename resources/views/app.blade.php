@@ -4,21 +4,26 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <!-- SEO Meta Tags for Aninag -->
-        <meta name="description" content="Aninag - Your trusted art advisor connecting discerning collectors with exceptional contemporary artworks from premier galleries.">
-        <meta name="keywords" content="art gallery, contemporary art, art advisor, buy art, art collection, Philippines art">
-        <meta name="author" content="Aninag">
+        <!-- Dynamic SEO Meta Tags -->
+        @inertiaHead
+        
+        <!-- Fallback Meta Tags for Aninag -->
+        <meta name="description" content="Aninag - Your trusted art advisor connecting discerning collectors with exceptional Filipino contemporary artworks from premier galleries.">
+        <meta name="keywords" content="Filipino art, contemporary art Philippines, art gallery Manila, buy art online, art collection, Philippine artists">
+        <meta name="author" content="Aninag Collective">
+        <meta name="robots" content="index, follow">
+        <link rel="canonical" href="{{ url()->current() }}">
         
         <!-- Open Graph / Facebook -->
         <meta property="og:type" content="website">
-        <meta property="og:title" content="@yield('title', 'Aninag - Where Light Meets Artistry')">
-        <meta property="og:description" content="Your trusted art advisor connecting collectors with exceptional contemporary artworks.">
-        <meta property="og:image" content="{{ asset('images/og-image.jpg') }}">
+        <meta property="og:url" content="{{ url()->current() }}">
+        <meta property="og:site_name" content="Aninag">
+        <meta property="og:locale" content="en_PH">
         
         <!-- Twitter -->
-        <meta property="twitter:card" content="summary_large_image">
-        <meta property="twitter:title" content="@yield('title', 'Aninag - Where Light Meets Artistry')">
-        <meta property="twitter:description" content="Your trusted art advisor connecting collectors with exceptional contemporary artworks.">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@aninagcollective">
+        <meta name="twitter:creator" content="@aninagcollective">
         
         <!-- Favicons -->
         <link rel="icon" type="image/svg+xml" href="/favicon.svg">

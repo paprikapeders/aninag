@@ -181,9 +181,9 @@ export default function Home({ featuredArtworks, meta }) {
       </section>
 
       {/* Gallery Partners */}
-      {/* <div id="galleries">
+      <div id="galleries">
         <GalleryPartners />
-      </div> */}
+      </div>
 
       {/* Testimonials */}
       {/* <div id="testimonials">

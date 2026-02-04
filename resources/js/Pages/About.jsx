@@ -30,15 +30,15 @@ export default function About() {
             {/* Introduction */}
             <section className="space-y-4 sm:space-y-6">
               <p className="text-base sm:text-lg leading-relaxed text-foreground/90">
-                Rooted in the richness of Filipino creativity, <em className="text-[#0A7A7A] font-medium">aninag</em>—meaning reflection or glimpse—represents our purpose: to offer meaningful encounters with art and the stories behind it. We aim to make Filipino artworks more visible, approachable, and thoughtfully presented, while honoring the role of galleries in shaping and protecting artistic practice.
+                Rooted in the richness of Filipino creativity, <em className="text-[#0A7A7A] font-medium">aninag</em> (meaning reflection or glimpse) represents our purpose: to offer meaningful encounters with art and the stories behind it. We aim to make Filipino artworks more visible, approachable, and thoughtfully presented, while honoring the role of galleries in shaping and protecting artistic practice.
               </p>
               
               <p className="text-base sm:text-lg leading-relaxed text-foreground/90">
-                Currently, Aninag Collective functions as a curated online catalog, featuring selected works from our partner gallery. Visitors may explore artworks, express interest, and send inquiries through the platform. Each inquiry is handled personally—allowing us to facilitate direct, intentional conversations between collectors and galleries, rather than automated transactions.
+                Currently, Aninag Collective functions as a curated online catalog, featuring selected works from our partner gallery. Visitors may explore artworks, express interest, and send inquiries through the platform. Each inquiry is handled personally, allowing us to facilitate direct, intentional conversations between collectors and galleries, rather than automated transactions.
               </p>
               
               <p className="text-lg leading-relaxed text-foreground/90">
-                To further bridge the physical and digital experience, we've introduced an Augmented Reality (AR) viewing feature, enabling viewers to see how an artwork might live within their own space. This helps collectors better appreciate scale, context, and presence—bringing the gallery experience closer to home.
+                To further bridge the physical and digital experience, we've introduced an Augmented Reality (AR) viewing feature, enabling viewers to see how an artwork might live within their own space. This helps collectors better appreciate scale, context, and presence, bringing the gallery experience closer to home.
               </p>
               
               <p className="text-lg leading-relaxed text-foreground/90">
@@ -51,7 +51,7 @@ export default function About() {
               <h2 className="text-2xl sm:text-3xl tracking-tight">Our Vision</h2>
               
               <p className="text-base sm:text-lg leading-relaxed text-foreground/90">
-                We envision Aninag Collective as a trusted bridge between Filipino artists, galleries, and collectors—both locally and internationally.
+                We envision Aninag Collective as a trusted bridge between Filipino artists, galleries, and collectors, both locally and internationally.
               </p>
               
               <p className="text-base sm:text-lg leading-relaxed text-foreground/90">

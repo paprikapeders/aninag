@@ -271,10 +271,6 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
                         <CheckCircle2 size={14} className="text-[#0A7A7A]" />
                         Direct gallery support
                       </li>
-                      <li className="flex items-center gap-2">
-                        <CheckCircle2 size={14} className="text-[#0A7A7A]" />
-                        Flexible payment options available
-                      </li>
                     </ul>
                   </div>
                 </div>

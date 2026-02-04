@@ -44,19 +44,23 @@ export function WishlistButton({ artworkId, size = "default", showLabel = false 
   return (
     <button
       onClick={handleToggle}
-      className={`${sizeClasses[size]} inline-flex items-center justify-center rounded-full border border-border bg-background/80 backdrop-blur-sm hover:bg-background transition-all duration-200 ${
+      className={`${sizeClasses[size]} inline-flex items-center justify-center rounded-full backdrop-blur-md shadow-lg hover:shadow-xl transition-all duration-200 ${
         isAnimating ? 'scale-110' : ''
-      } ${isInWishlist ? 'border-[#0A7A7A] bg-[#0A7A7A]/10' : ''}`}
+      } ${
+        isInWishlist 
+          ? 'bg-white/95 border-2 border-[#0A7A7A]/30' 
+          : 'bg-white/90 border border-white/40 hover:bg-white/95'
+      }`}
       title={isInWishlist ? "Remove from wishlist" : "Add to wishlist"}
     >
       <Heart
         size={iconSizes[size]}
         className={`transition-all duration-200 ${
-          isInWishlist ? 'fill-[#0A7A7A] text-[#0A7A7A]' : 'text-muted-foreground'
+          isInWishlist ? 'fill-[#0A7A7A] text-[#0A7A7A]' : 'text-gray-700'
         }`}
       />
       {showLabel && (
-        <span className="ml-2 text-sm">
+        <span className="ml-2 text-sm font-medium text-gray-700">
           {isInWishlist ? "Saved" : "Save"}
         </span>
       )}

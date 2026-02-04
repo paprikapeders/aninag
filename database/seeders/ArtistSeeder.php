@@ -33,7 +33,19 @@ class ArtistSeeder extends Seeder
         foreach ($artists as $artistData) {
             // Format name: capitalize first letter of each word
             $formattedName = $this->formatArtistName($artistData['name']);
-            $slug = Str::slug($formattedName);
+            
+            // Generate unique slug
+            $baseSlug = Str::slug($formattedName);
+            $slug = $baseSlug;
+            $counter = 1;
+            
+            // Ensure slug is unique (skip current artist if updating)
+            while (Artist::where('slug', $slug)
+                        ->where('notion_id', '!=', $artistData['notion_id'])
+                        ->exists()) {
+                $slug = $baseSlug . '-' . $counter;
+                $counter++;
+            }
             
             // Convert profile image URL to full URL
             $profileImageUrl = $this->convertNotionImageUrl($artistData['profile_image_url']);
@@ -55,6 +67,8 @@ class ArtistSeeder extends Seeder
                     'artworks_count' => $artistData['artworks_count'] ?? 0,
                 ]
             );
+            
+            $this->command->info('Seeded: ' . $formattedName . ' (slug: ' . $slug . ')');
         }
 
         $this->command->info('Artists seeded successfully!');

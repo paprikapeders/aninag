@@ -210,7 +210,7 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
                 <div className="flex-1">
                   <h1 className="text-2xl sm:text-3xl lg:text-4xl tracking-tight mb-2">{artwork.title}</h1>
                   <Link 
-                    href={`/catalog?artist=${encodeURIComponent(artwork.artist_name)}`}
+                    href={`/artists/${artwork.artist_slug}`}
                     className="text-base sm:text-lg lg:text-xl text-muted-foreground hover:text-[#0A7A7A] transition-colors">
                     {artwork.artist_name}
                   </Link>

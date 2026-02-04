@@ -216,6 +216,7 @@ class CatalogController extends Controller
                 'title' => $artwork->title,
                 'artist_id' => $artwork->artist->id,
                 'artist_name' => $artwork->artist->name,
+                'artist_slug' => $artwork->artist->slug,
                 'artist_bio' => $artwork->artist->bio,
                 'medium' => $artwork->medium,
                 'size' => $artwork->size,

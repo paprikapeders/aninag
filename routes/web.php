@@ -7,6 +7,7 @@ use App\Http\Controllers\ArtistController;
 use App\Http\Controllers\LeadController;
 use App\Http\Controllers\SitemapController;
 use App\Http\Controllers\AboutController;
+use App\Http\Controllers\ImageProxyController;
 
 /**
  * Aninag Public Routes
@@ -42,3 +43,6 @@ Route::get('/inquiry/{lead}/confirmation', [LeadController::class, 'confirmation
 
 // SEO - Sitemap
 Route::get('/sitemap.xml', [SitemapController::class, 'index'])->name('sitemap');
+
+// Image Proxy - to handle Notion CDN images
+Route::get('/img-proxy', [ImageProxyController::class, 'show'])->name('image.proxy');

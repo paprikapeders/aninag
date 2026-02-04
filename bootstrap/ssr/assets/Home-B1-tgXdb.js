@@ -429,8 +429,6 @@ function Home({ featuredArtworks, meta }) {
     /* @__PURE__ */ jsx(SEO, { meta }),
     /* @__PURE__ */ jsx(Head, { title: "Aninag - Filipino Art Marketplace with AR Preview" }),
     /* @__PURE__ */ jsx("div", { className: "bg-gradient-to-r from-[#0A7A7A] to-[#086060] text-white py-2 px-4 text-center", children: /* @__PURE__ */ jsx("p", { className: "text-xs sm:text-sm font-medium", children: /* @__PURE__ */ jsxs("span", { className: "inline-flex items-center gap-2", children: [
-      /* @__PURE__ */ jsx(Sparkles, { className: "w-3 h-3 sm:w-4 sm:h-4" }),
-      "Demo preview — sample artworks for pilot partners"
     ] }) }) }),
     /* @__PURE__ */ jsx(Header, { currentPath: "/" }),
     /* @__PURE__ */ jsxs("section", { id: "home", className: "relative h-[60vh] sm:h-[70vh] lg:h-[80vh] bg-muted", children: [

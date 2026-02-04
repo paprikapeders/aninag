@@ -38,16 +38,6 @@ export default function Home({ featuredArtworks, meta }) {
       <SEO meta={meta} />
       <Head title="Aninag - Filipino Art Marketplace with AR Preview" />
       
-      {/* Demo Banner */}
-      <div className="bg-gradient-to-r from-[#0A7A7A] to-[#086060] text-white py-2 px-4 text-center">
-        <p className="text-xs sm:text-sm font-medium">
-          <span className="inline-flex items-center gap-2">
-            <Sparkles className="w-3 h-3 sm:w-4 sm:h-4" />
-            Demo preview — sample artworks for pilot partners
-          </span>
-        </p>
-      </div>
-      
       <Header currentPath="/" />
 
       {/* Enhanced Hero Section with Value Proposition */}
@@ -147,9 +137,9 @@ export default function Home({ featuredArtworks, meta }) {
       </section>
 
       {/* Trust Signals */}
-      <div id="trust">
+      {/* <div id="trust">
         <TrustBar />
-      </div>
+      </div> */}
 
       {/* AR Feature Showcase - Your #1 Differentiator */}
       <div id="ar-preview">
@@ -191,14 +181,14 @@ export default function Home({ featuredArtworks, meta }) {
       </section>
 
       {/* Gallery Partners */}
-      <div id="galleries">
+      {/* <div id="galleries">
         <GalleryPartners />
-      </div>
+      </div> */}
 
       {/* Testimonials */}
-      <div id="testimonials">
+      {/* <div id="testimonials">
         <Testimonials />
-      </div>
+      </div> */}
 
       {/* About Section */}
       <section className="py-12 sm:py-16 lg:py-20 relative overflow-hidden" style={{ background: 'linear-gradient(135deg, #FBF9F7 0%, #F5F3F0 100%)' }}>

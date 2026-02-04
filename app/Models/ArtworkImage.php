@@ -27,4 +27,12 @@ class ArtworkImage extends Model
     {
         return $this->belongsTo(Artwork::class);
     }
+
+    /**
+     * Get proxied image URL
+     */
+    public function getImageUrlAttribute($value): ?string
+    {
+        return proxy_image_url($value);
+    }
 }

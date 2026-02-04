@@ -168,4 +168,12 @@ class Artwork extends Model
         $symbol = $this->currency === 'PHP' ? '₱' : $this->currency . ' ';
         return $symbol . number_format($this->price, 0);
     }
+
+    /**
+     * Get proxied primary image URL
+     */
+    public function getPrimaryImageUrlAttribute($value): ?string
+    {
+        return proxy_image_url($value);
+    }
 }

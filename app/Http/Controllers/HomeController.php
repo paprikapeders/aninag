@@ -22,7 +22,13 @@ class HomeController extends Controller
         // Cache featured artworks for 1 hour
         $featuredArtworks = Cache::remember('home_featured_artworks', 3600, function () {
             return Artwork::with(['artist', 'gallery'])
-                ->featured(6)
+                ->publiclyAvailable()
+                ->whereNotNull('primary_image_url')
+                ->where('primary_image_url', '!=', '')
+                ->where('title', '!=', 'Untitled')
+                ->whereNotNull('title')
+                ->latest()
+                ->limit(10)
                 ->get()
                 ->map(function ($artwork) {
                     return [

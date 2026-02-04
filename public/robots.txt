@@ -6,9 +6,7 @@ Allow: /
 Allow: /catalog
 Allow: /artwork/
 
-# Disallow admin areas
 Disallow: /admin
 Disallow: /dashboard
 
-# Sitemap location
-Sitemap: {{ url('/sitemap.xml') }}
+Sitemap: https://aninag.com/sitemap.xml

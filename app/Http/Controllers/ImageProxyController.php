@@ -22,7 +22,7 @@ class ImageProxyController extends Controller
         }
 
         // Validate that the URL is from Notion
-        if (!Str::contains($url, ['notion.so', 'amazonaws.com'])) {
+        if (!Str::contains($url, 'notion.so') && !Str::contains($url, 'amazonaws.com')) {
             abort(403, 'Invalid image source');
         }
 

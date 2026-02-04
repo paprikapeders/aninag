@@ -16,7 +16,7 @@ if (!function_exists('proxy_image_url')) {
         }
 
         // If it's a Notion or AWS S3 URL, proxy it
-        if (str_contains($url, ['notion.so', 'amazonaws.com'])) {
+        if (str_contains($url, 'notion.so') || str_contains($url, 'amazonaws.com')) {
             return route('image.proxy') . '?url=' . urlencode($url);
         }
 

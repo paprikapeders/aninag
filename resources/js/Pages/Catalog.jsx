@@ -8,8 +8,8 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Search } from "lucide-react";
 
 export default function Catalog({ artworks = [], artists = [], mediums = [], priceRanges = [], pagination = {}, filters = {} }) {
-  const currentPage = pagination.current_page || 1;
-  const lastPage = pagination.last_page || 1;
+  const currentPage = parseInt(pagination.current_page) || 1;
+  const lastPage = parseInt(pagination.last_page) || 1;
   const total = pagination.total || artworks.length;
   
   const artistFilter = filters.artist || 'all';
@@ -280,16 +280,14 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
               })}
             </div>
             
-            <Link
-              href={`/catalog?${buildPaginationUrl(currentPage + 1)}`}
-              className={`px-4 py-2 rounded-lg border transition-colors ${
-                currentPage === lastPage
-                  ? 'border-border text-muted-foreground cursor-not-allowed pointer-events-none'
-                  : 'border-[#0A7A7A] text-[#0A7A7A] hover:bg-[#0A7A7A] hover:text-white'
-              }`}
-            >
-              Next
-            </Link>
+            {currentPage < lastPage && (
+              <Link
+                href={`/catalog?${buildPaginationUrl(currentPage + 1)}`}
+                className="px-4 py-2 rounded-lg border border-[#0A7A7A] text-[#0A7A7A] hover:bg-[#0A7A7A] hover:text-white transition-colors"
+              >
+                Next
+              </Link>
+            )}
           </div>
         )}
       </div>

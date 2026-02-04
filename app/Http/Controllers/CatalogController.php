@@ -20,7 +20,7 @@ class CatalogController extends Controller
      */
     public function index(Request $request): Response
     {
-        $page = $request->get('page', 1);
+        $page = (int) $request->get('page', 1);
         $perPage = 20;
         $artistFilter = $request->get('artist');
         $mediumFilter = $request->get('medium');
@@ -272,6 +272,7 @@ class CatalogController extends Controller
                 ->map(function ($similarArtwork) {
                     return [
                         'id' => $similarArtwork->id,
+                        'slug' => $similarArtwork->slug,
                         'title' => $similarArtwork->title,
                         'artist_name' => $similarArtwork->artist->name,
                         'medium' => $similarArtwork->medium,

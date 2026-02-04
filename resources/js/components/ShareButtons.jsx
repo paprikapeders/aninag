@@ -1,9 +1,8 @@
-import { Share2, Facebook, Twitter, Mail, Link as LinkIcon } from "lucide-react";
+import { Share2, Facebook, Twitter, Mail } from "lucide-react";
 import { useState } from "react";
 
 export function ShareButtons({ artwork, compact = false }) {
   const [showMenu, setShowMenu] = useState(false);
-  const [copied, setCopied] = useState(false);
 
   const url = typeof window !== 'undefined' ? window.location.href : '';
   const title = `${artwork.title} by ${artwork.artist_name}`;
@@ -16,13 +15,7 @@ export function ShareButtons({ artwork, compact = false }) {
   };
 
   const handleShare = (platform) => {
-    if (platform === 'copy') {
-      navigator.clipboard.writeText(url);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
-    } else {
-      window.open(shareLinks[platform], '_blank', 'width=600,height=400');
-    }
+    window.open(shareLinks[platform], '_blank', 'width=600,height=400');
     setShowMenu(false);
   };
 
@@ -64,13 +57,6 @@ export function ShareButtons({ artwork, compact = false }) {
                 <Mail size={16} />
                 Email
               </button>
-              <button
-                onClick={() => handleShare('copy')}
-                className="w-full px-4 py-2 text-left text-sm hover:bg-muted transition-colors flex items-center gap-3"
-              >
-                <LinkIcon size={16} />
-                {copied ? 'Copied!' : 'Copy Link'}
-              </button>
             </div>
           </>
         )}
@@ -102,13 +88,6 @@ export function ShareButtons({ artwork, compact = false }) {
           title="Share via Email"
         >
           <Mail size={16} />
-        </button>
-        <button
-          onClick={() => handleShare('copy')}
-          className="w-9 h-9 inline-flex items-center justify-center rounded-full border border-border hover:bg-muted transition-colors"
-          title={copied ? "Copied!" : "Copy Link"}
-        >
-          <LinkIcon size={16} />
         </button>
       </div>
     </div>

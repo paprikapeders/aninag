@@ -3,11 +3,32 @@ import { Head, Link } from '@inertiajs/react';
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { ScrollToTop } from "@/components/ScrollToTop";
+import { SEO } from "@/components/SEO";
 import { Card, CardContent } from "@/components/ui/card";
 import { User } from "lucide-react";
 
 export default function ArtistsIndex({ artists = [] }) {
   const [searchQuery, setSearchQuery] = useState("");
+
+  // SEO meta data with ItemList schema
+  const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://www.aninag.com';
+  
+  const itemList = (Array.isArray(artists) ? artists : []).map(artist => ({
+    name: artist.name,
+    url: `${baseUrl}/artists/${artist.slug}`,
+    image: artist.profile_image_url || `${baseUrl}/images/default-artist.jpg`
+  }));
+  
+  const seoMeta = {
+    title: 'Filipino Contemporary Artists | Aninag Gallery',
+    description: 'Browse our curated collection of talented Filipino contemporary artists. Discover unique artistic visions and exceptional artworks from established and emerging artists.',
+    keywords: 'Filipino artists, contemporary artists Philippines, Philippine art, Filipino painters, emerging artists',
+    url: typeof window !== 'undefined' ? window.location.href : `${baseUrl}/artists`,
+    image: '/images/og-artists.jpg',
+    type: 'website',
+    itemList: itemList,
+    itemListType: 'artists',
+  };
 
   const filteredArtists = (Array.isArray(artists) ? artists : []).filter((artist) => {
     if (!searchQuery) return true;
@@ -16,6 +37,7 @@ export default function ArtistsIndex({ artists = [] }) {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #F9F8F6 0%, #FDFCFB 100%)' }}>
+      <SEO meta={seoMeta} />
       <Head title="Artists" />
       <Header currentPath="/artists" />
 

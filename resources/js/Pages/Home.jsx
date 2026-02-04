@@ -14,6 +14,7 @@ import { Testimonials } from "@/components/Testimonials";
 import { GalleryPartners } from "@/components/GalleryPartners";
 import { FAQ } from "@/components/FAQ";
 import { SEO } from "@/components/SEO";
+import { CookieConsent } from "@/components/CookieConsent";
 import { ChevronLeft, ChevronRight, Sparkles, Camera, CheckCircle2 } from "lucide-react";
 
 export default function Home({ featuredArtworks, meta }) {
@@ -221,6 +222,7 @@ export default function Home({ featuredArtworks, meta }) {
 
       <Footer />
       <ScrollToTop />
+      <CookieConsent />
     </div>
   );
 }

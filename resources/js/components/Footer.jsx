@@ -108,17 +108,16 @@ export function Footer() {
             © {currentYear} Aninag Collective. All rights reserved.
           </p>
           <div className="flex gap-4 sm:gap-6 text-xs sm:text-sm text-muted-foreground">
-            <a href="#" className="hover:text-[#0A7A7A] transition-colors">
+            <Link href="/privacy" className="hover:text-[#0A7A7A] transition-colors">
               Privacy Policy
-            </a>
-            <a href="#" className="hover:text-[#0A7A7A] transition-colors">
+            </Link>
+            <Link href="/terms" className="hover:text-[#0A7A7A] transition-colors">
               Terms of Service
-            </a>
+            </Link>
           </div>
         </div>
       </div>
     </footer>
   );
 }
-
 

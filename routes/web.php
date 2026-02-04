@@ -20,6 +20,16 @@ Route::get('/', [HomeController::class, 'index'])->name('home');
 // About page
 Route::get('/about', [AboutController::class, 'index'])->name('about');
 
+// Privacy Policy
+Route::get('/privacy', function () {
+    return \Inertia\Inertia::render('Privacy');
+})->name('privacy');
+
+// Terms of Service
+Route::get('/terms', function () {
+    return \Inertia\Inertia::render('Terms');
+})->name('terms');
+
 // Catalog - browse all artworks
 Route::get('/catalog', [CatalogController::class, 'index'])->name('catalog');
 

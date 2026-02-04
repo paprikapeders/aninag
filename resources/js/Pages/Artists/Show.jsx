@@ -3,12 +3,27 @@ import { Head, Link } from '@inertiajs/react';
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { ScrollToTop } from "@/components/ScrollToTop";
+import { SEO } from "@/components/SEO";
 import { ArtworkCard } from "@/components/ArtworkCard";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { User, Mail, MapPin, Palette, ChevronLeft } from "lucide-react";
 
 export default function ArtistShow({ artist, artworks = [] }) {
+  // SEO meta data for Person schema
+  const seoMeta = artist ? {
+    title: `${artist.name} - Filipino Contemporary Artist | Aninag`,
+    description: artist.bio || `Discover artworks by ${artist.name}, a talented Filipino contemporary artist. View their collection and biography at Aninag Gallery.`,
+    keywords: `${artist.name}, Filipino artist, contemporary artist, Philippine art, ${artist.name} artworks`,
+    url: typeof window !== 'undefined' ? window.location.href : `https://www.aninag.com/artists/${artist.slug}`,
+    image: artist.profile_image_url || '/images/og-default.jpg',
+    type: 'profile',
+    personName: artist.name,
+    personBio: artist.bio,
+    personImage: artist.profile_image_url,
+    personEmail: artist.email,
+  } : null;
+
   if (!artist) {
     return (
       <div className="min-h-screen bg-background">
@@ -26,6 +41,7 @@ export default function ArtistShow({ artist, artworks = [] }) {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #F9F8F6 0%, #FDFCFB 100%)' }}>
+      <SEO meta={seoMeta} />
       <Head title={`${artist.name} - Artist`} />
       <Header currentPath="/artists" />
 

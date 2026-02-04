@@ -11,6 +11,12 @@ export function SEO({ meta }) {
     price,
     currency,
     availability,
+    personName,
+    personBio,
+    personImage,
+    personEmail,
+    itemList,
+    itemListType,
   } = meta || {};
 
   const baseUrl = typeof window !== 'undefined' ? window.location.origin : 'https://www.aninag.com';
@@ -77,6 +83,8 @@ export function SEO({ meta }) {
       "@type": "Brand",
       "name": "Aninag"
     },
+    "sku": meta?.artwork_code || meta?.sku || undefined,
+    "productID": meta?.artwork_id || meta?.id || undefined,
     "offers": {
       "@type": "Offer",
       "price": price,
@@ -84,11 +92,73 @@ export function SEO({ meta }) {
       "availability": availability === 'in stock' 
         ? "https://schema.org/InStock" 
         : "https://schema.org/OutOfStock",
+      "priceValidUntil": new Date(new Date().setFullYear(new Date().getFullYear() + 1)).toISOString().split('T')[0],
+      "url": url,
       "seller": {
         "@type": "Organization",
         "name": "Aninag"
       }
+    },
+    "aggregateRating": meta?.rating ? {
+      "@type": "AggregateRating",
+      "ratingValue": meta.rating,
+      "reviewCount": meta.reviewCount || 1
+    } : undefined
+  } : null;
+
+  // Person structured data for artists
+  const personSchema = type === 'profile' && personName ? {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": personName,
+    "description": personBio || description,
+    "image": personImage || image,
+    "url": url,
+    "jobTitle": "Artist",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Aninag"
+    },
+    "email": personEmail || undefined,
+    "nationality": {
+      "@type": "Country",
+      "name": "Philippines"
+    },
+    "knowsAbout": ["Contemporary Art", "Filipino Art", "Visual Arts"],
+    "hasOccupation": {
+      "@type": "Occupation",
+      "name": "Visual Artist",
+      "occupationLocation": {
+        "@type": "Country",
+        "name": "Philippines"
+      }
     }
+  } : null;
+
+  // ItemList structured data for collection pages (artists, artworks)
+  const itemListSchema = itemList && Array.isArray(itemList) && itemList.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": title,
+    "description": description,
+    "url": url,
+    "numberOfItems": itemList.length,
+    "itemListElement": itemList.map((item, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "item": {
+        "@type": itemListType === 'artists' ? "Person" : "Product",
+        "name": item.name || item.title,
+        "url": item.url,
+        "image": item.image,
+        ...(itemListType === 'artists' ? {
+          "jobTitle": "Artist",
+          "nationality": { "@type": "Country", "name": "Philippines" }
+        } : {
+          "category": "Fine Art"
+        })
+      }
+    }))
   } : null;
 
   return (
@@ -137,6 +207,20 @@ export function SEO({ meta }) {
       {productSchema && (
         <script type="application/ld+json">
           {JSON.stringify(productSchema)}
+        </script>
+      )}
+      
+      {/* Person Schema - Include on artist pages */}
+      {personSchema && (
+        <script type="application/ld+json">
+          {JSON.stringify(personSchema)}
+        </script>
+      )}
+      
+      {/* ItemList Schema - Include on collection pages */}
+      {itemListSchema && (
+        <script type="application/ld+json">
+          {JSON.stringify(itemListSchema)}
         </script>
       )}
     </Head>

@@ -3,6 +3,7 @@ import { Head, Link, router } from '@inertiajs/react';
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { ScrollToTop } from "@/components/ScrollToTop";
+import { SEO } from "@/components/SEO";
 import { WishlistButton } from "@/components/WishlistButton";
 import { ShareButtons } from "@/components/ShareButtons";
 import { ImageZoom } from "@/components/ImageZoom";
@@ -76,6 +77,21 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
     });
   };
 
+  // SEO meta data for Product schema
+  const seoMeta = {
+    title: `${artwork.title} by ${artwork.artist_name} - Aninag`,
+    description: artwork.description || `${artwork.title} by ${artwork.artist_name}. ${artwork.medium || 'Contemporary artwork'}. Available at Aninag Gallery.`,
+    keywords: `${artwork.artist_name}, ${artwork.title}, Filipino art, contemporary art, ${artwork.medium || 'artwork'}`,
+    url: typeof window !== 'undefined' ? window.location.href : `https://www.aninag.com/artworks/${artwork.slug}`,
+    image: artwork.primary_image_url || artwork.image_url,
+    type: 'product',
+    price: artwork.price,
+    currency: artwork.currency || 'PHP',
+    availability: artwork.is_available ? 'in stock' : 'out of stock',
+    artwork_code: artwork.artwork_code,
+    artwork_id: artwork.id,
+  };
+
   const getDialogTitle = () => {
     switch (inquiryType) {
       case "reserve":
@@ -104,6 +120,7 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #F9F8F6 0%, #FDFCFB 100%)' }}>
+      <SEO meta={seoMeta} />
       <Head title={`${artwork.title}`} />
       <Header currentPath="/artwork" />
 

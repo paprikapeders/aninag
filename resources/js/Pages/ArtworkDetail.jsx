@@ -85,11 +85,11 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
     url: typeof window !== 'undefined' ? window.location.href : `https://www.aninag.com/artworks/${artwork.slug}`,
     image: artwork.primary_image_url || artwork.image_url,
     type: 'product',
-    price: artwork.price,
+    price: String(artwork.price),
     currency: artwork.currency || 'PHP',
-    availability: artwork.is_available ? 'in stock' : 'out of stock',
-    artwork_code: artwork.artwork_code,
-    artwork_id: artwork.id,
+    availability: artwork.status === 'available' ? 'in stock' : 'out of stock',
+    artwork_code: String(artwork.artwork_code || ''),
+    artwork_id: Number(artwork.id),
   };
 
   const getDialogTitle = () => {

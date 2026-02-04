@@ -25,8 +25,17 @@ class LeadInquiryReceived extends Mailable
      */
     public function envelope(): Envelope
     {
+        // Extract last name from full name
+        $name = $this->inquiry['name'] ?? 'Unknown';
+        $nameParts = explode(' ', trim($name));
+        $lastName = count($nameParts) > 1 ? end($nameParts) : $name;
+        
+        // Build subject with last name
+        $type = $this->inquiry['type'] ?? 'General Contact';
+        $subject = "New Inquiry - {$type} - {$lastName}";
+        
         return new Envelope(
-            subject: 'New Inquiry - ' . ($this->inquiry['type'] ?? 'General Contact'),
+            subject: $subject,
         );
     }
 

@@ -33,17 +33,21 @@ export function SEO({ meta = {} }) {
     document.head.appendChild(orgSchema);
 
     // Add Product schema for artwork pages
-    if (type === 'product' && price) {
+    if (type === 'product' && price && price !== 'null' && price !== null && parseFloat(price) > 0) {
       const productSchema = document.createElement('script');
       productSchema.type = 'application/ld+json';
       productSchema.setAttribute('data-schema', 'product');
+      
+      const numericPrice = parseFloat(price);
+      const priceValidUntil = new Date();
+      priceValidUntil.setFullYear(priceValidUntil.getFullYear() + 1);
       
       const productData = {
         "@context": "https://schema.org",
         "@type": "Product",
         "name": title.split(' by ')[0] || title,
         "description": description,
-        "image": image,
+        "image": [image],
         "url": url,
         "category": "Fine Art",
         "brand": {
@@ -52,9 +56,11 @@ export function SEO({ meta = {} }) {
         },
         "offers": {
           "@type": "Offer",
-          "price": price,
+          "price": numericPrice.toFixed(2),
           "priceCurrency": currency,
           "availability": availability === 'in stock' ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
+          "url": url,
+          "priceValidUntil": priceValidUntil.toISOString().split('T')[0],
           "seller": {
             "@type": "Organization",
             "name": "Aninag"
@@ -64,6 +70,10 @@ export function SEO({ meta = {} }) {
       
       if (meta?.artwork_code) {
         productData.sku = String(meta.artwork_code);
+      }
+      
+      if (meta?.artwork_id) {
+        productData.productID = String(meta.artwork_id);
       }
       
       productSchema.textContent = JSON.stringify(productData);

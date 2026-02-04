@@ -85,7 +85,7 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
     url: typeof window !== 'undefined' ? window.location.href : `https://www.aninag.com/artworks/${artwork.slug}`,
     image: artwork.primary_image_url || artwork.image_url,
     type: 'product',
-    price: String(artwork.price),
+    price: artwork.price && artwork.price > 0 ? String(artwork.price) : null,
     currency: artwork.currency || 'PHP',
     availability: artwork.status === 'available' ? 'in stock' : 'out of stock',
     artwork_code: String(artwork.artwork_code || ''),

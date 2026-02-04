@@ -155,8 +155,7 @@ export default function Home({ featuredArtworks, meta }) {
       <section id="collection" className="py-12 sm:py-16 lg:py-20 container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center space-y-3 sm:space-y-4 mb-12 sm:mb-16">
           <div className="inline-block">
-            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-light tracking-tight bg-gradient-to-r from-foreground to-foreground/70 bg-clip-text text-transparent">Featured Artworks</h2>
-            <div className="h-1 w-20 sm:w-24 bg-gradient-to-r from-[#0A7A7A] to-[#D87456] mx-auto mt-3 sm:mt-4 rounded-full" />
+            <h2 className="text-3xl sm:text-4xl lg:text-5xl font-light tracking-tight text-foreground">Featured Artworks</h2>
           </div>
           <p className="text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto px-4">
             Explore our carefully selected collection of contemporary art from

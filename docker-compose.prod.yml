@@ -13,7 +13,7 @@ services:
     environment:
       - APP_ENV=production
     volumes:
-      - app_data:/var/www
+      - static_files:/var/www/public
 
   web:
     image: nginx:alpine
@@ -23,7 +23,7 @@ services:
       - "80:80"
     volumes:
       - ./docker/nginx/default.conf:/etc/nginx/conf.d/default.conf
-      - app_data:/var/www:ro
+      - static_files:/var/www/public:ro
     depends_on:
       - app
     networks:
@@ -51,5 +51,5 @@ networks:
 volumes:
   dbdata:
     driver: local
-  app_data:
+  static_files:
     driver: local

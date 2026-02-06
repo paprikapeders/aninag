@@ -1,5 +1,10 @@
 @import 'tailwindcss';
 
+/* Hide reCAPTCHA badge (disclosure text provided in forms) */
+.grecaptcha-badge {
+  visibility: hidden !important;
+}
+
 @custom-variant dark (&:is(.dark *));
 
 :root {

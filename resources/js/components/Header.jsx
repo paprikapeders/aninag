@@ -1,5 +1,6 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { Link, router } from '@inertiajs/react';
+import ReCAPTCHA from "react-google-recaptcha";
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -9,6 +10,8 @@ import { trackContactSubmission, trackNavigation, trackCTAClick } from '@/utils/
 export function Header({ currentPath = '/' }) {
   const [isContactOpen, setIsContactOpen] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const recaptchaRef = useRef(null);
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -16,20 +19,39 @@ export function Header({ currentPath = '/' }) {
     message: "",
   });
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    trackContactSubmission(formData); // Track contact form submission
-    router.visit('/confirmation', {
-      method: 'post',
-      data: {
-        type: 'contact',
-        ...formData,
-      },
-      onSuccess: () => {
-        setIsContactOpen(false);
-        setFormData({ name: "", email: "", phone: "", message: "" });
-      },
-    });
+    
+    if (isSubmitting) return;
+    setIsSubmitting(true);
+    
+    try {
+      // Execute reCAPTCHA
+      const token = await recaptchaRef.current.executeAsync();
+      recaptchaRef.current.reset();
+      
+      trackContactSubmission(formData); // Track contact form submission
+      router.visit('/confirmation', {
+        method: 'post',
+        data: {
+          type: 'contact',
+          recaptcha_token: token,
+          ...formData,
+        },
+        onSuccess: () => {
+          setIsContactOpen(false);
+          setFormData({ name: "", email: "", phone: "", message: "" });
+          setIsSubmitting(false);
+        },
+        onError: () => {
+          setIsSubmitting(false);
+        },
+      });
+    } catch (error) {
+      console.error('reCAPTCHA error:', error);
+      setIsSubmitting(false);
+      alert('Verification failed. Please try again.');
+    }
   };
 
   return (
@@ -223,19 +245,52 @@ export function Header({ currentPath = '/' }) {
                 rows={4}
               />
             </div>
+            
+            {/* Invisible reCAPTCHA */}
+            <ReCAPTCHA
+              ref={recaptchaRef}
+              size="invisible"
+              sitekey={import.meta.env.VITE_RECAPTCHA_SITE_KEY}
+            />
+            
+            {/* Privacy Notice */}
+            <div className="text-xs text-muted-foreground text-center py-2">
+              This site is protected by reCAPTCHA and the Google{' '}
+              <a 
+                href="https://policies.google.com/privacy" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="underline hover:text-foreground"
+              >
+                Privacy Policy
+              </a>{' '}
+              and{' '}
+              <a 
+                href="https://policies.google.com/terms" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="underline hover:text-foreground"
+              >
+                Terms of Service
+              </a>{' '}
+              apply.
+            </div>
+            
             <div className="flex gap-3 pt-4">
               <button
                 type="button"
                 onClick={() => setIsContactOpen(false)}
                 className="flex-1 px-4 py-2 border border-border rounded-lg hover:bg-muted transition-colors"
+                disabled={isSubmitting}
               >
                 Cancel
               </button>
               <button
                 type="submit"
-                className="flex-1 px-4 py-2 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#096565] transition-colors"
+                disabled={isSubmitting}
+                className="flex-1 px-4 py-2 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#096565] transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                Send Message
+                {isSubmitting ? 'Sending...' : 'Send Message'}
               </button>
             </div>
           </form>

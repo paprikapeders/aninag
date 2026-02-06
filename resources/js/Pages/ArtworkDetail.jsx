@@ -1,5 +1,6 @@
-import { useState } from "react";
+import { useState, useRef } from "react";
 import { Head, Link, router } from '@inertiajs/react';
+import ReCAPTCHA from "react-google-recaptcha";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { ScrollToTop } from "@/components/ScrollToTop";
@@ -19,6 +20,8 @@ import { trackArtworkReservation, trackARViewerOpen, trackArtworkClick } from "@
 export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
   const [inquiryType, setInquiryType] = useState(null);
   const [showAR, setShowAR] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const recaptchaRef = useRef(null);
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -57,24 +60,40 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
     setInquiryType(type);
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // Navigate to confirmation page with inquiry data
-    router.visit('/confirmation', {
-      method: 'post',
-      data: {
-        type: inquiryType,
-        artwork_id: artwork.id,
-        artwork_slug: artwork.slug,
-        artwork_title: artwork.title,
-        artwork_code: artwork.artwork_code,
-        artist_name: artwork.artist_name,
-        price: artwork.price,
-        currency: artwork.currency,
-        medium: artwork.medium,
-        ...formData,
-      },
-    });
+    
+    if (isSubmitting) return;
+    setIsSubmitting(true);
+    
+    try {
+      // Execute reCAPTCHA
+      const token = await recaptchaRef.current.executeAsync();
+      recaptchaRef.current.reset();
+      
+      // Navigate to confirmation page with inquiry data
+      router.visit('/confirmation', {
+        method: 'post',
+        data: {
+          type: inquiryType,
+          artwork_id: artwork.id,
+          artwork_slug: artwork.slug,
+          artwork_title: artwork.title,
+          artwork_code: artwork.artwork_code,
+          artist_name: artwork.artist_name,
+          price: artwork.price,
+          currency: artwork.currency,
+          medium: artwork.medium,
+          recaptcha_token: token,
+          ...formData,
+        },
+        onFinish: () => setIsSubmitting(false),
+      });
+    } catch (error) {
+      console.error('reCAPTCHA error:', error);
+      setIsSubmitting(false);
+      alert('Verification failed. Please try again.');
+    }
   };
 
   // SEO meta data for Product schema
@@ -385,19 +404,52 @@ export default function ArtworkDetail({ artwork, similarArtworks = [] }) {
                 rows={4}
               />
             </div>
+            
+            {/* Invisible reCAPTCHA */}
+            <ReCAPTCHA
+              ref={recaptchaRef}
+              size="invisible"
+              sitekey={import.meta.env.VITE_RECAPTCHA_SITE_KEY}
+            />
+            
+            {/* Privacy Notice */}
+            <div className="text-xs text-muted-foreground text-center py-2">
+              This site is protected by reCAPTCHA and the Google{' '}
+              <a 
+                href="https://policies.google.com/privacy" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="underline hover:text-foreground"
+              >
+                Privacy Policy
+              </a>{' '}
+              and{' '}
+              <a 
+                href="https://policies.google.com/terms" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="underline hover:text-foreground"
+              >
+                Terms of Service
+              </a>{' '}
+              apply.
+            </div>
+            
             <div className="flex gap-3 pt-4">
               <button
                 type="button"
                 onClick={() => setInquiryType(null)}
                 className="flex-1 px-4 py-2 border border-border rounded-lg hover:bg-muted transition-colors"
+                disabled={isSubmitting}
               >
                 Cancel
               </button>
               <button
                 type="submit"
-                className="flex-1 px-4 py-2 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#096565] transition-colors"
+                disabled={isSubmitting}
+                className="flex-1 px-4 py-2 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#096565] transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
               >
-                Submit Inquiry
+                {isSubmitting ? 'Submitting...' : 'Submit Inquiry'}
               </button>
             </div>
           </form>

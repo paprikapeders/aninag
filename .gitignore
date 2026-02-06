@@ -50,3 +50,4 @@ SEO_IMPLEMENTATION.md
 CRAWLER_SEO_SOLUTION.md
 deploy-commands.sh
 SSL_SETUP_GUIDE.md
+docker/nginx/default.conf

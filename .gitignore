@@ -50,8 +50,5 @@ SEO_IMPLEMENTATION.md
 CRAWLER_SEO_SOLUTION.md
 deploy-commands.sh
 SSL_SETUP_GUIDE.md
-<<<<<<< HEAD
 docker/nginx/default.conf
-=======
 RECAPTCHA_SETUP.md
->>>>>>> 34424dad3de3ac7ebaf19916b75a2b2f7127b204

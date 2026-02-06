@@ -22,6 +22,9 @@ RUN composer install --no-dev --no-scripts --no-autoloader --optimize-autoloader
 COPY package*.json ./
 RUN npm ci
 
+# Copy .env for Vite build (only VITE_ vars are exposed to client)
+COPY .env* ./
+
 # Copy application files
 COPY . .
 
@@ -31,11 +34,7 @@ COPY scrapper/storage /var/www/scrapper/storage
 # Complete composer installation
 RUN composer dump-autoload --optimize --no-dev
 
-# Accept build args for Vite
-ARG VITE_RECAPTCHA_SITE_KEY
-ENV VITE_RECAPTCHA_SITE_KEY=${VITE_RECAPTCHA_SITE_KEY}
-
-# Build frontend assets
+# Build frontend assets (Vite will read .env.production)
 RUN npm run build
 
 # Clean up dev dependencies after build

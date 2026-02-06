@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Artwork;
 use App\Models\Lead;
 use App\Mail\LeadInquiryReceived;
+use App\Services\RecaptchaService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Validator;
@@ -87,6 +88,15 @@ class LeadController extends Controller
     {
         // Handle direct POST from new frontend (Contact Form)
         if ($request->isMethod('post')) {
+            // Validate reCAPTCHA
+            $recaptchaToken = $request->input('recaptcha_token');
+            
+            if (!RecaptchaService::verify($recaptchaToken, $request->ip())) {
+                return back()->withErrors([
+                    'recaptcha' => 'reCAPTCHA verification failed. Please try again.'
+                ])->withInput();
+            }
+            
             $inquiry = $request->only(['type', 'artwork_id', 'artwork_slug', 'artwork_title', 'artwork_code', 'artist_name', 'price', 'currency', 'medium', 'name', 'email', 'phone', 'message']);
             
             // Store inquiry data in session for page refresh

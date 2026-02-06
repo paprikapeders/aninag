@@ -20,7 +20,7 @@ RUN composer install --no-dev --no-scripts --no-autoloader --optimize-autoloader
 
 # Copy package files
 COPY package*.json ./
-RUN npm ci --only=production
+RUN npm ci
 
 # Copy application files
 COPY . .
@@ -30,6 +30,9 @@ RUN composer dump-autoload --optimize --no-dev
 
 # Build frontend assets
 RUN npm run build
+
+# Clean up dev dependencies after build
+RUN npm prune --production
 
 # Create necessary directories and set permissions
 RUN mkdir -p storage/logs storage/framework/sessions storage/framework/views storage/framework/cache \

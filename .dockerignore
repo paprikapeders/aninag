@@ -60,12 +60,3 @@ SCRAPER_INTEGRATION.md
 SEO_IMPLEMENTATION.md
 SEO_SLUGS_IMPLEMENTATION.md
 VISUAL_ENHANCEMENTS.md
-
-# Scraper - exclude python files and dumps, keep storage
-scrapper/__pycache__/
-scrapper/artcirclegallery_dump/
-scrapper/*.py
-scrapper/*.html
-scrapper/*.sh
-scrapper/*.txt
-scrapper/*.md

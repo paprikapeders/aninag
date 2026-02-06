@@ -31,7 +31,9 @@ class CatalogController extends Controller
         // Build query with filters
         $query = Artwork::with(['artist', 'gallery'])
             ->where('status', 'available')
-            ->where('visibility', 'public');
+            ->where('visibility', 'public')
+            ->whereNotNull('price')
+            ->where('price', '>', 0);
         
         // Apply search filter
         if ($searchQuery) {
@@ -119,13 +121,18 @@ class CatalogController extends Controller
         // Get unique artists and mediums for filters (cached)
         $artists = Cache::remember('catalog_artists', 3600, function () {
             return Artist::whereHas('artworks', function ($q) {
-                $q->where('status', 'available')->where('visibility', 'public');
+                $q->where('status', 'available')
+                  ->where('visibility', 'public')
+                  ->whereNotNull('price')
+                  ->where('price', '>', 0);
             })->pluck('name')->unique()->sort()->values();
         });
 
         $mediums = Cache::remember('catalog_mediums', 3600, function () {
             return Artwork::where('status', 'available')
                 ->where('visibility', 'public')
+                ->whereNotNull('price')
+                ->where('price', '>', 0)
                 ->distinct()
                 ->pluck('medium')
                 ->unique()

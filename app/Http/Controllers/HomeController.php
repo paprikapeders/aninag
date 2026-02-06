@@ -27,6 +27,8 @@ class HomeController extends Controller
                 ->where('primary_image_url', '!=', '')
                 ->where('title', '!=', 'Untitled')
                 ->whereNotNull('title')
+                ->whereNotNull('price')
+                ->where('price', '>', 0)
                 ->latest()
                 ->limit(10)
                 ->get()

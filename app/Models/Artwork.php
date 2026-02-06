@@ -96,13 +96,15 @@ class Artwork extends Model
 
     /**
      * Scope to get featured artworks for homepage
-     * Only includes artworks with images
+     * Only includes artworks with images and prices
      */
     public function scopeFeatured(Builder $query, int $limit = 6): Builder
     {
         return $query->publiclyAvailable()
                      ->whereNotNull('primary_image_url')
                      ->where('primary_image_url', '!=', '')
+                     ->whereNotNull('price')
+                     ->where('price', '>', 0)
                      ->latest()
                      ->limit($limit);
     }

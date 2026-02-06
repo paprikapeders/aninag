@@ -6,6 +6,8 @@ services:
     container_name: laravel_app
     working_dir: /var/www
     restart: unless-stopped
+    env_file:
+      - .env
     depends_on:
       - db
     networks:

@@ -14,19 +14,30 @@ RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash - \
 # Composer
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
 
-# Copy app
+# Copy composer files first for better layer caching
+COPY composer.json composer.lock ./
+RUN composer install --no-dev --no-scripts --no-autoloader --optimize-autoloader
+
+# Copy package files
+COPY package*.json ./
+RUN npm ci --only=production
+
+# Copy application files
 COPY . .
 
-# Install dependencies
-RUN composer install --no-dev --optimize-autoloader
-RUN npm install && npm run build
+# Complete composer installation
+RUN composer dump-autoload --optimize --no-dev
 
-# Permissions
-RUN chown -R www-data:www-data /var/www \
+# Build frontend assets
+RUN npm run build
+
+# Create necessary directories and set permissions
+RUN mkdir -p storage/logs storage/framework/sessions storage/framework/views storage/framework/cache \
+    && chown -R www-data:www-data /var/www \
     && chmod -R 775 storage bootstrap/cache
 
-# Expose Render port
-EXPOSE 10000
+# Expose PHP-FPM port
+EXPOSE 9000
 
-# Start Laravel built-in server
-CMD php artisan serve --host=0.0.0.0 --port=10000
+# Start PHP-FPM
+CMD ["php-fpm"]

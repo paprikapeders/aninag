@@ -1,0 +1,65 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Development files
+.git/
+.gitignore
+.editorconfig
+.phpunit.result.cache
+phpunit.xml
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+public/build/
+public/hot
+
+# Storage and logs
+storage/logs/*.log
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+
+# Testing
+tests/
+*.md
+!README.md
+
+# Docker files
+docker-compose.yml
+docker-compose.*.yml
+!docker-compose.prod.yml
+Dockerfile.dev
+
+# Batch scripts
+*.bat
+
+# Documentation
+documentation/
+ANALYTICS_CONFIG.md
+CRAWLER_SEO_SOLUTION.md
+FEATURES.md
+GOOGLE_ANALYTICS_SETUP.md
+NGROK_SETUP.md
+SCRAPER_INTEGRATION.md
+SEO_IMPLEMENTATION.md
+SEO_SLUGS_IMPLEMENTATION.md
+VISUAL_ENHANCEMENTS.md
+
+# Scraper
+scrapper/

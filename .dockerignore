@@ -61,11 +61,7 @@ SEO_IMPLEMENTATION.md
 SEO_SLUGS_IMPLEMENTATION.md
 VISUAL_ENHANCEMENTS.md
 
-# Scraper (exclude but keep data files)
-scrapper/*.py
-scrapper/*.html
-scrapper/requirements.txt
-scrapper/setup.sh
-scrapper/__pycache__/
-scrapper/artcirclegallery_dump/
-scrapper/*.md
+# Scraper - exclude everything except storage data
+scrapper/
+!scrapper/storage/
+!scrapper/storage/**

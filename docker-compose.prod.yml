@@ -27,7 +27,7 @@ services:
     volumes:
       - ./docker/nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
       - static_files:/var/www/public:ro
-      - /etc/letsencrypt/live/aninag.com:/etc/nginx/ssl:ro
+      - ./docker/certs:/etc/nginx/ssl:ro
     depends_on:
       - app
     networks:

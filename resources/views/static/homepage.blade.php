@@ -78,7 +78,7 @@
 
     <main>
         <section class="hero">
-            <h2>Where Light Meets Artistry</h2>
+            <h2>Gallery Art, Previewed at Home</h2>
             <p>Discover curated Filipino contemporary artworks with AR preview technology</p>
             <a href="{{ url('/catalog') }}" class="cta-button">Explore Collection</a>
         </section>

@@ -2,7 +2,7 @@ import { Head } from '@inertiajs/react';
 import { useEffect } from 'react';
 
 export function SEO({ meta = {} }) {
-  const title = String(meta?.title || 'Aninag - Where Light Meets Artistry');
+  const title = String(meta?.title || 'Aninag - Gallery Art, Previewed at Home');
   const description = String(meta?.description || 'Discover curated Filipino contemporary artworks with AR preview technology.');
   const keywords = String(meta?.keywords || 'Filipino art, contemporary art Philippines, art gallery');
   const url = String(meta?.url || (typeof window !== 'undefined' ? window.location.href : 'https://www.aninag.com'));

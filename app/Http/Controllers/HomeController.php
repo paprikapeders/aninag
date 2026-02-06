@@ -49,7 +49,7 @@ class HomeController extends Controller
         return Inertia::render('Home', [
             'featuredArtworks' => $featuredArtworks,
             'meta' => [
-                'title' => 'Aninag - Where Light Meets Artistry | Filipino Contemporary Art Gallery',
+                'title' => 'Aninag - Gallery Art, Previewed at Home | Filipino Contemporary Art Gallery',
                 'description' => 'Discover curated Filipino contemporary artworks with AR preview technology. Connect with premier galleries and artists. View art in your space before you buy.',
                 'keywords' => 'Filipino art, contemporary art Philippines, buy art online, art gallery Manila, Philippine artists, AR art preview, art collection',
                 'url' => url('/'),

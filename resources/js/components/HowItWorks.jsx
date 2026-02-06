@@ -5,8 +5,8 @@ export function HowItWorks() {
   const steps = [
     {
       icon: Search,
-      title: "Browse Curated Collection",
-      description: "Explore authenticated artworks from verified Philippine galleries",
+      title: "Browse New Arrivals",
+      description: "Explore fresh artworks from Art Circle Gallery with transparent pricing",
       color: "from-blue-500 to-blue-600"
     },
     {
@@ -37,7 +37,7 @@ export function HowItWorks() {
             How Aninag Works
           </h2>
           <p className="text-base sm:text-lg lg:text-xl text-muted-foreground max-w-2xl mx-auto">
-            From discovery to delivery, we make buying art simple and secure
+            From discovery to purchase, we make buying gallery art simple and transparent
           </p>
         </div>
 

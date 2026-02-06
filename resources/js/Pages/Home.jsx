@@ -61,22 +61,22 @@ export default function Home({ featuredArtworks, meta }) {
                   </div>
                   
                   <h1 className="text-3xl sm:text-4xl lg:text-6xl xl:text-7xl font-light tracking-tight leading-tight">
-                    Where Light Meets Artistry
+                    Gallery Art, Previewed at Home
                   </h1>
                   
                   <p className="text-base sm:text-lg lg:text-xl xl:text-2xl text-white/90 max-w-3xl mx-auto leading-relaxed px-4">
-                    Discover Philippine art—curated, contextualized, and viewed in your space.
+                    See how gallery pieces look in your home before you visit
                   </p>
 
                   {/* Social Proof */}
                   <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-6 mb-4 sm:mb-10 text-white/80 text-xs sm:text-sm">
                     <div className="flex items-center gap-1.5 sm:gap-2">
                       <CheckCircle2 size={14} className="sm:w-[18px] sm:h-[18px] text-[#0A7A7A]" />
-                      <span>500+ Curated Artworks</span>
+                      <span>Fresh from the Gallery</span>
                     </div>
                     <div className="flex items-center gap-1.5 sm:gap-2">
                       <CheckCircle2 size={14} className="sm:w-[18px] sm:h-[18px] text-[#0A7A7A]" />
-                      <span>Verified Galleries</span>
+                      <span>Gallery-Direct Pricing</span>
                     </div>
                     <div className="flex items-center gap-1.5 sm:gap-2">
                       <CheckCircle2 size={14} className="sm:w-[18px] sm:h-[18px] text-[#0A7A7A]" />
@@ -89,7 +89,7 @@ export default function Home({ featuredArtworks, meta }) {
                       href="/catalog"
                       className="inline-flex items-center justify-center gap-2 px-6 sm:px-8 py-3 sm:py-4 bg-[#0A7A7A] text-white rounded-lg hover:bg-[#086060] transition-all hover:shadow-lg hover:scale-105 text-sm sm:text-base lg:text-lg font-medium"
                     >
-                      <span>View AR-Enabled Collection</span>
+                      <span>Explore Artworks</span>
                     </Link>
                     <Link
                       href={`/artwork/${artwork.slug || artwork.id}`}

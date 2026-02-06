@@ -65,7 +65,7 @@ class ServeStaticToCrawlers
     {
         $featuredArtworks = Artwork::featured()->limit(6)->get();
         
-        $title = 'Aninag - Where Light Meets Artistry | Filipino Contemporary Art Gallery';
+        $title = 'Aninag - Gallery Art, Previewed at Home | Filipino Contemporary Art Gallery';
         $description = 'Discover curated Filipino contemporary artworks with AR preview technology. Connect with premier galleries and artists. View art in your space before you buy.';
         $keywords = 'Filipino art, contemporary art Philippines, buy art online, art gallery Manila, Philippine artists, AR art preview, art collection';
         $url = url('/');
@@ -155,7 +155,7 @@ class ServeStaticToCrawlers
 
     <main>
         <section class="hero">
-            <h2>Where Light Meets Artistry</h2>
+            <h2>Gallery Art, Previewed at Home</h2>
             <p>Discover curated Filipino contemporary artworks with AR preview technology</p>
             <a href="' . url('/catalog') . '" class="cta-button">Explore Collection</a>
         </section>

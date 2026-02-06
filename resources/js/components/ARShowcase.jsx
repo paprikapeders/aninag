@@ -16,7 +16,7 @@ export function ARShowcase() {
           <div className="space-y-4 sm:space-y-6">
             <div className="inline-flex items-center gap-2 px-3 sm:px-4 py-1.5 sm:py-2 bg-white/10 backdrop-blur-md border border-white/20 rounded-full text-xs sm:text-sm">
               <Sparkles size={14} className="sm:w-4 sm:h-4" />
-              <span>Revolutionary AR Technology</span>
+              <span>AR Preview</span>
             </div>
             
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-light tracking-tight">
@@ -25,20 +25,11 @@ export function ARShowcase() {
             </h2>
             
             <p className="text-base sm:text-lg text-white/90 leading-relaxed">
-              Our augmented reality feature lets you visualize any artwork on your actual walls using your phone camera. Make confident decisions about size, color, and placement—no guesswork needed.
+              Visualize any artwork on your actual walls using your phone camera. Make confident decisions about size, color, and placement before you buy.
             </p>
 
             {/* Benefits List */}
             <ul className="space-y-3">
-              <li className="flex items-start gap-3">
-                <div className="w-5 h-5 sm:w-6 sm:h-6 rounded-full bg-white/20 flex items-center justify-center flex-shrink-0 mt-0.5">
-                  <CheckCircle2 size={12} className="sm:w-3.5 sm:h-3.5" />
-                </div>
-                <div>
-                  <p className="font-medium text-sm sm:text-base">True-to-Scale Visualization</p>
-                  <p className="text-xs sm:text-sm text-white/80">See exact dimensions in your room</p>
-                </div>
-              </li>
               <li className="flex items-start gap-3">
                 <div className="w-5 h-5 sm:w-6 sm:h-6 rounded-full bg-white/20 flex items-center justify-center flex-shrink-0 mt-0.5">
                   <CheckCircle2 size={12} className="sm:w-3.5 sm:h-3.5" />
@@ -53,8 +44,17 @@ export function ARShowcase() {
                   <CheckCircle2 size={12} className="sm:w-3.5 sm:h-3.5" />
                 </div>
                 <div>
+                  <p className="font-medium text-sm sm:text-base">True-to-Scale Visualization</p>
+                  <p className="text-xs sm:text-sm text-white/80">See exact dimensions in your room</p>
+                </div>
+              </li>
+              <li className="flex items-start gap-3">
+                <div className="w-5 h-5 sm:w-6 sm:h-6 rounded-full bg-white/20 flex items-center justify-center flex-shrink-0 mt-0.5">
+                  <CheckCircle2 size={12} className="sm:w-3.5 sm:h-3.5" />
+                </div>
+                <div>
                   <p className="font-medium text-sm sm:text-base">Save & Share</p>
-                  <p className="text-xs sm:text-sm text-white/80">Get family approval before purchasing</p>
+                  <p className="text-xs sm:text-sm text-white/80">Share with family before purchasing</p>
                 </div>
               </li>
             </ul>

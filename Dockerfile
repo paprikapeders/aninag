@@ -31,6 +31,10 @@ COPY scrapper/storage /var/www/scrapper/storage
 # Complete composer installation
 RUN composer dump-autoload --optimize --no-dev
 
+# Accept build args for Vite
+ARG VITE_RECAPTCHA_SITE_KEY
+ENV VITE_RECAPTCHA_SITE_KEY=${VITE_RECAPTCHA_SITE_KEY}
+
 # Build frontend assets
 RUN npm run build
 

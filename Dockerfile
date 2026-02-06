@@ -25,6 +25,9 @@ RUN npm ci
 # Copy application files
 COPY . .
 
+# Explicitly copy scrapper data (in case .dockerignore blocks it)
+COPY scrapper/storage /var/www/scrapper/storage
+
 # Complete composer installation
 RUN composer dump-autoload --optimize --no-dev
 

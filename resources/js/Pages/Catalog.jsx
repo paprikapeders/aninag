@@ -7,11 +7,7 @@ import { ArtworkCard } from "@/components/ArtworkCard";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Search } from "lucide-react";
 
-export default function Catalog({ artworks = [], artists = [], mediums = [], priceRanges = [], pagination = {}, filters = {} }) {
-  const currentPage = parseInt(pagination.current_page) || 1;
-  const lastPage = parseInt(pagination.last_page) || 1;
-  const total = pagination.total || artworks.length;
-  
+export default function Catalog({ artworks = [], artists = [], mediums = [], priceRanges = [], total = 0, filters = {} }) {
   const artistFilter = filters.artist || 'all';
   const mediumFilter = filters.medium || 'all';
   const priceFilter = filters.price || 'all';
@@ -68,18 +64,6 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
     setSearchInput('');
     window.location.href = '/catalog';
   };
-  
-  const buildPaginationUrl = (page) => {
-    const params = new URLSearchParams();
-    params.set('page', page);
-    if (searchQuery) params.set('search', searchQuery);
-    if (artistFilter !== 'all') params.set('artist', artistFilter);
-    if (mediumFilter !== 'all') params.set('medium', mediumFilter);
-    if (priceFilter !== 'all') params.set('price', priceFilter);
-    if (sizeFilter !== 'all') params.set('size', sizeFilter);
-    if (sortBy !== 'recommended') params.set('sort', sortBy);
-    return params.toString();
-  };
 
   return (
     <div className="min-h-screen" style={{ background: 'linear-gradient(to bottom, #F9F8F6 0%, #FDFCFB 100%)' }}>
@@ -121,7 +105,8 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
                       if (artistFilter !== 'all') params.set('artist', artistFilter);
                       if (mediumFilter !== 'all') params.set('medium', mediumFilter);
                       if (priceFilter !== 'all') params.set('price', priceFilter);
-                      if (sortBy !== 'newest') params.set('sort', sortBy);
+                      if (sizeFilter !== 'all') params.set('size', sizeFilter);
+                      if (sortBy !== 'recommended') params.set('sort', sortBy);
                       
                       const queryString = params.toString();
                       window.location.href = queryString ? `/catalog?${queryString}` : '/catalog';
@@ -224,7 +209,7 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
         {/* Sort Bar */}
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 sm:gap-0">
           <div className="text-xs sm:text-sm text-muted-foreground">
-            Showing {artworks.length} of {total} artworks
+            {total > 0 ? `${total} artwork${total !== 1 ? 's' : ''} available` : 'No artworks found'}
           </div>
           <div className="flex items-center gap-2 sm:gap-3 w-full sm:w-auto">
             <label className="text-xs sm:text-sm text-muted-foreground whitespace-nowrap">Sort by:</label>
@@ -257,60 +242,6 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
             <p className="text-lg text-muted-foreground">
               No artworks found matching your filters.
             </p>
-          </div>
-        )}
-        
-        {/* Pagination */}
-        {lastPage > 1 && (
-          <div className="mt-12 flex items-center justify-center gap-2">
-            <Link
-              href={`/catalog?${buildPaginationUrl(currentPage - 1)}`}
-              className={`px-4 py-2 rounded-lg border transition-colors ${
-                currentPage === 1
-                  ? 'border-border text-muted-foreground cursor-not-allowed pointer-events-none'
-                  : 'border-[#0A7A7A] text-[#0A7A7A] hover:bg-[#0A7A7A] hover:text-white'
-              }`}
-            >
-              Previous
-            </Link>
-            
-            <div className="flex items-center gap-2">
-              {Array.from({ length: Math.min(lastPage, 5) }, (_, i) => {
-                let pageNum;
-                if (lastPage <= 5) {
-                  pageNum = i + 1;
-                } else if (currentPage <= 3) {
-                  pageNum = i + 1;
-                } else if (currentPage >= lastPage - 2) {
-                  pageNum = lastPage - 4 + i;
-                } else {
-                  pageNum = currentPage - 2 + i;
-                }
-                
-                return (
-                  <Link
-                    key={pageNum}
-                    href={`/catalog?${buildPaginationUrl(pageNum)}`}
-                    className={`w-10 h-10 flex items-center justify-center rounded-lg border transition-colors ${
-                      currentPage === pageNum
-                        ? 'bg-[#0A7A7A] text-white border-[#0A7A7A]'
-                        : 'border-border hover:border-[#0A7A7A] hover:text-[#0A7A7A]'
-                    }`}
-                  >
-                    {pageNum}
-                  </Link>
-                );
-              })}
-            </div>
-            
-            {currentPage < lastPage && (
-              <Link
-                href={`/catalog?${buildPaginationUrl(currentPage + 1)}`}
-                className="px-4 py-2 rounded-lg border border-[#0A7A7A] text-[#0A7A7A] hover:bg-[#0A7A7A] hover:text-white transition-colors"
-              >
-                Next
-              </Link>
-            )}
           </div>
         )}
       </div>

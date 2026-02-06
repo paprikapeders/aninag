@@ -20,8 +20,6 @@ class CatalogController extends Controller
      */
     public function index(Request $request): Response
     {
-        $page = (int) $request->get('page', 1);
-        $perPage = 20;
         $artistFilter = $request->get('artist');
         $mediumFilter = $request->get('medium');
         $priceFilter = $request->get('price');
@@ -141,13 +139,11 @@ class CatalogController extends Controller
                 break;
         }
         
-        // Get total count for pagination
+        // Get total count
         $totalCount = $query->count();
         
-        // Get paginated results
-        $artworks = $query->skip(($page - 1) * $perPage)
-            ->take($perPage)
-            ->get()
+        // Get all results (no pagination)
+        $artworks = $query->get()
             ->map(function ($artwork) {
                 return [
                     'id' => $artwork->id,
@@ -210,12 +206,7 @@ class CatalogController extends Controller
                 'sort' => $sortBy,
                 'search' => $searchQuery ?? '',
             ],
-            'pagination' => [
-                'current_page' => $page,
-                'per_page' => $perPage,
-                'total' => $totalCount,
-                'last_page' => ceil($totalCount / $perPage),
-            ],
+            'total' => $totalCount,
             'meta' => [
                 'title' => 'Browse Art Collection - ' . $totalCount . '+ Contemporary Artworks | Aninag',
                 'description' => 'Explore our curated collection of Filipino contemporary art. Filter by artist, medium, and price. Preview artworks in your space with AR technology.',

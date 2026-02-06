@@ -1,6 +1,7 @@
 import { Link } from '@inertiajs/react';
 import { WishlistButton } from './WishlistButton';
 import { FallbackImage } from './ui/FallbackImage';
+import { Camera } from 'lucide-react';
 
 export function ArtworkCard({ artwork }) {
   return (
@@ -25,15 +26,33 @@ export function ArtworkCard({ artwork }) {
         >
           <WishlistButton artworkId={artwork.id} size="small" />
         </div>
+        
+        {/* AR CTA on hover */}
+        <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+          <div className="px-4 py-2 bg-[#0A7A7A]/90 backdrop-blur-sm text-white rounded-full text-sm font-medium flex items-center gap-2 shadow-lg">
+            <Camera size={16} />
+            <span>View in your space</span>
+          </div>
+        </div>
       </div>
       <div className="p-4 sm:p-5 lg:p-6 space-y-2 sm:space-y-3 bg-gradient-to-b from-white to-[#FDFCFB]">
-        <h3 className="text-base sm:text-lg font-medium group-hover:text-[#0A7A7A] transition-colors">{artwork.title}</h3>
+        <h3 className="text-base sm:text-lg font-medium group-hover:text-[#0A7A7A] transition-colors line-clamp-2">{artwork.title}</h3>
         <p className="text-muted-foreground text-xs sm:text-sm">{artwork.artist_name}</p>
+        
+        {/* Dimensions - Prominently displayed */}
+        {artwork.size && (
+          <p className="text-xs sm:text-sm text-foreground/70 font-medium">
+            {artwork.size}
+          </p>
+        )}
+        
         <p className="text-xs sm:text-sm text-muted-foreground">
-          {artwork.medium} • {artwork.year}
+          {artwork.medium} {artwork.year && `• ${artwork.year}`}
         </p>
+        
+        {/* Price - More prominent */}
         {artwork.formatted_price && (
-          <p className="text-sm sm:text-base font-medium text-foreground mt-1 sm:mt-2 pt-1 sm:pt-2 border-t border-border/50">
+          <p className="text-base sm:text-lg font-semibold text-foreground mt-2 sm:mt-3 pt-2 sm:pt-3 border-t-2 border-[#0A7A7A]/10">
             {artwork.formatted_price}
           </p>
         )}

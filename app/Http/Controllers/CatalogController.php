@@ -25,7 +25,8 @@ class CatalogController extends Controller
         $artistFilter = $request->get('artist');
         $mediumFilter = $request->get('medium');
         $priceFilter = $request->get('price');
-        $sortBy = $request->get('sort', 'newest');
+        $sizeFilter = $request->get('size');
+        $sortBy = $request->get('sort', 'recommended');
         $searchQuery = $request->get('search');
         
         // Build query with filters
@@ -71,6 +72,43 @@ class CatalogController extends Controller
             }
         }
         
+        // Apply size filter
+        if ($sizeFilter && $sizeFilter !== 'all') {
+            // Extract dimensions from size field (format: "H x W cm" or "H x W in")
+            switch ($sizeFilter) {
+                case 'small':
+                    // Small: below 60cm (roughly 24 inches)
+                    $query->where(function($q) {
+                        $q->where('size', 'LIKE', '%cm%')
+                          ->whereRaw('CAST(SUBSTRING_INDEX(size, " ", 1) AS UNSIGNED) < 60');
+                    })->orWhere(function($q) {
+                        $q->where('size', 'LIKE', '%in%')
+                          ->whereRaw('CAST(SUBSTRING_INDEX(size, " ", 1) AS UNSIGNED) < 24');
+                    });
+                    break;
+                case 'medium':
+                    // Medium: 60-120cm (24-48 inches)
+                    $query->where(function($q) {
+                        $q->where('size', 'LIKE', '%cm%')
+                          ->whereRaw('CAST(SUBSTRING_INDEX(size, " ", 1) AS UNSIGNED) BETWEEN 60 AND 120');
+                    })->orWhere(function($q) {
+                        $q->where('size', 'LIKE', '%in%')
+                          ->whereRaw('CAST(SUBSTRING_INDEX(size, " ", 1) AS UNSIGNED) BETWEEN 24 AND 48');
+                    });
+                    break;
+                case 'large':
+                    // Large: above 120cm (48 inches)
+                    $query->where(function($q) {
+                        $q->where('size', 'LIKE', '%cm%')
+                          ->whereRaw('CAST(SUBSTRING_INDEX(size, " ", 1) AS UNSIGNED) > 120');
+                    })->orWhere(function($q) {
+                        $q->where('size', 'LIKE', '%in%')
+                          ->whereRaw('CAST(SUBSTRING_INDEX(size, " ", 1) AS UNSIGNED) > 48');
+                    });
+                    break;
+            }
+        }
+        
         // Apply sorting
         switch ($sortBy) {
             case 'price-low':
@@ -79,17 +117,27 @@ class CatalogController extends Controller
             case 'price-high':
                 $query->orderBy('price', 'desc');
                 break;
-            case 'title-az':
-                $query->orderBy('title', 'asc');
+            case 'most-viewed':
+                // For now, use a mix of recent + random to simulate popularity
+                // Later you can add a views column
+                $query->inRandomOrder();
                 break;
-            case 'artist-az':
-                $query->join('artists', 'artworks.artist_id', '=', 'artists.id')
-                     ->orderBy('artists.name', 'asc')
-                     ->select('artworks.*');
+            case 'best-for-ar':
+                // Prioritize artworks with good AR compatibility
+                // For now, favor medium-sized pieces
+                $query->orderByRaw("CASE 
+                    WHEN size LIKE '%60%' OR size LIKE '%70%' OR size LIKE '%80%' THEN 1
+                    WHEN size LIKE '%90%' OR size LIKE '%100%' THEN 2
+                    ELSE 3
+                END");
                 break;
             case 'newest':
-            default:
                 $query->latest();
+                break;
+            case 'recommended':
+            default:
+                // Recommended: Mix of recent, popular price range, and variety
+                $query->orderByRaw('RAND()');
                 break;
         }
         
@@ -158,6 +206,7 @@ class CatalogController extends Controller
                 'artist' => $artistFilter ?? 'all',
                 'medium' => $mediumFilter ?? 'all',
                 'price' => $priceFilter ?? 'all',
+                'size' => $sizeFilter ?? 'all',
                 'sort' => $sortBy,
                 'search' => $searchQuery ?? '',
             ],

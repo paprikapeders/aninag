@@ -15,7 +15,8 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
   const artistFilter = filters.artist || 'all';
   const mediumFilter = filters.medium || 'all';
   const priceFilter = filters.price || 'all';
-  const sortBy = filters.sort || 'newest';
+  const sizeFilter = filters.size || 'all';
+  const sortBy = filters.sort || 'recommended';
   const searchQuery = filters.search || '';
   const [searchInput, setSearchInput] = useState(searchQuery);
   
@@ -25,28 +26,26 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
     // Preserve search
     if (searchQuery) params.set('search', searchQuery);
     
-    if (filterType === 'artist') {
-      if (value !== 'all') params.set('artist', value);
-      if (mediumFilter !== 'all') params.set('medium', mediumFilter);
-      if (priceFilter !== 'all') params.set('price', priceFilter);
-    } else if (filterType === 'medium') {
-      if (artistFilter !== 'all') params.set('artist', artistFilter);
-      if (value !== 'all') params.set('medium', value);
-      if (priceFilter !== 'all') params.set('price', priceFilter);
-    } else if (filterType === 'price') {
-      if (artistFilter !== 'all') params.set('artist', artistFilter);
-      if (mediumFilter !== 'all') params.set('medium', mediumFilter);
-      if (value !== 'all') params.set('price', value);
-    } else if (filterType === 'sort') {
-      if (artistFilter !== 'all') params.set('artist', artistFilter);
-      if (mediumFilter !== 'all') params.set('medium', mediumFilter);
-      if (priceFilter !== 'all') params.set('price', priceFilter);
-      params.set('sort', value);
-    }
+    // Build params based on which filter changed
+    const filters = {
+      artist: artistFilter,
+      medium: mediumFilter,
+      price: priceFilter,
+      size: sizeFilter,
+      sort: sortBy
+    };
     
-    if (filterType !== 'sort') {
-      params.set('sort', sortBy);
-    }
+    // Update the changed filter
+    filters[filterType] = value;
+    
+    // Add all non-'all' filters to params
+    Object.entries(filters).forEach(([key, val]) => {
+      if (key === 'sort') {
+        params.set('sort', val);
+      } else if (val !== 'all') {
+        params.set(key, val);
+      }
+    });
     
     window.location.href = `/catalog?${params.toString()}`;
   };
@@ -59,7 +58,8 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
     if (artistFilter !== 'all') params.set('artist', artistFilter);
     if (mediumFilter !== 'all') params.set('medium', mediumFilter);
     if (priceFilter !== 'all') params.set('price', priceFilter);
-    if (sortBy !== 'newest') params.set('sort', sortBy);
+    if (sizeFilter !== 'all') params.set('size', sizeFilter);
+    if (sortBy !== 'recommended') params.set('sort', sortBy);
     
     window.location.href = `/catalog?${params.toString()}`;
   };
@@ -76,7 +76,8 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
     if (artistFilter !== 'all') params.set('artist', artistFilter);
     if (mediumFilter !== 'all') params.set('medium', mediumFilter);
     if (priceFilter !== 'all') params.set('price', priceFilter);
-    if (sortBy !== 'newest') params.set('sort', sortBy);
+    if (sizeFilter !== 'all') params.set('size', sizeFilter);
+    if (sortBy !== 'recommended') params.set('sort', sortBy);
     return params.toString();
   };
 
@@ -137,7 +138,61 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
 
         {/* Filters and Sort */}
         <div className="mb-6 sm:mb-8 space-y-4">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 p-4 sm:p-6 bg-white/80 backdrop-blur-sm rounded-xl shadow-md border border-border relative z-10">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3 sm:gap-4 p-4 sm:p-6 bg-white/80 backdrop-blur-sm rounded-xl shadow-md border border-border relative z-10">
+            
+            {/* Price Range - FIRST (Buyer Priority) */}
+            <div className="space-y-2">
+              <label className="text-xs sm:text-sm font-medium">Price Range</label>
+              <Select value={priceFilter} onValueChange={(value) => handleFilterChange('price', value)}>
+                <SelectTrigger className="bg-background">
+                  <SelectValue placeholder="All Prices" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="all">All Prices</SelectItem>
+                  {priceRanges.map((range) => (
+                    <SelectItem key={range.label} value={range.label}>
+                      {range.label}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
+            
+            {/* Size - SECOND (AR compatibility) */}
+            <div className="space-y-2">
+              <label className="text-xs sm:text-sm font-medium">Size</label>
+              <Select value={sizeFilter} onValueChange={(value) => handleFilterChange('size', value)}>
+                <SelectTrigger className="bg-background">
+                  <SelectValue placeholder="All Sizes" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="all">All Sizes</SelectItem>
+                  <SelectItem value="small">Small (&lt; 60cm)</SelectItem>
+                  <SelectItem value="medium">Medium (60-120cm)</SelectItem>
+                  <SelectItem value="large">Large (&gt; 120cm)</SelectItem>
+                </SelectContent>
+              </Select>
+            </div>
+
+            {/* Medium - THIRD */}
+            <div className="space-y-2">
+              <label className="text-xs sm:text-sm font-medium">Medium</label>
+              <Select value={mediumFilter} onValueChange={(value) => handleFilterChange('medium', value)}>
+                <SelectTrigger className="bg-background">
+                  <SelectValue placeholder="All Mediums" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="all">All Mediums</SelectItem>
+                  {mediums.map((medium) => (
+                    <SelectItem key={medium} value={medium}>
+                      {medium}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
+            
+            {/* Artist - FOURTH */}
             <div className="space-y-2">
               <label className="text-xs sm:text-sm font-medium">Artist</label>
               <Select value={artistFilter} onValueChange={(value) => handleFilterChange('artist', value)}>
@@ -155,49 +210,16 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
               </Select>
             </div>
 
-            <div className="space-y-2">
-              <label className="text-xs sm:text-sm font-medium">Medium</label>
-              <Select value={mediumFilter} onValueChange={(value) => handleFilterChange('medium', value)}>
-                <SelectTrigger className="bg-background">
-                  <SelectValue placeholder="All Mediums" />
-                </SelectTrigger>
-                <SelectContent>
-                  <SelectItem value="all">All Mediums</SelectItem>
-                  {mediums.map((medium) => (
-                    <SelectItem key={medium} value={medium}>
-                      {medium}
-                    </SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
+            {/* Clear Filters Button */}
+            <div className="flex items-end">
+              <button
+                onClick={handleClearFilters}
+                className="w-full px-4 py-2 text-sm border border-border rounded-lg hover:bg-muted transition-colors"
+              >
+                Clear Filters
+              </button>
             </div>
-
-          <div className="space-y-2">
-              <label className="text-xs sm:text-sm font-medium">Price Range</label>
-            <Select value={priceFilter} onValueChange={(value) => handleFilterChange('price', value)}>
-              <SelectTrigger className="bg-background">
-                <SelectValue placeholder="All Prices" />
-              </SelectTrigger>
-              <SelectContent>
-                <SelectItem value="all">All Prices</SelectItem>
-                {priceRanges.map((range) => (
-                  <SelectItem key={range.label} value={range.label}>
-                    {range.label}
-                  </SelectItem>
-                ))}
-              </SelectContent>
-            </Select>
           </div>
-
-          <div className="flex items-end">
-            <button
-              onClick={handleClearFilters}
-              className="w-full px-4 py-2 text-sm border border-border rounded-lg hover:bg-muted transition-colors"
-            >
-              Clear Filters
-            </button>
-          </div>
-        </div>
 
         {/* Sort Bar */}
         <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 sm:gap-0">
@@ -207,15 +229,16 @@ export default function Catalog({ artworks = [], artists = [], mediums = [], pri
           <div className="flex items-center gap-2 sm:gap-3 w-full sm:w-auto">
             <label className="text-xs sm:text-sm text-muted-foreground whitespace-nowrap">Sort by:</label>
             <Select value={sortBy} onValueChange={(value) => handleFilterChange('sort', value)}>
-              <SelectTrigger className="bg-background w-full sm:w-[180px]">
+              <SelectTrigger className="bg-background w-full sm:w-[200px]">
                 <SelectValue />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="newest">Newest First</SelectItem>
+                <SelectItem value="recommended">Recommended</SelectItem>
                 <SelectItem value="price-low">Price: Low to High</SelectItem>
                 <SelectItem value="price-high">Price: High to Low</SelectItem>
-                <SelectItem value="title-az">Title: A-Z</SelectItem>
-                <SelectItem value="artist-az">Artist: A-Z</SelectItem>
+                <SelectItem value="most-viewed">Most Popular</SelectItem>
+                <SelectItem value="best-for-ar">Best for AR Preview</SelectItem>
+                <SelectItem value="newest">Newest First</SelectItem>
               </SelectContent>
             </Select>
           </div>

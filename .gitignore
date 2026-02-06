@@ -29,7 +29,6 @@ Thumbs.db
 /storage/*.key
 /.idea
 /.vscode
-/docker/nginx/*.conf
 /documentation
 NGROK_SETUP.md
 VISUAL_ENHANCEMENTS.md

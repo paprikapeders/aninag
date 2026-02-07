@@ -58,7 +58,7 @@ class ArtistController extends Controller
                     return [
                         'id' => $artwork->id,
                         'slug' => $artwork->slug,
-                        'title' => $artwork->title,
+                        'title' => $artwork->display_title,
                         'medium' => $artwork->medium,
                         'size' => $artwork->size,
                         'year' => $artwork->year,

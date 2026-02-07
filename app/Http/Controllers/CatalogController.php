@@ -148,7 +148,7 @@ class CatalogController extends Controller
                 return [
                     'id' => $artwork->id,
                     'slug' => $artwork->slug,
-                    'title' => $artwork->title,
+                    'title' => $artwork->display_title,
                     'artist_name' => $artwork->artist->name,
                     'medium' => $artwork->medium,
                     'size' => $artwork->size,
@@ -260,7 +260,7 @@ class CatalogController extends Controller
                 'id' => $artwork->id,
                 'slug' => $artwork->slug,
                 'artwork_code' => $artwork->artwork_code,
-                'title' => $artwork->title,
+                'title' => $artwork->display_title,
                 'artist_id' => $artwork->artist->id,
                 'artist_name' => $artwork->artist->name,
                 'artist_slug' => $artwork->artist->slug,

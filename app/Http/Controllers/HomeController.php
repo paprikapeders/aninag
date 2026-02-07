@@ -28,7 +28,6 @@ class HomeController extends Controller
                 ->where('primary_image_url', 'not like', '%placeholder%')
                 ->where('primary_image_url', 'not like', '%no-image%')
                 ->where('primary_image_url', 'not like', '%default%')
-                ->where('title', '!=', 'Untitled')
                 ->whereNotNull('title')
                 ->whereNotNull('price')
                 ->where('price', '>', 0)
@@ -44,7 +43,7 @@ class HomeController extends Controller
                     return [
                         'id' => $artwork->id,
                         'slug' => $artwork->slug,
-                        'title' => $artwork->title,
+                        'title' => $artwork->display_title,
                         'artist_name' => $artwork->artist->name,
                         'medium' => $artwork->medium,
                         'year' => $artwork->year,

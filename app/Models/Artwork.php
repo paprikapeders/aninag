@@ -181,4 +181,34 @@ class Artwork extends Model
     {
         return proxy_image_url($value);
     }
+
+    /**
+     * Get display title with sequential numbering for untitled works
+     */
+    public function getDisplayTitleAttribute(): string
+    {
+        // If title is not "Untitled", return as is
+        if (strcasecmp($this->title, 'Untitled') !== 0) {
+            return $this->title;
+        }
+
+        // For untitled works, generate sequential number per artist
+        $artistName = $this->artist->name ?? 'Unknown Artist';
+        
+        // Get all untitled artworks by this artist, ordered by ID
+        $untitledWorks = static::where('artist_id', $this->artist_id)
+            ->where(function($query) {
+                $query->where('title', 'Untitled')
+                      ->orWhere('title', 'LIKE', 'Untitled');
+            })
+            ->orderBy('id')
+            ->pluck('id')
+            ->toArray();
+        
+        // Find position of current artwork (1-indexed)
+        $position = array_search($this->id, $untitledWorks);
+        $number = $position !== false ? $position + 1 : 1;
+        
+        return sprintf('%s #%03d', $artistName, $number);
+    }
 }

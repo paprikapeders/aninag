@@ -25,6 +25,9 @@ class HomeController extends Controller
                 ->publiclyAvailable()
                 ->whereNotNull('primary_image_url')
                 ->where('primary_image_url', '!=', '')
+                ->where('primary_image_url', 'not like', '%placeholder%')
+                ->where('primary_image_url', 'not like', '%no-image%')
+                ->where('primary_image_url', 'not like', '%default%')
                 ->where('title', '!=', 'Untitled')
                 ->whereNotNull('title')
                 ->whereNotNull('price')
@@ -32,6 +35,11 @@ class HomeController extends Controller
                 ->latest()
                 ->limit(10)
                 ->get()
+                ->filter(function ($artwork) {
+                    // Additional filter to ensure image URL is valid and not just whitespace
+                    $imageUrl = trim($artwork->getRawOriginal('primary_image_url'));
+                    return !empty($imageUrl) && strlen($imageUrl) > 10;
+                })
                 ->map(function ($artwork) {
                     return [
                         'id' => $artwork->id,
@@ -43,7 +51,8 @@ class HomeController extends Controller
                         'primary_image_url' => $artwork->primary_image_url,
                         'status' => $artwork->status,
                     ];
-                });
+                })
+                ->values();
         });
 
         return Inertia::render('Home', [
